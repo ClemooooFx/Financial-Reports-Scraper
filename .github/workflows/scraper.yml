@@ -21,6 +21,17 @@ jobs:
       with:
         python-version: '3.11'
         
+    - name: Install Tor
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y tor
+        
+    - name: Start Tor service
+      run: |
+        sudo systemctl start tor
+        sudo systemctl status tor
+        sleep 5
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -33,6 +44,7 @@ jobs:
       run: |
         python scraper.py
       continue-on-error: true
+      timeout-minutes: 120
       
     - name: Check for changes
       id: check_changes
