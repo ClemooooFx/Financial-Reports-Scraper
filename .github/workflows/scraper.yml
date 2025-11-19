@@ -23,19 +23,22 @@ jobs:
         
     - name: Install Tor
       run: |
-        sudo apt-get update
+        sudo apt-get update -qq
         sudo apt-get install -y tor
-        
-    - name: Start Tor service
-      run: |
-        sudo systemctl start tor
-        sudo systemctl status tor
+        sudo service tor start
         sleep 5
-        
+        echo "✓ Tor service started"
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        pip install urllib3[socks]
+    
+    - name: Verify Tor connection
+      run: |
+        TOR_IP=$(curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip | grep -o '"IP":"[^"]*"' | cut -d'"' -f4)
+        echo "✓ Connected through Tor exit node: $TOR_IP"
         
     - name: Create reports directory
       run: mkdir -p reports
