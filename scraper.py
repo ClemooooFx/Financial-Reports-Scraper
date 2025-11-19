@@ -15,7 +15,7 @@ class NSEReportsScraper:
         self.africanfinancials_base = "https://africanfinancials.com/company/ke-"
         self.base_dir = base_dir
         self.use_tor = use_tor
-        self.timeout = 120
+        self.timeout = 60  # Increased timeout for Tor
         
         # Setup session with Tor if enabled
         self.session = requests.Session()
@@ -41,6 +41,7 @@ class NSEReportsScraper:
     def test_connection(self):
         """Test if Tor connection is working"""
         if not self.use_tor:
+            print("ℹ️  Using direct connection (no Tor)", flush=True)
             return True
             
         print("🔍 Testing Tor connection...", flush=True)
@@ -51,10 +52,11 @@ class NSEReportsScraper:
                 print(f"✓ Connected via Tor (IP: {data.get('IP')})", flush=True)
                 return True
             else:
-                print(f"✗ Not connected via Tor (IP: {data.get('IP')})", flush=True)
+                print(f"✗ Not using Tor (IP: {data.get('IP')})", flush=True)
                 return False
         except Exception as e:
             print(f"✗ Tor connection test failed: {e}", flush=True)
+            print("   Trying to continue anyway...", flush=True)
             return False
         
     def get_tickers(self):
@@ -72,22 +74,44 @@ class NSEReportsScraper:
             
             tickers = []
             table = soup.find('table')
-            if table:
-                tbody = table.find('tbody')
-                if tbody:
-                    rows = tbody.find_all('tr')
-                    print(f"✓ Found {len(rows)} rows in table", flush=True)
+            
+            if not table:
+                print("✗ No table found on page", flush=True)
+                return []
+            
+            # Try to find tbody first
+            tbody = table.find('tbody')
+            if tbody:
+                rows = tbody.find_all('tr')
+            else:
+                # If no tbody, get all tr elements directly from table
+                rows = table.find_all('tr')
+            
+            print(f"✓ Found {len(rows)} rows in table", flush=True)
+            
+            # Skip header row if it exists
+            for row in rows:
+                # Check if this is a header row
+                if row.find('th'):
+                    continue
                     
-                    for row in rows:
-                        first_td = row.find('td')
-                        if first_td:
-                            link = first_td.find('a')
-                            if link:
-                                ticker = link.text.strip()
-                                tickers.append(ticker)
+                tds = row.find_all('td')
+                if not tds:
+                    continue
+                
+                # First td should contain the ticker link
+                first_td = tds[0]
+                link = first_td.find('a')
+                
+                if link:
+                    ticker = link.text.strip()
+                    if ticker:  # Make sure ticker is not empty
+                        tickers.append(ticker)
+                        print(f"  Found: {ticker}", flush=True)
             
             print(f"\n✓ Successfully extracted {len(tickers)} tickers", flush=True)
-            print(f"Tickers: {', '.join(tickers[:10])}{'...' if len(tickers) > 10 else ''}\n", flush=True)
+            if tickers:
+                print(f"Sample tickers: {', '.join(tickers[:10])}{'...' if len(tickers) > 10 else ''}\n", flush=True)
             return tickers
             
         except requests.Timeout:
@@ -306,10 +330,8 @@ class NSEReportsScraper:
         print("🚀 " * 35, flush=True)
         
         # Test connection if using Tor
-        if self.use_tor and not self.test_connection():
-            print("\n⚠️  WARNING: Tor connection failed, falling back to direct connection", flush=True)
-            self.use_tor = False
-            self.session.proxies = {}
+        if self.use_tor:
+            self.test_connection()
         
         # Get tickers
         tickers = specific_tickers if specific_tickers else self.get_tickers()
