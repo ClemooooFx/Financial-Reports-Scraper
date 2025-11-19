@@ -21,10 +21,18 @@ class NSEReportsScraper:
         self.session = requests.Session()
         if use_tor:
             print("🔐 Configuring Tor proxy...", flush=True)
-            self.session.proxies = {
-                'http': 'socks5h://127.0.0.1:9050',
-                'https': 'socks5h://127.0.0.1:9050'
-            }
+            try:
+                # Use PySocks for SOCKS5 proxy support
+                self.session.proxies = {
+                    'http': 'socks5h://127.0.0.1:9050',
+                    'https': 'socks5h://127.0.0.1:9050'
+                }
+                # Test if PySocks is available
+                import socks
+                print("✓ PySocks library loaded", flush=True)
+            except ImportError:
+                print("⚠️  PySocks not available, trying urllib3 approach", flush=True)
+                self.use_tor = False
         
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
