@@ -15,7 +15,7 @@ class NSEReportsScraper:
         self.africanfinancials_base = "https://africanfinancials.com/company/ke-"
         self.base_dir = base_dir
         self.use_tor = use_tor
-        self.timeout = 30
+        self.timeout = 120
         
         # Setup session with Tor if enabled
         self.session = requests.Session()
