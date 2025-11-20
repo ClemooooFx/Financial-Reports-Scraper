@@ -35,7 +35,7 @@ class NSEReportsScraper:
         print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
     
     def get_tickers(self):
-        """Fetch all tickers from NSE listing page"""
+        """Fetch all tickers from NSE listing page - FIX applied to target the correct table."""
         print(f"\n{'='*70}")
         print("STEP 1: Fetching NSE tickers")
         print(f"{'='*70}")
@@ -46,27 +46,46 @@ class NSEReportsScraper:
             print(f"✓ Response: {response.status_code}", flush=True)
             
             soup = BeautifulSoup(response.content, 'lxml')
-            table = soup.find('table')
+            
+            # --- FIX: Target the correct table containing the stock list ---
+            # The list is in the table wrapped by the div with class 't'
+            ticker_list_div = soup.find('div', class_='t')
+            
+            if not ticker_list_div:
+                print("✗ Div with class='t' (containing ticker list) not found.", flush=True)
+                return []
+                
+            # Get the table inside the div
+            table = ticker_list_div.find('table')
             
             if not table:
-                print("✗ Table not found", flush=True)
+                print("✗ Ticker list table not found inside div.t", flush=True)
                 return []
             
+            print("✓ Found the 'Listed companies/securities' table.", flush=True)
+            # ------------------------------------------------------------
+
             tickers = []
             
-            # Get all rows - try both direct from table and from tbody
+            # Get all rows - target tbody first, or direct from table if tbody is missing
             tbody = table.find('tbody')
             if tbody:
                 rows = tbody.find_all('tr')
                 print(f"✓ Found tbody with {len(rows)} rows", flush=True)
             else:
+                # If no explicit tbody, get all tr elements from the table (skips the header in the next step)
                 rows = table.find_all('tr')
-                print(f"✓ Table has {len(rows)} rows (no tbody)", flush=True)
+                print(f"✓ Table has {len(rows)} rows (no explicit tbody)", flush=True)
             
             # Debug: print first row structure
             if rows:
-                print(f"  Debug - First row HTML: {str(rows[0])[:200]}...", flush=True)
-            
+                # Filter out header rows (tr containing th)
+                data_rows = [row for row in rows if not row.find('th')]
+                if data_rows:
+                    print(f"  Debug - First data row HTML: {str(data_rows[0])[:200]}...", flush=True)
+                else:
+                    print("  Debug - No data rows found.", flush=True)
+
             for idx, row in enumerate(rows):
                 # Skip header rows
                 if row.find('th'):
@@ -74,18 +93,19 @@ class NSEReportsScraper:
                     continue
                 
                 cells = row.find_all('td')
-                print(f"  Row {idx}: {len(cells)} cells", flush=True)
                 
+                # The ticker is in the first cell, inside an <a> tag
                 if len(cells) > 0:
-                    # First cell contains ticker
                     link = cells[0].find('a')
                     if link:
                         ticker = link.text.strip()
-                        print(f"    Found ticker: '{ticker}'", flush=True)
-                        if ticker and len(ticker) < 10:  # Sanity check
+                        if ticker and len(ticker) > 1 and len(ticker) < 10:  # Sanity check
+                            print(f"    Found ticker: '{ticker}'", flush=True)
                             tickers.append(ticker)
                     else:
+                        # This debug line now correctly points to the expected ticker location
                         print(f"    No <a> tag in first cell: {cells[0]}", flush=True)
+
             
             print(f"✓ Found {len(tickers)} tickers")
             if tickers:
@@ -97,6 +117,7 @@ class NSEReportsScraper:
             print(f"✗ Error: {e}")
             return []
     
+    # The rest of the NSEReportsScraper class methods remain unchanged
     def get_tab_id(self, ticker):
         """Get Documents & Reports tab ID for a company"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/"
@@ -119,7 +140,7 @@ class NSEReportsScraper:
             return None
             
         except Exception as e:
-            print(f"    ✗ Tab ID error: {e}")
+            print(f"  ✗ Tab ID error: {e}")
             return None
     
     def get_documents(self, ticker, tab_id):
@@ -167,7 +188,7 @@ class NSEReportsScraper:
             return documents
             
         except Exception as e:
-            print(f"    ✗ Documents error: {e}")
+            print(f"  ✗ Documents error: {e}")
             return []
     
     def get_pdf_url(self, doc_url):
