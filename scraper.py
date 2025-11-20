@@ -25,13 +25,15 @@ class NSEReportsScraper:
             'http': 'socks5h://127.0.0.1:9050',
             'https': 'socks5h://127.0.0.1:9050'
         }
-        # === FIX: Updated headers to bypass 403 Forbidden error ===
+        # === FIX: Updated Referer header as requested to bypass 403 Forbidden error ===
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5'
+            'Accept-Language': 'en-US,en;q=0.5',
+            # Key fix: Pretend the request is coming from the African Financials main Kenya page
+            'Referer': 'https://africanfinancials.com/kenya/' 
         })
-        # ==========================================================
+        # =================================================================================
         
         # Create base directory
         Path(base_dir).mkdir(parents=True, exist_ok=True)
@@ -71,10 +73,8 @@ class NSEReportsScraper:
             tbody = table.find('tbody')
             if tbody:
                 rows = tbody.find_all('tr')
-                # print(f"✓ Found tbody with {len(rows)} rows", flush=True) # Reduced debug
             else:
                 rows = table.find_all('tr')
-                # print(f"✓ Table has {len(rows)} rows (no explicit tbody)", flush=True) # Reduced debug
             
             if rows:
                 data_rows = [row for row in rows if not row.find('th')]
@@ -118,7 +118,7 @@ class NSEReportsScraper:
             
             soup = BeautifulSoup(response.content, 'lxml')
             
-            # FIX from previous step: search for ANY <a> tag containing the required text.
+            # FIX: search for ANY <a> tag containing the required text.
             for link in soup.find_all('a'):
                 if 'Documents & Reports' in link.get_text(strip=True):
                     href = link.get('href', '')
@@ -139,10 +139,9 @@ class NSEReportsScraper:
             response = self.session.get(url, timeout=60)
             soup = BeautifulSoup(response.content, 'lxml')
             
-            # FIX from previous step: Find the reports table based on its headers.
+            # FIX: Find the reports table based on its headers.
             tab_content_div = soup.find('div', id=tab_id)
             if not tab_content_div:
-                # This should not happen if get_tab_id worked, but is a good fallback
                 print(f"  ✗ Documents tab content div #{tab_id} not found.")
                 return []
             
