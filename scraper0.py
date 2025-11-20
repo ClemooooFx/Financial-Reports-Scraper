@@ -1,271 +1,228 @@
+#!/usr/bin/env python3
+"""
+NSE Financial Reports Scraper
+Downloads financial reports from African Financials for NSE-listed companies
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import os
 import time
 import re
 from pathlib import Path
-from urllib.parse import urljoin
 import json
-import sys
-import subprocess
+from datetime import datetime
 
 class NSEReportsScraper:
-    def __init__(self, base_dir="reports", use_tor=True):
+    def __init__(self, base_dir="reports"):
         self.nse_url = "https://afx.kwayisi.org/nse/"
         self.africanfinancials_base = "https://africanfinancials.com/company/ke-"
         self.base_dir = base_dir
-        self.use_tor = use_tor
-        self.timeout = 60  # Increased timeout for Tor
         
-        # Setup session with Tor if enabled
+        # Configure session with Tor proxy
         self.session = requests.Session()
-        if use_tor:
-            print("🔐 Configuring Tor proxy...", flush=True)
-            try:
-                # Use PySocks for SOCKS5 proxy support
-                self.session.proxies = {
-                    'http': 'socks5h://127.0.0.1:9050',
-                    'https': 'socks5h://127.0.0.1:9050'
-                }
-                # Test if PySocks is available
-                import socks
-                print("✓ PySocks library loaded", flush=True)
-            except ImportError:
-                print("⚠️  PySocks not available, trying urllib3 approach", flush=True)
-                self.use_tor = False
-        
+        self.session.proxies = {
+            'http': 'socks5h://127.0.0.1:9050',
+            'https': 'socks5h://127.0.0.1:9050'
+        }
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
         
-    def test_connection(self):
-        """Test if Tor connection is working"""
-        if not self.use_tor:
-            print("ℹ️  Using direct connection (no Tor)", flush=True)
-            return True
-            
-        print("🔍 Testing Tor connection...", flush=True)
-        try:
-            response = self.session.get('https://check.torproject.org/api/ip', timeout=10)
-            data = response.json()
-            if data.get('IsTor'):
-                print(f"✓ Connected via Tor (IP: {data.get('IP')})", flush=True)
-                return True
-            else:
-                print(f"✗ Not using Tor (IP: {data.get('IP')})", flush=True)
-                return False
-        except Exception as e:
-            print(f"✗ Tor connection test failed: {e}", flush=True)
-            print("   Trying to continue anyway...", flush=True)
-            return False
+        # Create base directory
+        Path(base_dir).mkdir(parents=True, exist_ok=True)
         
+        print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
+    
     def get_tickers(self):
-        """Scrape all tickers from NSE page"""
-        print("\n" + "=" * 70, flush=True)
-        print("STEP 1: Fetching tickers from NSE...", flush=True)
+        """Fetch all tickers from NSE listing page"""
+        print(f"\n{'='*70}")
+        print("STEP 1: Fetching NSE tickers")
+        print(f"{'='*70}")
         print(f"URL: {self.nse_url}", flush=True)
-        print("=" * 70, flush=True)
         
         try:
-            response = self.session.get(self.nse_url, timeout=self.timeout)
-            print(f"✓ Response received: {response.status_code}", flush=True)
+            response = self.session.get(self.nse_url, timeout=60)
+            print(f"✓ Response: {response.status_code}", flush=True)
             
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            tickers = []
+            soup = BeautifulSoup(response.content, 'lxml')
             table = soup.find('table')
             
             if not table:
-                print("✗ No table found on page", flush=True)
+                print("✗ Table not found", flush=True)
                 return []
             
-            # Try to find tbody first
+            tickers = []
+            
+            # Get all rows - try both direct from table and from tbody
             tbody = table.find('tbody')
             if tbody:
                 rows = tbody.find_all('tr')
+                print(f"✓ Found tbody with {len(rows)} rows", flush=True)
             else:
-                # If no tbody, get all tr elements directly from table
                 rows = table.find_all('tr')
+                print(f"✓ Table has {len(rows)} rows (no tbody)", flush=True)
             
-            print(f"✓ Found {len(rows)} rows in table", flush=True)
+            # Debug: print first row structure
+            if rows:
+                print(f"  Debug - First row HTML: {str(rows[0])[:200]}...", flush=True)
             
-            # Skip header row if it exists
-            for row in rows:
-                # Check if this is a header row
+            for idx, row in enumerate(rows):
+                # Skip header rows
                 if row.find('th'):
-                    continue
-                    
-                tds = row.find_all('td')
-                if not tds:
+                    print(f"  Row {idx}: Header row, skipping", flush=True)
                     continue
                 
-                # First td should contain the ticker link
-                first_td = tds[0]
-                link = first_td.find('a')
+                cells = row.find_all('td')
+                print(f"  Row {idx}: {len(cells)} cells", flush=True)
                 
-                if link:
-                    ticker = link.text.strip()
-                    if ticker:  # Make sure ticker is not empty
-                        tickers.append(ticker)
-                        print(f"  Found: {ticker}", flush=True)
+                if len(cells) > 0:
+                    # First cell contains ticker
+                    link = cells[0].find('a')
+                    if link:
+                        ticker = link.text.strip()
+                        print(f"    Found ticker: '{ticker}'", flush=True)
+                        if ticker and len(ticker) < 10:  # Sanity check
+                            tickers.append(ticker)
+                    else:
+                        print(f"    No <a> tag in first cell: {cells[0]}", flush=True)
             
-            print(f"\n✓ Successfully extracted {len(tickers)} tickers", flush=True)
+            print(f"✓ Found {len(tickers)} tickers")
             if tickers:
-                print(f"Sample tickers: {', '.join(tickers[:10])}{'...' if len(tickers) > 10 else ''}\n", flush=True)
+                print(f"  First 5: {', '.join(tickers[:5])}")
+            
             return tickers
             
-        except requests.Timeout:
-            print(f"✗ TIMEOUT: Could not reach {self.nse_url} within {self.timeout}s", flush=True)
-            return []
         except Exception as e:
-            print(f"✗ ERROR: {e}", flush=True)
-            import traceback
-            traceback.print_exc()
+            print(f"✗ Error: {e}")
             return []
     
-    def get_documents_tab_id(self, ticker):
-        """Get the unique tab ID for Documents & Reports section"""
+    def get_tab_id(self, ticker):
+        """Get Documents & Reports tab ID for a company"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/"
-        print(f"  → Fetching tab ID...", flush=True)
         
         try:
-            response = self.session.get(url, timeout=self.timeout)
-            print(f"    Status: {response.status_code}", flush=True)
+            response = self.session.get(url, timeout=60)
             
-            soup = BeautifulSoup(response.content, 'html.parser')
+            if response.status_code != 200:
+                return None
             
-            # Find the Documents & Reports tab
-            tabs = soup.find_all('a', class_='tab-link')
-            for tab in tabs:
-                if 'Documents & Reports' in tab.get_text():
-                    href = tab.get('href', '')
-                    if href.startswith('#tab-'):
-                        tab_id = href[1:]  # Remove the '#'
-                        print(f"    ✓ Tab ID: {tab_id}", flush=True)
-                        return tab_id
+            soup = BeautifulSoup(response.content, 'lxml')
             
-            print(f"    ✗ No Documents & Reports tab found", flush=True)
+            # Find Documents & Reports tab
+            for link in soup.find_all('a', class_='tab-link'):
+                if 'Documents & Reports' in link.get_text():
+                    href = link.get('href', '')
+                    if '#tab-' in href:
+                        return href.split('#')[1]
+            
             return None
             
-        except requests.Timeout:
-            print(f"    ✗ TIMEOUT after {self.timeout}s", flush=True)
-            return None
         except Exception as e:
-            print(f"    ✗ ERROR: {e}", flush=True)
+            print(f"    ✗ Tab ID error: {e}")
             return None
     
-    def get_document_links(self, ticker, tab_id):
-        """Get all document links from the Documents & Reports tab"""
+    def get_documents(self, ticker, tab_id):
+        """Get list of documents for a ticker"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/#{tab_id}"
-        print(f"  → Fetching documents list", flush=True)
         
         try:
-            response = self.session.get(url, timeout=self.timeout)
-            soup = BeautifulSoup(response.content, 'html.parser')
+            response = self.session.get(url, timeout=60)
+            soup = BeautifulSoup(response.content, 'lxml')
+            
+            table = soup.find('table', id='af21_prices')
+            if not table:
+                return []
             
             documents = []
-            table = soup.find('table', id='af21_prices')
+            rows = table.find_all('tr')
             
-            if not table:
-                print(f"    ✗ No documents table found", flush=True)
-                return documents
-            
-            tbody = table.find('tbody')
-            if tbody:
-                rows = tbody.find_all('tr')
-                print(f"    ✓ Found {len(rows)} documents", flush=True)
-                
-                for row in rows:
-                    tds = row.find_all('td')
-                    if len(tds) >= 4:
-                        # Get the first link in the row
-                        link_tag = tds[0].find('a')
-                        if link_tag:
-                            doc_url = link_tag.get('href')
-                            doc_type = link_tag.get_text(strip=True).replace('\n', ' ')
+            for row in rows:
+                cells = row.find_all('td')
+                if len(cells) >= 4:
+                    link = cells[0].find('a')
+                    if link:
+                        doc_url = link.get('href')
+                        doc_type = link.get_text(strip=True)
+                        year = cells[1].get_text(strip=True)
+                        period = cells[2].get_text(strip=True)
+                        date = cells[3].get_text(strip=True)
+                        
+                        # Extract filename
+                        match = re.search(r'/document/(ke-[^/]+)/', doc_url)
+                        if match:
+                            full_name = match.group(1)
+                            # Remove ke-ticker- prefix
+                            filename = re.sub(f'^ke-{ticker.lower()}-', '', full_name)
                             
-                            year = tds[1].get_text(strip=True)
-                            period = tds[2].get_text(strip=True)
-                            date = tds[3].get_text(strip=True)
-                            
-                            # Extract filename from URL
-                            match = re.search(r'/document/(ke-[^/]+)/', doc_url)
-                            if match:
-                                filename = match.group(1)
-                                filename = filename.replace(f'ke-{ticker.lower()}-', '')
-                                
-                                documents.append({
-                                    'url': doc_url,
-                                    'type': doc_type,
-                                    'year': year,
-                                    'period': period,
-                                    'date': date,
-                                    'filename': filename
-                                })
+                            documents.append({
+                                'url': doc_url,
+                                'type': doc_type,
+                                'year': year,
+                                'period': period,
+                                'date': date,
+                                'filename': filename
+                            })
             
             return documents
             
         except Exception as e:
-            print(f"    ✗ ERROR: {e}", flush=True)
+            print(f"    ✗ Documents error: {e}")
             return []
     
-    def extract_pdf_url(self, doc_url):
+    def get_pdf_url(self, doc_url):
         """Extract Google Drive PDF URL from document page"""
         try:
-            response = self.session.get(doc_url, timeout=self.timeout)
-            soup = BeautifulSoup(response.content, 'html.parser')
+            response = self.session.get(doc_url, timeout=60)
+            soup = BeautifulSoup(response.content, 'lxml')
             
-            # Find iframe with Google Drive link
-            iframe = soup.find('iframe', {'src': re.compile(r'drive\.google\.com')})
+            # Find Google Drive iframe
+            iframe = soup.find('iframe', src=re.compile(r'drive\.google\.com'))
             if iframe:
-                drive_url = iframe.get('src')
-                # Convert to download URL
-                match = re.search(r'/d/([^/]+)/', drive_url)
+                src = iframe.get('src')
+                # Extract file ID
+                match = re.search(r'/d/([^/]+)/', src)
                 if match:
                     file_id = match.group(1)
-                    download_url = f"https://drive.google.com/uc?export=download&id={file_id}"
-                    return download_url
+                    return f"https://drive.google.com/uc?export=download&id={file_id}"
             
             return None
             
         except Exception as e:
-            print(f"      ✗ Error extracting PDF URL: {e}", flush=True)
+            print(f"      ✗ PDF URL error: {e}")
             return None
     
     def download_pdf(self, pdf_url, output_path):
-        """Download PDF from Google Drive"""
+        """Download PDF file"""
         try:
-            print(f"      Downloading...", flush=True)
+            response = self.session.get(pdf_url, stream=True, timeout=120)
             
-            # First request
-            response = self.session.get(pdf_url, stream=True, timeout=60)
-            
-            # Handle Google Drive's virus scan warning
+            # Handle Google Drive virus scan page
             if 'text/html' in response.headers.get('Content-Type', ''):
-                soup = BeautifulSoup(response.content, 'html.parser')
-                download_link = soup.find('a', {'id': 'uc-download-link'})
-                if download_link:
-                    confirm_url = download_link.get('href')
+                soup = BeautifulSoup(response.content, 'lxml')
+                link = soup.find('a', id='uc-download-link')
+                if link:
+                    confirm_url = link.get('href')
                     if not confirm_url.startswith('http'):
                         confirm_url = 'https://drive.google.com' + confirm_url
-                    response = self.session.get(confirm_url, stream=True, timeout=60)
+                    response = self.session.get(confirm_url, stream=True, timeout=120)
             
-            # Save file
+            # Write file
             with open(output_path, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     if chunk:
                         f.write(chunk)
             
-            file_size = os.path.getsize(output_path) / 1024  # KB
-            print(f"      ✓ Downloaded ({file_size:.1f} KB)", flush=True)
+            size_kb = os.path.getsize(output_path) / 1024
+            print(f"      ✓ {size_kb:.1f} KB")
             return True
             
         except Exception as e:
-            print(f"      ✗ Download failed: {e}", flush=True)
+            print(f"      ✗ Download error: {e}")
             return False
     
-    def scrape_ticker(self, ticker):
-        """Scrape all documents for a single ticker"""
+    def process_ticker(self, ticker):
+        """Process all documents for one ticker"""
         print(f"\n{'='*70}")
         print(f"Processing: {ticker}")
         print(f"{'='*70}")
@@ -274,37 +231,51 @@ class NSEReportsScraper:
         ticker_dir = Path(self.base_dir) / ticker.upper()
         ticker_dir.mkdir(parents=True, exist_ok=True)
         
-        # Get documents tab ID
-        tab_id = self.get_documents_tab_id(ticker)
-        if not tab_id:
-            print(f"  ⊗ Skipping - no documents tab\n", flush=True)
-            return
+        # Get tab ID
+        print(f"  → Getting tab ID...")
+        tab_id = self.get_tab_id(ticker)
         
-        # Get document links
-        documents = self.get_document_links(ticker, tab_id)
+        if not tab_id:
+            print(f"  ✗ No Documents & Reports tab found")
+            return 0
+        
+        print(f"    ✓ Tab: {tab_id}")
+        
+        # Get documents list
+        print(f"  → Fetching documents...")
+        documents = self.get_documents(ticker, tab_id)
+        
         if not documents:
-            print(f"  ⊗ No documents found\n", flush=True)
-            return
+            print(f"  ✗ No documents found")
+            return 0
+        
+        print(f"    ✓ Found {len(documents)} documents")
         
         # Download each document
         downloaded = 0
+        
         for i, doc in enumerate(documents, 1):
-            print(f"\n  [{i}/{len(documents)}] {doc['type']} - {doc['year']} {doc['period']}", flush=True)
+            print(f"\n  [{i}/{len(documents)}] {doc['type']} {doc['year']} {doc['period']}")
             
-            output_filename = f"{doc['filename']}.pdf"
-            output_path = ticker_dir / output_filename
+            pdf_filename = f"{doc['filename']}.pdf"
+            pdf_path = ticker_dir / pdf_filename
             
-            if output_path.exists():
-                print(f"      ⊙ Already exists, skipping", flush=True)
+            # Skip if exists
+            if pdf_path.exists():
+                print(f"      ⊙ Already exists")
                 continue
             
-            # Extract PDF URL
-            pdf_url = self.extract_pdf_url(doc['url'])
+            # Get PDF URL
+            print(f"      → Extracting PDF URL...")
+            pdf_url = self.get_pdf_url(doc['url'])
+            
             if not pdf_url:
+                print(f"      ✗ No PDF found")
                 continue
             
-            # Download PDF
-            if self.download_pdf(pdf_url, output_path):
+            # Download
+            print(f"      → Downloading...")
+            if self.download_pdf(pdf_url, pdf_path):
                 # Save metadata
                 metadata = {
                     'ticker': ticker,
@@ -312,72 +283,101 @@ class NSEReportsScraper:
                     'year': doc['year'],
                     'period': doc['period'],
                     'date': doc['date'],
-                    'source_url': doc['url']
+                    'source_url': doc['url'],
+                    'downloaded_at': datetime.now().isoformat()
                 }
-                metadata_path = ticker_dir / f"{doc['filename']}.json"
-                with open(metadata_path, 'w') as f:
+                
+                json_path = ticker_dir / f"{doc['filename']}.json"
+                with open(json_path, 'w') as f:
                     json.dump(metadata, f, indent=2)
+                
                 downloaded += 1
             
-            time.sleep(1)  # Be nice to servers
+            time.sleep(1)  # Rate limiting
         
-        print(f"\n  ✓ Downloaded {downloaded} new files for {ticker}", flush=True)
+        print(f"\n  ✓ Downloaded {downloaded} new files")
+        return downloaded
     
-    def run(self, specific_tickers=None, max_tickers=None):
-        """Run the scraper"""
-        print("\n" + "🚀 " * 35)
-        print("NSE Financial Reports Scraper")
-        print("🚀 " * 35, flush=True)
+    def run(self, test_mode=False):
+        """Main execution"""
+        start_time = datetime.now()
         
-        # Test connection if using Tor
-        if self.use_tor:
-            self.test_connection()
+        print("\n" + "🚀 " * 35)
+        print("NSE FINANCIAL REPORTS SCRAPER")
+        print("🚀 " * 35)
+        print(f"Start: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
+        print(f"Output: {os.path.abspath(self.base_dir)}")
+        print("=" * 70, flush=True)
         
         # Get tickers
-        tickers = specific_tickers if specific_tickers else self.get_tickers()
+        tickers = self.get_tickers()
         
         if not tickers:
-            print("\n✗ No tickers found. Exiting.", flush=True)
+            print("\n✗ No tickers found. Exiting.")
             return
         
-        # Limit tickers for testing
-        if max_tickers:
-            tickers = tickers[:max_tickers]
-            print(f"⚠️  Limiting to first {max_tickers} tickers for testing\n", flush=True)
+        # Test mode - limit to 3 tickers
+        if test_mode:
+            tickers = tickers[:3]
+            print(f"\n🧪 TEST MODE: Processing only {len(tickers)} tickers")
         
-        print(f"\n📊 Processing {len(tickers)} tickers...", flush=True)
-        print(f"📁 Output directory: {self.base_dir}\n", flush=True)
+        print(f"\n📊 Will process {len(tickers)} tickers\n")
         
-        successful = 0
+        # Process each ticker
+        total_downloaded = 0
+        successful_tickers = 0
+        
         for i, ticker in enumerate(tickers, 1):
-            print(f"\n[{i}/{len(tickers)}]", flush=True)
-            try:
-                self.scrape_ticker(ticker)
-                successful += 1
-            except Exception as e:
-                print(f"✗ Critical error for {ticker}: {e}", flush=True)
-                import traceback
-                traceback.print_exc()
+            print(f"\n[{i}/{len(tickers)}]")
             
-            # Delay between tickers
+            try:
+                downloaded = self.process_ticker(ticker)
+                total_downloaded += downloaded
+                successful_tickers += 1
+            except Exception as e:
+                print(f"✗ Critical error for {ticker}: {e}")
+            
+            # Pause between tickers
             if i < len(tickers):
                 time.sleep(2)
         
+        # Summary
+        end_time = datetime.now()
+        duration = end_time - start_time
+        
         print("\n" + "=" * 70)
-        print(f"✓ Scraping completed!")
-        print(f"  Processed: {successful}/{len(tickers)} tickers")
-        print(f"  Output: {self.base_dir}/")
-        print("=" * 70 + "\n", flush=True)
+        print("SCRAPING COMPLETE")
+        print("=" * 70)
+        print(f"Tickers processed: {successful_tickers}/{len(tickers)}")
+        print(f"Files downloaded: {total_downloaded}")
+        print(f"Duration: {duration}")
+        print(f"Output: {self.base_dir}/")
+        print("=" * 70 + "\n")
+        
+        # Save summary
+        summary = {
+            'scrape_date': datetime.now().isoformat(),
+            'duration_seconds': duration.total_seconds(),
+            'tickers_processed': successful_tickers,
+            'total_tickers': len(tickers),
+            'files_downloaded': total_downloaded,
+            'test_mode': test_mode
+        }
+        
+        summary_path = Path(self.base_dir) / 'scrape_summary.json'
+        with open(summary_path, 'w') as f:
+            json.dump(summary, f, indent=2)
+        
+        print(f"✓ Summary saved to {summary_path}\n")
 
-if __name__ == "__main__":
-    # Check if running in test mode
+def main():
     import sys
+    
+    # Check for test mode
     test_mode = '--test' in sys.argv or os.getenv('TEST_MODE') == 'true'
     
-    scraper = NSEReportsScraper(use_tor=True)
-    
-    if test_mode:
-        print("🧪 Running in TEST MODE (first 3 tickers only)\n")
-        scraper.run(max_tickers=3)
-    else:
-        scraper.run()
+    scraper = NSEReportsScraper(base_dir="reports")
+    scraper.run(test_mode=test_mode)
+
+if __name__ == "__main__":
+    main()
