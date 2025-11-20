@@ -25,15 +25,18 @@ class NSEReportsScraper:
             'http': 'socks5h://127.0.0.1:9050',
             'https': 'socks5h://127.0.0.1:9050'
         }
-        # === FIX: Updated Referer header as requested to bypass 403 Forbidden error ===
+        # === FIX: Final comprehensive set of headers to bypass persistent 403 ===
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
-            # Key fix: Pretend the request is coming from the African Financials main Kenya page
-            'Referer': 'https://africanfinancials.com/kenya/' 
+            'Referer': 'https://africanfinancials.com/kenya/',
+            # Added more standard browser headers
+            'Connection': 'keep-alive',
+            'Cache-Control': 'max-age=0',
+            'DNT': '1' 
         })
-        # =================================================================================
+        # ========================================================================
         
         # Create base directory
         Path(base_dir).mkdir(parents=True, exist_ok=True)
