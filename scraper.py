@@ -53,23 +53,39 @@ class NSEReportsScraper:
                 return []
             
             tickers = []
-            rows = table.find_all('tr')
             
-            print(f"✓ Table has {len(rows)} rows", flush=True)
+            # Get all rows - try both direct from table and from tbody
+            tbody = table.find('tbody')
+            if tbody:
+                rows = tbody.find_all('tr')
+                print(f"✓ Found tbody with {len(rows)} rows", flush=True)
+            else:
+                rows = table.find_all('tr')
+                print(f"✓ Table has {len(rows)} rows (no tbody)", flush=True)
             
-            for row in rows:
+            # Debug: print first row structure
+            if rows:
+                print(f"  Debug - First row HTML: {str(rows[0])[:200]}...", flush=True)
+            
+            for idx, row in enumerate(rows):
                 # Skip header rows
                 if row.find('th'):
+                    print(f"  Row {idx}: Header row, skipping", flush=True)
                     continue
                 
                 cells = row.find_all('td')
+                print(f"  Row {idx}: {len(cells)} cells", flush=True)
+                
                 if len(cells) > 0:
                     # First cell contains ticker
                     link = cells[0].find('a')
                     if link:
                         ticker = link.text.strip()
+                        print(f"    Found ticker: '{ticker}'", flush=True)
                         if ticker and len(ticker) < 10:  # Sanity check
                             tickers.append(ticker)
+                    else:
+                        print(f"    No <a> tag in first cell: {cells[0]}", flush=True)
             
             print(f"✓ Found {len(tickers)} tickers")
             if tickers:
