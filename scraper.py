@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NSE Financial Reports Scraper - Fixed for 403 errors
+NSE Financial Reports Scraper - CloudFlare Bypass Version
 Downloads financial reports from African Financials for NSE-listed companies
 """
 
@@ -15,22 +15,29 @@ from datetime import datetime
 import random
 
 class NSEReportsScraper:
-    def __init__(self, base_dir="reports"):
+    def __init__(self, base_dir="reports", use_tor=False):
         self.nse_url = "https://afx.kwayisi.org/nse/"
         self.africanfinancials_base = "https://africanfinancials.com/company/ke-"
         self.base_dir = base_dir
+        self.use_tor = use_tor
         
-        # Configure session with Tor proxy
+        # Configure session
         self.session = requests.Session()
-        self.session.proxies = {
-            'http': 'socks5h://127.0.0.1:9050',
-            'https': 'socks5h://127.0.0.1:9050'
-        }
         
-        # === ENHANCED HEADERS to bypass 403 ===
+        # Only use Tor if explicitly enabled
+        if use_tor:
+            self.session.proxies = {
+                'http': 'socks5h://127.0.0.1:9050',
+                'https': 'socks5h://127.0.0.1:9050'
+            }
+            print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
+        else:
+            print("🌐 Using direct connection (no Tor)", flush=True)
+        
+        # Realistic browser headers
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'Accept-Language': 'en-US,en;q=0.9',
             'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
@@ -39,14 +46,14 @@ class NSEReportsScraper:
             'Sec-Fetch-Mode': 'navigate',
             'Sec-Fetch-Site': 'none',
             'Sec-Fetch-User': '?1',
+            'Sec-Ch-Ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+            'Sec-Ch-Ua-Mobile': '?0',
+            'Sec-Ch-Ua-Platform': '"Windows"',
             'Cache-Control': 'max-age=0',
-            'DNT': '1'
         })
         
         # Create base directory
         Path(base_dir).mkdir(parents=True, exist_ok=True)
-        
-        print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
     
     def get_tickers(self):
         """Fetch all tickers from NSE listing page"""
@@ -112,77 +119,88 @@ class NSEReportsScraper:
             print(f"✗ Error: {e}", flush=True)
             return []
     
-    def get_tab_id(self, ticker, retry_count=3):
-        """Get Documents & Reports tab ID for a company with retry logic"""
+    def get_tab_id(self, ticker, retry_count=5):
+        """Get Documents & Reports tab ID for a company with aggressive retry"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/"
         
         for attempt in range(retry_count):
             try:
-                # Add delay between retries
+                # Exponential backoff with jitter
                 if attempt > 0:
-                    wait_time = random.uniform(3, 7)
+                    wait_time = min(30, (2 ** attempt) + random.uniform(0, 3))
                     print(f"    ⏳ Retry {attempt + 1}/{retry_count} after {wait_time:.1f}s...", flush=True)
                     time.sleep(wait_time)
                 
-                # Update Referer for this specific request
+                # Vary headers slightly per request
                 headers = {
-                    'Referer': 'https://africanfinancials.com/kenya/'
+                    'Referer': 'https://africanfinancials.com/',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
                 }
                 
-                response = self.session.get(url, timeout=60, headers=headers)
+                # Add random delay before request
+                time.sleep(random.uniform(1, 3))
+                
+                response = self.session.get(url, timeout=60, headers=headers, allow_redirects=True)
+                
+                # Debug response
+                if attempt == 0:
+                    print(f"    Status: {response.status_code}, URL: {response.url[:80]}...", flush=True)
                 
                 if response.status_code == 403:
                     print(f"  ⚠ 403 Forbidden (attempt {attempt + 1}/{retry_count})", flush=True)
                     
-                    # Rotate Tor identity if possible
-                    if attempt < retry_count - 1:
-                        self._rotate_tor_identity()
+                    # Check if it's Cloudflare
+                    if 'cloudflare' in response.text.lower() or 'cf-ray' in response.headers:
+                        print(f"    🛡️ Cloudflare detected - this site is protected", flush=True)
+                    
+                    continue
+                
+                if response.status_code == 429:
+                    print(f"  ⚠ Rate limited (429) - waiting longer...", flush=True)
+                    time.sleep(60)
                     continue
                 
                 if response.status_code != 200:
-                    print(f"  ✗ Failed to load company page ({response.status_code})", flush=True)
+                    print(f"  ✗ HTTP {response.status_code}", flush=True)
                     continue
                 
                 soup = BeautifulSoup(response.content, 'lxml')
                 
                 # Search for Documents & Reports tab
                 for link in soup.find_all('a'):
-                    if 'Documents & Reports' in link.get_text(strip=True):
+                    text = link.get_text(strip=True)
+                    if 'Documents' in text and 'Reports' in text:
                         href = link.get('href', '')
                         if '#tab-' in href:
-                            return href.split('#')[1]
+                            tab_id = href.split('#')[1]
+                            print(f"    ✓ Found tab: {tab_id}", flush=True)
+                            return tab_id
                 
+                # If we got here, page loaded but no tab found
+                print(f"  ℹ Page loaded but no Documents tab found", flush=True)
                 return None
                 
+            except requests.exceptions.Timeout:
+                print(f"  ⚠ Timeout (attempt {attempt + 1})", flush=True)
+            except requests.exceptions.ConnectionError as e:
+                print(f"  ⚠ Connection error (attempt {attempt + 1}): {e}", flush=True)
             except Exception as e:
-                print(f"  ✗ Tab ID error (attempt {attempt + 1}): {e}", flush=True)
-                if attempt < retry_count - 1:
-                    time.sleep(random.uniform(2, 5))
+                print(f"  ✗ Error (attempt {attempt + 1}): {e}", flush=True)
         
         return None
-    
-    def _rotate_tor_identity(self):
-        """Attempt to rotate Tor identity (requires control port)"""
-        try:
-            from stem import Signal
-            from stem.control import Controller
-            
-            with Controller.from_port(port=9051) as controller:
-                controller.authenticate()
-                controller.signal(Signal.NEWNYM)
-                print("    🔄 Rotated Tor identity", flush=True)
-                time.sleep(5)  # Wait for new circuit
-        except ImportError:
-            print("    ℹ Install 'stem' package for Tor identity rotation: pip install stem", flush=True)
-        except Exception as e:
-            print(f"    ⚠ Could not rotate Tor identity: {e}", flush=True)
     
     def get_documents(self, ticker, tab_id):
         """Get list of documents for a ticker"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/#{tab_id}"
         
         try:
+            time.sleep(random.uniform(2, 4))
             response = self.session.get(url, timeout=60)
+            
+            if response.status_code != 200:
+                print(f"  ✗ Failed to get documents page: {response.status_code}")
+                return []
+            
             soup = BeautifulSoup(response.content, 'lxml')
             
             tab_content_div = soup.find('div', id=tab_id)
@@ -237,6 +255,7 @@ class NSEReportsScraper:
     def get_pdf_url(self, doc_url):
         """Extract Google Drive PDF URL from document page"""
         try:
+            time.sleep(random.uniform(1, 2))
             response = self.session.get(doc_url, timeout=60)
             soup = BeautifulSoup(response.content, 'lxml')
             
@@ -294,10 +313,8 @@ class NSEReportsScraper:
         tab_id = self.get_tab_id(ticker)
         
         if not tab_id:
-            print(f"  ✗ No Documents & Reports tab found")
+            print(f"  ✗ Could not access Documents & Reports tab")
             return 0
-        
-        print(f"    ✓ Tab: {tab_id}")
         
         print(f"  → Fetching documents...")
         documents = self.get_documents(ticker, tab_id)
@@ -345,7 +362,7 @@ class NSEReportsScraper:
                 
                 downloaded += 1
             
-            time.sleep(random.uniform(1, 3))  # Random delay
+            time.sleep(random.uniform(1, 3))
         
         print(f"\n  ✓ Downloaded {downloaded} new files")
         return downloaded
@@ -375,19 +392,27 @@ class NSEReportsScraper:
         
         total_downloaded = 0
         successful_tickers = 0
+        failed_tickers = []
         
         for i, ticker in enumerate(tickers, 1):
             print(f"\n[{i}/{len(tickers)}]")
             
             try:
                 downloaded = self.process_ticker(ticker)
-                total_downloaded += downloaded
-                successful_tickers += 1
+                if downloaded > 0:
+                    successful_tickers += 1
+                    total_downloaded += downloaded
+                else:
+                    failed_tickers.append(ticker)
+            except KeyboardInterrupt:
+                print("\n\n⚠ Interrupted by user")
+                break
             except Exception as e:
                 print(f"✗ Critical error for {ticker}: {e}", flush=True)
+                failed_tickers.append(ticker)
             
             if i < len(tickers):
-                time.sleep(random.uniform(2, 5))
+                time.sleep(random.uniform(3, 7))
         
         end_time = datetime.now()
         duration = end_time - start_time
@@ -399,6 +424,9 @@ class NSEReportsScraper:
         print(f"Files downloaded: {total_downloaded}")
         print(f"Duration: {duration}")
         print(f"Output: {self.base_dir}/")
+        if failed_tickers:
+            print(f"Failed tickers: {', '.join(failed_tickers[:10])}" + 
+                  (f" (+{len(failed_tickers)-10} more)" if len(failed_tickers) > 10 else ""))
         print("=" * 70 + "\n")
         
         summary = {
@@ -407,6 +435,7 @@ class NSEReportsScraper:
             'tickers_processed': successful_tickers,
             'total_tickers': len(tickers),
             'files_downloaded': total_downloaded,
+            'failed_tickers': failed_tickers,
             'test_mode': test_mode
         }
         
@@ -420,8 +449,9 @@ def main():
     import sys
     
     test_mode = '--test' in sys.argv or os.getenv('TEST_MODE') == 'true'
+    use_tor = '--tor' in sys.argv or os.getenv('USE_TOR') == 'true'
     
-    scraper = NSEReportsScraper(base_dir="reports")
+    scraper = NSEReportsScraper(base_dir="reports", use_tor=use_tor)
     scraper.run(test_mode=test_mode)
 
 if __name__ == "__main__":
