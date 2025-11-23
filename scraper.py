@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NSE Financial Reports Scraper
+NSE Financial Reports Scraper - Fixed for 403 errors
 Downloads financial reports from African Financials for NSE-listed companies
 """
 
@@ -12,6 +12,7 @@ import re
 from pathlib import Path
 import json
 from datetime import datetime
+import random
 
 class NSEReportsScraper:
     def __init__(self, base_dir="reports"):
@@ -25,18 +26,22 @@ class NSEReportsScraper:
             'http': 'socks5h://127.0.0.1:9050',
             'https': 'socks5h://127.0.0.1:9050'
         }
-        # === FIX: Final comprehensive set of headers to bypass persistent 403 ===
+        
+        # === ENHANCED HEADERS to bypass 403 ===
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Referer': 'https://africanfinancials.com/kenya/',
-            # Added more standard browser headers
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
             'Cache-Control': 'max-age=0',
-            'DNT': '1' 
+            'DNT': '1'
         })
-        # ========================================================================
         
         # Create base directory
         Path(base_dir).mkdir(parents=True, exist_ok=True)
@@ -56,7 +61,6 @@ class NSEReportsScraper:
             
             soup = BeautifulSoup(response.content, 'lxml')
             
-            # FIX: Target the correct table inside div.t
             ticker_list_div = soup.find('div', class_='t')
             
             if not ticker_list_div:
@@ -108,31 +112,70 @@ class NSEReportsScraper:
             print(f"✗ Error: {e}", flush=True)
             return []
     
-    def get_tab_id(self, ticker):
-        """Get Documents & Reports tab ID for a company"""
+    def get_tab_id(self, ticker, retry_count=3):
+        """Get Documents & Reports tab ID for a company with retry logic"""
         url = f"{self.africanfinancials_base}{ticker.lower()}/"
         
-        try:
-            response = self.session.get(url, timeout=60)
-            
-            if response.status_code != 200:
-                print(f"  ✗ Failed to load company page ({response.status_code})", flush=True)
+        for attempt in range(retry_count):
+            try:
+                # Add delay between retries
+                if attempt > 0:
+                    wait_time = random.uniform(3, 7)
+                    print(f"    ⏳ Retry {attempt + 1}/{retry_count} after {wait_time:.1f}s...", flush=True)
+                    time.sleep(wait_time)
+                
+                # Update Referer for this specific request
+                headers = {
+                    'Referer': 'https://africanfinancials.com/kenya/'
+                }
+                
+                response = self.session.get(url, timeout=60, headers=headers)
+                
+                if response.status_code == 403:
+                    print(f"  ⚠ 403 Forbidden (attempt {attempt + 1}/{retry_count})", flush=True)
+                    
+                    # Rotate Tor identity if possible
+                    if attempt < retry_count - 1:
+                        self._rotate_tor_identity()
+                    continue
+                
+                if response.status_code != 200:
+                    print(f"  ✗ Failed to load company page ({response.status_code})", flush=True)
+                    continue
+                
+                soup = BeautifulSoup(response.content, 'lxml')
+                
+                # Search for Documents & Reports tab
+                for link in soup.find_all('a'):
+                    if 'Documents & Reports' in link.get_text(strip=True):
+                        href = link.get('href', '')
+                        if '#tab-' in href:
+                            return href.split('#')[1]
+                
                 return None
+                
+            except Exception as e:
+                print(f"  ✗ Tab ID error (attempt {attempt + 1}): {e}", flush=True)
+                if attempt < retry_count - 1:
+                    time.sleep(random.uniform(2, 5))
+        
+        return None
+    
+    def _rotate_tor_identity(self):
+        """Attempt to rotate Tor identity (requires control port)"""
+        try:
+            from stem import Signal
+            from stem.control import Controller
             
-            soup = BeautifulSoup(response.content, 'lxml')
-            
-            # FIX: search for ANY <a> tag containing the required text.
-            for link in soup.find_all('a'):
-                if 'Documents & Reports' in link.get_text(strip=True):
-                    href = link.get('href', '')
-                    if '#tab-' in href:
-                        return href.split('#')[1]
-            
-            return None
-            
+            with Controller.from_port(port=9051) as controller:
+                controller.authenticate()
+                controller.signal(Signal.NEWNYM)
+                print("    🔄 Rotated Tor identity", flush=True)
+                time.sleep(5)  # Wait for new circuit
+        except ImportError:
+            print("    ℹ Install 'stem' package for Tor identity rotation: pip install stem", flush=True)
         except Exception as e:
-            print(f"  ✗ Tab ID error: {e}", flush=True)
-            return None
+            print(f"    ⚠ Could not rotate Tor identity: {e}", flush=True)
     
     def get_documents(self, ticker, tab_id):
         """Get list of documents for a ticker"""
@@ -142,7 +185,6 @@ class NSEReportsScraper:
             response = self.session.get(url, timeout=60)
             soup = BeautifulSoup(response.content, 'lxml')
             
-            # FIX: Find the reports table based on its headers.
             tab_content_div = soup.find('div', id=tab_id)
             if not tab_content_div:
                 print(f"  ✗ Documents tab content div #{tab_id} not found.")
@@ -150,7 +192,6 @@ class NSEReportsScraper:
             
             reports_table = None
             for table in tab_content_div.find_all('table'):
-                # Check for a header row containing 'Type' or 'Year'
                 if table.find('th', string=re.compile(r'(Type|Year)', re.I)):
                     reports_table = table
                     break
@@ -173,11 +214,9 @@ class NSEReportsScraper:
                         period = cells[2].get_text(strip=True)
                         date = cells[3].get_text(strip=True)
                         
-                        # Extract filename
                         match = re.search(r'/document/(ke-[^/]+)/', doc_url)
                         if match:
                             full_name = match.group(1)
-                            # Remove ke-ticker- prefix
                             filename = re.sub(f'^ke-{ticker.lower()}-', '', full_name)
                             
                             documents.append({
@@ -201,11 +240,9 @@ class NSEReportsScraper:
             response = self.session.get(doc_url, timeout=60)
             soup = BeautifulSoup(response.content, 'lxml')
             
-            # Find Google Drive iframe
             iframe = soup.find('iframe', src=re.compile(r'drive\.google\.com'))
             if iframe:
                 src = iframe.get('src')
-                # Extract file ID
                 match = re.search(r'/d/([^/]+)/', src)
                 if match:
                     file_id = match.group(1)
@@ -222,7 +259,6 @@ class NSEReportsScraper:
         try:
             response = self.session.get(pdf_url, stream=True, timeout=120)
             
-            # Handle Google Drive virus scan page
             if 'text/html' in response.headers.get('Content-Type', ''):
                 soup = BeautifulSoup(response.content, 'lxml')
                 link = soup.find('a', id='uc-download-link')
@@ -232,7 +268,6 @@ class NSEReportsScraper:
                         confirm_url = 'https://drive.google.com' + confirm_url
                     response = self.session.get(confirm_url, stream=True, timeout=120)
             
-            # Write file
             with open(output_path, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     if chunk:
@@ -252,11 +287,9 @@ class NSEReportsScraper:
         print(f"Processing: {ticker}")
         print(f"{'='*70}")
         
-        # Create ticker directory
         ticker_dir = Path(self.base_dir) / ticker.upper()
         ticker_dir.mkdir(parents=True, exist_ok=True)
         
-        # Get tab ID
         print(f"  → Getting tab ID...")
         tab_id = self.get_tab_id(ticker)
         
@@ -266,7 +299,6 @@ class NSEReportsScraper:
         
         print(f"    ✓ Tab: {tab_id}")
         
-        # Get documents list
         print(f"  → Fetching documents...")
         documents = self.get_documents(ticker, tab_id)
         
@@ -276,7 +308,6 @@ class NSEReportsScraper:
         
         print(f"    ✓ Found {len(documents)} documents")
         
-        # Download each document
         downloaded = 0
         
         for i, doc in enumerate(documents, 1):
@@ -285,12 +316,10 @@ class NSEReportsScraper:
             pdf_filename = f"{doc['filename']}.pdf"
             pdf_path = ticker_dir / pdf_filename
             
-            # Skip if exists
             if pdf_path.exists():
                 print(f"      ⊙ Already exists")
                 continue
             
-            # Get PDF URL
             print(f"      → Extracting PDF URL...")
             pdf_url = self.get_pdf_url(doc['url'])
             
@@ -298,10 +327,8 @@ class NSEReportsScraper:
                 print(f"      ✗ No PDF found")
                 continue
             
-            # Download
             print(f"      → Downloading...")
             if self.download_pdf(pdf_url, pdf_path):
-                # Save metadata
                 metadata = {
                     'ticker': ticker,
                     'type': doc['type'],
@@ -318,7 +345,7 @@ class NSEReportsScraper:
                 
                 downloaded += 1
             
-            time.sleep(1)  # Rate limiting
+            time.sleep(random.uniform(1, 3))  # Random delay
         
         print(f"\n  ✓ Downloaded {downloaded} new files")
         return downloaded
@@ -334,21 +361,18 @@ class NSEReportsScraper:
         print(f"Output: {os.path.abspath(self.base_dir)}")
         print("=" * 70, flush=True)
         
-        # Get tickers
         tickers = self.get_tickers()
         
         if not tickers:
             print("\n✗ No tickers found. Exiting.")
             return
         
-        # Test mode - limit to 3 tickers
         if test_mode:
             tickers = tickers[:3]
             print(f"\n🧪 TEST MODE: Processing only {len(tickers)} tickers")
         
         print(f"\n📊 Will process {len(tickers)} tickers\n")
         
-        # Process each ticker
         total_downloaded = 0
         successful_tickers = 0
         
@@ -362,11 +386,9 @@ class NSEReportsScraper:
             except Exception as e:
                 print(f"✗ Critical error for {ticker}: {e}", flush=True)
             
-            # Pause between tickers
             if i < len(tickers):
-                time.sleep(2)
+                time.sleep(random.uniform(2, 5))
         
-        # Summary
         end_time = datetime.now()
         duration = end_time - start_time
         
@@ -379,7 +401,6 @@ class NSEReportsScraper:
         print(f"Output: {self.base_dir}/")
         print("=" * 70 + "\n")
         
-        # Save summary
         summary = {
             'scrape_date': datetime.now().isoformat(),
             'duration_seconds': duration.total_seconds(),
@@ -398,7 +419,6 @@ class NSEReportsScraper:
 def main():
     import sys
     
-    # Check for test mode
     test_mode = '--test' in sys.argv or os.getenv('TEST_MODE') == 'true'
     
     scraper = NSEReportsScraper(base_dir="reports")
