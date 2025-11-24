@@ -3,3 +3,4 @@ beautifulsoup4==4.12.2
 lxml==5.1.0
 pysocks==1.7.1
 urllib3[socks]
+curl-cffi
