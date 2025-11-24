@@ -3,7 +3,7 @@ NSE Financial Reports Scraper
 Downloads financial reports from African Financials for NSE-listed companies
 """
 
-import requests
+import requests # Kept for potential future use, though not used for fetching now
 from bs4 import BeautifulSoup
 import os
 import time
@@ -11,6 +11,7 @@ import re
 from pathlib import Path
 import json
 from datetime import datetime
+from curl_cffi import requests as cffi_requests # <--- NEW IMPORT
 
 class NSEReportsScraper:
     def __init__(self, base_dir="reports"):
@@ -18,23 +19,22 @@ class NSEReportsScraper:
         self.africanfinancials_base = "https://africanfinancials.com/company/ke-"
         self.base_dir = base_dir
         
-        # Configure session with Tor proxy
-        self.session = requests.Session()
-        self.session.proxies = {
-            'http': 'socks5h://127.0.0.1:9050',
-            'https': 'socks5h://127.0.0.1:9050'
+        # Define proxies in the format curl_cffi expects (socks5://host:port)
+        self.cffi_proxies = {
+            'http': 'socks5://127.0.0.1:9050',
+            'https': 'socks5://127.0.0.1:9050'
         }
-        # === FIX: Final comprehensive set of headers to bypass persistent 403 ===
-        self.session.headers.update({
+        
+        # === FIX: Headers for curl_cffi (applied directly in method calls) ===
+        self.cffi_headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
             'Referer': 'https://africanfinancials.com/kenya/',
-            # Added more standard browser headers
             'Connection': 'keep-alive',
             'Cache-Control': 'max-age=0',
             'DNT': '1' 
-        })
+        }
         # ========================================================================
         
         # Create base directory
@@ -42,6 +42,18 @@ class NSEReportsScraper:
         
         print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
     
+    def _make_cffi_request(self, url, stream=False, timeout=60):
+        """Helper to make a curl-cffi request with impersonation and proxies"""
+        time.sleep(2) # 2-second delay between requests
+        return cffi_requests.get(
+            url, 
+            headers=self.cffi_headers,
+            proxies=self.cffi_proxies, 
+            impersonate="chrome120", # Bypass TLS fingerprinting
+            stream=stream,
+            timeout=timeout
+        )
+
     def get_tickers(self):
         """Fetch all tickers from NSE listing page"""
         print(f"\n{'='*70}")
@@ -50,7 +62,8 @@ class NSEReportsScraper:
         print(f"URL: {self.nse_url}", flush=True)
         
         try:
-            response = self.session.get(self.nse_url, timeout=60)
+            # FIX: Use _make_cffi_request
+            response = self._make_cffi_request(self.nse_url)
             print(f"✓ Response: {response.status_code}", flush=True)
             
             soup = BeautifulSoup(response.content, 'lxml')
@@ -86,7 +99,7 @@ class NSEReportsScraper:
             for idx, row in enumerate(rows):
                 if row.find('th'):
                     continue
-                
+                    
                 cells = row.find_all('td')
                 
                 if len(cells) > 0:
@@ -112,7 +125,8 @@ class NSEReportsScraper:
         url = f"{self.africanfinancials_base}{ticker.lower()}/"
         
         try:
-            response = self.session.get(url, timeout=60)
+            # FIX: Use _make_cffi_request
+            response = self._make_cffi_request(url)
             
             if response.status_code != 200:
                 print(f"  ✗ Failed to load company page ({response.status_code})", flush=True)
@@ -138,7 +152,8 @@ class NSEReportsScraper:
         url = f"{self.africanfinancials_base}{ticker.lower()}/#{tab_id}"
         
         try:
-            response = self.session.get(url, timeout=60)
+            # FIX: Use _make_cffi_request
+            response = self._make_cffi_request(url)
             soup = BeautifulSoup(response.content, 'lxml')
             
             # FIX: Find the reports table based on its headers.
@@ -197,7 +212,8 @@ class NSEReportsScraper:
     def get_pdf_url(self, doc_url):
         """Extract Google Drive PDF URL from document page"""
         try:
-            response = self.session.get(doc_url, timeout=60)
+            # FIX: Use _make_cffi_request
+            response = self._make_cffi_request(doc_url)
             soup = BeautifulSoup(response.content, 'lxml')
             
             # Find Google Drive iframe
@@ -219,7 +235,8 @@ class NSEReportsScraper:
     def download_pdf(self, pdf_url, output_path):
         """Download PDF file"""
         try:
-            response = self.session.get(pdf_url, stream=True, timeout=120)
+            # FIX: Use _make_cffi_request with stream=True
+            response = self._make_cffi_request(pdf_url, stream=True, timeout=120)
             
             # Handle Google Drive virus scan page
             if 'text/html' in response.headers.get('Content-Type', ''):
@@ -229,7 +246,9 @@ class NSEReportsScraper:
                     confirm_url = link.get('href')
                     if not confirm_url.startswith('http'):
                         confirm_url = 'https://drive.google.com' + confirm_url
-                    response = self.session.get(confirm_url, stream=True, timeout=120)
+                    
+                    # FIX: Use _make_cffi_request for the confirmation URL
+                    response = self._make_cffi_request(confirm_url, stream=True, timeout=120)
             
             # Write file
             with open(output_path, 'wb') as f:
@@ -317,8 +336,8 @@ class NSEReportsScraper:
                 
                 downloaded += 1
             
-            time.sleep(1)  # Rate limiting
-        
+            # Note: A 2-second sleep is already applied in _make_cffi_request
+            
         print(f"\n  ✓ Downloaded {downloaded} new files")
         return downloaded
     
@@ -363,7 +382,7 @@ class NSEReportsScraper:
             
             # Pause between tickers
             if i < len(tickers):
-                time.sleep(2)
+                time.sleep(2) # Existing 2-second delay between full ticker cycles
         
         # Summary
         end_time = datetime.now()
