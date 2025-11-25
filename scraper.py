@@ -44,7 +44,7 @@ class NSEReportsScraper:
     
     def _make_cffi_request(self, url, stream=False, timeout=60):
         """Helper to make a curl-cffi request with impersonation and proxies"""
-        time.sleep(2) # 2-second delay between requests
+        time.sleep(0.1) # 0.1-second delay between requests
         return cffi_requests.get(
             url, 
             headers=self.cffi_headers,
@@ -336,7 +336,7 @@ class NSEReportsScraper:
                 
                 downloaded += 1
             
-            # Note: A 2-second sleep is already applied in _make_cffi_request
+            # Note: A 0.1-second sleep is already applied in _make_cffi_request
             
         print(f"\n  ✓ Downloaded {downloaded} new files")
         return downloaded
@@ -382,7 +382,7 @@ class NSEReportsScraper:
             
             # Pause between tickers
             if i < len(tickers):
-                time.sleep(2) # Existing 2-second delay between full ticker cycles
+                time.sleep(0.1) # Existing 0.1-second delay between full ticker cycles
         
         # Summary
         end_time = datetime.now()
