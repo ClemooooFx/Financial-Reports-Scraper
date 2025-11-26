@@ -442,7 +442,10 @@ class NSEReportsScraper:
             'batch_size': batch_size if batch_number else 'N/A'
         }
         
-        summary_path = Path(self.base_dir) / 'scrape_summary.json'
+        if batch_number:
+            summary_path = Path(self.base_dir) / f'scrape_summary_batch_{batch_number}.json'
+        else:
+            summary_path = Path(self.base_dir) / 'scrape_summary.json'
         with open(summary_path, 'w') as f:
             json.dump(summary, f, indent=2)
         
