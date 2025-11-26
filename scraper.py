@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 import re
+import argparse
 from pathlib import Path
 import json
 from datetime import datetime
@@ -41,7 +42,34 @@ class NSEReportsScraper:
         Path(base_dir).mkdir(parents=True, exist_ok=True)
         
         print("🔐 Configured Tor proxy at 127.0.0.1:9050", flush=True)
+
+    def get_ticker_batch(self, batch_number, batch_size=10):
+        """
+        Get a specific batch of tickers.
+        batch_number: 1-based batch number (1, 2, 3, etc.)
+        batch_size: number of tickers per batch (default 10)
+        """
+        # Get all tickers first
+        all_tickers = self.get_tickers()
+        
+        if not all_tickers:
+            return []
     
+        # Calculate batch indices
+        start_idx = (batch_number - 1) * batch_size
+        end_idx = start_idx + batch_size
+        
+        # Get batch
+        batch_tickers = all_tickers[start_idx:end_idx]
+        
+        print(f"\n{'='*70}")
+        print(f"BATCH MODE: Processing Batch {batch_number}")
+        print(f"Tickers {start_idx + 1}-{min(end_idx, len(all_tickers))} of {len(all_tickers)}")
+        print(f"Batch tickers: {', '.join(batch_tickers)}")
+        print(f"{'='*70}\n")
+        
+        return batch_tickers
+        
     def _make_cffi_request(self, url, stream=False, timeout=60):
         """Helper to make a curl-cffi request with impersonation and proxies"""
         time.sleep(0.1) # 0.1-second delay between requests
@@ -341,7 +369,7 @@ class NSEReportsScraper:
         print(f"\n  ✓ Downloaded {downloaded} new files")
         return downloaded
     
-    def run(self, test_mode=False):
+    def run(self, test_mode=False, batch_number=None, batch_size=10):
         """Main execution"""
         start_time = datetime.now()
         
@@ -352,17 +380,22 @@ class NSEReportsScraper:
         print(f"Output: {os.path.abspath(self.base_dir)}")
         print("=" * 70, flush=True)
         
-        # Get tickers
-        tickers = self.get_tickers()
-        
-        if not tickers:
-            print("\n✗ No tickers found. Exiting.")
-            return
-        
-        # Test mode - limit to 3 tickers
-        if test_mode:
-            tickers = tickers[:3]
-            print(f"\n🧪 TEST MODE: Processing only {len(tickers)} tickers")
+        # Get tickers (batch mode or all)
+        if batch_number:
+            tickers = self.get_ticker_batch(batch_number, batch_size)
+            if not tickers:
+                print(f"\n✗ No tickers found for batch {batch_number}. Exiting.")
+                return
+        else:
+            tickers = self.get_tickers()
+            if not tickers:
+                print("\n✗ No tickers found. Exiting.")
+                return
+            
+            # Test mode - limit to 3 tickers
+            if test_mode:
+                tickers = tickers[:3]
+                print(f"\n🧪 TEST MODE: Processing only {len(tickers)} tickers")
         
         print(f"\n📊 Will process {len(tickers)} tickers\n")
         
@@ -404,7 +437,9 @@ class NSEReportsScraper:
             'tickers_processed': successful_tickers,
             'total_tickers': len(tickers),
             'files_downloaded': total_downloaded,
-            'test_mode': test_mode
+            'test_mode': test_mode,
+            'batch_number': batch_number if batch_number else 'all',
+            'batch_size': batch_size if batch_number else 'N/A'
         }
         
         summary_path = Path(self.base_dir) / 'scrape_summary.json'
@@ -416,11 +451,19 @@ class NSEReportsScraper:
 def main():
     import sys
     
-    # Check for test mode
-    test_mode = '--test' in sys.argv or os.getenv('TEST_MODE') == 'true'
+    # Parse arguments
+    parser = argparse.ArgumentParser(description='NSE Financial Reports Scraper')
+    parser.add_argument('--test', action='store_true', help='Test mode (process only 3 tickers)')
+    parser.add_argument('--batch', type=int, default=None, help='Batch number to process (1-7)')
+    parser.add_argument('--batch-size', type=int, default=10, help='Number of tickers per batch')
+    
+    args = parser.parse_args()
+    
+    # Check for test mode from args or environment
+    test_mode = args.test or os.getenv('TEST_MODE') == 'true'
     
     scraper = NSEReportsScraper(base_dir="reports")
-    scraper.run(test_mode=test_mode)
-
+    scraper.run(test_mode=test_mode, batch_number=args.batch, batch_size=args.batch_size)
+    
 if __name__ == "__main__":
     main()
