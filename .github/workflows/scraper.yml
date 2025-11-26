@@ -106,18 +106,29 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add reports/
-        if git diff --staged --quiet; then
+        
+        # Only add new/modified files, not already tracked files
+        git add -A reports/
+        
+        # Check if there are actually changes to commit
+        if git diff --cached --quiet; then
           echo "changes=false" >> $GITHUB_OUTPUT
+          echo "No new files to commit"
         else
           echo "changes=true" >> $GITHUB_OUTPUT
+          echo "Found new files to commit"
         fi
         
     - name: Commit and push changes (Batch ${{ matrix.batch }})
       if: steps.check_changes.outputs.changes == 'true'
       run: |
-        git pull --rebase
+        # Commit first
         git commit -m "Update financial reports - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
+        
+        # Pull with rebase strategy to handle any conflicts
+        git pull --rebase origin main || git pull --rebase origin master
+    
+        # Push changes
         git push
         
     - name: Create summary
