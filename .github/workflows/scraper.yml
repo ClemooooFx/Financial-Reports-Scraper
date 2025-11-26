@@ -1,5 +1,4 @@
 name: NSE Financial Reports Scraper
-
 on:
   # Run mid-quarter: Feb 15, May 15, Aug 15, Nov 15 at 2 AM UTC
   schedule:
@@ -7,20 +6,57 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+    inputs:
+      batch_number:
+        description: 'Batch number to process (1-7, or 0 for all batches)'
+        required: false
+        default: '0'
+        
 permissions:
   contents: write
-
-
   
 jobs:
-  scrape:
+  # First job: determine which batches to run
+  prepare:
     runs-on: ubuntu-latest
-
-    
+    outputs:
+      batches: ${{ steps.set-batches.outputs.batches }}
+    steps:
+      - name: Set batch matrix
+        id: set-batches
+        run: |
+          if [ "${{ github.event.inputs.batch_number }}" == "0" ] || [ -z "${{ github.event.inputs.batch_number }}" ]; then
+            echo "batches=[1,2,3,4,5,6,7]" >> $GITHUB_OUTPUT
+          else
+            echo "batches=[${{ github.event.inputs.batch_number }}]" >> $GITHUB_OUTPUT
+          fi
+  
+  scrape:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1  # Process one batch at a time
+      matrix:
+        batch: ${{ fromJson(needs.prepare.outputs.batches) }}
     
     steps:
+    - name: Free Disk Space
+      run: |
+        echo "Before cleanup:"
+        df -h
+        sudo rm -rf /usr/share/dotnet
+        sudo rm -rf /opt/ghc
+        sudo rm -rf /usr/local/share/boost
+        sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+        sudo docker system prune -af
+        echo "After cleanup:"
+        df -h
+        
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -49,11 +85,21 @@ jobs:
     - name: Create reports directory
       run: mkdir -p reports
       
-    - name: Run scraper
+    - name: Run scraper for batch ${{ matrix.batch }}
       run: |
-        python scraper.py
+        python scraper.py --batch ${{ matrix.batch }} --batch-size 10
       continue-on-error: true
       timeout-minutes: 330
+      env:
+        BATCH_NUMBER: ${{ matrix.batch }}
+        
+    - name: Monitor disk space
+      if: always()
+      run: |
+        echo "Final disk space:"
+        df -h
+        echo "Reports directory size:"
+        du -sh reports/ || echo "No reports directory"
       
     - name: Check for changes
       id: check_changes
@@ -67,30 +113,36 @@ jobs:
           echo "changes=true" >> $GITHUB_OUTPUT
         fi
         
-    - name: Commit and push changes
+    - name: Commit and push changes (Batch ${{ matrix.batch }})
       if: steps.check_changes.outputs.changes == 'true'
       run: |
-        git commit -m "Update financial reports - $(date +'%Y-%m-%d')"
+        git pull --rebase
+        git commit -m "Update financial reports - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
         git push
         
     - name: Create summary
       if: always()
       run: |
-        echo "## Scraping Summary" >> $GITHUB_STEP_SUMMARY
+        echo "## Scraping Summary - Batch ${{ matrix.batch }}" >> $GITHUB_STEP_SUMMARY
         echo "**Date:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         if [ -d "reports" ]; then
           echo "**Tickers processed:** $(find reports -mindepth 1 -maxdepth 1 -type d | wc -l)" >> $GITHUB_STEP_SUMMARY
           echo "**Total PDFs:** $(find reports -name "*.pdf" | wc -l)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### New files added:" >> $GITHUB_STEP_SUMMARY
-          git diff --name-only HEAD~1 HEAD 2>/dev/null | grep "\.pdf$" || echo "No new files" >> $GITHUB_STEP_SUMMARY
+          TOTAL_SIZE=$(du -sh reports/ 2>/dev/null | cut -f1)
+          echo "**Total size:** $TOTAL_SIZE" >> $GITHUB_STEP_SUMMARY
         fi
         
     - name: Upload artifacts
       if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: nse-reports-${{ github.run_number }}
+        name: nse-reports-batch-${{ matrix.batch }}-${{ github.run_number }}
         path: reports/
         retention-days: 90
+        
+    - name: Cleanup before next batch
+      if: always()
+      run: |
+        rm -rf reports/
+        echo "Cleaned up reports directory"
