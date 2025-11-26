@@ -125,11 +125,36 @@ jobs:
         # Commit first
         git commit -m "Update financial reports - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
         
-        # Pull with rebase strategy to handle any conflicts
-        git pull --rebase origin main || git pull --rebase origin master
+        # Pull and handle scrape_summary.json conflicts
+        MAX_RETRIES=5
+        RETRY_COUNT=0
+        
+        while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+          git pull --rebase origin main || git pull --rebase origin master
+          
+          # If there's a conflict in scrape_summary.json, take theirs and append ours
+          if [ -f "reports/scrape_summary.json" ] && git diff --name-only --diff-filter=U | grep -q "reports/scrape_summary.json"; then
+            echo "Resolving scrape_summary.json conflict..."
+            git checkout --theirs reports/scrape_summary.json
+            git add reports/scrape_summary.json
+            git rebase --continue
+          fi
+      
+          # Try to push
+          if git push; then
+            echo "Successfully pushed changes"
+            break
+          fi
+          
+          RETRY_COUNT=$((RETRY_COUNT + 1))
+          echo "Push failed, retry $RETRY_COUNT/$MAX_RETRIES..."
+          sleep $((RETRY_COUNT * 10))
+        done
     
-        # Push changes
-        git push
+        if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+          echo "Failed to push after $MAX_RETRIES attempts"
+          exit 1
+        fi
         
     - name: Create summary
       if: always()
