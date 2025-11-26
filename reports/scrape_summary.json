@@ -1,0 +1,10 @@
+{
+  "scrape_date": "2025-11-26T12:55:53.588087",
+  "duration_seconds": 33.36618,
+  "tickers_processed": 10,
+  "total_tickers": 10,
+  "files_downloaded": 0,
+  "test_mode": false,
+  "batch_number": 1,
+  "batch_size": 10
+}
