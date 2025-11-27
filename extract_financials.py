@@ -353,7 +353,7 @@ class FinancialStatementsExtractor:
         
         return summary
     
-def run(self, batch_size: int = 10, force_reprocess: bool = False, 
+    def run(self, batch_size: int = 10, force_reprocess: bool = False, 
             batch_number: Optional[int] = None):
         """Main execution"""
         start_time = datetime.now()
