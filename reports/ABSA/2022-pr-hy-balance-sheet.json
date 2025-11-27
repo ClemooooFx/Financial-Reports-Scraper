@@ -1,0 +1,84 @@
+{
+  "title": "On Growth: We have doubled our balance sheet with our revenue growth accelerating fastest in 2022",
+  "units": null,
+  "pages": [
+    7,
+    7,
+    20
+  ],
+  "extracted_at": "2025-11-27T09:30:59.721010",
+  "data": [
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Income",
+      "H1 2022": "20.9",
+      "H1 2021": "17.8",
+      "Comment": "17%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Net Interest Income",
+      "H1 2022": "14.4",
+      "H1 2021": "12.0",
+      "Comment": "20%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Non Funded Income",
+      "H1 2022": "6.5",
+      "H1 2021": "5.9",
+      "Comment": "11%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Operating Costs",
+      "H1 2022": "(8.8)",
+      "H1 2021": "(8.0)",
+      "Comment": "11%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Impairment",
+      "H1 2022": "(3.0)",
+      "H1 2021": "(1.9)",
+      "Comment": "(52%)"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Profit Before Tax",
+      "H1 2022": "9.1",
+      "H1 2021": "7.9",
+      "Comment": "15%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Profit After Tax",
+      "H1 2022": "6.3",
+      "H1 2021": "5.6",
+      "Comment": "13%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "",
+      "H1 2022": "",
+      "H1 2021": "",
+      "Comment": ""
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Balance Sheet",
+      "H1 2022": "",
+      "H1 2021": "",
+      "Comment": ""
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Customer Assets",
+      "H1 2022": "261.5",
+      "H1 2021": "218.9",
+      "Comment": "19%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Customer Liabilities",
+      "H1 2022": "281.7",
+      "H1 2021": "263.9",
+      "Comment": "7%"
+    },
+    {
+      "(In KES bn unless stated otherwise)\nP&L Indicators": "Total Assets",
+      "H1 2022": "445.3",
+      "H1 2021": "398.2",
+      "Comment": "12%"
+    }
+  ]
+}
