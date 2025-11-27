@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       batch_number:
-        description: 'Batch number to process (leave empty for all)'
+        description: 'Batch number to process (1-7, or 0 for all batches)'
         required: false
-        default: ''
+        default: '0'
       force_reprocess:
         description: 'Force reprocess already processed files'
         required: false
@@ -26,19 +26,15 @@ jobs:
     outputs:
       batches: ${{ steps.set-batches.outputs.batches }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-      
       - name: Set batch matrix
         id: set-batches
         run: |
-          if [ "${{ github.event.inputs.batch_number }}" == "" ]; then
+          if [ "${{ github.event.inputs.batch_number }}" == "0" ] || [ -z "${{ github.event.inputs.batch_number }}" ]; then
             echo "batches=[1,2,3,4,5,6,7]" >> $GITHUB_OUTPUT
           else
             echo "batches=[${{ github.event.inputs.batch_number }}]" >> $GITHUB_OUTPUT
           fi
+
   extract:
     needs: prepare
     runs-on: ubuntu-latest
@@ -47,15 +43,16 @@ jobs:
       max-parallel: 1  # Process one batch at a time
       matrix:
         batch: ${{ fromJson(needs.prepare.outputs.batches) }}
+    
     steps:
       - name: Free Disk Space
         run: |
           echo "Before cleanup:"
           df -h
-          # These commands remove large, pre-installed tooling/caches to free up disk space
           sudo rm -rf /usr/share/dotnet
           sudo rm -rf /opt/ghc
           sudo rm -rf /usr/local/share/boost
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
           sudo docker system prune -af
           echo "After cleanup:"
           df -h
@@ -78,7 +75,10 @@ jobs:
       - name: Run extraction for batch ${{ matrix.batch }}
         run: |
           python extract_financials.py --batch ${{ matrix.batch }} --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
-        
+        continue-on-error: true
+        timeout-minutes: 120
+        env:
+          BATCH_NUMBER: ${{ matrix.batch }}
       
       - name: Monitor disk space
         if: always()
@@ -93,8 +93,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add reports/
           
+          # Only add new/modified files
+          git add -A reports/
+          
+          # Check if there are actually changes to commit
           if git diff --cached --quiet; then
             echo "changes=false" >> $GITHUB_OUTPUT
             echo "No new extracted files"
@@ -103,20 +106,26 @@ jobs:
             echo "Found new extracted files"
           fi
       
-      - name: Commit and push changes
+      - name: Commit and push changes (Batch ${{ matrix.batch }})
         if: steps.check_changes.outputs.changes == 'true'
         run: |
+          # Commit first
           git commit -m "Extract financial statements - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
+          
+          # Pull with rebase strategy to handle any conflicts
+          git pull --rebase origin main || git pull --rebase origin master
+          
+          # Push changes
           git push
       
       - name: Create summary
         if: always()
         run: |
-          echo "## Extraction Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## Extraction Summary - Batch ${{ matrix.batch }}" >> $GITHUB_STEP_SUMMARY
           echo "**Date:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
-          if [ -f "reports/extraction_summary.json" ]; then
+          if [ -f "reports/extraction_summary_batch_${{ matrix.batch }}.json" ]; then
             echo "**Results:**" >> $GITHUB_STEP_SUMMARY
             python3 << EOF >> $GITHUB_STEP_SUMMARY
             import json
@@ -141,3 +150,9 @@ jobs:
           name: extraction-summary-batch-${{ matrix.batch }}-${{ github.run_number }}
           path: reports/extraction_summary*.json
           retention-days: 30
+      
+      - name: Cleanup before next batch
+        if: always()
+        run: |
+          rm -rf reports/
+          echo "Cleaned up reports directory"
