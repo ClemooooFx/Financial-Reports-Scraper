@@ -1,0 +1,33 @@
+{
+  "title": "Consolidated statement of cash flows At 31 December Notes 2014 2013",
+  "units": "a",
+  "pages": [
+    69,
+    125,
+    125
+  ],
+  "extracted_at": "2025-11-27T10:22:59.420504",
+  "data": [
+    {
+      "At 31 December": "Net cash flows from operating activities\nCash flows from investing activities\nPurchase of property and equipment\nPurchase of intangibles\nNet cash used in investing activities\nCash flows from financing activities\nDividends paid\nRepayment of borrowings\nNet cash used in financing activities\nNet increase/(decrease) in cash and cash equivalents\nCash and cash equivalents at start of year\nCash and cash equivalents at end of year",
+      "Notes": "35(a)\n20\n21\n35(b)\n35(b)",
+      "2014\nShs million": "9,333\n______________\n(683)\n(80)\n______________\n(763)\n______________\n(2,716)\n(992)\n______________\n(3,708)\n______________\n4,862\n1,679\n______________\n6,541",
+      "2013\nShs million": "3,814\n______________\n(656)\n(17)\n______________\n(673)\n______________\n(4,888)\n(1,390)\n______________\n(6,278)\n______________\n(3,137)\n4,816\n______________\n1,679",
+      "": NaN
+    },
+    {
+      "At 31 December": NaN,
+      "Notes": NaN,
+      "2014\nShs million": "12,293\n487\n583\n1,405\n(2)\n104\n(8,466)\n4,497\n(6,999)\n(4,146)\n(1,982)\n13,654\n1,630\n(3,725)\n______________\n9,333",
+      "2013\nShs million": "11,134\n537\n611\n1,223\n(384)\n(658)\n(15,381)\n(319)\n(860)\n(814)\n476\n13,210\n(248)\n(4,713)\n______________\n3,814",
+      "": "Profit before taxation\nAdjustment for non cash items:\nDepreciation (Note 10)\nAmortisation of intangibles assets (Note 10)\nCredit impairment charge (Note 18)\nFair value gain on financial assets designated at FVTP&L\nOther non cash items\nChanges in operating assets and liabilities\nLoans and advances to customers\nAvailable for sale securities maturing after 90 days\nBalances with Central Bank of Kenya\nFinancial assets at FVTPL\nOther assets and prepaid expenses\nCustomer deposits\nOther liabilities and accrued expenses\nIncome tax paid\nNet cash from operating activities"
+    },
+    {
+      "At 31 December": NaN,
+      "Notes": NaN,
+      "2014\nShs million": "6,956\n8,109\n799\n4,755\n1,207\n(1,873)\n(13,291)\n(121)\n______________\n6,541",
+      "2013\nShs million": "6,295\n5\n870\n9,129\n1,386\n(2,508)\n(8,760)\n(4,738)\n______________\n1,679",
+      "": "Cash in hand (Note 14)\nAvailable-for-sale securities maturing within ninety days (Note 16)\nItems in the course of collection from banks\nDue from group companies (Note 36)\nDeposit and balances due from banking institutions (Note 17)\nItems in the course of collection to banks\nDue to group companies (Note 36)\nDeposits and balances due to banking institutions (Note 24)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Consolidated and Bank Statement of Changes in Equity for the year ended 31 December 2015",
+  "units": "138",
+  "pages": [
+    76
+  ],
+  "extracted_at": "2025-11-27T10:23:14.994440",
+  "data": [
+    {
+      "": null,
+      "Share\ncapital\nShs'millions": "2 716",
+      "Other\nreserves\nShs'millions": "(138)",
+      "Regulatory\nreserve\nShs'millions": "432",
+      "Retained\nearnings\nShs'millions": "29 913",
+      "Proposed\ndividend\nShs'millions": "5 432",
+      "Total\nequity\nShs'millions": "38 355"
+    },
+    {
+      "": "Profit for the year\nOther comprehensive loss for the year",
+      "Share\ncapital\nShs'millions": "-\n-",
+      "Other\nreserves\nShs'millions": "-\n(654)",
+      "Regulatory\nreserve\nShs'millions": "-\n-",
+      "Retained\nearnings\nShs'millions": "8 401\n79",
+      "Proposed\ndividend\nShs'millions": "-\n-",
+      "Total\nequity\nShs'millions": "8 401\n(575)"
+    },
+    {
+      "": null,
+      "Share\ncapital\nShs'millions": "-\n-\n-\n-\n-\n-",
+      "Other\nreserves\nShs'millions": "(654)\n-\n53\n-\n-\n-",
+      "Regulatory\nreserve\nShs'millions": "-\n495\n-\n-\n-\n-",
+      "Retained\nearnings\nShs'millions": "8 480\n(495)\n-\n-\n(1 086)\n(4 345)",
+      "Proposed\ndividend\nShs'millions": "-\n-\n-\n(5 432)\n-\n4 345",
+      "Total\nequity\nShs'millions": "7 826\n-\n53\n(5 432)\n(1 086)\n-"
+    },
+    {
+      "": null,
+      "Share\ncapital\nShs'millions": "2 716",
+      "Other\nreserves\nShs'millions": "(739)",
+      "Regulatory\nreserve\nShs'millions": "927",
+      "Retained\nearnings\nShs'millions": "32 467",
+      "Proposed\ndividend\nShs'millions": "4 345",
+      "Total\nequity\nShs'millions": "39 716"
+    }
+  ]
+}

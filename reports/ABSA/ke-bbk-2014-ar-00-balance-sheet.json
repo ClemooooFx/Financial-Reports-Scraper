@@ -1,0 +1,151 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION Assets",
+  "units": "729",
+  "pages": [
+    7,
+    18,
+    18,
+    56,
+    65,
+    66,
+    76,
+    91,
+    95,
+    95,
+    97,
+    97,
+    100,
+    100,
+    103,
+    103,
+    103,
+    109,
+    109,
+    118,
+    118,
+    120,
+    120,
+    120,
+    121,
+    121,
+    122,
+    123
+  ],
+  "extracted_at": "2025-11-27T10:22:59.417181",
+  "data": [
+    {
+      "Category\n(as defined by IAS 39)": "Financial assets",
+      "": "Debt securities",
+      "Class\n(as determined by the Group)": "Financial assets\nheld for trading for\ntrading",
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "Equity securities",
+      "Class\n(as determined by the Group)": "Financial assets\ndesignated at fair\nvalue through\nprofit or loss",
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": "Loans and advances to banks",
+      "Subclasses": null
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "Loans to individuals\n(retail)",
+      "Class\n(as determined by the Group)": "Loans and advanc-\nes to customers",
+      "Subclasses": "Overdrafts"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "Credit cards"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "Term loans"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "Mortgages"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "Loans to corporate\nentities",
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "Large corporate customers"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "SMEs"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": "Others"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": "Items in the course of collection",
+      "Subclasses": null
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "",
+      "Class\n(as determined by the Group)": "Investment\nsecurities - debt\nsecurities",
+      "Subclasses": "Listed"
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": "Deposits from banks",
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "Retail customers",
+      "Class\n(as determined by the Group)": "Deposits from\ncustomers",
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "Large corporate\ncustomers",
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": "SMEs",
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": null
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": "Items in the course of collection",
+      "Subclasses": null
+    },
+    {
+      "Category\n(as defined by IAS 39)": "Off- balance sheet\nfinancial\nInstruments",
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": ""
+    },
+    {
+      "Category\n(as defined by IAS 39)": null,
+      "": null,
+      "Class\n(as determined by the Group)": null,
+      "Subclasses": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Consolidated statement of changes in equity",
+  "units": "206",
+  "pages": [
+    67,
+    67,
+    68,
+    68
+  ],
+  "extracted_at": "2025-11-27T10:22:59.421555",
+  "data": [
+    {
+      "Year ended 31 December 2013": "At start of year\nTotal comprehensive income\nfor the year\nProfit for the year\nOther comprehensive income\nTransfers\nTransactions with owners:\nDividends to equity holders\n- final for 2012 paid\n- interim for 2013 paid\n- proposed final for 2013\nAt end of year",
+      "Notes": "31",
+      "Share\ncapital\nShs million": "2,716",
+      "Regulatory\nreserve\nShs million": "1,461",
+      "Other\nreserve\nShs million": "(206)",
+      "Retained\nearnings\nShs million": "21,813",
+      "Proposed\ndividends\nShs millions": "3,802",
+      "Total\nShs million": "29,586"
+    },
+    {
+      "Year ended 31 December 2013": null,
+      "Notes": null,
+      "Share\ncapital\nShs million": "-\n-",
+      "Regulatory\nreserve\nShs million": "-\n-",
+      "Other\nreserve\nShs million": "-\n(195)",
+      "Retained\nearnings\nShs million": "7,623\n246",
+      "Proposed\ndividends\nShs millions": "-\n-",
+      "Total\nShs million": "7,623\n51"
+    },
+    {
+      "Year ended 31 December 2013": null,
+      "Notes": null,
+      "Share\ncapital\nShs million": "-\n-\n-\n-\n-\n____________\n2,716",
+      "Regulatory\nreserve\nShs million": "-\n(488)\n-\n-\n-\n____________\n973",
+      "Other\nreserve\nShs million": "(195)\n-\n-\n-\n-\n____________\n(401)",
+      "Retained\nearnings\nShs million": "7,869\n488\n-\n(1,086)\n(2,716)\n____________\n26,368",
+      "Proposed\ndividends\nShs millions": "-\n-\n(3,802)\n-\n2,716\n____________\n2,716",
+      "Total\nShs million": "7,674\n-\n(3,802)\n(1,086)\n-\n____________\n32,372"
+    }
+  ]
+}

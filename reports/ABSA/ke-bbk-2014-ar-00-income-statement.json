@@ -1,0 +1,33 @@
+{
+  "title": "Consolidated statement of profit or loss For the year ended 31 December Notes 2014 2013",
+  "units": "825",
+  "pages": [
+    63,
+    101
+  ],
+  "extracted_at": "2025-11-27T10:22:59.419010",
+  "data": [
+    {
+      "For the year ended 31 December": "Interest income\nInterest expense\nNet interest income\nFees and commission income\nFees and commission expense\nNet fees and commission income\nNet foreign exchange income\nNet income from financial instruments carried\nat fair value through profit or loss\nOther operating income\nTotal income\nProvision for impairment of loans and advances to customers\nNet operating income\nEmployee benefits\nOther operating expenses\nDepreciation and amortisation expense\nOperating expenses\nRestructuring expenses\nProfit before income tax\nIncome tax expense\nProfit for the year\nEarnings per share (Shs)\nBasic and diluted\nDividends (Shs million)\nInterim paid\nProposed final",
+      "Notes": "5\n5\n6\n6\n7\n18\n8\n9\n10\n11\n12\n13\n13",
+      "2014\nShs million": "22,941\n(3,337)\n______________\n19,604\n______________\n7,189\n(825)\n______________\n6,364\n______________\n2,042\n266\n12\n______________\n28,288\n(1,405)\n______________\n26,883\n(8,100)\n(5,420)\n(1,070)\n______________\n(14,590)\n12,293\n-\n______________\n12,293\n(3,906)\n______________\n8,387\n1.54\n-\n5,432\n______________\n5,432",
+      "2013\nShs million": "21,297\n(2,437)\n______________\n18,860\n______________\n7,237\n(717)\n______________\n6,520\n______________\n2,084\n449\n9\n______________\n27,922\n(1,223)\n______________\n26,699\n(8,114)\n(5,515)\n(1,148)\n______________\n(14,777)\n11,922\n(788)\n______________\n11,134\n(3,511)\n______________\n7,623\n1.40\n1,086\n2,716\n______________\n3,802",
+      "31 December 2014": NaN,
+      "Level 1\nShs million": NaN,
+      "Level 2\nShs million": NaN,
+      "Level 3\nShs million": NaN,
+      "Total balance\nShs million": NaN
+    },
+    {
+      "For the year ended 31 December": NaN,
+      "Notes": NaN,
+      "2014\nShs million": NaN,
+      "2013\nShs million": NaN,
+      "31 December 2014": "Assets\nFinancial assets at fair value through profit or loss\n– Trading securities\nAvailable for sale financial assets\n– Debt investments\nTotal assets",
+      "Level 1\nShs million": "6,133\n-\n______________\n6,133",
+      "Level 2\nShs million": "-\n51,033\n______________\n51,033",
+      "Level 3\nShs million": "-\n-\n______________\n-",
+      "Total balance\nShs million": "6,133\n51,033\n______________\n57,166"
+    }
+  ]
+}
