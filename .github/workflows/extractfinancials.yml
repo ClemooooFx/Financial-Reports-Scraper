@@ -80,7 +80,7 @@ jobs:
           else
             python extract_financials.py --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
           fi
-        timeout-minutes: 120
+        
       
       - name: Monitor disk space
         if: always()
@@ -120,19 +120,20 @@ jobs:
           
           if [ -f "reports/extraction_summary.json" ]; then
             echo "**Results:**" >> $GITHUB_STEP_SUMMARY
-            python3 << EOF >> $GITHUB_STEP_SUMMARY
-import json
-with open('reports/extraction_summary.json') as f:
-    data = json.load(f)
-print(f"- Total PDFs: {data['total_pdfs']}")
-print(f"- Successful: {data['successful']}")
-print(f"- Skipped: {data['skipped']}")
-print(f"- Failed: {data['failed']}")
-print()
-print("**Statements Extracted:**")
-for stmt, count in data['statements_extracted'].items():
-    print(f"- {stmt}: {count}")
-EOF
+            python3 << EOF >> $GITHUB_STEP_SUMMARY 
+            import json
+            with open('reports/extraction_summary.json') as f:
+                data = json.load(f)
+            print(f"- Total PDFs: {data['total_pdfs']}")
+            print(f"- Successful: {data['successful']}")
+            print(f"- Skipped: {data['skipped']}")
+            print(f"- Failed: {data['failed']}")
+            print()
+            print("**Statements Extracted:**")
+            for stmt, count in data['statements_extracted'].items():
+                print(f"- {stmt}: {count}")
+
+            EOF
           fi
       
       - name: Upload summary artifact
