@@ -291,7 +291,34 @@ class FinancialStatementsExtractor:
                 unprocessed.append(pdf_path)
         
         return unprocessed
-    
+
+
+    def get_pdf_batch(self, batch_number: int, batch_size: int = 10, 
+                      force_reprocess: bool = False) -> List[Path]:
+        """Get a specific batch of PDFs"""
+        # Get all PDFs based on force_reprocess flag
+        if force_reprocess:
+            all_pdfs = self.get_all_pdfs()
+        else:
+            all_pdfs = self.get_unprocessed_pdfs()
+        
+        if not all_pdfs:
+            return []
+        
+        # Calculate batch indices
+        start_idx = (batch_number - 1) * batch_size
+        end_idx = start_idx + batch_size
+        
+        # Get batch
+        batch_pdfs = all_pdfs[start_idx:end_idx]
+        
+        logger.info(f"\n{'='*70}")
+        logger.info(f"BATCH MODE: Processing Batch {batch_number}")
+        logger.info(f"PDFs {start_idx + 1}-{min(end_idx, len(all_pdfs))} of {len(all_pdfs)}")
+        logger.info(f"{'='*70}\n")
+        
+        return batch_pdfs
+                          
     def process_batch(self, pdfs: List[Path], force_reprocess: bool = False) -> Dict:
         """Process a batch of PDFs"""
         summary = {
@@ -327,111 +354,88 @@ class FinancialStatementsExtractor:
         return summary
     
     def run(self, batch_size: int = 10, force_reprocess: bool = False, 
-            batch_number: Optional[int] = None):
-        """Main execution"""
-        start_time = datetime.now()
-        
-        logger.info("\n" + "="*70)
-        logger.info("FINANCIAL STATEMENTS EXTRACTOR")
-        logger.info("="*70)
-        logger.info(f"Start: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
-        
-        # Get PDFs to process
+        batch_number: Optional[int] = None):
+    """Main execution"""
+    start_time = datetime.now()
+    
+    logger.info("\n" + "="*70)
+    logger.info("FINANCIAL STATEMENTS EXTRACTOR")
+    logger.info("="*70)
+    logger.info(f"Start: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
+    
+    # Get PDFs to process - use batch method if batch_number provided
+    if batch_number:
+        pdfs_batch = self.get_pdf_batch(batch_number, batch_size, force_reprocess)
+        if not pdfs_batch:
+            logger.info(f"No PDFs to process in batch {batch_number}!")
+            return
+    else:
+        # Process all PDFs
         if force_reprocess:
             logger.info("Force reprocess mode: Processing ALL PDFs")
-            pdfs = self.get_all_pdfs()
+            pdfs_batch = self.get_all_pdfs()
         else:
             logger.info("Processing only unprocessed PDFs")
-            pdfs = self.get_unprocessed_pdfs()
-        
-        if not pdfs:
-            logger.info("No PDFs to process!")
-            return
-        
-        logger.info(f"Found {len(pdfs)} PDFs to process")
-        
-        # Handle batch processing
-        if batch_number:
-            start_idx = (batch_number - 1) * batch_size
-            end_idx = start_idx + batch_size
-            pdfs_batch = pdfs[start_idx:end_idx]
-            
-            logger.info(f"\nProcessing Batch {batch_number}")
-            logger.info(f"PDFs {start_idx + 1}-{min(end_idx, len(pdfs))} of {len(pdfs)}")
-        else:
-            pdfs_batch = pdfs
+            pdfs_batch = self.get_unprocessed_pdfs()
         
         if not pdfs_batch:
-            logger.info(f"No PDFs in batch {batch_number}")
+            logger.info("No PDFs to process!")
             return
-        
-        # Process in chunks
-        all_summaries = []
-        for i in range(0, len(pdfs_batch), batch_size):
-            chunk = pdfs_batch[i:i + batch_size]
-            chunk_num = (i // batch_size) + 1
-            
-            logger.info(f"\n{'='*70}")
-            logger.info(f"Processing Chunk {chunk_num} ({len(chunk)} PDFs)")
-            logger.info(f"{'='*70}")
-            
-            summary = self.process_batch(chunk, force_reprocess)
-            all_summaries.append(summary)
-            
-            logger.info(f"\nChunk {chunk_num} Summary:")
-            logger.info(f"  Total: {summary['total']}")
-            logger.info(f"  Successful: {summary['successful']}")
-            logger.info(f"  Skipped: {summary['skipped']}")
-            logger.info(f"  Failed: {summary['failed']}")
-            logger.info(f"  Statements extracted:")
-            for stmt_type, count in summary['statements_extracted'].items():
-                logger.info(f"    {stmt_type}: {count}")
-        
-        # Aggregate summaries
-        total_summary = {
-            'extraction_date': datetime.now().isoformat(),
-            'duration_seconds': (datetime.now() - start_time).total_seconds(),
-            'batch_number': batch_number if batch_number else 'all',
-            'batch_size': batch_size,
-            'force_reprocess': force_reprocess,
-            'total_pdfs': sum(s['total'] for s in all_summaries),
-            'successful': sum(s['successful'] for s in all_summaries),
-            'skipped': sum(s['skipped'] for s in all_summaries),
-            'failed': sum(s['failed'] for s in all_summaries),
-            'statements_extracted': {
-                'balance_sheet': sum(s['statements_extracted']['balance_sheet'] for s in all_summaries),
-                'income_statement': sum(s['statements_extracted']['income_statement'] for s in all_summaries),
-                'cash_flow': sum(s['statements_extracted']['cash_flow'] for s in all_summaries),
-                'equity_changes': sum(s['statements_extracted']['equity_changes'] for s in all_summaries)
-            }
-        }
-        
-        # Save summary
-        if batch_number:
-            summary_path = self.base_dir / f'extraction_summary_batch_{batch_number}.json'
-        else:
-            summary_path = self.base_dir / 'extraction_summary.json'
-        
-        with open(summary_path, 'w') as f:
-            json.dump(total_summary, f, indent=2)
-        
-        # Final summary
-        end_time = datetime.now()
-        duration = end_time - start_time
-        
-        logger.info("\n" + "="*70)
-        logger.info("EXTRACTION COMPLETE")
-        logger.info("="*70)
-        logger.info(f"Total PDFs: {total_summary['total_pdfs']}")
-        logger.info(f"Successful: {total_summary['successful']}")
-        logger.info(f"Skipped: {total_summary['skipped']}")
-        logger.info(f"Failed: {total_summary['failed']}")
-        logger.info(f"\nStatements Extracted:")
-        for stmt_type, count in total_summary['statements_extracted'].items():
-            logger.info(f"  {stmt_type}: {count}")
-        logger.info(f"\nDuration: {duration}")
-        logger.info(f"Summary saved: {summary_path}")
-        logger.info("="*70 + "\n")
+    
+    logger.info(f"Found {len(pdfs_batch)} PDFs to process")
+    
+    # Process the batch (no chunking needed - batch is already the right size)
+    summary = self.process_batch(pdfs_batch, force_reprocess)
+    
+    logger.info(f"\nBatch Summary:")
+    logger.info(f"  Total: {summary['total']}")
+    logger.info(f"  Successful: {summary['successful']}")
+    logger.info(f"  Skipped: {summary['skipped']}")
+    logger.info(f"  Failed: {summary['failed']}")
+    logger.info(f"  Statements extracted:")
+    for stmt_type, count in summary['statements_extracted'].items():
+        logger.info(f"    {stmt_type}: {count}")
+    
+    # Prepare final summary
+    total_summary = {
+        'extraction_date': datetime.now().isoformat(),
+        'duration_seconds': (datetime.now() - start_time).total_seconds(),
+        'batch_number': batch_number if batch_number else 'all',
+        'batch_size': batch_size,
+        'force_reprocess': force_reprocess,
+        'total_pdfs': summary['total'],
+        'successful': summary['successful'],
+        'skipped': summary['skipped'],
+        'failed': summary['failed'],
+        'statements_extracted': summary['statements_extracted']
+    }
+    
+    # Save summary
+    if batch_number:
+        summary_path = self.base_dir / f'extraction_summary_batch_{batch_number}.json'
+    else:
+        summary_path = self.base_dir / 'extraction_summary.json'
+    
+    with open(summary_path, 'w') as f:
+        json.dump(total_summary, f, indent=2)
+    
+    # Final summary
+    end_time = datetime.now()
+    duration = end_time - start_time
+    
+    logger.info("\n" + "="*70)
+    logger.info("EXTRACTION COMPLETE")
+    logger.info("="*70)
+    logger.info(f"Total PDFs: {total_summary['total_pdfs']}")
+    logger.info(f"Successful: {total_summary['successful']}")
+    logger.info(f"Skipped: {total_summary['skipped']}")
+    logger.info(f"Failed: {total_summary['failed']}")
+    logger.info(f"\nStatements Extracted:")
+    for stmt_type, count in total_summary['statements_extracted'].items():
+        logger.info(f"  {stmt_type}: {count}")
+    logger.info(f"\nDuration: {duration}")
+    logger.info(f"Summary saved: {summary_path}")
+    logger.info("="*70 + "\n")
 
 
 def main():
