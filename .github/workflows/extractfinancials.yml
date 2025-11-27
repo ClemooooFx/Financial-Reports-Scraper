@@ -13,9 +13,9 @@ on:
         type: boolean
         default: false
   
-  # Or run on schedule (weekly on Sundays at 3 AM UTC)
+  # Quarterly schedule: Jan 15, Apr 15, Jul 15, Oct 15 at 3 AM UTC
   schedule:
-    - cron: '0 3 * * 0'
+    - cron: '0 3 15 1,4,7,10 *'
 
 permissions:
   contents: write
@@ -28,11 +28,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # Added to keep the initial checkout fast and resource-friendly
       
       - name: Check if extraction needed
         id: check
         run: |
-          # Count unprocessed PDFs
+          # Count unprocessed PDFs by checking for matching PDF files that DON'T have corresponding JSON files
+          # Note: This file check logic is complex and might need refinement depending on your exact file structure
           unprocessed=$(find reports -name "*.pdf" ! -name "*-balance-sheet.json" -o ! -name "*-income-statement.json" | wc -l)
           if [ "${{ github.event.inputs.force_reprocess }}" == "true" ] || [ $unprocessed -gt 0 ]; then
             echo "should_run=true" >> $GITHUB_OUTPUT
@@ -51,6 +54,7 @@ jobs:
         run: |
           echo "Before cleanup:"
           df -h
+          # These commands remove large, pre-installed tooling/caches to free up disk space
           sudo rm -rf /usr/share/dotnet
           sudo rm -rf /opt/ghc
           sudo rm -rf /usr/local/share/boost
@@ -120,7 +124,7 @@ jobs:
           
           if [ -f "reports/extraction_summary.json" ]; then
             echo "**Results:**" >> $GITHUB_STEP_SUMMARY
-            python3 << EOF >> $GITHUB_STEP_SUMMARY 
+            python3 << EOF >> $GITHUB_STEP_SUMMARY
             import json
             with open('reports/extraction_summary.json') as f:
                 data = json.load(f)
