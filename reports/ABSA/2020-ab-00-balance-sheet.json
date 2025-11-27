@@ -1,0 +1,301 @@
+{
+  "title": "I Statement of financial position as at 31 December 2020 Shs '000 Shs '000 Shs '000 Shs '000 Shs '000 Shs '000 Audited Audited Audited Audited Audited Audited",
+  "units": "fvoci",
+  "pages": [
+    1,
+    1
+  ],
+  "extracted_at": "2025-11-27T09:04:46.768762",
+  "data": [
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": null,
+      "Ba": "December\n2019\nShs '000\nAudited\n7,091,076\n21,716,447\n43,774,296\n-\n-\n-\n-\n-\n78,785,265\n78,785,265\n-\n2,000,000\n1,803,084\n292,160\n194,894,941\n9,203,788\n-\n372,761\n-\n-\n2,889,187\n35,299\n538,836\n3,097,482\n-\n7,614,578",
+      "nk": "December\n2020\nShs '000\nAudited\n5,829,269\n12,430,538\n36,375,211\n-\n-\n-\n-\n-\n89,164,217\n89,164,217\n-\n2,718,500\n2,929,648\n773,099\n208,854,694\n2,933,836\n-\n427,751\n-\n-\n2,855,402\n34,236\n342,673\n3,141,054\n71,668\n9,053,976",
+      "Gro": "December\n2019\nShs '000\nAudited\n7,091,076\n21,716,446\n43,774,296\n-\n-\n-\n-\n-\n79,221,471\n79,221,471\n-\n2,000,000\n1,803,084\n424,950\n194,894,941\n8,702,992\n-\n-\n-\n-\n2,889,401\n35,299\n617,994\n3,123,014\n-\n7,686,827",
+      "up": "December\n2020\nShs '000\nAudited\n5,829,269\n12,430,538\n36,375,211\n-\n-\n-\n-\n-\n89,681,995\n89,681,995\n-\n2,718,500\n2,929,648\n993,112\n208,854,694\n2,675,696\n-\n-\n-\n-\n2,855,555\n34,236\n414,449\n3,187,961\n71,668\n10,388,144",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "21 Total assets",
+      "Ba": "374,109,200",
+      "nk": "377,935,772",
+      "Gro": "373,981,791",
+      "up": "379,440,676",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "B Liabilities\n22 Balances due to Central Bank of Kenya\n23 Customers' deposits\n24 Deposits and balances due to banking institutions (Local)\n25 Deposits and balances due to banking institutions (Foreign)\n26 Other money market deposits\n27 Borrowed funds\n28 Balances due to banking institutions in the group\n29 Tax payable\n30 Dividends payable\n31 Deferred tax liability\n32 Retirement benefit liability\n33 Other liabilities",
+      "Ba": "-\n238,291,230\n3,753,767\n329,655\n-\n-\n72,688,316\n-\n-\n-\n-\n14,966,818",
+      "nk": "-\n253,630,105\n3,844,866\n230,900\n-\n-\n58,277,071\n-\n-\n-\n-\n16,983,547",
+      "Gro": "-\n237,738,654\n3,753,767\n329,655\n-\n-\n71,977,669\n-\n-\n-\n14,992,630",
+      "up": "-\n253,630,105\n3,844,866\n230,900\n-\n-\n58,240,341\n-\n-\n-\n-\n16,990,525",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "34 Total liabilities",
+      "Ba": "330,029,786",
+      "nk": "332,966,489",
+      "Gro": "328,792,375",
+      "up": "332,936,737",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "C Shareholders' Funds\n35 Paid up/assigned capital\n36 Share premium/(discount)\n37 Revaluation reserves\n38 Retained earnings/(accumulated losses)\n39 Statutory loan loss reserve\n40 Other reserves\n41 Proposed dividend\n42 Capital grants",
+      "Ba": "2,715,768\n-\n275,528\n35,990,855\n-\n208,881\n4,888,382\n-",
+      "nk": "2,715,768\n-\n1,071,236\n40,999,674\n-\n182,605\n-\n-",
+      "Gro": "2,715,768\n-\n281,247\n37,095,138\n-\n208,881\n4,888,382\n-",
+      "up": "2,715,768\n-\n1,081,930\n42,523,636\n-\n182,605\n-\n-",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "43 Total shareholders' funds",
+      "Ba": "44,079,414",
+      "nk": "44,969,283",
+      "Gro": "45,189,416",
+      "up": "46,503,939",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "44 Minority interest",
+      "Ba": "-",
+      "nk": "",
+      "Gro": "-",
+      "up": "-",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "45 Total liabilities and total shareholders funds",
+      "Ba": "374,109,200",
+      "nk": "377,935,772",
+      "Gro": "373,981,791",
+      "up": "379,440,676",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "II Statement of comprehensive income\n1.0 Interest income\n1.1 Loans and advances to customers\n1.2 Government securities\n1.3 Deposits and placements with banking institutions\n1.4 Other interest income",
+      "Ba": "22,544,646\n8,065,268\n377,506\n-",
+      "nk": "22,303,047\n8,924,100\n166,428\n-",
+      "Gro": "22,544,646\n8,101,769\n377,506\n-",
+      "up": "22,303,047\n8,970,618\n166,428\n-",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "1.5 Total interest income\n2.0 Interest expense\n2.1 Customer deposits\n2.2 Deposits and placements with banking institutions\n2.3 Other interest expenses",
+      "Ba": "30,987,420\n6,466,845\n1,255,049\n138,722",
+      "nk": "31,393,575\n6,038,015\n1,892,645\n182,041",
+      "Gro": "31,023,921\n6,454,616\n1,252,044\n138,722",
+      "up": "31,440,093\n5,984,154\n1,892,644\n182,041",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "2.4 Total interest expenses\n3.0 Net interest income\n4.0 Non-interest income\n4.1 Fees and commissions income on loans & advances\n4.2 Other fees and commissions\n4.3 Foreign exchange trading income\n4.4 Dividend income\n4.5 Other income",
+      "Ba": "7,860,616\n23,126,804\n1,410,349\n4,125,135\n3,640,577\n-\n841,964",
+      "nk": "8,112,701\n23,280,874\n1,257,897\n3,414,733\n4,447,966\n-\n1,184,513",
+      "Gro": "7,845,382\n23,178,539\n1,410,349\n4,710,388\n3,640,577\n-\n826,998",
+      "up": "8,058,839\n23,381,254\n1,257,897\n4,259,828\n4,447,966\n-\n1,174,613",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "4.6 Total non-interest income",
+      "Ba": "10,018,025",
+      "nk": "10,305,109",
+      "Gro": "10,588,312",
+      "up": "11,140,304",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "5.0 Total operating income",
+      "Ba": "33,144,829",
+      "nk": "33,585,983",
+      "Gro": "33,766,851",
+      "up": "34,521,558",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "6.0 Operating expenses\n6.1 Loan loss provision\n6.2 Staff costs\n6.3 Directors emoluments\n6.4 Rental charge\n6.5 Depreciation on property and equipment\n6.6 Amortisation charges\n6.7 Other operating expenses",
+      "Ba": "4,199,411\n9,999,145\n172,623\n92,887\n1,069,667\n391,749\n5,361,875",
+      "nk": "9,026,783\n9,455,599\n223,980\n124,499\n987,433\n313,771\n5,154,058",
+      "Gro": "4,200,588\n10,158,447\n178,783\n93,371\n1,069,728\n392,501\n5,392,198",
+      "up": "9,026,772\n9,761,649\n234,214\n124,499\n987,494\n323,605\n5,215,105",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "6.8 Total operating expenses",
+      "Ba": "21,287,357",
+      "nk": "25,286,123",
+      "Gro": "21,485,616",
+      "up": "25,673,338",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "7.0 Profit before tax and exceptional items\n8 Exceptional items\n9 Profit after exceptional items",
+      "Ba": "11,857,472\n1,528,986\n10,328,486",
+      "nk": "8,299,860\n3,201,219\n5,098,641",
+      "Gro": "12,281,235\n1,528,986\n10,752,249",
+      "up": "8,848,220\n3,201,987\n5,646,233",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "10 Current tax\n11 Deferred tax",
+      "Ba": "(3,884,767)\n717,727",
+      "nk": "(1,757,727)\n402,530",
+      "Gro": "(4,021,267)\n725,095",
+      "up": "(1,910,289)\n426,065",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "12 Profit after tax and exceptional items",
+      "Ba": "7,161,446",
+      "nk": "3,743,444",
+      "Gro": "7,456,077",
+      "up": "4,162,009",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "13 Other comprehensive Income\n13.1 Gains/(losses) from translating the financial statements of\nforeign operations\n13.2 Fair value changes in available for sale financial assets\n13.3 Revaluation surplus on property, plant and equipment\n13.4 Share of other comprehensive income of associates\n13.5 Income tax relating to components of other comprehensive\nincome",
+      "Ba": "(361,612)\n108,484",
+      "nk": "1,136,914\n(341,205)",
+      "Gro": "(355,299)\n106,590",
+      "up": "1,144,020\n(343,337)",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "14 Other comprehensive income for the year net of tax",
+      "Ba": "(253,128)",
+      "nk": "795,709",
+      "Gro": "(248,709)",
+      "up": "800,683",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "15 Total comprehensive income for the year",
+      "Ba": "6,908,318",
+      "nk": "4,539,153",
+      "Gro": "7,207,368",
+      "up": "4,962,692",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": "Earnings per share (Shs)\nDividends per share (Shs)",
+      "Ba": "1.32\n1.10",
+      "nk": "0.69\n-",
+      "Gro": "1.37\n1.10",
+      "up": "0.77\n-",
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": NaN,
+      "Bank": NaN,
+      "": NaN
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": null,
+      "Bank": "December\n2019\nShs '000\nAudited\n13,518,692\n2,601,418",
+      "": "December\n2020\nShs '000\nAudited\n17,099,144\n2,432,972"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "c) Total non performing loans and advances\nd) less: loan loss provisions\ne) Net non performing loans (c-d)\nf) Discounted value of securities",
+      "Bank": "10,917,274\n7,807,800\n3,109,474\n1,981,629",
+      "": "14,666,172\n9,722,309\n4,943,863\n3,651,088"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "g) Net NPLs (excess)/exposure (e-f)",
+      "Bank": "1,127,845",
+      "": "1,292,775"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "2) Insider loans and advances\na) Directors, shareholders and associates\nb) Employees",
+      "Bank": "39,330\n10,340,168",
+      "": "37,019\n10,053,555"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "c) Total insider loans and advances\n3) Off balance sheet items\na) Letters of credit, guarantees, acceptances\nb) Forwards, swaps and options\nc) Other contingent liabilities",
+      "Bank": "10,379,498\n23,208,133\n103,646,010\n-",
+      "": "10,090,574\n32,065,910\n93,379,388\n-"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "d) Total contingent liabilities\n4 Capital strength\na) Core capital\nb) Minimum statutory capital\nc) Excess/(deficiency)\nd) Supplementary capital",
+      "Bank": "126,854,143\n38,706,623\n1,000,000\n37,706,623\n7,601,251",
+      "": "125,445,298\n43,715,442\n1,000,000\n42,715,442\n8,193,742"
+    },
+    {
+      "I Statement of financial position as at 31 December 2020\nA Assets\n1 Cash balances (both local and foreign)\n2 Balances due from Central Bank of Kenya\n3 Kenya Government and other securities held for dealing purposes\n4 Financial Assets at fair value through profit and loss\n5 Investment Securities:\na) Held to maturity:\na. Kenya Government securities\nb. Other securities\nb) Fair value through other comprehensive income (FVOCI):\na. Kenya Government securities\nb. Other securities\n6 Deposits and balances due from local banking institutions\n7 Deposits and balances due from banking institutions abroad\n8 Tax recoverable\n9 Loans and advances to customers (net)\n10 Balances due from banking institutions in the group\n11 Investment in associates\n12 Investment in subsidiary companies\n13 Investment in joint ventures\n14 Investment properties\n15 Property and equipment\n16 Prepaid operating rental leases\n17 Intangible assets\n18 Deferred tax\n19 Retirement benefit asset\n20 Other assets": NaN,
+      "Ba": NaN,
+      "nk": NaN,
+      "Gro": NaN,
+      "up": NaN,
+      "III Other disclosures\n1) Non-performing loans and advances\na) Gross non-performing loans and advances\nb) Less: interest in suspense": "e) Total capital\nf) Total risk weighted assets\ng) Core capital/total deposit liabilities\nh) Minimum statutory ratio\ni) Excess/(deficiency)\nj) Core capital/total risk weighted assets\nk) Minimum statutory ratio\nl) Excess/(deficiency)\nm) Total capital/total risk weighted assets\nn) Minimum statutory ratio\no) Excess/(deficiency)\np) Adjusted core capital/total deposit liabilities*\nq) Adjusted core capital/total risk weighted assets*\nr) Adjusted total capital/total risk weighted assets*\n5 Liquidity\na) Liquidity ratio\nb) Minimum statutory ratio\nc) Excess/(deficiency)",
+      "Bank": "46,307,874\n277,812,947\n16.3%\n8.0%\n8.3%\n13.9%\n10.5%\n3.4%\n16.6%\n14.5%\n2.1%\n16.8%\n14.3%\n17.0%\n39.8%\n20.0%\n19.8%",
+      "": "51,909,184\n297,314,183\n17.3%\n8.0%\n9.3%\n14.7%\n10.5%\n4.2%\n17.5%\n14.5%\n3.0%\n17.5%\n14.8%\n17.6%\n38.7%\n20.0%\n18.7%"
+    }
+  ]
+}
