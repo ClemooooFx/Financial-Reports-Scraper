@@ -24,31 +24,29 @@ jobs:
   prepare:
     runs-on: ubuntu-latest
     outputs:
-      should_run: ${{ steps.check.outputs.should_run }}
+      batches: ${{ steps.set-batches.outputs.batches }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1 # Added to keep the initial checkout fast and resource-friendly
+          fetch-depth: 1
       
-      - name: Check if extraction needed
-        id: check
+      - name: Set batch matrix
+        id: set-batches
         run: |
-          # Count unprocessed PDFs by checking for matching PDF files that DON'T have corresponding JSON files
-          # Note: This file check logic is complex and might need refinement depending on your exact file structure
-          unprocessed=$(find reports -name "*.pdf" ! -name "*-balance-sheet.json" -o ! -name "*-income-statement.json" | wc -l)
-          if [ "${{ github.event.inputs.force_reprocess }}" == "true" ] || [ $unprocessed -gt 0 ]; then
-            echo "should_run=true" >> $GITHUB_OUTPUT
+          if [ "${{ github.event.inputs.batch_number }}" == "" ]; then
+            echo "batches=[1,2,3,4,5,6,7]" >> $GITHUB_OUTPUT
           else
-            echo "should_run=false" >> $GITHUB_OUTPUT
-            echo "No unprocessed PDFs found"
+            echo "batches=[${{ github.event.inputs.batch_number }}]" >> $GITHUB_OUTPUT
           fi
-
   extract:
     needs: prepare
-    if: needs.prepare.outputs.should_run == 'true'
     runs-on: ubuntu-latest
-    
+    strategy:
+      fail-fast: false
+      max-parallel: 1  # Process one batch at a time
+      matrix:
+        batch: ${{ fromJson(needs.prepare.outputs.batches) }}
     steps:
       - name: Free Disk Space
         run: |
@@ -77,13 +75,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install pdfplumber pandas
       
-      - name: Run extraction
+      - name: Run extraction for batch ${{ matrix.batch }}
         run: |
-          if [ -n "${{ github.event.inputs.batch_number }}" ]; then
-            python extract_financials.py --batch ${{ github.event.inputs.batch_number }} --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
-          else
-            python extract_financials.py --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
-          fi
+          python extract_financials.py --batch ${{ matrix.batch }} --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
         
       
       - name: Monitor disk space
@@ -112,7 +106,7 @@ jobs:
       - name: Commit and push changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
-          git commit -m "Extract financial statements - $(date +'%Y-%m-%d')"
+          git commit -m "Extract financial statements - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
           git push
       
       - name: Create summary
@@ -144,6 +138,6 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: extraction-summary-${{ github.run_number }}
+          name: extraction-summary-batch-${{ matrix.batch }}-${{ github.run_number }}
           path: reports/extraction_summary*.json
           retention-days: 30
