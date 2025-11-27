@@ -4,3 +4,5 @@ lxml==5.1.0
 pysocks==1.7.1
 urllib3[socks]
 curl-cffi
+pdfplumber>=0.10.0
+pandas>=2.0.0
