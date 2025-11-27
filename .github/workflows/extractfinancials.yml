@@ -1,5 +1,4 @@
 name: Extract Financial Statements
-
 on:
   # Run after scraper completes or manually
   workflow_dispatch:
