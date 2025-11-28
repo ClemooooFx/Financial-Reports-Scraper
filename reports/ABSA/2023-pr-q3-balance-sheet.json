@@ -1,143 +1,235 @@
 {
-  "title": "Balance Sheet production Customer Assets",
-  "units": null,
+  "title": "• Accelerated balance sheet",
+  "units": "kes",
   "pages": [
-    18
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30
   ],
-  "extracted_at": "2025-11-28T06:04:17.225789",
+  "extracted_at": "2025-11-28T18:47:18.147529",
   "data": [
     {
-      "0": "Q3 2022\nVs Observed YTD Momentum\nIncome Statement\n(KES billions unless stated otherwise)\nActual\nYoY\nQ1\nQ2\nQ3",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "Q3 2022 Vs Observed YTD Momentum Income Statement Actual YoY Q1 Q2 Q3",
+      "0": "Q3 2022 Vs Observed YTD Momentum Income Statement Actual YoY Q1 Q2 Q3",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "(KES billions unless stated otherwise)",
+      "0": "(KES billions unless stated otherwise)",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "01",
+      "0": "01",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "Retail\n16.9\n16%\n9%\n14%\n16%\nBusiness Bank\n6.3\n29%\n15%\n22%\n29%\nCorporate Bank\n6.3\n33%\n17%\n24%\n33%\nGlobal Markets\n3.4\n25%\n18%\n15%\n25%\nJAWs\n12%\n2%\n6%\n12%\nPAT\n10.7\n30%\n22%\n13%\n30%\nReturn on Equity\n24%\n20%\n23%\n24%\nCustomer Liabilities\n281.1\n5%\n5%\n7%\n5%\nTotal Capital Ratio\n16.2%\n17.0%\n16.4%\n16.2%\nGross NPL Ratio\n6.9%\n8.6%\n7.4%\n7.0%\n6.9%\nLLR\n2.3%\n2.2%\n2.0%\n2.3%\n2.3%\nValuations\nCurrent Year\nPrior Year\n06",
-      "1": "",
-      "2": "Growth Momentum\nOperating leverage\nCost to Income Ratio\n40%\n45%\n42%\n40%\nProfitability\nPBT\n15.1\n28%\n26%\n15%\n28%\nBalance Sheet production \nCustomer Assets\n289.4\n26%\n11%\n19%\n26%\nPortfolio Quality\nCurrent Year\nPrior Year\nImpairment\n5.0\n3.4\n1.2\n3.0\n5.0",
-      "3": "",
-      "4": ""
+      "item": "03",
+      "0": "03",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "01",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "04",
+      "0": "04",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "05",
+      "0": "05",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "06",
+      "0": "06",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "02",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "Growth momentum: Accelerated revenue growth across all businesses 1 Performance diversification1 Highlights (KES millions unless stated otherwise) +25% +22% • All businesses are 23,275 delivering double digits in revenue 10,175 18,576 growth +16% YoY 16% 33% 29% 25% 8,738 • New businesses are accelerating Non- Funded Income growth NII NFI NII NFI • NII up 25% driven by both rate and volume improvements Q3 2021 Q3 2022 Notes 1. Total Revenue of KES 33.5 billion split at 51% retail and 49% wholesale",
+      "0": "Growth momentum: Accelerated revenue growth across all businesses 1 Performance diversification1 Highlights (KES millions unless stated otherwise) +25% +22% • All businesses are 23,275 delivering double digits in revenue 10,175 18,576 growth +16% YoY 16% 33% 29% 25% 8,738 • New businesses are accelerating Non- Funded Income growth NII NFI NII NFI • NII up 25% driven by both rate and volume improvements Q3 2021 Q3 2022 Notes 1. Total Revenue of KES 33.5 billion split at 51% retail and 49% wholesale",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "None None None None None None",
+      "0": NaN,
+      "5": "None",
+      "6": "None",
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "03",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "None None None +1 6",
+      "0": NaN,
+      "5": "+1",
+      "6": "6",
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "NFI NII NFI None None",
+      "0": NaN,
+      "5": "None",
+      "6": "None",
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "0.6",
+      "0": "0.6",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "04",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "and Advances",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "split by currency",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "Ratio",
+      "0": "Ratio",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "05",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "14.7% Industry 8.6% 6.9% Q3 2021 Q3 2022",
+      "0": "14.7% Industry 8.6% 6.9% Q3 2021 Q3 2022",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "None None",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "None None None None None None None",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
     },
     {
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": "",
-      "4": ""
+      "item": "None None None None None None None None",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
+    },
+    {
+      "item": "6",
+      "0": "6",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
+    },
+    {
+      "item": "▲ ▲ ▲ ▲ ▲ 21% ▲ 20% ▲ 13% ▲ (12%) ▲ (21%) ▲ (24%) ▲ (25%) ▲ ▲ (33%) (56%) ▲ Absa Stock Price2 #1 #1 #2 #2 #1 Dividend Yield #2 #1 - #2 Top Quartile Absa ROE3 17% 18% 9% 19% 24% Industry ROE3 16% 15% 11% 16% 20%",
+      "0": "▲ ▲ ▲ ▲ ▲ 21% ▲ 20% ▲ 13% ▲ (12%) ▲ (21%) ▲ (24%) ▲ (25%) ▲ ▲ (33%) (56%) ▲ Absa Stock Price2 #1 #1 #2 #2 #1 Dividend Yield #2 #1 - #2 Top Quartile Absa ROE3 17% 18% 9% 19% 24% Industry ROE3 16% 15% 11% 16% 20%",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
+    },
+    {
+      "item": "Notes 1. Stock price performance as at Friday the 23rdNovember 2022 2. The stock price performance baseline is from January 1st2018, the commencement of the Growth, Transformation and Returns Strategy 3. ROE –Return on Equity; Absa ROE as at Q3 2022; Industry ROE annualized as at H1 2022 4. NSE ASI –Nairobi Stock Exchange All Share Index; NSE 20 –Nairobi Stock Exchange top 20 performing companies",
+      "0": "Notes 1. Stock price performance as at Friday the 23rdNovember 2022 2. The stock price performance baseline is from January 1st2018, the commencement of the Growth, Transformation and Returns Strategy 3. ROE –Return on Equity; Absa ROE as at Q3 2022; Industry ROE annualized as at H1 2022 4. NSE ASI –Nairobi Stock Exchange All Share Index; NSE 20 –Nairobi Stock Exchange top 20 performing companies",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": "None",
+      "15": NaN
+    },
+    {
+      "item": "While sustaining portfolio And creating capacity to With Return on Our business is achieving quality (at levels better invest for the future and Equity at record growth rates than observed industry confidence to continue significant levels levels) and carrying forward generating upside on above Cost of looking provisions to help topline Equity us in the coming quarters",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": "While sustaining portfolio And creating capacity to With Return on Our business is achieving quality (at levels better invest for the future and Equity at record growth rates than observed industry confidence to continue significant levels levels) and carrying forward generating upside on above Cost of looking provisions to help topline Equity us in the coming quarters",
+      "15": NaN
+    },
+    {
+      "item": "❖ ❖ ❖ 2013 – 2017 2018 – 2022 2023 – 2028",
+      "0": "❖ ❖ ❖ 2013 – 2017 2018 – 2022 2023 – 2028",
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": "None"
+    },
+    {
+      "item": "Disclaimer Forward-looking statements Certain statements in this document are forward looking that relate to, among other things, the plans, objectives, goals, strategies, future operations and performance of Absa Bank Kenya PLC . Words such as “anticipates”, “estimates”, “expects”, “projects”, “believes”, “intends”, “plans”, “may”, “will” and “should” and similar expressions are typically indicative of a forward-looking statement. These statements are not guarantees of Absa Bank of Kenya future operating, financial or other results and involve certain risks, uncertainties and assumptions. Accordingly, actual results and outcomes may differ materially from these expressed or implied by such statements. Absa Bank Kenya PLC makes no representation or warranty, express or implied, that the operating, financial or otherresults anticipated by such forward-looking statements will be achieved and such forward- looking statements represent, in each case, only one of many possible scenarios and should not be viewed as the most likely or standard scenario. Absa Bank Kenya PLC undertakes no obligation to update the historical information or forward-looking statements in this document.",
+      "0": NaN,
+      "5": NaN,
+      "6": NaN,
+      "1": NaN,
+      "15": "Disclaimer Forward-looking statements Certain statements in this document are forward looking that relate to, among other things, the plans, objectives, goals, strategies, future operations and performance of Absa Bank Kenya PLC . Words such as “anticipates”, “estimates”, “expects”, “projects”, “believes”, “intends”, “plans”, “may”, “will” and “should” and similar expressions are typically indicative of a forward-looking statement. These statements are not guarantees of Absa Bank of Kenya future operating, financial or other results and involve certain risks, uncertainties and assumptions. Accordingly, actual results and outcomes may differ materially from these expressed or implied by such statements. Absa Bank Kenya PLC makes no representation or warranty, express or implied, that the operating, financial or otherresults anticipated by such forward-looking statements will be achieved and such forward- looking statements represent, in each case, only one of many possible scenarios and should not be viewed as the most likely or standard scenario. Absa Bank Kenya PLC undertakes no obligation to update the historical information or forward-looking statements in this document."
     }
   ]
 }

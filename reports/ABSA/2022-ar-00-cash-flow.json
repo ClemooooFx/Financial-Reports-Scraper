@@ -1,219 +1,123 @@
 {
-  "title": "Consolidated statement of cash flows for the year ended 31 December 2022",
+  "title": "Consolidated statement of cash flows — for the year ended 31 December 2022",
   "units": "456",
   "pages": [
     123,
     124
   ],
-  "extracted_at": "2025-11-27T09:30:54.283969",
+  "extracted_at": "2025-11-28T18:46:27.241671",
   "data": [
     {
-      "2022\nShs’million": "",
-      "0": NaN
+      "item": "2022 Shs’million",
+      "0": "2022 Shs’million"
     },
     {
-      "2022\nShs’million": "",
-      "0": NaN
+      "item": "(19 937)",
+      "0": "(19 937)"
     },
     {
-      "2022\nShs’million": "(19 937)",
-      "0": NaN
+      "item": "36 732",
+      "0": "36 732"
     },
     {
-      "2022\nShs’million": "36 732",
-      "0": NaN
+      "item": "(6 469)",
+      "0": "(6 469)"
     },
     {
-      "2022\nShs’million": "(6 469)",
-      "0": NaN
+      "item": "(9 846)",
+      "0": "(9 846)"
     },
     {
-      "2022\nShs’million": "(9 846)",
-      "0": NaN
+      "item": "480",
+      "0": "480"
     },
     {
-      "2022\nShs’million": "480",
-      "0": NaN
+      "item": "(456)",
+      "0": "(456)"
     },
     {
-      "2022\nShs’million": "",
-      "0": NaN
+      "item": "(149)",
+      "0": "(149)"
     },
     {
-      "2022\nShs’million": "",
-      "0": NaN
+      "item": "(605)",
+      "0": "(605)"
     },
     {
-      "2022\nShs’million": "",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(456)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(149)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(605)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "10 419",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(51)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(410)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "(5 595)",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "4 363",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "4 238",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "15 937",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "165",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": "20 340",
-      "0": NaN
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(19 990)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "36 703"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(6 608)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(9 542)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "563"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(455)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(147)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "-"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": "(602)"
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
-      "0": ""
-    },
-    {
-      "2022\nShs’million": NaN,
+      "item": "10 419",
       "0": "10 419"
     },
     {
-      "2022\nShs’million": NaN,
+      "item": "(51)",
       "0": "(51)"
     },
     {
-      "2022\nShs’million": NaN,
+      "item": "(410)",
       "0": "(410)"
     },
     {
-      "2022\nShs’million": NaN,
+      "item": "(5 595)",
       "0": "(5 595)"
     },
     {
-      "2022\nShs’million": NaN,
+      "item": "4 363",
       "0": "4 363"
     },
     {
-      "2022\nShs’million": NaN,
-      "0": ""
+      "item": "4 238",
+      "0": "4 238"
     },
     {
-      "2022\nShs’million": NaN,
-      "0": "4 324"
+      "item": "15 937",
+      "0": "15 937"
     },
     {
-      "2022\nShs’million": NaN,
-      "0": "15 851"
-    },
-    {
-      "2022\nShs’million": NaN,
+      "item": "165",
       "0": "165"
     },
     {
-      "2022\nShs’million": NaN,
+      "item": "20 340",
       "0": "20 340"
+    },
+    {
+      "item": "(19 990)",
+      "0": "(19 990)"
+    },
+    {
+      "item": "36 703",
+      "0": "36 703"
+    },
+    {
+      "item": "(6 608)",
+      "0": "(6 608)"
+    },
+    {
+      "item": "(9 542)",
+      "0": "(9 542)"
+    },
+    {
+      "item": "563",
+      "0": "563"
+    },
+    {
+      "item": "(455)",
+      "0": "(455)"
+    },
+    {
+      "item": "(147)",
+      "0": "(147)"
+    },
+    {
+      "item": "(602)",
+      "0": "(602)"
+    },
+    {
+      "item": "4 324",
+      "0": "4 324"
+    },
+    {
+      "item": "15 851",
+      "0": "15 851"
     }
   ]
 }

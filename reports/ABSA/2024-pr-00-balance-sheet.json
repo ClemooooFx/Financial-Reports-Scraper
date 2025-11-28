@@ -1,302 +1,420 @@
 {
-  "title": "Resilient balance sheet: Our balance sheet remains resilient in a tough macro economic environment Loans and Advances Deposits",
-  "units": null,
+  "title": "Resilient balance sheet: Our balance sheet remains resilient in a tough macro economic environment",
+  "units": "200bps",
   "pages": [
     17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
-    17,
+    18,
+    19,
     20,
-    20,
+    23,
+    24,
     25,
-    25
+    26,
+    27,
+    29,
+    30
   ],
-  "extracted_at": "2025-11-27T09:45:07.637381",
+  "extracted_at": "2025-11-28T18:48:03.414848",
   "data": [
     {
-      "FY 2024 Investor Briefing": "Resilient balance sheet: Our balance sheet remains resilient in a tough macro economic environment\nLoans and Advances Deposits\n(In KES bn unless stated otherwise)\nConstant Currency Prevailing Rates Constant Currency Prevailing Rates\n1%\n7%\n0% -8%\n34%\n36% 37% 36% 31% 31% 28%\n32%\n64% 63% 64% 69% 66% 69% 72%\n68%\n• Local currency appreciation impacted our balance sheet growth. Our ▪ The cost of funds stood at 5.1%, driven by the rate cycle. However,\nloan book was flat on a constant currency basis. we achieved liability growth (7% growth on a constant currency\n• Slow growth in sector lending across the industry, driven by the basis) through expanding our agency network, enhancing our\nmacroeconomic environment, led to a marginal decline in our asset digital proposition and customer acquisition efforts\nbook",
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "item": "FY 2024 Investor Briefing",
+      "0": "FY 2024 Investor Briefing",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "item": "Resilient balance sheet: Our balance sheet remains resilient in a tough macro economic environment Loans and Advances Deposits (In KES bn unless stated otherwise) Constant Currency Prevailing Rates Constant Currency Prevailing Rates 1% 7% 0% -8% 34% 36% 37% 36% 31% 31% 28% 32% 64% 63% 64% 69% 66% 69% 72% 68% • Local currency appreciation impacted our balance sheet growth. Our ▪ The cost of funds stood at 5.1%, driven by the rate cycle. However, loan book was flat on a constant currency basis. we achieved liability growth (7% growth on a constant currency • Slow growth in sector lending across the industry, driven by the basis) through expanding our agency network, enhancing our macroeconomic environment, led to a marginal decline in our asset digital proposition and customer acquisition efforts book",
+      "0": "Resilient balance sheet: Our balance sheet remains resilient in a tough macro economic environment Loans and Advances Deposits (In KES bn unless stated otherwise) Constant Currency Prevailing Rates Constant Currency Prevailing Rates 1% 7% 0% -8% 34% 36% 37% 36% 31% 31% 28% 32% 64% 63% 64% 69% 66% 69% 72% 68% • Local currency appreciation impacted our balance sheet growth. Our ▪ The cost of funds stood at 5.1%, driven by the rate cycle. However, loan book was flat on a constant currency basis. we achieved liability growth (7% growth on a constant currency • Slow growth in sector lending across the industry, driven by the basis) through expanding our agency network, enhancing our macroeconomic environment, led to a marginal decline in our asset digital proposition and customer acquisition efforts book",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "1%",
       "0": "1%",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "7%",
       "0": "7%",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "0%",
       "0": "0%",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "-8%",
       "0": "-8%",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "34%",
+      "0": "34%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "66%",
+      "0": "66%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "36%",
+      "0": "36%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "64%",
+      "0": "64%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "37%",
+      "0": "37%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "63%",
+      "0": "63%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "31%",
+      "0": "31%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "69%",
+      "0": "69%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "28%",
+      "0": "28%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "72%",
+      "0": "72%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "32%",
+      "0": "32%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "68%",
+      "0": "68%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Significant momentum in revenue: Double digit revenue growth of 14% supported by a diversified business NII and NFI (In KES bn unless stated otherwise) 14% C o Markets n s u k n m a e B r 16.1 e l a Corporate s I F 14.5 e Bank N o l h W Consumer 46.2 40.0 I I N Business Bank FY 2023 FY 2024",
+      "0": "Significant momentum in revenue: Double digit revenue growth of 14% supported by a diversified business NII and NFI (In KES bn unless stated otherwise) 14% C o Markets n s u k n m a e B r 16.1 e l a Corporate s I F 14.5 e Bank N o l h W Consumer 46.2 40.0 I I N Business Bank FY 2023 FY 2024",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "C o Markets n s u k n m a e B r e l a Corporate s e Bank l o h W Consumer Business Bank",
       "0": NaN,
-      "34%": "66%",
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "16.1",
+      "0": "16.1",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "46.2",
+      "0": "46.2",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "14.5",
+      "0": "14.5",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "40.0",
+      "0": "40.0",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Sustained improvement in efficiency: Strategic investments for future growth driving costs, however we are sustaining efficiency levels with positive JAWs growth from inflation and investments Improved (In KES mn unless stated otherwise) 9% 23,507 21,650 t s o C f f a 13,018 t S 11,725 t s o C f f a …with t S 1,148 D 990 D e e p . r p & . r g n it a r e p o r e h s e s n e p x e 8,935 oi t a & si t r o m a g n it a r e p o r e s e s n e p x e 9,341 n oi t a si t r o m a t n h O t O Cost Growth Income Growth",
+      "0": "Sustained improvement in efficiency: Strategic investments for future growth driving costs, however we are sustaining efficiency levels with positive JAWs growth from inflation and investments Improved (In KES mn unless stated otherwise) 9% 23,507 21,650 t s o C f f a 13,018 t S 11,725 t s o C f f a …with t S 1,148 D 990 D e e p . r p & . r g n it a r e p o r e h s e s n e p x e 8,935 oi t a & si t r o m a g n it a r e p o r e s e s n e p x e 9,341 n oi t a si t r o m a t n h O t O Cost Growth Income Growth",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "9% 23,507 21,650 t s o C f f a 13,018 t S 11,725 t s o C f f a t S 1,148 D 990 D e e p . r p & . r g n it a r e p o r e h s e s n e p x e 8,935 oi t a & si t r o m a g n it a r e p o r e s e s n e p x e 9,341 n oi t a si t r o m a t n h O t O",
+      "0": "9% 23,507 21,650 t s o C f f a 13,018 t S 11,725 t s o C f f a t S 1,148 D 990 D e e p . r p & . r g n it a r e p o r e h s e s n e p x e 8,935 oi t a & si t r o m a g n it a r e p o r e s e s n e p x e 9,341 n oi t a si t r o m a t n h O t O",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "13,018",
+      "0": "13,018",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,148",
+      "0": "1,148",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "9,341",
+      "0": "9,341",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "11,725",
+      "0": "11,725",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "990",
+      "0": "990",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "8,935",
+      "0": "8,935",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Portfolio quality: Sustaining quality while maintaining a robust balance sheet in a tough operating environment relative to growth (In KES bn unless stated otherwise) 234 284 336 -8% 309 209 2.6% 195 -2% 1.1 9.0 9.2 (0.5) 9.1 (0.8) FY 2023 FY 2024 6.5 2.9% 4.7 2.7% 4.2 4.3% 20% 2.2% 2.3% 2.0% 66% 65.8% FY 2023 FY 2024",
+      "0": "Portfolio quality: Sustaining quality while maintaining a robust balance sheet in a tough operating environment relative to growth (In KES bn unless stated otherwise) 234 284 336 -8% 309 209 2.6% 195 -2% 1.1 9.0 9.2 (0.5) 9.1 (0.8) FY 2023 FY 2024 6.5 2.9% 4.7 2.7% 4.2 4.3% 20% 2.2% 2.3% 2.0% 66% 65.8% FY 2023 FY 2024",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "2.6% FY 2023 FY 2024",
+      "0": "2.6% FY 2023 FY 2024",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "0": "None",
+      "1": "None",
+      "3": "None",
+      "4": "",
+      "6": "None"
+    },
+    {
+      "item": "FY 2024 Investor Briefing None None",
+      "0": "FY 2024 Investor Briefing",
+      "1": "",
+      "3": "None",
+      "4": "",
+      "6": "None"
+    },
+    {
+      "item": "Strong capital and liquidity ratios: Providing capacity to support growth ambition and capital distribution Ratio Ratio Ratio 42.5% 20.7% 31.1% 18.1% 17.0% 13.6% Regulatory minimum Regulatory Regulatory minimum minimum 2023 2024 2023 2024 2023 2024 g capacit None None n and cap R None None",
+      "0": "Strong capital and liquidity ratios: Providing capacity to support growth ambition and capital distribution Ratio Ratio Ratio 42.5% 20.7% 31.1% 18.1% 17.0% 13.6% Regulatory minimum Regulatory Regulatory minimum minimum 2023 2024 2023 2024 2023 2024",
+      "1": "g capacit",
+      "3": "None",
+      "4": "n and cap R",
+      "6": "None"
+    },
+    {
+      "item": "None None None None 31.1% 42.5%",
+      "0": "None",
+      "1": "None",
+      "3": "None",
+      "4": "31.1%",
+      "6": "42.5%"
+    },
+    {
+      "item": "None 18.1% 20.7% None None None",
+      "0": "None",
+      "1": "18.1%",
+      "3": "20.7%",
+      "4": "None",
+      "6": "None"
+    },
+    {
+      "item": "None None None None None",
+      "0": "None",
+      "1": "",
+      "3": "",
+      "4": "None",
+      "6": "None"
+    },
+    {
+      "item": "g capital a",
+      "0": "g capital a",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "13.6%",
+      "0": "13.6%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "17.0%",
+      "0": "17.0%",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Your story matters Guidance Chief Financial Officer",
       "0": NaN,
-      "34%": NaN,
-      "36%": "64%",
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "Guidance: Our strategy supports a positive medium-term guidance Principal Financial Metrics …Medium Term Target Accelerated Growth Sustainable growth in balance sheet Increased Efficiency Cost-To-Income Ratio of low 40%’s Sustainable Shareholder Returns Return on Equity above our Cost of Equity by 5% Better than industry average portfolio quality Resilient Balance Sheet Quality (NPL ratio)",
+      "0": "Guidance: Our strategy supports a positive medium-term guidance Principal Financial Metrics …Medium Term Target Accelerated Growth Sustainable growth in balance sheet Increased Efficiency Cost-To-Income Ratio of low 40%’s Sustainable Shareholder Returns Return on Equity above our Cost of Equity by 5% Better than industry average portfolio quality Resilient Balance Sheet Quality (NPL ratio)",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Principal Financial Metrics …Medium Term Target",
       "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": "63%",
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "Your story matters Recap Chief Executive Officer",
       "0": NaN,
-      "34%": NaN,
-      "36%": "64%",
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
+      "item": "Recap: The strategic roadmap ahead and the bank we are building On consumer banking: Profit After Income … o Tax n e s 62.3bn t o 20.9 r y bn a On business banking: +14% t a +28% t i m e On Corporate and Investment Bank: Customer Customer Assets Liabilities 309 367 bn bn On a digitally powered business: -8% +1% On trusted brand driving a sustainable future: Cost to Return on Income Equity 37.7% 24.5% On home of talent and diversity: (200bps) +100bps",
+      "0": "Recap: The strategic roadmap ahead and the bank we are building On consumer banking: Profit After Income … o Tax n e s 62.3bn t o 20.9 r y bn a On business banking: +14% t a +28% t i m e On Corporate and Investment Bank: Customer Customer Assets Liabilities 309 367 bn bn On a digitally powered business: -8% +1% On trusted brand driving a sustainable future: Cost to Return on Income Equity 37.7% 24.5% On home of talent and diversity: (200bps) +100bps",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
       "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": "69%",
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     },
     {
-      "FY 2024 Investor Briefing": NaN,
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": "69%",
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": "72%",
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": "68%",
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": "Portfolio quality: Sustaining quality while maintaining a robust balance sheet in a tough operating\nenvironment\nrelative to growth\n(In KES bn unless stated otherwise)\n234 284 336 -8% 309\n209\n2.6%\n195 -2%\n1.1\n9.0 9.2 (0.5) 9.1\n(0.8)\nFY 2023 FY 2024\n6.5\n2.9%\n4.7 2.7%\n4.2\n4.3%\n20%\n2.2%\n2.3%\n2.0%\n66%\n65.8%\nFY 2023 FY 2024",
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": "",
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": "Guidance: Our strategy supports a positive medium-term guidance\nPrincipal Financial Metrics …Medium Term Target\nAccelerated Growth Sustainable growth in balance sheet\nIncreased Efficiency Cost-To-Income Ratio of low 40%’s\nSustainable Shareholder Returns Return on Equity above our Cost of Equity by 5%\nBetter than industry average portfolio quality\nResilient Balance Sheet Quality\n(NPL ratio)",
-      "0": NaN,
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": NaN
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": ""
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "Principal Financial Metrics",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": "…Medium Term Target"
-    },
-    {
-      "FY 2024 Investor Briefing": NaN,
-      "0": "",
-      "34%": NaN,
-      "36%": NaN,
-      "37%": NaN,
-      "31%": NaN,
-      "28%": NaN,
-      "32%": NaN,
-      "2.6%\nFY 2023 FY 2024": NaN,
-      "1": ""
+      "item": "Forward-looking statements Certain statements in this document are forward looking that relate to, among other things, the plans, objectives, goals, strategies, future operations and performance of Absa Bank Kenya PLC . Words such as “anticipates”, “estimates”, “expects”, “projects”, “believes”, “intends”, “plans”, “may”, “will” and “should” and similar expressions are typically indicative of a forward-looking statement. These statements are not guarantees of Absa Bank Kenya PLC future operating, financial or other results and involve certain risks, uncertainties and assumptions. Accordingly, actual results and outcomes may differ materially from these expressed or implied by such statements. Absa Bank Kenya PLC makes no representation or warranty, express or implied, that the operating, financial or other results anticipated by such forward-looking statements will be achieved and such forward- looking statements represent, in each case, only one of many possible scenarios and should not be viewed as the most likely or standard scenario. Absa Bank Kenya PLC undertakes no obligation to update the historical information or forward-looking statements in this document.",
+      "0": "Forward-looking statements Certain statements in this document are forward looking that relate to, among other things, the plans, objectives, goals, strategies, future operations and performance of Absa Bank Kenya PLC . Words such as “anticipates”, “estimates”, “expects”, “projects”, “believes”, “intends”, “plans”, “may”, “will” and “should” and similar expressions are typically indicative of a forward-looking statement. These statements are not guarantees of Absa Bank Kenya PLC future operating, financial or other results and involve certain risks, uncertainties and assumptions. Accordingly, actual results and outcomes may differ materially from these expressed or implied by such statements. Absa Bank Kenya PLC makes no representation or warranty, express or implied, that the operating, financial or other results anticipated by such forward-looking statements will be achieved and such forward- looking statements represent, in each case, only one of many possible scenarios and should not be viewed as the most likely or standard scenario. Absa Bank Kenya PLC undertakes no obligation to update the historical information or forward-looking statements in this document.",
+      "1": NaN,
+      "3": NaN,
+      "4": NaN,
+      "6": NaN
     }
   ]
 }

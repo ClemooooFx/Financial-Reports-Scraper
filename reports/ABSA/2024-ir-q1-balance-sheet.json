@@ -1,137 +1,190 @@
 {
-  "title": "I Statement of financial position III Other disclosures A Assets 1) Non-performing loans and advances",
+  "title": "I Statement of financial position III Other disclosures",
   "units": "excess",
   "pages": [
-    1,
     1
   ],
-  "extracted_at": "2025-11-27T09:45:04.961760",
+  "extracted_at": "2025-11-28T18:48:00.550360",
   "data": [
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": null,
-      "Bank": null,
-      "": "March\n2024\nShs '000\nUnaudited\n7,534,115\n16,816,547\n17,123,550\n-\n-\n-\n1,018,705\n-\n67,589,141\n67,589,141\n-\n1,850,268\n6,882,995\n-\n326,839,332\n24,512,836\n-\n-\n-\n-\n3,209,003\n30,792\n862,622\n8,574,238\n-\n14,831,864",
-      "Group": null
+      "item": "Bank March December 2023 2023 Shs '000 Shs '000 Unaudited Audited I Statement of financial position A Assets 1 Cash balances (both local and foreign) 13,151,558 12,692,202 2 Balances due from Central Bank of Kenya 13,856,697 16,906,714 3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444 4 Financial assets at fair value through profit and loss - - 5 Investment securities: - - a) Held to maturity: - - a. Kenya Government securities - 1,062,014 b. Other securities - - b) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648 a. Kenya Government securities 86,651,020 73,273,648 b. Other securities - - 6 Deposits and balances due from local banking institutions 1,259,224 329,506 7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125 8 Tax recoverable - - 9 Loans and advances to customers(net) 309,973,217 335,713,679 10 Balances due from banking institutions in the group 13,021,919 27,204,622 11 Investment in associates - - 12 Investment in subsidiary companies 462,751 462,751 13 Investment in joint ventures - - 14 Investment properties - - 15 Property and equipment 2,516,021 3,329,327 16 Prepaid operating rental leases 31,855 31,056 17 Intangible assets 467,517 658,914 18 Deferred tax 5,956,746 8,631,927 19 Retirement benefit asset 12,370 - 20 Other assets 15,575,575 18,167,109 Bank Group",
+      "2": "",
+      "3": "",
+      "5": ""
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "21 Total assets 514,817,820 520,301,038",
-      "Bank": null,
-      "": "497,676,008",
-      "Group": null
+      "item": "None None None",
+      "2": "March 2024 Shs '000 Unaudited 7,534,115 16,816,547 17,123,550 - - - 1,018,705 - 67,252,130 67,252,130 - 1,850,268 6,882,995 - 326,839,332 24,512,836 - 462,751 - - 3,206,475 30,792 821,444 8,481,661 - 15,284,079",
+      "3": "March December 2023 2023 Shs '000 Shs '000 Unau dited Audited 13,151,558 12,692,202 13,856,697 16,906,714 47,237,832 20,446,444 - - - - - - - 1,062,014 - - 87,026,795 73,644,453 87,026,795 73,644,453 - - 1,259,224 329,506 4,643,518 1,391,125 - - 309,973,217 335,713,679 13,021,919 27,204,622 - - - - - - - - 2,517,424 3,331,898 31,855 31,056 518,594 702,881 6,053,091 8,724,454 12,370 - 15,299,990 17,614,460",
+      "5": "March 2024 Shs '000 Unaudited 7,534,115 16,816,547 17,123,550 - - - 1,018,705 - 67,589,141 67,589,141 - 1,850,268 6,882,995 - 326,839,332 24,512,836 - - - - 3,209,003 30,792 862,622 8,574,238 - 14,831,864"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "B Liabilities\n22 Balances due to Central Bank of Kenya - 13,047,459\n23 Customers' deposits 314,010,528 366,903,302\n24 Deposits and balances due to banking institutions (local) 9,099,706 10,935,164\n25 Deposits and balances due to banking institutions (foreign) 2,264,509 749,867\n26 Other money market deposits - -\n27 Borrowed funds 4,226,962 4,294,626\n28 Balances due to banking institutions in the group 96,362,152 36,053,423\n29 Tax payable 1,392,026 792,600\n30 Dividends payable - -\n31 Deferred tax liability - -\n32 Retirement benefit liability - -\n33 Other liabilities 22,597,096 22,100,236",
-      "Bank": null,
-      "": "2,500,000\n354,961,690\n8,009,159\n539,610\n-\n3,921,904\n28,101,529\n2,854,837\n-\n-\n7,536\n21,756,351",
-      "Group": null
+      "item": "21 Total assets 514,817,820 520,301,038 None None",
+      "2": "498,117,680",
+      "3": "514,604,084 519,795,508",
+      "5": "497,676,008"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "34 Total liabilities 449,952,979 454,876,677",
-      "Bank": null,
-      "": "422,652,616",
-      "Group": null
+      "item": "B Liabilities 22 Balances due to Central Bank of Kenya - 13,047,459 23 Customers' deposits 314,010,528 366,903,302 24 Deposits and balances due to banking institutions (local) 9,099,706 10,935,164 25 Deposits and balances due to banking institutions (foreign) 2,264,509 749,867 26 Other money market deposits - - 27 Borrowed funds 4,226,962 4,294,626 28 Balances due to banking institutions in the group 96,362,152 36,053,423 29 Tax payable 1,392,026 792,600 30 Dividends payable - - 31 Deferred tax liability - - 32 Retirement benefit liability - - 33 Other liabilities 22,597,096 22,100,236 None None",
+      "2": "2,500,000 359,455,862 8,009,159 539,610 - 3,921,904 28,101,529 2,962,408 - - 7,536 21,711,484",
+      "3": "- 13,047,459 310,831,231 362,749,279 9,099,706 10,935,164 2,264,509 749,867 - - 4,226,962 4,294,626 96,362,152 36,053,423 1,268,419 589,397 - - - - - - 22,570,096 22,181,083",
+      "5": "2,500,000 354,961,690 8,009,159 539,610 - 3,921,904 28,101,529 2,854,837 - - 7,536 21,756,351"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "C Shareholders' funds\n35 Paid up/assigned capital 2,715,768 2,715,768\n36 Share premium/(discount) - -\n37 Revaluation reserves (1,588,960) (4,721,011)\n38 Retained earnings/(accumulated losses) 57,291,697 59,830,614\n39 Statutory loan loss reserve - -\n40 Other reserves 200,070 266,416\n41 Proposed dividends 6,246,266 7,332,574\n42 Capital grants - -",
-      "Bank": null,
-      "": "2,715,768\n-\n(4,926,949)\n69,585,579\n-\n316,420\n7,332,574\n-",
-      "Group": null
+      "item": "34 Total liabilities 449,952,979 454,876,677 None None",
+      "2": "427,209,492",
+      "3": "446,623,075 450,600,298",
+      "5": "422,652,616"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "43 Total shareholders' funds 64,864,841 65,424,361",
-      "Bank": null,
-      "": "75,023,392",
-      "Group": null
+      "item": "C Shareholders' funds 35 Paid up/assigned capital 2,715,768 2,715,768 36 Share premium/(discount) - - 37 Revaluation reserves (1,588,960) (4,721,011) 38 Retained earnings/(accumulated losses) 57,291,697 59,830,614 39 Statutory loan loss reserve - - 40 Other reserves 200,070 266,416 41 Proposed dividends 6,246,266 7,332,574 42 Capital grants - - None None",
+      "2": "2,715,768 - (4,878,151) 65,421,577 - 316,420 7,332,574 -",
+      "3": "2,715,768 2,715,768 - - (1,614,041) (4,757,700) 60,432,946 63,638,152 - - 200,070 266,416 6,246,266 7,332,574 - -",
+      "5": "2,715,768 - (4,926,949) 69,585,579 - 316,420 7,332,574 -"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "44 Minority interest - -",
-      "Bank": null,
-      "": "-",
-      "Group": null
+      "item": "43 Total shareholders' funds 64,864,841 65,424,361 None None",
+      "2": "70,908,188",
+      "3": "67,981,009 69,195,210",
+      "5": "75,023,392"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "45 Total liabilities and total shareholders funds 514,817,820 520,301,038",
-      "Bank": null,
-      "": "497,676,008",
-      "Group": null
+      "item": "44 Minority interest - - None None",
+      "2": "-",
+      "3": "- -",
+      "5": "-"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "II Statement of comprehensive income\n1.0 Interest income\n1.1 Loans and advances to customers 9,576,767 44,252,616\n1.2 Government securities 2,406,459 9,133,662\n1.3 Deposits and placements with banking institutions 149,196 832,141\n1.4 Other interest income - -",
-      "Bank": null,
-      "": "13,474,112\n2,199,708\n574,220\n-",
-      "Group": null
+      "item": "45 Total liabilities and total shareholders funds 514,817,820 520,301,038 None None",
+      "2": "498,117,680",
+      "3": "514,604,084 519,795,508",
+      "5": "497,676,008"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "1.5 Total interest income 12,132,422 54,218,419\n2.0 Interest expenses\n2.1 Customer deposits 2,167,288 12,126,927\n2.2 Deposits and placements with banking institutions 630,876 2,171,427\n2.3 Other interest expenses 30,018 171,327",
-      "Bank": null,
-      "": "16,248,040\n4,248,256\n547,586\n66,389",
-      "Group": null
+      "item": "II Statement of comprehensive income 1.0 Interest income 1.1 Loans and advances to customers 9,576,767 44,252,616 1.2 Government securities 2,406,459 9,133,662 1.3 Deposits and placements with banking institutions 149,196 832,141 1.4 Other interest income - - None None",
+      "2": "13,474,112 2,188,535 574,220 -",
+      "3": "9,576,767 44,252,616 2,417,509 9,178,475 149,196 832,141 - -",
+      "5": "13,474,112 2,199,708 574,220 -"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "2.4 Total interest expenses 2,828,182 14,469,681\n3.0 Net interest income 9,304,240 39,748,738\n4.0 Non - interest income\n4.1 Fees and commissions income on loans & advances 329,731 1,543,039\n4.2 Other fees and commissions 1,074,349 4,284,765\n4.3 Foreign exchange trading income 2,203,917 6,510,041\n4.4 Dividend income - -\n4.5 Other income 404,554 715,564",
-      "Bank": null,
-      "": "4,862,231\n11,385,809\n408,463\n1,589,410\n2,149,313\n-\n931,403",
-      "Group": null
+      "item": "1.5 Total interest income 12,132,422 54,218,419 2.0 Interest expenses 2.1 Customer deposits 2,167,288 12,126,927 2.2 Deposits and placements with banking institutions 630,876 2,171,427 2.3 Other interest expenses 30,018 171,327 None None",
+      "2": "16,236,867 4,360,516 547,586 66,389",
+      "3": "12,143,472 54,263,232 2,126,823 11,876,693 630,876 2,171,427 30,018 171,327",
+      "5": "16,248,040 4,248,256 547,586 66,389"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "4.6 Total non-interest income 4,012,551 13,053,409",
-      "Bank": null,
-      "": "5,078,589",
-      "Group": null
+      "item": "2.4 Total interest expenses 2,828,182 14,469,681 3.0 Net interest income 9,304,240 39,748,738 4.0 Non - interest income 4.1 Fees and commissions income on loans & advances 329,731 1,543,039 4.2 Other fees and commissions 1,074,349 4,284,765 4.3 Foreign exchange trading income 2,203,917 6,510,041 4.4 Dividend income - - 4.5 Other income 404,554 715,564 None None",
+      "2": "4,974,491 11,262,376 408,463 1,113,064 2,149,245 - 935,895",
+      "3": "2,787,717 14,219,447 9,355,755 40,043,785 329,731 1,543,039 1,571,252 5,776,844 2,203,915 6,510,005 - - 400,077 697,630",
+      "5": "4,862,231 11,385,809 408,463 1,589,410 2,149,313 - 931,403"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "5.0 Total operating income 13,316,791 52,802,147",
-      "Bank": null,
-      "": "16,464,398",
-      "Group": null
+      "item": "4.6 Total non-interest income 4,012,551 13,053,409 None None",
+      "2": "4,606,667",
+      "3": "4,504,975 14,527,518",
+      "5": "5,078,589"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "6.0 Operating expenses\n6.1 Loan loss provision 2,400,869 9,244,514\n6.2 Staff costs 2,626,165 11,484,234\n6.3 Directors emoluments 29,205 187,249\n6.4 Rental charge 33,938 127,400\n6.5 Depreciation on property and equipment 209,554 850,732\n6.6 Amortisation charges 28,544 127,426\n6.7 Other operating expenses 2,031,727 8,520,836",
-      "Bank": null,
-      "": "2,404,111\n2,988,254\n48,245\n20,026\n227,879\n44,506\n2,251,916",
-      "Group": null
+      "item": "5.0 Total operating income 13,316,791 52,802,147 None None",
+      "2": "15,869,043",
+      "3": "13,860,730 54,571,303",
+      "5": "16,464,398"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "6.8 Total operating expenses 7,360,002 30,542,391\n7.0 Profit before tax and exceptional items 5,956,789 22,259,756\n8.0 Exceptional items - -",
-      "Bank": null,
-      "": "7,984,937\n8,479,461\n-",
-      "Group": null
+      "item": "6.0 Operating expenses 6.1 Loan loss provision 2,400,869 9,244,514 6.2 Staff costs 2,626,165 11,484,234 6.3 Directors emoluments 29,205 187,249 6.4 Rental charge 33,938 127,400 6.5 Depreciation on property and equipment 209,554 850,732 6.6 Amortisation charges 28,544 127,426 6.7 Other operating expenses 2,031,727 8,520,836 None None",
+      "2": "2,404,122 2,933,738 45,940 19,911 227,714 41,717 2,222,246",
+      "3": "2,400,944 9,244,453 2,681,124 11,725,426 31,510 196,468 34,073 127,801 209,626 851,035 31,333 138,583 2,050,194 8,609,446",
+      "5": "2,404,111 2,988,254 48,245 20,026 227,879 44,506 2,251,916"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "9.0 Profit after exceptional items 5,956,789 22,259,756\n10 Current tax (1,929,381) (8,338,018)\n11 Deferred tax 100,516 1,454,737",
-      "Bank": null,
-      "": "8,479,461\n(2,312,547)\n(219,487)",
-      "Group": null
+      "item": "6.8 Total operating expenses 7,360,002 30,542,391 7.0 Profit before tax and exceptional items 5,956,789 22,259,756 8.0 Exceptional items - - None None",
+      "2": "7,895,388 7,973,655 -",
+      "3": "7,438,804 30,893,212 6,421,926 23,678,091 - -",
+      "5": "7,984,937 8,479,461 -"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "12 Profit after tax and exceptional items 4,127,924 15,376,475",
-      "Bank": null,
-      "": "5,947,427",
-      "Group": null
+      "item": "9.0 Profit after exceptional items 5,956,789 22,259,756 10 Current tax (1,929,381) (8,338,018) 11 Deferred tax 100,516 1,454,737 None None",
+      "2": "7,973,655 (2,168,341) (214,351)",
+      "3": "6,421,926 23,678,091 (2,072,159) (8,758,969) 102,720 1,448,207",
+      "5": "8,479,461 (2,312,547) (219,487)"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "13 Other comprehensive income\n13.1 Gains/(losses) from translating the financial statements of foreign\noperations - -\n13.2 Fair value changes in FVOCI financial assets (73,140) (4,488,127)\n13.3 Revaluation surplus on property,plant and equipment - -\n13.4 Share of other comprehensive income of associates - -\n13.5 Income tax relating to components of other comprehensive income 21,942 1,346,438",
-      "Bank": null,
-      "": "-\n(230,901)\n-\n-\n69,270",
-      "Group": null
+      "item": "12 Profit after tax and exceptional items 4,127,924 15,376,475 None None",
+      "2": "5,590,963",
+      "3": "4,452,487 16,367,329",
+      "5": "5,947,427"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "14 Other comprehensive income for the year net of tax (51,198) (3,141,689)",
-      "Bank": null,
-      "": "(161,631)",
-      "Group": null
+      "item": "13 Other comprehensive income 13.1 Gains/(losses) from translating the financial statements of foreign operations - - 13.2 Fair value changes in FVOCI financial assets (73,140) (4,488,127) 13.3 Revaluation surplus on property,plant and equipment - - 13.4 Share of other comprehensive income of associates - - 13.5 Income tax relating to components of other comprehensive income 21,942 1,346,438 None None",
+      "2": "- (213,616) - - 64,085",
+      "3": "- - (87,575) (4,518,950) - - - - 26,272 1,355,685",
+      "5": "- (230,901) - - 69,270"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "15 Total comprehensive income for the year 4,076,726 12,234,786",
-      "Bank": null,
-      "": "5,785,796",
-      "Group": null
+      "item": "14 Other comprehensive income for the year net of tax (51,198) (3,141,689) None None",
+      "2": "(149,531)",
+      "3": "(61,303) (3,163,265)",
+      "5": "(161,631)"
     },
     {
-      "Bank\nMarch December\n2023 2023\nShs '000 Shs '000\nUnaudited Audited\nI Statement of financial position\nA Assets\n1 Cash balances (both local and foreign) 13,151,558 12,692,202\n2 Balances due from Central Bank of Kenya 13,856,697 16,906,714\n3 Kenya Government and other securities held for dealing purposes 47,237,832 20,446,444\n4 Financial assets at fair value through profit and loss - -\n5 Investment securities: - -\na) Held to maturity: - -\na. Kenya Government securities - 1,062,014\nb. Other securities - -\nb) Fair value through other comprehensive income (FVOCI) 86,651,020 73,273,648\na. Kenya Government securities 86,651,020 73,273,648\nb. Other securities - -\n6 Deposits and balances due from local banking institutions 1,259,224 329,506\n7 Deposits and balances due from banking institutions abroad 4,643,518 1,391,125\n8 Tax recoverable - -\n9 Loans and advances to customers(net) 309,973,217 335,713,679\n10 Balances due from banking institutions in the group 13,021,919 27,204,622\n11 Investment in associates - -\n12 Investment in subsidiary companies 462,751 462,751\n13 Investment in joint ventures - -\n14 Investment properties - -\n15 Property and equipment 2,516,021 3,329,327\n16 Prepaid operating rental leases 31,855 31,056\n17 Intangible assets 467,517 658,914\n18 Deferred tax 5,956,746 8,631,927\n19 Retirement benefit asset 12,370 -\n20 Other assets 15,575,575 18,167,109": "Earnings per share (Shs) 0.76 2.83\nDividends per share (Shs) - 1.55",
-      "Bank": null,
-      "": "1.09\n-",
-      "Group": null
+      "item": "15 Total comprehensive income for the year 4,076,726 12,234,786 None None",
+      "2": "5,441,432",
+      "3": "4,391,184 13,204,064",
+      "5": "5,785,796"
+    },
+    {
+      "item": "Earnings per share (Shs) 0.76 2.83 Dividends per share (Shs) - 1.55 None None",
+      "2": "1.03 -",
+      "3": "0.82 3.01 - 1.55",
+      "5": "1.09 -"
+    },
+    {
+      "item": "Bank March December 2023 2023 Shs '000 Shs '000 Unaudited Audited III Other disclosures 1) Non-performing loans and advances a) Gross non-performing loans and advances 31,142,698 35,254,674 b) Less: Interest in suspense 4,521,938 5,831,630 Bank",
+      "2": "",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None",
+      "2": "March 2024 Shs '000 Unaudited 38,822,046 6,128,131",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "c) Total non performing loans and advances 26,620,760 29,423,044 d) Less: loan loss provisions 15,368,861 17,373,643 e) Net non performing loans(c-d) 11,251,899 12,049,401 f) Discounted value of securities 8,891,882 9,297,549 None",
+      "2": "32,693,915 18,060,133 14,633,782 10,705,598",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "g) Net NPLs (excess)/exposure (e-f) 2,360,017 2,751,852 None",
+      "2": "3,928,184",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2) Insider loans and advances a) Directors ,shareholders and associates 33,243 55,981 b) Employees 10,226,224 10,372,279 None",
+      "2": "53,437 10,462,970",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "c) Total insider loans and advances 10,259,467 10,428,260 3) Off balance sheet items a) Letters of credit, guarantees, acceptances 49,483,405 54,293,768 b) Forwards, swaps and options 158,956,906 103,427,258 c) Other contingent liabilities - - None",
+      "2": "10,516,407 61,647,537 102,743,088 -",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "d) Total Contingent liabilities 208,440,311 157,721,026 4) Capital strength a) Core capital 57,781,106 60,169,095 b) Minimum statutory capital 1,000,000 1,000,000 c) Excess/(deficiency) 56,781,106 59,169,095 d) Supplementary capital 16,646,233 19,729,013 None",
+      "2": "164,390,625 63,394,389 1,000,000 62,394,389 16,523,153",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "e) Total capital 74,427,339 79,898,108 f) Total risk weighted assets 410,913,245 442,484,634 g) Core capital/total deposit liabilities 18.6% 16.7% h) Minimum statutory ratio 8.0% 8.0% i) Excess/(deficiency) 10.6% 8.7% j) Core capital/total risk weighted assets 14.1% 13.6% k) Minimum statutory ratio 10.5% 10.5% l) Excess/(deficiency) 3.6% 3.1% m) Total capital/total risk weighted assets 18.1% 18.1% n) Minimum statutory ratio 14.5% 14.5% o) Excess/(deficiency) 3.6% 3.6% p) Adjusted core capital/total deposit liabilities* 18.7% - q) Adjusted core capital/total risk weighted assets* 14.2% - r) Adjusted total capital/total risk weighted assets* 18.2% - 5 Liquidity a) Liquidity ratio 28.6% 31.1% b) Minimum statutory ratio 20.0% 20.0% c) Excess/(deficiency) 8.6% 11.1% None",
+      "2": "79,917,542 445,703,424 18.0% 8.0% 10.0% 14.2% 10.5% 3.7% 17.9% 14.5% 3.4% - - - 33.5% 20.0% 13.5%",
+      "3": NaN,
+      "5": NaN
     }
   ]
 }

@@ -1,28 +1,213 @@
 {
-  "title": "3)  Off Balance sheet items 43,882,881",
+  "title": "I Statement of financial position III Other disclosures",
   "units": "excess",
   "pages": [
     1
   ],
-  "extracted_at": "2025-11-28T05:48:23.795704",
+  "extracted_at": "2025-11-28T18:46:28.568867",
   "data": [
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "14,849,387 \n  17,321,581 \n  17,134,160 \nc)  Total non performing loans and advances\n  10,248,992 \n  12,908,863 \n  12,489,879 \nd)  less: loan loss provisions\n  4,600,395 \n  4,412,718 \n  4,644,281 \ne)  Net non performing loans (c-d)\n  3,521,803 \n  3,326,376 \n  3,538,558 \nf)  Discounted value of securities"
+      "item": "Bank March December March 2021 2021 2022 Shs '000 Shs '000 Shs '000 Unaudited Audited Unaudited I Statement of financial position A Assets 1 Cash balances (both local and foreign) 6,038,429 7,730,114 6,893,855 2 Balances due from Central Bank of Kenya 9,727,440 13,279,265 12,715,668 3 Kenya Government and other securities held for dealing purposes 44,182,908 44,195,668 48,920,541 4 Financial Assets at fair value through profit and loss - - - 5 Investment Securities: - - - a) Held to Maturity: - - - a. Kenya Government securities - - - b. Other securities - - - b) Fair value through other comprehensive income (FVOCI) 82,129,680 87,972,113 87,419,688 a. Kenya Government securities 82,129,680 87,972,113 87,419,688 b. Other securities - - - 6 Deposits and balances due from local banking Institutions 1,500,000 1,113,150 - 7 Deposits and balances due from banking Institutions abroad 1,340,063 1,894,090 6,528,744 8 Tax recoverable - - - 9 Loans and advances to customers (net) 218,265,767 234,234,076 242,672,126 10 Balances due from banking institutions in the group 3,769,442 19,057,979 14,327,127 11 Investment in Associates - - - 12 Investment in Subsidiary Companies 427,751 462,751 462,751 13 Investment in joint Ventures - - - 14 Investment properties - - - 15 Property and equipment 2,853,543 2,416,109 2,347,411 16 Prepaid Operating Rental Leases 34,236 33,173 33,974 17 Intangible assets 242,658 417,271 444,612 18 Deferred Tax 3,785,649 4,677,328 4,806,292 19 Retirement Benefit Asset 68,605 - - 20 Other assets 9,702,252 11,263,131 11,145,595 Bank",
+      "2": "None",
+      "3": "Group",
+      "4": "None",
+      "1": NaN
     },
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "1,078,592 \n  1,086,342 \n  1,105,723 \ng)  Net NPLs (Excess)/Exposure (e-f)"
+      "item": "None None",
+      "2": "March 2022 Shs '000 Unaudited 6,893,855 12,715,668 48,920,541 - - - - - 87,419,688 87,419,688 - - 6,528,744 - 242,672,126 14,327,127 - 462,751 - - 2,347,411 33,974 444,612 4,806,292 - 11,145,595",
+      "3": "March December 2021 2021 Shs '000 Shs '000 Unaudited Audited 6,038,429 7,730,114 9,727,440 13,279,265 44,182,908 44,195,668 - - - - - - - - - - 82,557,903 88,380,436 82,557,903 88,380,436 - - 1,500,000 1,113,150 1,340,063 1,894,090 - - 218,265,767 234,234,076 3,769,442 19,057,979 - - - - - - - - 2,854,058 2,416,200 34,236 310,748 480,728 3,836,533 4,737,959 68,605 - 9,602,201 11,136,765",
+      "4": "March 2022 Shs '000 Unaudited 6,893,855 12,715,668 48,920,541 - - - - - 87,810,716 87,810,716 - - 6,528,744 - 242,672,126 14,327,127 - - - - 2,347,487 33,974 508,327 4,863,381 - 10,877,694",
+      "1": NaN
     },
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "2)  Insider loans and advances\n  36,371 \n  35,033 \n  34,658 \na)  Directors, shareholders and associates\n  9,769,404 \n  9,884,384 \n  9,848,419 \nb)  Employees"
+      "item": "21 Total asset 384,068,423 428,746,218 None",
+      "2": "438,718,384",
+      "3": "384,088,333 428,656,430",
+      "4": "438,499,640",
+      "1": NaN
     },
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "9,919,417 \n  9,883,077 \n  9,805,775 \nc)  Total insider loans and advances\n3)  Off Balance sheet items\n  43,882,881 \n  41,450,324 \n  47,712,808 \na)  Letters of credit, guarantees, acceptances\n  85,958,439 \n  90,454,228 \n  93,085,296 \nb)  Forwards, swaps and options\n  -   \n  -   \n  -   \nc)  Other contingent liabilities"
+      "item": "B Liabilities 22 Balances due to Central Bank of Kenya - - 23 Customer deposits 258,633,865 270,737,198 24 Deposits and balances due to Banking institutions (Local) 4,092,536 4,301,166 25 Deposits and balances due to Banking institutions (Foreign) 1,897,056 507,750 26 Other money market deposits - - 27 Borrowed funds - - 28 Balances due to banking institutions in the group 53,628,013 75,647,688 29 Tax payable 708,326 2,749,546 30 Dividends payable - - 31 Deferred tax liability - - 32 Retirement Benefit Liability - 363,000 33 Other liabilities 18,126,140 20,087,231 None",
+      "2": "- 271,759,616 4,010,800 274,416 - - 82,112,790 3,973,125 - - 234,706 19,491,042",
+      "3": "- - 257,071,483 268,716,653 4,092,536 4,301,166 1,897,056 507,750 - - - - 53,628,013 75,647,933 550,916 2,520,991 - - - - - 363,000 18,191,698 20,184,718",
+      "4": "- 269,537,302 4,010,800 274,416 - - 82,112,762 3,834,895 - - 234,706 19,344,722",
+      "1": NaN
     },
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "129,841,320 \n  131,904,552 \n  140,798,104 \n      Total Contingent liabilities\n4)  Capital Strength\n  44,856,413 \n  47,870,376 \n  49,248,127 \na)  Core capital \n  1,000,000 \n  1,000,000 \n  1,000,000 \nb)  Minimum statutory capital\n  43,856,413 \n  46,870,376 \n  48,248,127 \nc)  Excess/(Deﬁciency)\n  8,212,501 \n  8,486,247 \n  8,644,466 \nd)  Supplementary capital"
+      "item": "34 Total liabilities 337,085,936 374,393,579 None",
+      "2": "381,856,495",
+      "3": "335,431,702 372,242,211",
+      "4": "379,349,603",
+      "1": NaN
     },
     {
-      "March\nDecember\nMarch\n2021\n2021\n2022\nShs '000\nShs '000\nShs '000\nUnaudited\nAudited\nUnaudited\n  \n  \n  \nIII  Other disclosures \n1)  Non-performing loans and advances \n17,267,408\n19,817,024 \n19,498,844 \na)  Gross non-performing loans and advances\n  2,418,021  \n  2,495,443 \n  2,364,684 \nb)  Less: Interest in suspense": "53,068,914 \n  56,356,623 \n  57,892,593 \ne)  Total capital\n  311,724,625 \n  328,712,458 \n  339,900,958 \nf)  Total risk weighted assets\n17.5%\n17.9%\n18.4%\ng)  Core capital/total deposit liabilities\n8.0%\n8.0%\n8.0%\nh)  Minimum statutory ratio\n9.5%\n9.9%\n10.4%\ni)   Excess/(Deﬁciency)\n14.4%\n14.6%\n14.5%\nj)   Core capital/total risk weighted assets \n10.5%\n10.5%\n10.5%\nk)  Minimum statutory ratio\n3.9%\n4.1%\n4.0%\nl)   Excess/(Deﬁciency)\n17.0%\n17.1%\n17.0%\nm) Total capital/total risk weighted assets\n14.5%\n14.5%\n14.5%\nn)  Minimum statutory ratio\n2.5%\n2.6%\n2.5%\no)  Excess/(Deﬁciency)\n17.7%\n18.0%\n18.5%\np)  Adjusted Core Capital/Total Deposit Liabilities*\n14.5%\n14.7%\n14.6%\nq)  Adjusted Core Capital/Total Risk Weighted Assets*\n17.1%\n17.2%\n17.1%\nr)   Adjusted Total Capital/Total Risk Weighted Assets*\n5)  Liquidity\n38.3%\n38.3%\n36.7%\na)  Liquidity ratio\n20.0%\n20.0%\n20.0%\nb)  Minimum statutory ratio\n18.3%\n18.3%\n16.7%\nc)  Excess/(Deﬁciency)"
+      "item": "C Shareholders' Funds 35 Paid up / Assigned capital 2,715,768 2,715,768 36 Share premium / (discount) - - 37 Revaluation reserves 808,417 396,310 38 Retained earnings / (Accumulated losses) 43,281,614 45,154,608 39 Statutory loan loss reserve - - 40 Other reserves 176,688 111,263 41 Proposed dividend - 5,974,690 42 Capital Grants - - None",
+      "2": "2,715,768 - 108,403 47,910,112 - 152,916 5,974,690 -",
+      "3": "2,715,768 2,715,768 - - 820,575 393,663 44,943,600 47,252,008 - - 176,688 111,263 - 5,974,690 - -",
+      "4": "2,715,768 - 101,086 50,205,577 - 152,916 5,974,690 -",
+      "1": NaN
+    },
+    {
+      "item": "43 Total shareholders' funds 46,982,487 54,352,639 None",
+      "2": "56,861,889",
+      "3": "48,656,631 56,447,392",
+      "4": "59,150,037",
+      "1": NaN
+    },
+    {
+      "item": "44 Minority Interest None",
+      "2": "",
+      "3": "- -",
+      "4": "-",
+      "1": NaN
+    },
+    {
+      "item": "45 Total liabilities and total shareholders funds 384,068,423 428,746,218 None",
+      "2": "438,718,384",
+      "3": "384,088,333 428,689,603",
+      "4": "438,499,640",
+      "1": NaN
+    },
+    {
+      "item": "II Statement of comprehensive income 1.0 Interest income 1.1 Loans and advances to customers 5,542,005 23,095,489 1.2 Government securities 2,032,097 8,246,019 1.3 Deposits and placements with banking institutions 11,954 646,242 1.4 Other interest income - - None",
+      "2": "6,325,719 2,201,131 241,800 -",
+      "3": "5,542,005 23,095,489 2,044,265 8,296,579 12,499 646,242 - -",
+      "4": "6,325,719 2,213,692 241,800 -",
+      "1": NaN
+    },
+    {
+      "item": "1.5 Total interest income 7,586,056 31,987,750 2.0 Interest expenses 2.1 Customer deposits 1,451,183 6,094,471 2.2 Deposits and placements with banking institutions 169,285 653,160 2.3 Other interest expenses 33,729 128,541 None",
+      "2": "8,768,650 1,637,143 263,495 27,790",
+      "3": "7,598,769 32,038,310 1,431,788 5,998,294 169,285 653,160 33,937 129,944",
+      "4": "8,781,211 1,608,271 263,495 27,790",
+      "1": NaN
+    },
+    {
+      "item": "2.4 Total interest expenses 1,654,197 6,876,172 3.0 Net interest income 5,931,859 25,111,578 4.0 Non-interest income 4.1 Fees and commissions income on loans & Advances 447,972 1,731,947 4.2 Other fees and commissions 923,578 3,363,198 4.3 Foreign exchange trading income 933,057 4,161,703 4.4 Dividend income - - 4.5 Other income 294,100 1,362,065 None",
+      "2": "1,928,428 6,840,222 314,369 834,061 1,225,291 - 331,445",
+      "3": "1,635,010 6,781,398 5,963,759 25,256,912 447,972 1,731,947 1,180,441 4,423,785 933,057 4,161,698 - - 290,359 1,347,100",
+      "4": "1,899,556 6,881,655 314,369 1,150,900 1,225,290 - 327,703",
+      "1": NaN
+    },
+    {
+      "item": "4.6 Total non-interest income 2,598,707 10,618,913 None",
+      "2": "2,705,166",
+      "3": "2,851,829 11,664,530",
+      "4": "3,018,262",
+      "1": NaN
+    },
+    {
+      "item": "5.0 Total operating income 8,530,566 35,730,491 None",
+      "2": "9,545,388",
+      "3": "8,815,588 36,921,442",
+      "4": "9,899,917",
+      "1": NaN
+    },
+    {
+      "item": "6.0 Operating expenses 6.1 Loan loss provision 1,393,246 4,708,276 6.2 Staff costs 2,228,580 9,147,632 6.3 Directors emoluments 48,485 148,564 6.4 Rental charge 8,473 94,875 6.5 Depreciation on property and equipment 211,765 768,840 6.6 Amortisation charges 25,050 119,404 6.7 Other operating expenses 1,403,099 6,018,044 None",
+      "2": "1,181,037 2,200,937 47,271 29,099 175,798 28,723 1,866,903",
+      "3": "1,393,890 4,709,210 2,301,777 9,434,639 51,086 156,893 8,473 94,875 212,559 768,916 28,032 131,335 1,411,906 6,076,620",
+      "4": "1,181,000 2,256,187 49,322 29,099 175,815 31,512 1,878,039",
+      "1": NaN
+    },
+    {
+      "item": "7.0 Total operating expenses 5,318,698 21,005,635 Profit before tax and exceptional items 3,211,868 14,724,856 8.0 Exceptional items - - None",
+      "2": "5,529,768 4,015,620 -",
+      "3": "5,407,723 21,372,488 3,407,865 15,548,954 - -",
+      "4": "5,600,974 4,298,943 -",
+      "1": NaN
+    },
+    {
+      "item": "9.0 Profit after exceptional items 3,211,868 14,724,856 10 Current tax (1,461,888) (5,547,509) 11 Deferred tax 531,959 1,119,868 None",
+      "2": "4,015,620 (1,223,579) (36,535)",
+      "3": "3,407,865 15,548,954 (1,524,490) (5,803,620) 536,589 1,124,635",
+      "4": "4,298,943 (1,313,904) (31,470)",
+      "1": NaN
+    },
+    {
+      "item": "12 Profit after tax and exceptional items 2,281,939 10,297,215 None",
+      "2": "2,755,506",
+      "3": "2,419,964 10,869,969",
+      "4": "2,953,569",
+      "1": NaN
+    },
+    {
+      "item": "13 Other comprehensive income 13.1 Gains/(Losses) from translating the financial statements of foreign operations - - 13.2 Fair value changes in FVOCI financial assets (375,456) (964,181) 13.3 Revaluation surplus on property, plant and equipment - 13.4 Share of other comprehensive income of associates - 13.5 Income tax relating to components of other comprehensive income 112,637 289,254 None",
+      "2": "- (551,663) - - 165,499",
+      "3": "- - (373,364) (983,238) - - - - 112,009 294,972",
+      "4": "- (559,131) - - 167,739",
+      "1": NaN
+    },
+    {
+      "item": "14 Other Comprehensive Income for the year net of tax (262,819) (674,927) None",
+      "2": "(386,164)",
+      "3": "(261,355) (688,266)",
+      "4": "(391,392)",
+      "1": NaN
+    },
+    {
+      "item": "15 Total comprehensive income for the year 2,019,120 9,622,288 None",
+      "2": "2,369,342",
+      "3": "2,158,609 10,181,703",
+      "4": "2,562,177",
+      "1": NaN
+    },
+    {
+      "item": "Earnings per Share (Shs) 0.42 1.90 Dividends per share (Shs) - 1.10 None",
+      "2": "0.51 -",
+      "3": "0.45 2.00 - 1.10",
+      "4": "0.54 -",
+      "1": NaN
+    },
+    {
+      "item": "March December 2021 2021 Shs '000 Shs '000 Unaudited Audited III Other disclosures 1) Non-performing loans and advances a) Gross non-performing loans and advances 17,267,408 19,817,024 b) Less: Interest in suspense 2,418,021 2,495,443",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "March 2022 Shs '000 Unaudited 19,498,844 2,364,684"
+    },
+    {
+      "item": "c) Total non performing loans and advances 14,849,387 17,321,581 d) less: loan loss provisions 10,248,992 12,908,863 e) Net non performing loans (c-d) 4,600,395 4,412,718 f) Discounted value of securities 3,521,803 3,326,376",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "17,134,160 12,489,879 4,644,281 3,538,558"
+    },
+    {
+      "item": "g) Net NPLs (Excess)/Exposure (e-f) 1,078,592 1,086,342",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,105,723"
+    },
+    {
+      "item": "2) Insider loans and advances a) Directors, shareholders and associates 36,371 35,033 b) Employees 9,769,404 9,884,384",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "34,658 9,848,419"
+    },
+    {
+      "item": "c) Total insider loans and advances 9,805,775 9,919,417 3) Off Balance sheet items a) Letters of credit, guarantees, acceptances 43,882,881 41,450,324 b) Forwards, swaps and options 85,958,439 90,454,228 c) Other contingent liabilities - -",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "9,883,077 47,712,808 93,085,296 -"
+    },
+    {
+      "item": "Total Contingent liabilities 129,841,320 131,904,552 4) Capital Strength a) Core capital 44,856,413 47,870,376 b) Minimum statutory capital 1,000,000 1,000,000 c) Excess/(Deficiency) 43,856,413 46,870,376 d) Supplementary capital 8,212,501 8,486,247",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "140,798,104 49,248,127 1,000,000 48,248,127 8,644,466"
+    },
+    {
+      "item": "e) Total capital 53,068,914 56,356,623 f) Total risk weighted assets 311,724,625 328,712,458 g) Core capital/total deposit liabilities 17.5% 17.9% h) Minimum statutory ratio 8.0% 8.0% i) Excess/(Deficiency) 9.5% 9.9% j) Core capital/total risk weighted assets 14.4% 14.6% k) Minimum statutory ratio 10.5% 10.5% l) Excess/(Deficiency) 3.9% 4.1% m) Total capital/total risk weighted assets 17.0% 17.1% n) Minimum statutory ratio 14.5% 14.5% o) Excess/(Deficiency) 2.5% 2.6% p) Adjusted Core Capital/Total Deposit Liabilities* 17.7% 18.0% q) Adjusted Core Capital/Total Risk Weighted Assets* 14.5% 14.7% r) Adjusted Total Capital/Total Risk Weighted Assets* 17.1% 17.2% 5) Liquidity a) Liquidity ratio 38.3% 38.3% b) Minimum statutory ratio 20.0% 20.0% c) Excess/(Deficiency) 18.3% 18.3%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "57,892,593 339,900,958 18.4% 8.0% 10.4% 14.5% 10.5% 4.0% 17.0% 14.5% 2.5% 18.5% 14.6% 17.1% 36.7% 20.0% 16.7%"
     }
   ]
 }
