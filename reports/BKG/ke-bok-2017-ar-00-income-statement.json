@@ -1,0 +1,82 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "i",
+  "pages": [
+    53,
+    54,
+    61,
+    62,
+    63,
+    68,
+    69,
+    71,
+    112
+  ],
+  "extracted_at": "2025-11-28T22:03:49.884030",
+  "data": [
+    {
+      "item": "REPORT OF THE INDEPENDENT AUDITOR TO THE MEMBERS OF BK GROUP PLC",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN
+    },
+    {
+      "item": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2017",
+      "0": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2017",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "2": "THE BANK",
+      "3": "None",
+      "4": "THE GROUP",
+      "1": NaN
+    },
+    {
+      "item": "None None 2016",
+      "0": NaN,
+      "2": "2017",
+      "3": "2016",
+      "4": "2017",
+      "1": NaN
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "2": "FRw’000",
+      "3": "FRw’000",
+      "4": "FRw’000",
+      "1": NaN
+    },
+    {
+      "item": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2017",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2017"
+    },
+    {
+      "item": "For the year ended 31 December 2017 Corporate Banking Retail Banking Central Treasury BK Subsidiaries Total",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "For the year ended 31 December 2017"
+    },
+    {
+      "item": "None None None None None None",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "None"
+    }
+  ]
+}
