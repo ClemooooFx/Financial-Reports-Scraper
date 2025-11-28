@@ -1,161 +1,424 @@
 {
-  "title": "Consolidated Balance Sheet as at 31st December 2006",
-  "units": "8",
+  "title": "Statement of Financial Position",
+  "units": "cbr",
   "pages": [
+    5,
+    38,
     44,
     45,
+    56,
+    57,
+    58,
+    59,
     60,
     65,
-    65,
-    69,
+    66,
+    67,
     69
   ],
-  "extracted_at": "2025-11-27T10:09:42.504701",
+  "extracted_at": "2025-11-28T19:00:54.314666",
   "data": [
     {
-      "22000066\nSShhss mmiilllliioonn": "8,198\n25,484\n1,454\n3,322\n2,072\n73,907\n-\n128\n1,613\n65\n1,479",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "111177,,772222",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "93,837\n2,268\n1,215\n3,893\n913\n391\n343",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "22000066 SShhss.. MMiilllliioonn",
+      "0": "22000066 SShhss.. MMiilllliioonn",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "110022,,886600",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "15,123 (7,767) (881) 6,475",
+      "0": "15,123 (7,767) (881) 6,475",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "2,716\n37\n10,364\n115\n1,630",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "44,,449922",
+      "0": "44,,449922",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "1144,,886622",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "3.3 3 78,412 (4,505) 11,869 25,484 1,613 4,849 111177,,772222 93,837 9,023 110022,,886600 1144,,886622 1144,,886622 30% 4% 1% 84% 6% 13% 36% 2,197 46,119",
+      "0": "3.3 3 78,412 (4,505) 11,869 25,484 1,613 4,849 111177,,772222 93,837 9,023 110022,,886600 1144,,886622 1144,,886622 30% 4% 1% 84% 6% 13% 36% 2,197 46,119",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "111177,,772222",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "22000066 SShhss mmiilllliioonn",
+      "0": "22000066 SShhss mmiilllliioonn",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "8,198\n25,484\n1,454\n3,322\n-\n2,095\n73,907\n-\n275\n128\n1,614\n65\n1,479",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "8,198 25,484 1,454 3,322 2,072 73,907 - 128 1,613 65 1,479",
+      "0": "8,198 25,484 1,454 3,322 2,072 73,907 - 128 1,613 65 1,479",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "111188,,002211",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "111177,,772222",
+      "0": "111177,,772222",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "93,837\n2,268\n1,215\n4,182\n913\n401\n343",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "93,837 2,268 1,215 3,893 913 391 343",
+      "0": "93,837 2,268 1,215 3,893 913 391 343",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "110033,,115599",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "110022,,886600",
+      "0": "110022,,886600",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "2,716\n97\n37\n10,267\n115\n1,630",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "2,716 37 10,364 115 1,630",
+      "0": "2,716 37 10,364 115 1,630",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "1144,,886622",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "1144,,886622",
+      "0": "1144,,886622",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "111188,,002211",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "8,198 25,484 1,454 3,322 - 2,095 73,907 - 275 128 1,614 65 1,479",
+      "0": "8,198 25,484 1,454 3,322 - 2,095 73,907 - 275 128 1,614 65 1,479",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "8,867\n60,973\n1,313\n2,447\n44\n4,768",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "111188,,002211",
+      "0": "111188,,002211",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "78,412\n(4,408)\n(97)",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "93,837 2,268 1,215 4,182 913 401 343",
+      "0": "93,837 2,268 1,215 4,182 913 401 343",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "73,907",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "110033,,115599",
+      "0": "110033,,115599",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": "99\n(31)\n(2)"
+      "item": "2,716 97 37 10,267 115 1,630",
+      "0": "2,716 97 37 10,267 115 1,630",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": "65"
+      "item": "7,692 2,165 252 319",
+      "0": "7,692 2,165 252 319",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "(6,497)\n7,620",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "10,428",
+      "0": "10,428",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "1,123\n356",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "1,283 91 118",
+      "0": "1,283 91 118",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "1,479",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "1,492",
+      "0": "1,492",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "193\n833\n(931)\n40",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "3,081 4,686",
+      "0": "3,081 4,686",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "135\n(173)",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "7,767",
+      "0": "7,767",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": "(38)",
-      "22000066\nSShhssmmiilllliioonn": NaN,
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "241 2 322 11",
+      "0": "241 2 322 11",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "8,725\n12,613",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "64 135 1 3",
+      "0": "64 135 1 3",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "21,338",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "22000066 NNuummbbeerr 2,197",
+      "0": "22000066 NNuummbbeerr 2,197",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "5,575\n1",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "22000066 SShhss mmiilllliioonn 1,961 22",
+      "0": "22000066 SShhss mmiilllliioonn 1,961 22",
+      "1": NaN,
+      "2": NaN
     },
     {
-      "22000066\nSShhss mmiilllliioonn": NaN,
-      "22000066\nSShhssmmiilllliioonn": "5,576",
-      "22000066\nSShhss\nmmiilllliioonn": NaN
+      "item": "1,983",
+      "0": "1,983",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "6,629 1,989 (137) 131",
+      "0": "6,629 1,989 (137) 131",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "22000066",
+      "0": "22000066",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "SShhss mmiilllliioonn 4,492 1,358",
+      "0": "SShhss mmiilllliioonn 4,492 1,358",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3.3",
+      "0": "3.3",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,485 5,713",
+      "0": "2,485 5,713",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "8,198",
+      "0": "8,198",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "236 25,248",
+      "0": NaN,
+      "1": "9,503 6,264",
+      "2": "236 25,248"
+    },
+    {
+      "item": "25,484",
+      "0": NaN,
+      "1": "15,767",
+      "2": "25,484"
+    },
+    {
+      "item": "22000066 SShhssmmiilllliioonn",
+      "0": "22000066 SShhssmmiilllliioonn",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,282 - 172",
+      "0": "1,282 - 172",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,454",
+      "0": "1,454",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "244 820 2,999",
+      "0": "244 19 1,809",
+      "1": NaN,
+      "2": "244 19 1,832"
+    },
+    {
+      "item": "8,867 60,973 1,313 2,447 44 4,768",
+      "0": "8,867 60,973 1,313 2,447 44 4,768",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "78,412 (4,408) (97)",
+      "0": "78,412 (4,408) (97)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "73,907",
+      "0": "73,907",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "99 (31) (2)",
+      "0": "99 (31) (2)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "65",
+      "0": "65",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(6,497) 7,620",
+      "0": "(6,497) 7,620",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,123 356",
+      "0": "1,123 356",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,479",
+      "0": "1,479",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "193 833 (931) 40",
+      "0": "193 833 (931) 40",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "135 (173)",
+      "0": "135 (173)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(38)",
+      "0": "(38)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "14.0% 15.0% 12.0% 6.5%",
+      "0": "14.0% 15.0% 12.0% 6.5%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "41,625 28,518 23,357 337",
+      "0": "41,625 28,518 23,357 337",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "93,837",
+      "0": "93,837",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "22000066 %%",
+      "0": "22000066 %%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4.2 19.2 2.2 55.6 18.5 0.3",
+      "0": "4.2 19.2 2.2 55.6 18.5 0.3",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "100",
+      "0": "100",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,268",
+      "0": "2,268",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "838 377",
+      "0": "838 377",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,215",
+      "0": "1,215",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,113 19 - 174 230 - 2,646",
+      "0": "1,113 19 - 174 230 - 2,646",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4,182",
+      "0": "4,182",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "8,725 12,613",
+      "0": "8,725 12,613",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "21,338",
+      "0": "21,338",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,575 1",
+      "0": "5,575 1",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,576",
+      "0": "5,576",
+      "1": NaN,
+      "2": NaN
     }
   ]
 }

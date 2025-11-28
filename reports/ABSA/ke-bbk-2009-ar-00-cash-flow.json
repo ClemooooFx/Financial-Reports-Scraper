@@ -1,77 +1,70 @@
 {
-  "title": "Consolidated Statement of Cash Flows Notes to the Financial Statements Notes 2009 2008",
+  "title": "Consolidated Statement of Cash Flows Notes to the Financial Statements — Notes 2009 2008",
   "units": "kenya",
   "pages": [
-    23,
     23
   ],
-  "extracted_at": "2025-11-27T10:09:51.954151",
+  "extracted_at": "2025-11-28T19:01:04.250147",
   "data": [
     {
-      "Notes 2009 2008\nShs million Shs million": "17,735 17,366\n(2,875) (3,423)\n6,257 6,584\n2,158 2,782\n15 365 224\n(12,524) (13,760)\n(2,844) (2,248)",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "Notes 2009 2008 Shs million Shs million",
+      "0": "Notes 2009 2008 Shs million Shs million",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "8,272 7,525\n13,870 (4,412)\n1,996 1,139\n33 816 403\n(13,420) (2,586)\n(255) (270)\n(413) 17,035\n(1,146) (3,089)\n(5,897) 3,487",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "17,735 17,366 (2,875) (3,423) 6,257 6,584 2,158 2,782 15 365 224 (12,524) (13,760) (2,844) (2,248)",
+      "0": "17,735 17,366 (2,875) (3,423) 6,257 6,584 2,158 2,782 15 365 224 (12,524) (13,760) (2,844) (2,248)",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "3,823 19,232",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "8,272 7,525 13,870 (4,412) 1,996 1,139 33 816 403 (13,420) (2,586) (255) (270) (413) 17,035 (1,146) (3,089) (5,897) 3,487",
+      "0": "8,272 7,525 13,870 (4,412) 1,996 1,139 33 816 403 (13,420) (2,586) (255) (270) (413) 17,035 (1,146) (3,089) (5,897) 3,487",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "18 (3,241) (1,246)\n19 (346) (441)\n5 6",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "3,823 19,232",
+      "0": "3,823 19,232",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "(3,582) (1,681)",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "18 (3,241) (1,246) 19 (346) (441) 5 6",
+      "0": "18 (3,241) (1,246) 19 (346) (441) 5 6",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "(2,716) (3,824)\n- 1,251\n- 1,982",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "(3,582) (1,681)",
+      "0": "(3,582) (1,681)",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "(2,716) (591)",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "(2,716) (3,824) - 1,251 - 1,982",
+      "0": "(2,716) (3,824) - 1,251 - 1,982",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "(2,475) 16,960\n33 14,626 (2,334)",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "(2,716) (591)",
+      "0": "(2,716) (591)",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "33 12,151 14,626",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "(2,475) 16,960 33 14,626 (2,334)",
+      "0": "(2,475) 16,960 33 14,626 (2,334)",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": "",
-      "Standard/\nInterpretation": NaN,
-      "Content": NaN,
-      "Applicable for financial\nyear beginning on/after": NaN
+      "item": "33 12,151 14,626",
+      "0": "33 12,151 14,626",
+      "2": NaN
     },
     {
-      "Notes 2009 2008\nShs million Shs million": NaN,
-      "Standard/\nInterpretation": "IFRS 2*\nIFRS 7\nIFRS 8\nIAS 1\nIAS 23*\nIAS 32 and IAS 1*\nIFRIC 16*",
-      "Content": "Share based payment-vesting conditions and cancellation\nImproving disclosures about financial instruments\nOperating segments\nPresentation of financial statements\nBorrowing costs\nPuttable financial instruments and obligations arising on liquidation\nHedges of a net investment in a foreign operation",
-      "Applicable for financial\nyear beginning on/after": "1 January 2009\n1 January 2009\n1 January 2009\n1 January 2009\n1 January 2009\n1 January 2009\n1 October 2008"
+      "item": "Standard/ Interpretation Content Applicable for financial year beginning on/after",
+      "0": "Standard/ Interpretation",
+      "2": "Applicable for financial year beginning on/after"
+    },
+    {
+      "item": "IFRS 2* IFRS 7 IFRS 8 IAS 1 IAS 23* IAS 32 and IAS 1* IFRIC 16* Share based payment-vesting conditions and cancellation Improving disclosures about financial instruments Operating segments Presentation of financial statements Borrowing costs Puttable financial instruments and obligations arising on liquidation Hedges of a net investment in a foreign operation 1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 October 2008",
+      "0": "IFRS 2* IFRS 7 IFRS 8 IAS 1 IAS 23* IAS 32 and IAS 1* IFRIC 16*",
+      "2": "1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 January 2009 1 October 2008"
     }
   ]
 }

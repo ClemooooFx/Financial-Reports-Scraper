@@ -1,15 +1,17 @@
 {
-  "extraction_date": "2025-11-28T13:20:06.824625",
-  "duration_seconds": 475.833329,
+  "extraction_date": "2025-11-28T19:01:41.264524",
+  "duration_seconds": 87.125745,
   "batch_number": 3,
-  "total_pdfs": 10,
-  "successful": 10,
+  "batch_size": 20,
+  "force_reprocess": true,
+  "total_pdfs": 20,
+  "successful": 20,
   "skipped": 0,
   "failed": 0,
   "statements_extracted": {
-    "consolidated_financial_position": 0,
-    "consolidated_income": 0,
-    "consolidated_cashflow": 0,
-    "consolidated_equity": 2
+    "balance_sheet": 12,
+    "income_statement": 6,
+    "cash_flow": 4,
+    "equity_changes": 3
   }
 }

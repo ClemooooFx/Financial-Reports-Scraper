@@ -1,98 +1,1042 @@
 {
-  "title": "Balance sheet ratios Net advances to deposits (%) 80% 79% 97% 85% 74%",
-  "units": "881",
+  "title": "Statement of Financial Position",
+  "units": "eac",
   "pages": [
-    18,
-    18,
-    18,
-    18,
-    18,
-    18,
+    5,
+    9,
+    13,
+    17,
     18,
     21,
-    21,
     29,
-    29,
-    29,
-    29,
-    29,
-    31,
-    31,
-    31,
     31,
     32,
-    32,
-    32,
-    33,
-    33,
-    33,
     33,
     34,
-    36,
+    35,
     36,
     37,
     38,
-    38,
     39,
-    39,
-    39,
-    39,
-    39,
-    39
+    40
   ],
-  "extracted_at": "2025-11-27T10:09:51.947249",
+  "extracted_at": "2025-11-28T19:01:04.244617",
   "data": [
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "Shs million Shs million Shs million"
+      "item": "2006",
+      "1": "2007",
+      "2": "2008",
+      "3": "2009",
+      "4": NaN,
+      "0": NaN
     },
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "3,232 92 3,324"
+      "item": "2005",
+      "1": "2006",
+      "2": "2007",
+      "3": "2008",
+      "4": "2009",
+      "0": NaN
     },
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "1,670 - 1,670\n715 21 736\n(900) - (900)"
+      "item": "Barclays Bank of Kenya Limited 2009 Annual Report & Accounts “ We believe in giving back to the communities in which we operate by volunteering, mentoring and fundraising, among other activities.” Barclays Kenya, creating Value for society.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Barclays Bank of Kenya Limited 2009 Annual Report & Accounts “ We believe in giving back to the communities in which we operate by volunteering, mentoring and fundraising, among other activities.” Barclays Kenya, creating Value for society."
     },
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "1,485 21 1,506\n(1,052) - (1,052)"
+      "item": "Member",
+      "1": "Ordinary (Scheduled) Meetings",
+      "2": "Special (Adhoc) Meetings",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
     },
     {
-      "": "At 31 December 2008",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "3,665 113 3,778"
+      "item": "Francis Okomo-Okello Adan Mohamed Yusuf Omari Nicholas Mbuvi Rose Ogega Brown Ondego Paul Chemng’orem Jane Karuku Vinit Chandra*",
+      "1": "3/3 3/3 2/3 2/3 3/3 3/3 3/3 2/3 -",
+      "2": "4/4 4/4 3/4 2/4 3/4 4/4 4/4 4/4 -",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
     },
     {
-      "": "Net increase in impairment provisions above\nAmount recovered previously written off",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "1,485 21 1,506\n(224) - (224)"
+      "item": "2005 2006 2007 2008 2009",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "2005 2006 2007 2008 2009"
     },
     {
-      "": "Net impairment charge to the profit\nand loss account",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "1,261 21 1,282"
+      "item": "14,275 15,123 18,860 23,628 23,397 (7,519) (7,767) (11,095) (14,329) (13,882) (1,329) (881) (687) (1,282) (513) 5,427 6,475 7,078 8,016 9,002 3,729 4,492 4,910 5,558 6,091 2.70 3.30 3.60 4.09 4.49 2.10 1.65 1.65 2.00 2.50 65,562 73,907 105,346 108,086 93,543 15,663 11,869 10,774 13,695 9,751 15,767 25,484 25,721 28,307 43,861 1,503 1,613 2,772 4,012 5,921 5,731 4,849 13,043 14,411 11,800 104,226 117,722 157,656 168,511 164,876 81,800 93,837 109,097 126,562 125,869 9,249 9,023 30,995 21,455 14,797 91,049 102,860 140,092 148,017 140,666 13,177 14,862 17,564 20,494 24,210 - 13,177 14,862 17,564 20,494 24,210 28.0% 30.0% 28.0% 27.1% 25.2% 3.0% 4.0% 3.1% 3.3% 3.7% 2.0% 1.0% 0.6% 1.2% 0.5% 52.7% 51.4% 58.8% 60.6% 59.3% 80% 79% 97% 85% 74% 6.6% 5.7% 3.1% 3.0% 0.0% 1,762 2,197 6,900 5,724 5,325 1,762 2,197 2,785 4,026 3,590 - - 4,115 1,698 1,735 33,556 46,119 58,946 60,914 60,488 58 62 107 117 119 83 98 193 234 234",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "14,275 15,123 18,860 23,628 23,397 (7,519) (7,767) (11,095) (14,329) (13,882) (1,329) (881) (687) (1,282) (513) 5,427 6,475 7,078 8,016 9,002 3,729 4,492 4,910 5,558 6,091 2.70 3.30 3.60 4.09 4.49 2.10 1.65 1.65 2.00 2.50 65,562 73,907 105,346 108,086 93,543 15,663 11,869 10,774 13,695 9,751 15,767 25,484 25,721 28,307 43,861 1,503 1,613 2,772 4,012 5,921 5,731 4,849 13,043 14,411 11,800 104,226 117,722 157,656 168,511 164,876 81,800 93,837 109,097 126,562 125,869 9,249 9,023 30,995 21,455 14,797 91,049 102,860 140,092 148,017 140,666 13,177 14,862 17,564 20,494 24,210 - 13,177 14,862 17,564 20,494 24,210 28.0% 30.0% 28.0% 27.1% 25.2% 3.0% 4.0% 3.1% 3.3% 3.7% 2.0% 1.0% 0.6% 1.2% 0.5% 52.7% 51.4% 58.8% 60.6% 59.3% 80% 79% 97% 85% 74% 6.6% 5.7% 3.1% 3.0% 0.0% 1,762 2,197 6,900 5,724 5,325 1,762 2,197 2,785 4,026 3,590 - - 4,115 1,698 1,735 33,556 46,119 58,946 60,914 60,488 58 62 107 117 119 83 98 193 234 234"
     },
     {
-      "": "Year ended 31 December 2009\nAt 1 January 2009\nNew impairment provisions\nIncrease in impairment provisions\nRecoveries and impairment provisions no\nlonger required\nNet increase in impairment provisions\nAmounts written off during the current year",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "3,665 113 3,778"
+      "item": "Notes 2009 2008 Shs million Shs million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Notes 2009 2008 Shs million Shs million"
     },
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "1,015 - 1,015\n287 98 385\n(522) - (522)"
+      "item": "12 9,751 13,695 13 43,861 28,307 14 1,061 1,654 35 6,246 6,993 15 93,543 108,086 412 251 19 686 546 18 5,921 3,403 20 62 63 21 1,837 2,020 22 1,496 3,492",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "12 9,751 13,695 13 43,861 28,307 14 1,061 1,654 35 6,246 6,993 15 93,543 108,086 412 251 19 686 546 18 5,921 3,403 20 62 63 21 1,837 2,020 22 1,496 3,492"
     },
     {
-      "": null,
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "780 98 878\n(930) - (930)"
+      "item": "164,876 168,510",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "164,876 168,510"
     },
     {
-      "": "At 31 December 2009",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "3,515 211 3,726"
+      "item": "23 1,503 - 24 125,869 126,408 25 262 1,401 26 34 289 35 3,986 9,883 115 175 17 619 432 27 4,294 4,329 28 3,984 5,130",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "23 1,503 - 24 125,869 126,408 25 262 1,401 26 34 289 35 3,986 9,883 115 175 17 619 432 27 4,294 4,329 28 3,984 5,130"
     },
     {
-      "": "Net increase in impairment provisions above\nAmounts recovered previously written off",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "780 98 878\n(365) - (365)"
+      "item": "140,666 148,047",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "140,666 148,047"
     },
     {
-      "": "Net impairment charge to the profit and\nloss account",
-      "Group and company\nIdentified Unidentified\nprovisions provision Total": "415 98 513"
+      "item": "29 2,716 2,716 125 (247) 16,882 15,325 1,771 632 11 2,716 2,037",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "29 2,716 2,716 125 (247) 16,882 15,325 1,771 632 11 2,716 2,037"
+    },
+    {
+      "item": "24,210 20,463",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "24,210 20,463"
+    },
+    {
+      "item": "12 9,751 13,695 13 43,861 28,307 14 1,061 1,654 35 6,246 6,993 15 93,543 108,086 412 251 16 275 275 19 686 546 18 5,921 3,403 20 62 63 21 1,837 2,020 22 1,496 3,492",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "12 9,751 13,695 13 43,861 28,307 14 1,061 1,654 35 6,246 6,993 15 93,543 108,086 412 251 16 275 275 19 686 546 18 5,921 3,403 20 62 63 21 1,837 2,020 22 1,496 3,492"
+    },
+    {
+      "item": "165,151 168,785",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "165,151 168,785"
+    },
+    {
+      "item": "23 1,503 - 24 125,869 126,408 25 262 1,401 26 34 289 35 3,986 9,883 117 178 17 619 432 27 4,294 4,329 28 4,257 5,402",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "23 1,503 - 24 125,869 126,408 25 262 1,401 26 34 289 35 3,986 9,883 117 178 17 619 432 27 4,294 4,329 28 4,257 5,402"
+    },
+    {
+      "item": "140,941 148,322",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "140,941 148,322"
+    },
+    {
+      "item": "29 2,716 2,716 89 89 125 (247) 16,793 15,236 1,771 632 11 2,716 2,037",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "29 2,716 2,716 89 89 125 (247) 16,793 15,236 1,771 632 11 2,716 2,037"
+    },
+    {
+      "item": "None",
+      "1": "Group and Company 2009 2008 Shs million Shs million",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Gross loans and advances to customers Less: Allowances for impairment of loans and advances - Identified - Unidentified",
+      "1": "97,269 111,864 (3,515) (3,665) (211) (113)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Loans and advances to customers net of provisions",
+      "1": "93,543 108,086",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": "Shs million Shs million Shs million",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "At 31 December 2008",
+      "1": NaN,
+      "2": "3,665 113 3,778",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net increase in impairment provisions above Amount recovered previously written off",
+      "1": NaN,
+      "2": "1,485 21 1,506 (224) - (224)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net impairment charge to the profit and loss account",
+      "1": NaN,
+      "2": "1,261 21 1,282",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Year ended 31 December 2009 At 1 January 2009 New impairment provisions Increase in impairment provisions Recoveries and impairment provisions no longer required Net increase in impairment provisions Amounts written off during the current year",
+      "1": NaN,
+      "2": "3,665 113 3,778",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "At 31 December 2009",
+      "1": NaN,
+      "2": "3,515 211 3,726",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net increase in impairment provisions above Amounts recovered previously written off",
+      "1": NaN,
+      "2": "780 98 878 (365) - (365)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Loans and advances to customers individually impaired - net",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Unidentified impairment allowance",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Economic sector risk concentrations within the customer loan portfolio were as follows: Manufacturing Wholesale and retail trade Transport and communications Business services Agricultural Private individuals Other",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Group and Company 2009 2008 Shs million Shs million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Group and Company 2009 2008 Shs million Shs million"
+    },
+    {
+      "item": "5,872 5,625 (3,515) (3,665) 2,357 1,960 (211) (113)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "5,872 5,625 (3,515) (3,665) 2,357 1,960 (211) (113)"
+    },
+    {
+      "item": "Group and company 2009 2008 % %",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Group and company 2009 2008 % %"
+    },
+    {
+      "item": "7 10 6 6 8 10 1 2 1 1 52 44 25 27 100 100",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "7 10 6 6 8 10 1 2 1 1 52 44 25 27 100 100"
+    },
+    {
+      "item": "",
+      "1": "275 275",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Barclays (Kenya) Nominees Limited holds various securities on behalf of customers of Barclays Bank of Kenya Ltd. Barclays Financial Services Limited (formerly Barclays Mortgages Limited) and Barclays Bank Insurance Agency Limited (formerly Barclays Mercantile Limited) are dormant companies. The subsidiaries, all of which are unlisted, are incorporated in Kenya and have the same year end as the company. 17. Deferred income tax Deferred income tax is calculated, in full, on all temporary differences under the liability method using the enacted income tax rate of 30% (2008 : 30%). The movement on the deferred tax account is as follows: At start of year Statement of other comprehensive income Profit and loss account charge (Note 9)",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "At end of year",
+      "1": "(619) (432)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Defined benefit obligation at end of year",
+      "1": NaN,
+      "2": "8,773 8,021",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Changes in the fair value of plan assets over the year Assets at start of year Expected return on plan assets Actuarial gains/(losses) Employer contributions Employee contributions Benefits paid",
+      "1": NaN,
+      "2": "7,061 8,090 920 1,048 734 (1800) 400 253 192 155 (593) (685)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Assets at end of year",
+      "1": NaN,
+      "2": "8,714 7,061",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Plan assets comprise Equity instruments Debt instruments Property Pension plan assets include buildings occupied by the bank with a fair value of Shs 1,595 million. The actual return on scheme assets was 11% (2008: -6%)",
+      "1": NaN,
+      "2": "2009 % 2008 % Shs million Shs million",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Five year summary Present value of funded obligation Fair value of scheme assets",
+      "1": NaN,
+      "2": "2009 2008 2007 2006 2005 Shs million Shs million Shs million Shs million Shs million",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "(Deficit) /surplus in plan Unrecognised actuarial losses",
+      "1": NaN,
+      "2": "(59) (960) 1,057 1,123 407 1,896 2,980 653 356 1,034",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": "262 316 - 196 43 144 - 1,079 1,191 1,757",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "23. Balances due to Central Bank of Kenya Overnight borrowing from the Central Bank of Kenya None",
+      "1": NaN,
+      "2": "Group and Company 2009 2008 Shs million Shsmillion",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "In the normal course of business, the Group borrows overnight from Central Bank of Kenya. On 31 December 2009 the effective interest rate was 4%. 24. Customer deposits Current and demand deposits Savings accounts Fixed deposit accounts La Riba accounts None",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "The weighted average effective interest rate on interest bearing customer deposits as at 31 December 2009 was 1.7% (2008: 2.4%). Business sector risk concentrations within the customer deposit portfolio were as follows:- Non financial public enterprises Private enterprises Non-profit enterprises & individuals Foreign currency Other None",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None 61",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net book value",
+      "1": "128 - 128",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Year ended 31 December 2008 Opening net book value Additions Amortisation charge",
+      "1": "128 - 128 - 441 441 - (23) (23)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Closing net book value",
+      "1": "128 418 546",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "At 31 December 2008 Acquisition cost Accumulated amortisation",
+      "1": "128 441 569 - (23) (23)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Year ended 31 December 2009 Opening net book value Additions Amortisation charge",
+      "1": "128 418 546 - 346 346 - (206) (206)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "At 31 December 2009 Acquisition cost Accumulated amortisation",
+      "1": "128 787 915 - (229) (229)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "21. Retirement benefit assets The amounts recognised in the balance sheet are determined as follows: Present value of funded obligations Fair value of scheme assets",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Fund deficit Unrecognised actuarial losses",
+      "1": NaN,
+      "2": "(59) (960) 1,896 2,980",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset in the balance sheet",
+      "1": NaN,
+      "2": "1,837 2,020",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "The amounts recognised in the profit and loss account for the year are as follows: Current service cost Interest cost Expected return on plan assets Amortisation of actuarial losses",
+      "1": NaN,
+      "2": "447 204 1,006 876 (920) (1,048) 50 -",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net charge for the year included in staff costs (Note 8) Contributions paid",
+      "1": NaN,
+      "2": "583 32 (400) (342)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Movement in the asset recognised in the balance sheet",
+      "1": NaN,
+      "2": "183 (310)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None The weighted average effective interest rate on deposits and balances due to banking institutions as at 31 December 2009 was 5.3% (2008: 6.8%). 26. Lines of credit Lines of credit relate to loans administered on behalf of the following agencies as follows: European Investment Bank (EIB) Global Private Enterprises loan programme funding",
+      "1": NaN,
+      "2": "34 289",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None The weighted average effective interest rate on the lines of credit as at 31 December 2009 was 3.97% (2008: 4.8%). 27. Long term liabilities Fixed and floating rate medium term notes Subordinated debt",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": "807 1,320 807 1,320 148 154 148 154 249 302 249 302 2,780 3,354 3,053 3,626",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None 29. Share capital Balance at 1 January 2008 None",
+      "1": NaN,
+      "2": NaN,
+      "3": "",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Balance at 1 January 2009 None",
+      "1": NaN,
+      "2": NaN,
+      "3": "1,358 2,716",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Balance at 31 December 2009 None",
+      "1": NaN,
+      "2": NaN,
+      "3": "1,358 2,716",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital management Barclays Bank Plc operates a centralised capital managem economic capital. The capital management strategy is to through optimising both the level and mix of capital reso • Meet the individual capital ratios required by our regula • Maintain a high credit rating. • Generate sufficient capital to support asset growth. • Manage the currency exposure to its overall equivalent Decisions on the allocation of capital resources are based on and regulatory capital. This is conducted as part of the strateg",
+      "1": NaN,
+      "2": NaN,
+      "3": "ent model, considering both regulatory and continue to maximise shareholder value urces in order to: tors plus a prudent buffer. capital requirement. a number of factors including return on economic ic planning review.",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Capital resources The Group manages both its debt and equity capital actively. Shareholders’ equity None",
+      "1": NaN,
+      "2": NaN,
+      "3": "Group Group 2009 2008 Shs million Shs million",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Total capital resources None",
+      "1": NaN,
+      "2": NaN,
+      "3": "24,210 20,463",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total weighted risk assets",
+      "1": NaN,
+      "2": "115,880 133,040",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "The distribution of shareholders as at 31 December 2009 was as follows: Share range Less than 500 501 to 5,000 5,001 to 10,000 10,001 to 100,000 100,001 to 1,000,000 Above 1,000,000",
+      "1": NaN,
+      "2": "Number of Shares held % shareholders 20,177 4,451,491 0.33 23,744 43,064,085 3.17 13,780 106,120,237 7.82 2,385 65,887,142 4.85 313 83,566,461 6.15 49 1,054,794,584 77.68",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Operating income Impairment losses on loans and advances Depreciation and amortisation Other operating expenses",
+      "1": NaN,
+      "2": "23,397 10,523 12,874 - (513) 193 (706) - (928) - - (928) (12,954) (990) (4,169) (7,795)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profit before income tax Income tax expense",
+      "1": NaN,
+      "2": "9,002 9,726 7,999 (8,723) (2,911) - - (2,911)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profit after tax",
+      "1": NaN,
+      "2": "6,091 9,726 7,999 (11,634)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total assets",
+      "1": NaN,
+      "2": "164,876 93,409 51,302 20,165",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total liabilities",
+      "1": NaN,
+      "2": "140,666 55,185 79,376 6,104",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Additions of non-current assets",
+      "1": NaN,
+      "2": "3,587 - - 3,587",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "million million million million",
+      "0": NaN
+    },
+    {
+      "item": "None None Operating income Impairment losses on loans and advances Depreciation and amortisation Other operating expenses None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "23,627 8,227 15,400 - (1,282) 98 (1,380) - (639) - - (639) (13,690) (962) (7,694) (5,034)",
+      "0": NaN
+    },
+    {
+      "item": "None None Profit before income tax Income tax expense None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "8,016 7,363 6,326 (5,673) (2,491) - - (2,491)",
+      "0": NaN
+    },
+    {
+      "item": "None None Profit after tax None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "5,525 7,363 6,326 (8,164)",
+      "0": NaN
+    },
+    {
+      "item": "None None Total assets None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "168,510 92,979 52,061 23,470",
+      "0": NaN
+    },
+    {
+      "item": "None None Total liabilities None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "148,047 65,466 75,440 7,141",
+      "0": NaN
+    },
+    {
+      "item": "None None Additions of non-current assets None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "1,687 - - 1,687",
+      "0": NaN
+    },
+    {
+      "item": "All revenues are earned in Kenya. There are no r external customer that amounted to 10% or m",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": "evenues derived from transactions with a single ore of the group’s revenues.",
+      "0": NaN
+    },
+    {
+      "item": "None Total assets",
+      "1": NaN,
+      "2": "98,375 13,261 22,360 10,715 20,165 164,876",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None LIABILITIES & EQUITY Balances due to Central Bank of Kenya Customer deposits Deposits and balances due to banking institutions Lines of credit Other liabilities Amounts due to group companies Current tax payable Deferred income tax Long term liabilities – medium term note Shareholders’ equity",
+      "1": NaN,
+      "2": "1,503 - - - - 1,503 66,094 5,991 4,125 1,996 47,663 125,869 262 - - - - 262 - - - 34 - 34 - - - - 3,984 3,984 1,163 119 2,704 - - 3,986 - - - - 115 115 - - - - 619 619 - 4,294 - - - 4,294 - - - - 24,210 24,210",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Total liabilities and equity",
+      "1": NaN,
+      "2": "69,022 10,404 6,829 2,030 76,591 164,876",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Interest sensitivity gap",
+      "1": NaN,
+      "2": "29,353 2,857 15,531 8,685 (56,426) -",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None As at 31 December 2008 Total assets Total liabilities and equity",
+      "1": NaN,
+      "2": "120,332 11,294 2,719 10,695 23,470 168,510 49,702 36,448 7,788 5,702 68,870 168,510",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "LIABILITIES & EQUITY Balances due to Central Bank of Kenya Customer deposits Deposits and balances due to banking institutions Lines of credit Other liabilities Amounts due to group companies Deferred income tax Current income tax payable Long term liabilities Shareholders’ equity",
+      "1": "LIABILITIES & EQUITY Balances due to Central Bank of Kenya Customer deposits Deposits and balances due to banking institutions Lines of credit Other liabilities Amounts due to group companies Deferred income tax Current income tax payable Long term liabilities Shareholders’ equity",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net interest income increase/ (decrease) Tax charge at 30% Impact on profit after tax",
+      "1": "Net interest income increase/ (decrease) Tax charge at 30% Impact on profit after tax",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "As at 31 December 2009 As at 31 December 2008 Carrying 1% 1% Carrying 1% 1% amounts increase Decrease amounts increase Decrease",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "As at 31 December 2009 As at 31 December 2008 Carrying 1% 1% Carrying 1% 1% amounts increase Decrease amounts increase Decrease"
+    },
+    {
+      "item": "9,751 - - 13,695 - - 43,861 (439) 439 28,307 270 (270) 1,061 (11) 11 1,654 8 (8) 6,246 (62) 62 6,993 63 (63) 1,496 - - 3,743 - - 93,543 (935) 935 108,086 1,116 (1,116) 5,921 - - 3,403 - - 62 - - 63 - - 686 - - 546 - - 1,837 - - 2,020 - - 1,503 15 (15) - - - 125,869 1,259 (1,259) 126,408 (632) 632 262 - - 1,401 (56) 56 34 - - 289 (5) 5 3,984 - - 5,130 - - 3,986 40 (40) 9,883 (59) 59 619 - - 432 - - 115 1 (1) 175 - - 4,294 43 (43) 4,329 (27) 27 24,210 - - 20,463 - - (89) 89 678 (678) 27 (27) (203) 203 (62) 62 475 (475)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "9,751 - - 13,695 - - 43,861 (439) 439 28,307 270 (270) 1,061 (11) 11 1,654 8 (8) 6,246 (62) 62 6,993 63 (63) 1,496 - - 3,743 - - 93,543 (935) 935 108,086 1,116 (1,116) 5,921 - - 3,403 - - 62 - - 63 - - 686 - - 546 - - 1,837 - - 2,020 - - 1,503 15 (15) - - - 125,869 1,259 (1,259) 126,408 (632) 632 262 - - 1,401 (56) 56 34 - - 289 (5) 5 3,984 - - 5,130 - - 3,986 40 (40) 9,883 (59) 59 619 - - 432 - - 115 1 (1) 175 - - 4,294 43 (43) 4,329 (27) 27 24,210 - - 20,463 - - (89) 89 678 (678) 27 (27) (203) 203 (62) 62 475 (475)"
+    },
+    {
+      "item": "Effect on profit for the year",
+      "1": NaN,
+      "2": "27 (27) (10) 10",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "As percentage of net profit after tax",
+      "1": NaN,
+      "2": "0.48% (0.48%) (0.002%) 0.002%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Liabilities Balances due to banking institutions and group companies Customer deposits Other liabilities",
+      "1": NaN,
+      "2": "3,955 - - 710 4,665 13,890 2,317 2,152 88 18,447 355 90 63 56 564",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net balance sheet position",
+      "1": NaN,
+      "2": "(810) 138 1 263 (408)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Off balance sheet net notional position",
+      "1": NaN,
+      "2": "758 (121) (253) (3) 381",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Overall net position",
+      "1": NaN,
+      "2": "(52) 17 (252) 260 (27)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "As at 31 December 2008 Total assets Total liabilities",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net balance sheet position Off balance sheet net notional position",
+      "1": NaN,
+      "2": "209 839 234 190 1,472 1,130 (817) (219) (46) 48",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Total financial liabilities (contractual maturity dates) Assets held for managing liquidity (contractual maturity dates)",
+      "1": NaN,
+      "2": "121,760 6,110 6,829 2,030 4,913 - 141,642 23,388 4,037 23,145 4,462 2,488 3,400 60,919",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None As at 31 December 2008 Liabilities Customer deposits Deposits and balances due to banking institutions Balances due to group companies Other liabilities",
+      "1": NaN,
+      "2": "83,034 37,323 7,975 1,110 - - 129,442 1,401 - - - - - 1,401 10,291 - - - - - 10,291 5,130 175 - 303 5,059 - 10,667",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Total financial liabilities (Contractual maturity dates) Assets held for managing liquidity (contractual maturity dates)",
+      "1": NaN,
+      "2": "99,856 37,498 7,975 1,413 5,059 - 151,801 25,968 10,655 2,656 7,453 1,017 2,009 49,667",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Past due but not impaired Past due 30 to 90 days Past due over 90 days Impaired Individually assessed",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Impairment allowances Identified impairment Unidentified impairment",
+      "1": NaN,
+      "2": "97,269 1,061 5,648 6,246 43,861 154,085 (3,515) - - - - (3,515) (211) - - - - (211)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total carrying value",
+      "1": NaN,
+      "2": "93,543 1,061 5,648 6,246 43,861 150,359",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Fair value of collateral held for impaired loans & advance",
+      "1": NaN,
+      "2": "3,423 - - - - -",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Past due but not impaired Past due up to 90 days Past due over 90 days Impaired Individually assessed",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Impairment allowances Identified Unidentified",
+      "1": NaN,
+      "2": "111,864 1,654 9,359 6,993 28,307 158,177 (3,665) - - - - (3,665) (113) - - - - (113)",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Due to: Barclays Bank Plc",
+      "1": NaN,
+      "2": "512 276",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Group and company 2009 2008 Shs million Shs million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Group and company 2009 2008 Shs million Shs million"
+    },
+    {
+      "item": "5,103 4,063",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "5,103 4,063"
+    },
+    {
+      "item": "Interest income earned on the above",
+      "1": NaN,
+      "2": "108 267",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Due to: Barclays Bank Plc Other group companies",
+      "1": NaN,
+      "2": "3,063 9,136 923 747",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Interest expense incurred on the above",
+      "1": NaN,
+      "2": "118 245",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2009 2008 Shs million Shs million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "2009 2008 Shs million Shs million"
+    },
+    {
+      "item": "96 18 18 86 (9) (8)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "96 18 18 86 (9) (8)"
+    },
+    {
+      "item": "105 96",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "105 96"
+    },
+    {
+      "item": "250 184",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "250 184"
+    },
+    {
+      "item": "9 8 60 51 6 10",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "9 8 60 51 6 10"
+    },
+    {
+      "item": "78 85 18 18 (12) (14) 16 13",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "78 85 18 18 (12) (14) 16 13"
+    },
+    {
+      "item": "597 704 1 1 34 5",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "597 704 1 1 34 5"
+    },
+    {
+      "item": "ereh tuC",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
     }
   ]
 }
