@@ -1,1275 +1,698 @@
 {
-  "title": "Income statement analysis Income statement 2016 2017 2018 YoY Change",
+  "title": "Statement of Profit or Loss",
   "units": "ccoonnttiinnuueedd",
   "pages": [
     44,
     99,
     100,
     183,
+    184,
     186,
-    190
+    190,
+    204,
+    208
   ],
-  "extracted_at": "2025-11-27T09:04:11.474120",
+  "extracted_at": "2025-11-28T17:55:09.061419",
   "data": [
     {
-      "Shs’ million": "21 992",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "9 702",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "31 694",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "17 177",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "14 517",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "3 871",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "10 646",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "3 230",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": "7 416",
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(7 069)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "21 992",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "6 711",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(1 086)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "5 625",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "4 045",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "32",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "31 694",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(3 871)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "27 823",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(9 921)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(1 263)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(4 794)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(792)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(407)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(17 177)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "10 646",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(3 230)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "7 416",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "23",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(7)",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "16",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "-",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "-",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "Shs’ million",
+      "0": "Shs’ million",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "398",
-      "29 052": NaN,
-      "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": "(119)",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "21 992",
+      "0": "21 992",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "279",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "9 702",
+      "0": "9 702",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "295",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "31 694",
+      "0": "31 694",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "17 177",
+      "0": "17 177",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "7 711",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "14 517",
+      "0": "14 517",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "3 871",
+      "0": "3 871",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "10 646",
+      "0": "10 646",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": "1.37",
-      "29 052": NaN,
-      "0": NaN,
+      "item": "3 230",
+      "0": "3 230",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(7 092)",
-      "0": NaN,
+      "item": "7 416",
+      "0": "7 416",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "21 960",
-      "0": NaN,
+      "item": "29 061",
+      "0": "29 061",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "(7 069)",
+      "0": "(7 069)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "6 191",
-      "0": NaN,
+      "item": "6 711",
+      "0": "6 711",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(1 086)",
-      "0": NaN,
+      "item": "(1 086)",
+      "0": "(1 086)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "5 105",
-      "0": NaN,
+      "item": "5 625",
+      "0": "5 625",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "4 045",
+      "0": "4 045",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "4 045",
-      "0": NaN,
+      "item": "32",
+      "0": "32",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "32",
-      "0": NaN,
+      "item": "(3 871)",
+      "0": "(3 871)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "31 142",
-      "0": NaN,
+      "item": "27 823",
+      "0": "27 823",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "(9 921)",
+      "0": "(9 921)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(3 871)",
-      "0": NaN,
+      "item": "(1 263)",
+      "0": "(1 263)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "27 271",
-      "0": NaN,
+      "item": "(4 794)",
+      "0": "(4 794)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "(792)",
+      "0": "(792)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(9 794)",
-      "0": NaN,
+      "item": "(407)",
+      "0": "(407)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(1 242)",
-      "0": NaN,
+      "item": "(17 177)",
+      "0": "(17 177)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(4 786)",
-      "0": NaN,
+      "item": "(3 230)",
+      "0": "(3 230)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(792)",
-      "0": NaN,
+      "item": "23",
+      "0": "23",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(407)",
-      "0": NaN,
+      "item": "(7)",
+      "0": "(7)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(17 021)",
-      "0": NaN,
+      "item": "16",
+      "0": "16",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "398",
+      "0": "398",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "10 250",
-      "0": NaN,
+      "item": "(119)",
+      "0": "(119)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(3 106)",
-      "0": NaN,
+      "item": "279",
+      "0": "279",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "7 144",
-      "0": NaN,
+      "item": "295",
+      "0": "295",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "7 711",
+      "0": "7 711",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "1.37",
+      "0": "1.37",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "29 052",
+      "0": "29 052",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "23",
-      "0": NaN,
+      "item": "(7 092)",
+      "0": "(7 092)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(7)",
-      "0": NaN,
+      "item": "21 960",
+      "0": "21 960",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "16",
-      "0": NaN,
+      "item": "6 191",
+      "0": "6 191",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "5 105",
+      "0": "5 105",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "31 142",
+      "0": "31 142",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "27 271",
+      "0": "27 271",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "-",
-      "0": NaN,
+      "item": "(9 794)",
+      "0": "(9 794)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "-",
-      "0": NaN,
+      "item": "(1 242)",
+      "0": "(1 242)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "-",
-      "0": NaN,
+      "item": "(4 786)",
+      "0": "(4 786)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "(17 021)",
+      "0": "(17 021)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "396",
-      "0": NaN,
+      "item": "10 250",
+      "0": "10 250",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "(119)",
-      "0": NaN,
+      "item": "(3 106)",
+      "0": "(3 106)",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "277",
-      "0": NaN,
+      "item": "7 144",
+      "0": "7 144",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "293",
-      "0": NaN,
+      "item": "396",
+      "0": "396",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "277",
+      "0": "277",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "7 437",
-      "0": NaN,
+      "item": "293",
+      "0": "293",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "7 437",
+      "0": "7 437",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "",
-      "0": NaN,
+      "item": "1.32",
+      "0": "1.32",
       "1": NaN,
+      "3": NaN,
       "2": NaN,
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": "1.32",
+      "item": "",
       "0": NaN,
-      "1": NaN,
-      "2": NaN,
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": ""
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": ""
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
       "1": "29 708",
-      "2": "-",
-      "3": "29 708"
+      "3": "29 708",
+      "2": NaN,
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "473",
-      "2": "-",
-      "3": "473"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": ""
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "-",
-      "2": "-",
-      "3": "-"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "(1 019)",
-      "2": "-",
-      "3": "(1 019)"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "29 162",
-      "2": "-",
-      "3": "29 162"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": ""
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": ""
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "63 230",
-      "2": "-",
-      "3": "63 230"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "63 230",
-      "2": "-",
-      "3": "63 230"
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "13 438",
+      "item": "13 438",
+      "0": NaN,
       "1": "15 623",
+      "3": NaN,
       "2": "29 061",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(2 136)",
+      "item": "(2 136)",
+      "0": NaN,
       "1": "(4 933)",
+      "3": NaN,
       "2": "(7 069)",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "11 302",
+      "item": "11 302",
+      "0": NaN,
       "1": "10 690",
+      "3": NaN,
       "2": "21 992",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "903",
+      "item": "903",
+      "0": NaN,
       "1": "5 808",
+      "3": NaN,
       "2": "6 711",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(145)",
+      "item": "(145)",
+      "0": NaN,
       "1": "(941)",
+      "3": NaN,
       "2": "(1 086)",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "758",
+      "item": "758",
+      "0": NaN,
       "1": "4 867",
+      "3": NaN,
       "2": "5 625",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "2 277",
+      "item": "2 277",
+      "0": NaN,
       "1": "1 003",
+      "3": NaN,
       "2": "3 280",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "765",
+      "item": "765",
+      "0": NaN,
       "1": "32",
+      "3": NaN,
       "2": "797",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "15 102",
+      "item": "15 102",
+      "0": NaN,
       "1": "16 592",
+      "3": NaN,
       "2": "31 694",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(500)",
+      "item": "(500)",
+      "0": NaN,
       "1": "(3 371)",
+      "3": NaN,
       "2": "(3 871)",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "14 602",
+      "item": "14 602",
+      "0": NaN,
       "1": "13 221",
+      "3": NaN,
       "2": "27 823",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(2 246)",
+      "item": "(2 246)",
+      "0": NaN,
       "1": "(13 732)",
+      "3": NaN,
       "2": "(15 978)",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "-",
-      "1": "(1 199)",
-      "2": "(1 199)",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(2 246)",
-      "1": "(14 931)",
-      "2": "(17 177)",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "12 356",
+      "item": "12 356",
+      "0": NaN,
       "1": "(1 710)",
+      "3": NaN,
       "2": "10 646",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "(3 743)",
+      "item": "(3 743)",
+      "0": NaN,
       "1": "513",
+      "3": NaN,
       "2": "(3 230)",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "8 613",
+      "item": "8 613",
+      "0": NaN,
       "1": "(1 197)",
+      "3": NaN,
       "2": "7 416",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "",
-      "1": "",
-      "2": "",
-      "3": NaN
-    },
-    {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "4",
+      "item": "4",
+      "0": NaN,
       "1": "914",
+      "3": NaN,
       "2": "1 009",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "2",
+      "item": "2",
+      "0": NaN,
       "1": "416",
+      "3": NaN,
       "2": "5",
-      "3": NaN
+      "4": NaN
     },
     {
-      "Shs’ million": NaN,
-      "29 061": NaN,
-      "29 052": NaN,
-      "0": "6",
+      "item": "6",
+      "0": NaN,
       "1": "1 330",
+      "3": NaN,
       "2": "1 014",
-      "3": NaN
+      "4": NaN
+    },
+    {
+      "item": "%",
+      "0": "The ten largest shareholders in the Company (ordinary share only) and the respective number of shares held as at 31 December 2018 are as follows:",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees Non-Resd. A/C Ke8723",
+      "0": NaN,
+      "1": "1.23%",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Kenya Commercial Bank Nominees Limited A/C 915B",
+      "0": NaN,
+      "1": "0.77%",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees Resd A/C Ke11450",
+      "0": NaN,
+      "1": "0.70%",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Standard Chartered Kenya Nominees Ltd,A/C Ke20510",
+      "0": NaN,
+      "1": "0.49%",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees A/C 9230",
+      "0": NaN,
+      "1": "0.45%",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "100.00",
+      "0": NaN,
+      "1": "100.00",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Shares Range Number of Shareholders No. of Shares Held % Holding",
+      "0": NaN,
+      "1": NaN,
+      "3": "% Holding",
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "501-5 000",
+      "0": NaN,
+      "1": "22 383",
+      "3": "0.89%",
+      "2": "48 156 326",
+      "4": NaN
+    },
+    {
+      "item": "10 001-100 000",
+      "0": NaN,
+      "1": "17 851",
+      "3": "9.54%",
+      "2": "518 157 368",
+      "4": NaN
+    },
+    {
+      "item": ">1 000 000",
+      "0": NaN,
+      "1": "161",
+      "3": "83.58%",
+      "2": "4 539 511 958",
+      "4": NaN
+    },
+    {
+      "item": "208 Barclays Bank of Kenya Limited 2018 Integrated Report",
+      "0": "208 Barclays Bank of Kenya Limited 2018 Integrated Report",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
     }
   ]
 }
