@@ -1,0 +1,64 @@
+{
+  "title": "I Statement of financial position III Other disclosures",
+  "units": "excess",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T19:27:46.540946",
+  "data": [
+    {
+      "item": "I Statement of financial position A Assets 1 Cash balances (both local and foreign) 2 Balances due from Central Bank of Kenya 3 Kenya government and other securities held for dealing purposes 4 Financial assets at fair value through profit and loss 5 Investment securities: a) Held to Maturity: a. Kenya government securities b. Other securities b) Available for sale: a. Kenya government securities b. Other securities 6 Deposits and balances due from local banking institutions 7 Deposits and balances due from banking Institutions abroad 8 Tax recoverable 9 Loans and advances to customers(net) 10 Balances due from banking institutions in the group 11 Investment in associates 12 Investment in subsidiary companies 13 Investment in joint ventures 14 Investment properties 15 Property and equipment 16 Prepaid operating rental leases 17 Intangible assets 18 Deferred tax 19 Retirement benefit asset 20 Other assets 21 Total assets B Liabilities 22 Balances due to Central Bank of Kenya 23 Customers' deposits 24 Deposits and balances due to banking institutions (local) 25 Deposits and balances due to banking institutions (foreign) 26 Other money market deposits 27 Borrowed funds 28 Balances due to banking institutions in the group 29 Tax payable 30 Dividends payable 31 Deferred tax liability 32 Retirement benefit liability 33 Other liabilities 34 Total liabilities C Shareholders' funds 35 Paid up /assigned capital 36 Share premium/(discount) 37 Revaluation reserves 38 Retained earnings/(accumulated losses) 39 Statutory loan loss reserve 40 Other reserves 41 Proposed dividend 42 Capital grants 43 Total shareholders' funds 44 Minority interest 45 Total liabilities and total shareholders funds II Statement of comprehensive income 1.0 Interest Income 1.1 Loans and advances to customers 1.2 Government securities 1.3 Deposits and placements with banking institutions 1.4 Other interest income 1.5 Total interest income 2.0 Interest expenses 2.1 Customer deposits 2.2 Deposits and placements with banking institutions 2.3 Other interest expenses 2.4 Total interest expenses 3.0 Net interest income 4.0 Non-interest income 4.1 Fees and commissions income on loans & advances 4.2 Other fees and commissions 4.3 Foreign exchange trading income 4.4 Dividend income 4.5 Other income 4.6 Total non-interest income 5.0 Total operating income 6.0 Operating expenses 6.1 Loan loss provision 6.2 Staff costs 6.3 Directors emoluments 6.4 Rental charge 6.5 Depreciation on property and equipment 6.6 Amortisation charges 6.7 Other operating expenses 7.0 Total operating expenses Profit before tax and exceptional items 8.0 Exceptional items 9.0 Profit after exceptional items 10 Current tax 11 Deferred tax 12 Profit after tax and exceptional items 13 Other comprehensive income 13.1 Gains/(losses) from translating the financial statements of foreign operations 13.2 Fair value changes in available for sale financial assets 13.3 Revaluation surplus on property,plant and equipment 13.4 Share of other comprehensive income of associates 13.5 Income tax relating to components of other comprehensive income 14 Other comprehensive income for the year net of tax 15 Total comprehensive income for the year Earnings per share (Shs) Dividends per share (Shs)",
+      "1": "",
+      "2": "Bank",
+      "3": "",
+      "4": "",
+      "5": "Group",
+      "6": ""
+    },
+    {
+      "item": "None",
+      "1": "June 2018 Shs ‘000 Unaudited 3,716,776 11,999,550 22,985,975 - - - - - - 70,243,356 70,243,356 - 3,300,000 6,587,838 568,789 176,115,166 9,323,729 - 362,761 - - 2,548,482 46,395 909,681 1,622,723 - 6,676,090",
+      "2": "December March 2018 2019 Shs ‘000 Shs ‘000 Audited Unaudited 5,814,633 4,499,813 17,716,625 17,578,406 29,708,449 33,840,168 - - - - - - - - - - - - 63,120,004 82,693,442 63,120,004 82,693,442 - - 1,000,000 102,295 5,571,788 2,457,444 - - 177,353,969 180,498,811 9,126,358 9,142,333 - - 362,761 362,761 - - - - 2,336,349 3,167,197 45,486 45,486 830,570 745,775 2,156,682 2,468,813 - - 10,219,063 7,900,116",
+      "3": "June 2019 Shs ‘000 Unaudited 4,751,709 20,692,542 32,861,890 - - - - - - 80,767,119 80,767,119 - 61,444 3,919,750 127,877 186,655,050 9,592,199 - 362,761 - - 2,940,103 45,486 680,414 2,179,389 15,438 8,087,530",
+      "4": "June 2018 Shs ‘000 Unaudited 3,716,776 11,999,550 22,985,975 - - - - - - 70,342,919 70,342,919 - 3,300,000 6,587,838 648,250 176,115,166 9,323,729 - - - - 2,548,482 46,395 955,341 1,639,148 - 6,419,286",
+      "5": "December March 2018 2019 Shs ‘000 Shs ‘000 Audited Unaudited 5,814,633 4,499,813 17,716,625 17,578,406 29,708,449 3 3,840,168 - - - - - - - - - - - - 63,230,224 83,110,015 63,230,224 83,110,015 - - 1,000,000 102,295 5,571,788 2,457,444 - - 177,353,969 180,498,811 9,126,358 9,142,333 - - - - - - - - 2,336,654 3,167,497 45,486 45,486 878,291 805,246 2,177,325 2,497,036 - - 9,879,864 7,683,582",
+      "6": "June 2019 Shs ‘000 Unaudited 4 ,751,709 20,692,542 3 2,861,890 - - - - - - 81,185,169 81,185,169 61,444 3,919,750 197,384 186,655,050 9,592,199 - - - - 2,940,347 45,486 739,885 2,205,508 15,438 7,973,105"
+    },
+    {
+      "item": "III Other disclosures 1) Non-performing loans and advances a ) Gross non-performing loans and advances b) Less: Interest in suspense c) Total non-performing loans and advances d ) less: loan loss provisions e) Net non-performing loans(c-d) f) Discounted value of securities g) Net NPLs (excess)/exposure (e-f) 2 ) Insider loans and advances a) Directors ,shareholders and associates b) Employees c) Total insider loans and advances 3) Off balance sheet items a) Letters of credit ,guarantees, acceptances b) Forwards, swaps and options c) Other contingent liabilities Total contingent liabilities IV) Capital strength a) Core capital b) Minimum statutory capital c) Excess/(deficiency) d) Supplementary capital e) Total capital f) Total risk weighted assets g) Core capital / total deposit liabilities h) Minimum statutory ratio i) Excess/(deficiency) j) Core capital / total risk weighted assets k) Minimum statutory ratio l) Excess/(deficiency) m) Total capital / total risk weighted assets n) Minimum statutory ratio o) Excess/(deficiency) p) Adjusted Core Capital/Total Deposit Liabilities q) Adjusted Core Capital/Total Risk Weighted Assets r) Adjusted Total Capital/Total Risk Weighted Assets 5) Liquidity a) Liquidity ratio b) Minimum statutory ratio c) Excess/(deficiency)",
+      "1": "",
+      "2": "Bank",
+      "3": "",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "991,966) (16,360,627)",
+      "1": "7,970,019",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "691,122) (10,330,495)",
+      "1": "(10,330,495)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "683,088) (26,691,122)",
+      "1": "(2,360,476)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}
