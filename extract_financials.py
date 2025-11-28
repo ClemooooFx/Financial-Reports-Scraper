@@ -1,11 +1,13 @@
 """
-Financial Statements Extractor using Camelot with OCR Support
-Extracts Consolidated Financial Statements from Annual Report PDFs
-Uses Camelot for accurate table detection with both text and numbers
-Supports OCR for image-based PDFs using Tesseract
+Financial Statements Extractor (pdfplumber-only)
+Extracts Balance Sheet, Income Statement, Cash Flow, and Equity Changes from PDF reports.
+- Uses pdfplumber for all table and text extraction (no Camelot).
+- Preserves full item/description text (merges multi-line labels).
+- Dynamically infers numeric columns (years) and preserves rows as line items.
+- Merges multi-page statements.
 """
 
-import camelot
+import pdfplumber
 import pandas as pd
 import json
 from pathlib import Path
@@ -14,8 +16,6 @@ from datetime import datetime
 import argparse
 from typing import Dict, List, Optional
 import logging
-import subprocess
-import os
 
 # Set up logging
 logging.basicConfig(
@@ -26,503 +26,386 @@ logger = logging.getLogger(__name__)
 
 
 class FinancialStatementsExtractor:
-    def __init__(self, base_dir="reports", use_ocr=True):
+    def __init__(self, base_dir: str = "reports"):
         self.base_dir = Path(base_dir)
-        self.use_ocr = use_ocr
-        
-        # Check if Tesseract is available
-        if use_ocr:
-            try:
-                result = subprocess.run(['tesseract', '--version'], 
-                                      capture_output=True, text=True)
-                logger.info(f"  Tesseract OCR available: {result.stdout.split()[1]}")
-            except FileNotFoundError:
-                logger.warning("  Tesseract not found. OCR will be disabled.")
-                logger.warning("  Install: sudo apt-get install tesseract-ocr (Ubuntu)")
-                self.use_ocr = False
-        
-        # Target only consolidated statements
+        self.base_dir.mkdir(parents=True, exist_ok=True)
+
+        # Statement title keywords (case-insensitive)
         self.statement_keywords = {
-            'consolidated_financial_position': [
-                'consolidated statement of financial position',
-                'consolidated statement of financial position',
+            'balance_sheet': [
+                'statement of financial position',
+                'balance sheet',
+                'statement of assets',
+                'consolidated statement of financial position'
             ],
-            'consolidated_income': [
-                'consolidated income statement',
-                'consolidated statement of profit or loss',
-                'consolidated statement of comprehensive income',
+            'income_statement': [
+                'statement of profit or loss',
+                'income statement',
+                'statement of comprehensive income',
+                'profit and loss',
+                'statement of profit or loss and other comprehensive income',
+                'consolidated statement of profit'
             ],
-            'consolidated_equity': [
-                'consolidated statement of changes in equity',
+            'cash_flow': [
+                'statement of cash flows',
+                'cash flow statement',
+                'consolidated statement of cash flows'
             ],
-            'consolidated_cashflow': [
-                'consolidated statement of cash flows',
-                'consolidated cash flow statement',
+            'equity_changes': [
+                'statement of changes in equity',
+                'changes in equity',
+                'consolidated statement of changes in equity'
             ]
         }
-        
-        # Financial data indicators (must have actual numbers)
-        self.data_indicators = {
-            'consolidated_financial_position': ['assets', 'liabilities', 'equity', 'total'],
-            'consolidated_income': ['income', 'expenses', 'profit', 'tax'],
-            'consolidated_equity': ['balance', 'share capital', 'reserves'],
-            'consolidated_cashflow': ['cash flow', 'operating', 'investing', 'financing']
-        }
-        
-    def is_image_based_pdf(self, pdf_path: Path) -> bool:
-        """Check if PDF is image-based (scanned)"""
-        try:
-            import fitz
-            doc = fitz.open(pdf_path)
-            # Check first 3 pages
-            for page_num in range(min(3, len(doc))):
-                page = doc[page_num]
-                text = page.get_text().strip()
-                # If page has very little text, likely image-based
-                if len(text) < 100:
-                    doc.close()
-                    return True
-            doc.close()
-            return False
-        except:
-            return False
-    
-    def extract_tables_with_ocr(self, pdf_path: Path) -> List:
-        """Extract tables using OCR for image-based PDFs"""
-        try:
-            # First convert PDF to images, then use OCR
-            logger.info(f"  Using OCR mode for image-based PDF...")
-            
-            # Use pdf-backend for OCR
-            tables = camelot.read_pdf(
-                str(pdf_path),
-                pages='all',
-                flavor='lattice',
-                backend='ghostscript',
-                line_scale=40,
-                copy_text=['v'],
-                strip_text=' \n'
-            )
-            
-            if len(tables) == 0:
-                # Try stream mode with OCR
-                tables = camelot.read_pdf(
-                    str(pdf_path),
-                    pages='all',
-                    flavor='stream',
-                    backend='ghostscript',
-                    edge_tol=50,
-                    strip_text=' \n'
-                )
-            
-            return tables
-        except Exception as e:
-            logger.error(f"  OCR extraction failed: {e}")
-            return []
-        """Extract text from a specific page using PyMuPDF"""
-        try:
-            import fitz
-            doc = fitz.open(pdf_path)
-            page = doc[page_num - 1]
-            text = page.get_text()
-            doc.close()
-            return text
-        except Exception as e:
-            logger.warning(f"  Could not extract text from page {page_num}: {e}")
-            return ""
-            
-    def extract_page_text(self, pdf_path: Path, page_num: int) -> str:
-        """Extract text from a specific page using PyMuPDF"""
-        try:
-            import fitz
-            doc = fitz.open(pdf_path)
-            page = doc[page_num - 1]
-            text = page.get_text()
-            doc.close()
-            return text
-        except Exception as e:
-            logger.warning(f"  Could not extract text from page {page_num}: {e}")
-            return ""
-    
+
+    # -------------------------
+    # Utilities / heuristics
+    # -------------------------
     def identify_statement_type(self, text: str) -> Optional[str]:
-        """Identify which consolidated financial statement this text contains"""
-        text_lower = text.lower()
-        
-        # Must contain "consolidated" keyword
-        if 'consolidated' not in text_lower:
+        """Identify which financial statement this page contains based on title keywords."""
+        if not text:
             return None
-        
-        # Check for statement type
+        text_lower = text.lower()
         for statement_type, keywords in self.statement_keywords.items():
             for keyword in keywords:
                 if keyword in text_lower:
                     return statement_type
-        
         return None
-    
-    def has_financial_data(self, df: pd.DataFrame, statement_type: str) -> bool:
-        """Check if DataFrame contains actual financial data with numbers"""
-        if df.empty or len(df) < 5:
-            return False
-        
-        text_content = ' '.join(df.astype(str).values.flatten()).lower()
-        
-        # Check for statement-specific indicators
-        indicators = self.data_indicators.get(statement_type, [])
-        indicator_count = sum(1 for indicator in indicators if indicator in text_content)
-        
-        if indicator_count < 2:
-            return False
-        
-        # Must have numeric data (financial numbers like 1,234,567 or 12,345)
-        numeric_pattern = r'\d{1,3}(?:,\d{3})+|\d{4,}'
-        large_number_count = 0
-        for col in df.columns:
-            col_str = ' '.join(df[col].astype(str))
-            matches = re.findall(numeric_pattern, col_str)
-            large_number_count += len(matches)
-        
-        # Should have at least 15 financial numbers
-        return large_number_count >= 15
-    
-    def has_year_columns(self, df: pd.DataFrame) -> bool:
-        """Check if table has year columns (2018-2025)"""
-        year_pattern = r'20[1-2][0-9]'
-        
-        for idx in range(min(5, len(df))):
-            row_text = ' '.join(df.iloc[idx].astype(str))
-            if re.search(year_pattern, row_text):
-                return True
-        
-        return False
-    
+
     def extract_units(self, text: str) -> Optional[str]:
-        """Extract the unit of measurement from text"""
+        """Extract the unit of measurement from text (e.g., 'thousands', 'millions')."""
+        if not text:
+            return None
         patterns = [
             r"in\s+(\w+)\s+(?:kenya\s+)?shillings?",
-            r"kshs?\s*['\"]?(\w+)['\"]?",
             r"figures?\s+in\s+(\w+)",
             r"amounts?\s+in\s+(\w+)",
+            r"\((?:kshs?\.?\s+)?[\'\"]?(\w+)[\'\"]?\)",
+            r"shs\.?\s+[\'\"]?(\w+)[\'\"]?"
         ]
-        
         for pattern in patterns:
             match = re.search(pattern, text, re.IGNORECASE)
             if match:
                 unit = match.group(1).lower()
                 if 'thousand' in unit:
                     return 'thousands'
-                elif 'million' in unit:
+                if 'million' in unit:
                     return 'millions'
-                elif 'billion' in unit:
+                if 'billion' in unit:
                     return 'billions'
                 return unit
         return None
-    
-    def extract_table_title(self, page_text: str, statement_type: str) -> str:
-        """Extract the exact table title"""
-        lines = [line.strip() for line in page_text.split('\n') if line.strip()]
-        keywords = self.statement_keywords[statement_type]
-        
-        for i, line in enumerate(lines[:25]):
-            line_lower = line.lower()
-            for keyword in keywords:
-                if keyword in line_lower:
+
+    def extract_table_title(self, text: str, statement_type: str) -> str:
+        """Extract the exact table title from page text; prefer the matching line."""
+        if not text:
+            return self._default_title(statement_type)
+        lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+        keywords = self.statement_keywords.get(statement_type, [])
+        for i, line in enumerate(lines[:25]):  # only scan first 25 lines for title
+            low = line.lower()
+            for kw in keywords:
+                if kw in low:
                     title = line
-                    # Check for subtitle on next line
+                    # attach adjacent short subtitle line if present (e.g., "as at 31 December 2020")
                     if i + 1 < len(lines):
-                        next_line = lines[i + 1]
-                        if len(next_line) < 100 and 'as at' in next_line.lower() or 'for the year' in next_line.lower():
-                            title += ' ' + next_line
+                        nxt = lines[i + 1]
+                        if len(nxt) < 80 and ('as at' in nxt.lower() or 'for the year' in nxt.lower() or re.search(r'20\d{2}', nxt)):
+                            title = f"{title} — {nxt}"
                     return title
-        
-        # Default titles
+        return self._default_title(statement_type)
+
+    def _default_title(self, statement_type: str) -> str:
         defaults = {
-            'consolidated_financial_position': 'Consolidated Statement of Financial Position',
-            'consolidated_income': 'Consolidated Income Statement',
-            'consolidated_cashflow': 'Consolidated Statement of Cash Flows',
-            'consolidated_equity': 'Consolidated Statement of Changes in Equity'
+            'balance_sheet': 'Statement of Financial Position',
+            'income_statement': 'Statement of Profit or Loss',
+            'cash_flow': 'Statement of Cash Flows',
+            'equity_changes': 'Statement of Changes in Equity'
         }
         return defaults.get(statement_type, 'Financial Statement')
-    
-    def clean_dataframe(self, df: pd.DataFrame) -> pd.DataFrame:
-        """Clean the extracted DataFrame"""
-        # Remove completely empty rows and columns
+
+    # -------------------------
+    # Table cleaning & reconstruction (pdfplumber tables)
+    # -------------------------
+    def clean_table_data(self, table: List[List[str]]) -> Optional[pd.DataFrame]:
+        """
+        Clean raw pdfplumber table output.
+        - Merges multiline cells (newlines inside cells)
+        - Combines label columns into single 'item' column
+        - Dynamically infers numeric columns (year/value columns)
+        - Returns DataFrame with columns: ['item', 'col_1', 'col_2', ...]
+        """
+        if not table:
+            return None
+
+        df = pd.DataFrame(table).astype(str).replace(r'^\s*$', pd.NA, regex=True)
+
+        # Drop empty rows & columns
         df = df.dropna(how='all', axis=0).dropna(how='all', axis=1)
         df = df.reset_index(drop=True)
-        
         if df.empty:
-            return df
-        
-        # Find header row (contains 'Note', year numbers, or common headers)
-        header_row_idx = None
-        for idx in range(min(8, len(df))):
-            row_text = ' '.join(df.iloc[idx].astype(str)).lower()
-            if any(term in row_text for term in ['note', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025', 'kshs']):
-                header_row_idx = idx
-                break
-        
-        # Use found header or first row
-        if header_row_idx is not None and header_row_idx > 0:
-            df = df.iloc[header_row_idx:].reset_index(drop=True)
-        
-        # Set first row as column names
-        if len(df) > 0:
-            new_columns = []
-            for i, col in enumerate(df.iloc[0]):
-                col_str = str(col).strip() if pd.notna(col) else f'Column_{i}'
-                # Clean column name
-                col_str = col_str.replace('\n', ' ').strip()
-                new_columns.append(col_str)
-            
-            df.columns = new_columns
-            df = df.iloc[1:].reset_index(drop=True)
-        
-        # Fill NaN with empty strings
-        df = df.fillna('')
-        
-        # Remove rows that are all empty or dashes
-        df = df[~df.apply(lambda row: all(str(val).strip() in ['', '-', '—', 'nan'] for val in row), axis=1)]
-        
-        return df.reset_index(drop=True)
-    
-    def extract_statement_from_pdf(self, pdf_path: Path) -> Dict:
-        """Extract consolidated financial statements from PDF"""
-        statements = {
-            'consolidated_financial_position': {'tables': [], 'title': None, 'units': None, 'pages': []},
-            'consolidated_income': {'tables': [], 'title': None, 'units': None, 'pages': []},
-            'consolidated_cashflow': {'tables': [], 'title': None, 'units': None, 'pages': []},
-            'consolidated_equity': {'tables': [], 'title': None, 'units': None, 'pages': []}
-        }
-        
-        try:
-            # Check if PDF is image-based
-            is_image_pdf = self.use_ocr and self.is_image_based_pdf(pdf_path)
-            
-            if is_image_pdf:
-                logger.info(f"  Detected image-based PDF, using OCR...")
-                tables = self.extract_tables_with_ocr(pdf_path)
-            else:
-                logger.info(f"  Extracting tables with Camelot...")
-                
-                # Try lattice mode first (better for bordered tables)
-                try:
-                    tables = camelot.read_pdf(
-                        str(pdf_path), 
-                        pages='all', 
-                        flavor='lattice',
-                        line_scale=40,
-                        strip_text=' \n'
-                    )
-                    logger.info(f"  Found {len(tables)} tables using lattice mode")
-                except Exception as e:
-                    logger.warning(f"  Lattice mode failed, trying stream mode")
-                    try:
-                        tables = camelot.read_pdf(
-                            str(pdf_path), 
-                            pages='all', 
-                            flavor='stream',
-                            edge_tol=50,
-                            strip_text=' \n'
-                        )
-                        logger.info(f"  Found {len(tables)} tables using stream mode")
-                    except Exception as e2:
-                        # Last resort: use OCR backend
-                        if self.use_ocr:
-                            logger.warning(f"  Stream mode failed, using OCR backend")
-                            tables = self.extract_tables_with_ocr(pdf_path)
-                            logger.info(f"  Found {len(tables)} tables using OCR")
-                        else:
-                            logger.error(f"  All extraction methods failed")
-                            return None
-            
-            # Process each table
-            for idx, table in enumerate(tables):
-                try:
-                    page_num = table.page
-                    df = table.df
-                    
-                    # Get page text for context
-                    page_text = self.extract_page_text(pdf_path, page_num)
-                    
-                    # Identify statement type
-                    statement_type = self.identify_statement_type(page_text)
-                    
-                    if statement_type:
-                        # Validate it's a financial table with data
-                        if self.has_financial_data(df, statement_type) and self.has_year_columns(df):
-                            logger.info(f"  ✓ Found {statement_type} on page {page_num}")
-                            
-                            # Extract metadata
-                            if not statements[statement_type]['title']:
-                                statements[statement_type]['title'] = self.extract_table_title(page_text, statement_type)
-                            
-                            if not statements[statement_type]['units']:
-                                statements[statement_type]['units'] = self.extract_units(page_text)
-                            
-                            # Clean and store DataFrame
-                            cleaned_df = self.clean_dataframe(df)
-                            if not cleaned_df.empty:
-                                statements[statement_type]['tables'].append(cleaned_df)
-                                if page_num not in statements[statement_type]['pages']:
-                                    statements[statement_type]['pages'].append(page_num)
-                
-                except Exception as e:
-                    logger.warning(f"  Error processing table {idx+1}: {e}")
-                    continue
-        
-        except Exception as e:
-            logger.error(f"  Error processing PDF: {e}")
             return None
-        
+
+        # Normalize each cell: replace internal newlines with space and strip
+        df = df.applymap(lambda x: re.sub(r'\s+', ' ', str(x)).strip() if pd.notna(x) else '')
+
+        # Heuristic: identify which columns are primarily numeric vs textual
+        numeric_cols = []
+        text_cols = []
+        for col in df.columns:
+            sample = df[col].head(20).astype(str)
+            # count numeric-like entries
+            num_count = sample.str.contains(r'\d').sum()
+            text_count = sample.str.contains(r'[A-Za-z]').sum()
+            # if more numeric than text -> numeric column
+            if num_count >= text_count and num_count > 0:
+                numeric_cols.append(col)
+            else:
+                text_cols.append(col)
+
+        # If no numeric columns detected, try alternative detection by searching for commas or parentheses or percent
+        if not numeric_cols:
+            for col in df.columns:
+                sample = df[col].astype(str)
+                if sample.str.contains(r'[,()\d%]').any():
+                    if col not in numeric_cols:
+                        numeric_cols.append(col)
+                else:
+                    if col not in text_cols:
+                        text_cols.append(col)
+
+        # Merge all text columns (labels) into one 'item' column
+        if not text_cols:
+            # if we failed to detect text columns, assume first column is item
+            text_cols = [df.columns[0]]
+            if len(df.columns) > 1:
+                numeric_cols = [c for c in df.columns if c != df.columns[0]]
+
+        df['item'] = df[text_cols].apply(lambda row: ' '.join([str(v).strip() for v in row if pd.notna(v) and str(v).strip() not in ['', '-']]), axis=1)
+
+        # Create final DataFrame: item + numeric columns ordered left-to-right by original index
+        ordered_numeric = [c for c in df.columns if c in numeric_cols]
+        final_cols = ['item'] + ordered_numeric
+
+        final_df = df[final_cols].copy()
+        # Remove rows that have blank item and no numeric values
+        def row_is_empty(r):
+            item = str(r['item']).strip()
+            nums = ''.join([str(r[c]) for c in ordered_numeric])
+            return (item == '') and (not re.search(r'\d', nums))
+        final_df = final_df[~final_df.apply(row_is_empty, axis=1)]
+
+        final_df = final_df.reset_index(drop=True)
+        if final_df.empty:
+            return None
+        return final_df
+
+    # -------------------------
+    # Extraction main loop using pdfplumber-only
+    # -------------------------
+    def extract_statement_from_pdf(self, pdf_path: Path) -> Optional[Dict]:
+        """
+        Extract statements from a PDF using pdfplumber.
+        Returns a dict with statement types mapping to {tables, title, units, pages}
+        """
+        statements = {
+            'balance_sheet': {'tables': [], 'title': None, 'units': None, 'pages': []},
+            'income_statement': {'tables': [], 'title': None, 'units': None, 'pages': []},
+            'cash_flow': {'tables': [], 'title': None, 'units': None, 'pages': []},
+            'equity_changes': {'tables': [], 'title': None, 'units': None, 'pages': []}
+        }
+
+        try:
+            with pdfplumber.open(pdf_path) as pdf:
+                # We'll keep track of the last-seen statement_type to allow multi-page continuation
+                current_statement = None
+
+                for page_num, page in enumerate(pdf.pages, start=1):
+                    try:
+                        page_text = page.extract_text() or ""
+                        # Identify page-level statement type first
+                        page_statement = self.identify_statement_type(page_text)
+
+                        # If page contains a statement title use it; else if we were already inside a statement, continue
+                        if page_statement:
+                            current_statement = page_statement
+
+                        if not current_statement:
+                            # Nothing to extract on this page
+                            continue
+
+                        # Extract tables from the page. pdfplumber returns list of tables (list of row lists)
+                        raw_tables = page.extract_tables()
+                        if not raw_tables:
+                            # Fallback: try extracting table-like blocks via extract_table with explicit settings
+                            # (some PDFs require specifying explicit settings, but keep default for now)
+                            continue
+
+                        # Set title and units the first time we see this statement
+                        if not statements[current_statement]['title']:
+                            statements[current_statement]['title'] = self.extract_table_title(page_text, current_statement)
+                        if not statements[current_statement]['units']:
+                            statements[current_statement]['units'] = self.extract_units(page_text)
+
+                        # Process each raw table found on the page
+                        for raw in raw_tables:
+                            cleaned_df = self.clean_table_data(raw)
+                            if cleaned_df is not None and not cleaned_df.empty:
+                                # add page number if not already present
+                                if page_num not in statements[current_statement]['pages']:
+                                    statements[current_statement]['pages'].append(page_num)
+                                statements[current_statement]['tables'].append(cleaned_df)
+                    except Exception as e:
+                        logger.warning(f"  Warning: error processing page {page_num} of {pdf_path.name}: {e}")
+                        continue
+
+        except Exception as e:
+            logger.error(f"Error opening {pdf_path}: {e}")
+            return None
+
         return statements
-    
+
+    # -------------------------
+    # Merge / save helpers
+    # -------------------------
     def merge_statement_tables(self, tables: List[pd.DataFrame]) -> Optional[pd.DataFrame]:
-        """Merge multiple tables for the same statement"""
+        """Merge multiple tables (from multiple pages) for the same statement into one DataFrame."""
         if not tables:
             return None
-        
         if len(tables) == 1:
             return tables[0]
-        
+
         try:
-            # Try to concatenate vertically
             merged = pd.concat(tables, ignore_index=True)
+            # Remove duplicate rows resulting from page header repeats (same item text)
+            merged = merged.drop_duplicates(subset=["item"], keep="first")
+            merged = merged.reset_index(drop=True)
             return merged
         except Exception as e:
-            logger.warning(f"  Could not merge tables: {e}")
-            return max(tables, key=len)
-    
-    def save_statement_as_json(self, statement_data: Dict, output_path: Path):
-        """Save extracted statement as JSON"""
-        if not statement_data['tables']:
+            logger.warning(f"Could not merge tables: {e}")
+            return tables[0] if tables else None
+
+    def save_statement_as_json(self, statement_data: Dict, output_path: Path) -> bool:
+        """Save extracted statement (tables) to JSON file"""
+        if not statement_data or not statement_data.get('tables'):
             return False
-        
+
         merged_df = self.merge_statement_tables(statement_data['tables'])
-        
         if merged_df is None or merged_df.empty:
             return False
-        
-        # Prepare output
+
         output = {
-            'title': statement_data['title'],
-            'units': statement_data['units'],
-            'pages': statement_data['pages'],
+            'title': statement_data.get('title'),
+            'units': statement_data.get('units'),
+            'pages': statement_data.get('pages'),
             'extracted_at': datetime.now().isoformat(),
             'data': merged_df.to_dict(orient='records')
         }
-        
-        # Save to JSON
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(output, f, indent=2, ensure_ascii=False)
-        
-        logger.info(f"  ✓ Saved {output_path.name} ({len(merged_df)} rows)")
-        return True
-    
+
+        try:
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(output, f, indent=2, ensure_ascii=False)
+            logger.info(f"  ✓ Saved {output_path.name} ({len(merged_df)} rows)")
+            return True
+        except Exception as e:
+            logger.error(f"  ✗ Failed saving {output_path}: {e}")
+            return False
+
+    # -------------------------
+    # PDF processing entrypoint
+    # -------------------------
     def process_pdf(self, pdf_path: Path, force_reprocess: bool = False) -> Dict:
-        """Process a single PDF"""
+        """Process a single PDF and extract statements"""
         ticker_dir = pdf_path.parent
         base_name = pdf_path.stem
-        
-        # Output files
+
         output_files = {
-            'consolidated_financial_position': ticker_dir / f"{base_name}-consolidated-financial-position.json",
-            'consolidated_income': ticker_dir / f"{base_name}-consolidated-income.json",
-            'consolidated_cashflow': ticker_dir / f"{base_name}-consolidated-cashflow.json",
-            'consolidated_equity': ticker_dir / f"{base_name}-consolidated-equity.json"
+            'balance_sheet': ticker_dir / f"{base_name}-balance-sheet.json",
+            'income_statement': ticker_dir / f"{base_name}-income-statement.json",
+            'cash_flow': ticker_dir / f"{base_name}-cash-flow.json",
+            'equity_changes': ticker_dir / f"{base_name}-equity-changes.json"
         }
-        
+
         if not force_reprocess and all(f.exists() for f in output_files.values()):
             logger.info(f"⊘ Already processed: {pdf_path.name}")
             return {'skipped': True, 'reason': 'already_processed'}
-        
+
         logger.info(f"\n→ Processing: {pdf_path.name}")
-        
-        # Extract statements
+
         statements = self.extract_statement_from_pdf(pdf_path)
-        
         if not statements:
             return {'skipped': True, 'reason': 'extraction_failed'}
-        
-        # Save each statement
+
         results = {}
         for statement_type, statement_data in statements.items():
             output_path = output_files[statement_type]
             success = self.save_statement_as_json(statement_data, output_path)
             results[statement_type] = success
-        
+
         return results
-    
+
+    # -------------------------
+    # File discovery / batching
+    # -------------------------
     def get_all_pdfs(self) -> List[Path]:
-        """Get all PDF files"""
-        pdfs = []
+        pdfs: List[Path] = []
         for ticker_dir in sorted(self.base_dir.iterdir()):
             if ticker_dir.is_dir() and ticker_dir.name != '.git':
                 ticker_pdfs = sorted(ticker_dir.glob("*.pdf"))
                 pdfs.extend(ticker_pdfs)
         return pdfs
-    
+
     def get_unprocessed_pdfs(self) -> List[Path]:
-        """Get PDFs that haven't been processed"""
         all_pdfs = self.get_all_pdfs()
         unprocessed = []
-        
         for pdf_path in all_pdfs:
             base_name = pdf_path.stem
             ticker_dir = pdf_path.parent
-            
             output_files = [
-                ticker_dir / f"{base_name}-consolidated-financial-position.json",
-                ticker_dir / f"{base_name}-consolidated-income.json",
-                ticker_dir / f"{base_name}-consolidated-cashflow.json",
-                ticker_dir / f"{base_name}-consolidated-equity.json"
+                ticker_dir / f"{base_name}-balance-sheet.json",
+                ticker_dir / f"{base_name}-income-statement.json",
+                ticker_dir / f"{base_name}-cash-flow.json",
+                ticker_dir / f"{base_name}-equity-changes.json"
             ]
-            
             if not all(f.exists() for f in output_files):
                 unprocessed.append(pdf_path)
-        
         return unprocessed
-    
-    def get_pdf_batch(self, batch_number: int, batch_size: int = 10, 
+
+    def get_pdf_batch(self, batch_number: int, batch_size: int = 10,
                       force_reprocess: bool = False) -> List[Path]:
-        """Get a specific batch of PDFs"""
         if force_reprocess:
             all_pdfs = self.get_all_pdfs()
         else:
             all_pdfs = self.get_unprocessed_pdfs()
-        
         if not all_pdfs:
             return []
-        
         start_idx = (batch_number - 1) * batch_size
         end_idx = start_idx + batch_size
         batch_pdfs = all_pdfs[start_idx:end_idx]
-        
-        logger.info(f"\n{'='*70}")
-        logger.info(f"BATCH {batch_number}: PDFs {start_idx + 1}-{min(end_idx, len(all_pdfs))} of {len(all_pdfs)}")
-        logger.info(f"{'='*70}\n")
-        
+        logger.info("\n" + "=" * 70)
+        logger.info(f"BATCH MODE: Processing Batch {batch_number}")
+        logger.info(f"PDFs {start_idx + 1}-{min(end_idx, len(all_pdfs))} of {len(all_pdfs)}")
+        logger.info("=" * 70 + "\n")
         return batch_pdfs
-    
+
     def process_batch(self, pdfs: List[Path], force_reprocess: bool = False) -> Dict:
-        """Process a batch of PDFs"""
         summary = {
             'total': len(pdfs),
             'successful': 0,
             'skipped': 0,
             'failed': 0,
             'statements_extracted': {
-                'consolidated_financial_position': 0,
-                'consolidated_income': 0,
-                'consolidated_cashflow': 0,
-                'consolidated_equity': 0
+                'balance_sheet': 0,
+                'income_statement': 0,
+                'cash_flow': 0,
+                'equity_changes': 0
             }
         }
-        
         for i, pdf_path in enumerate(pdfs, 1):
             try:
                 logger.info(f"\n[{i}/{len(pdfs)}]")
                 result = self.process_pdf(pdf_path, force_reprocess)
-                
                 if isinstance(result, dict) and result.get('skipped'):
                     summary['skipped'] += 1
                 else:
@@ -530,86 +413,97 @@ class FinancialStatementsExtractor:
                     for statement_type, success in result.items():
                         if success:
                             summary['statements_extracted'][statement_type] += 1
-            
             except Exception as e:
                 logger.error(f"✗ Failed: {pdf_path.name} - {e}")
                 summary['failed'] += 1
-        
         return summary
-    
-    def run(self, batch_size: int = 10, force_reprocess: bool = False, 
+
+    # -------------------------
+    # Runner
+    # -------------------------
+    def run(self, batch_size: int = 10, force_reprocess: bool = False,
             batch_number: Optional[int] = None):
-        """Main execution"""
         start_time = datetime.now()
-        
-        logger.info("\n" + "="*70)
-        logger.info("CONSOLIDATED FINANCIAL STATEMENTS EXTRACTOR")
-        logger.info("="*70)
-        
-        # Get PDFs to process
+        logger.info("\n" + "=" * 70)
+        logger.info("FINANCIAL STATEMENTS EXTRACTOR (pdfplumber-only)")
+        logger.info("=" * 70)
+        logger.info(f"Start: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
+        # Determine PDFs to process
         if batch_number:
             pdfs_batch = self.get_pdf_batch(batch_number, batch_size, force_reprocess)
             if not pdfs_batch:
-                logger.info(f"No PDFs in batch {batch_number}!")
+                logger.info(f"No PDFs to process in batch {batch_number}!")
                 return
         else:
             if force_reprocess:
+                logger.info("Force reprocess mode: Processing ALL PDFs")
                 pdfs_batch = self.get_all_pdfs()
             else:
+                logger.info("Processing only unprocessed PDFs")
                 pdfs_batch = self.get_unprocessed_pdfs()
-            
             if not pdfs_batch:
                 logger.info("No PDFs to process!")
                 return
-        
+
         logger.info(f"Found {len(pdfs_batch)} PDFs to process")
-        
-        # Process batch
         summary = self.process_batch(pdfs_batch, force_reprocess)
-        
-        # Summary
+
+        # Batch summary logging
+        logger.info("\nBatch Summary:")
+        logger.info(f"  Total: {summary['total']}")
+        logger.info(f"  Successful: {summary['successful']}")
+        logger.info(f"  Skipped: {summary['skipped']}")
+        logger.info(f"  Failed: {summary['failed']}")
+        logger.info("  Statements extracted:")
+        for stmt_type, count in summary['statements_extracted'].items():
+            logger.info(f"    {stmt_type}: {count}")
+
         total_summary = {
             'extraction_date': datetime.now().isoformat(),
             'duration_seconds': (datetime.now() - start_time).total_seconds(),
             'batch_number': batch_number if batch_number else 'all',
+            'batch_size': batch_size,
+            'force_reprocess': force_reprocess,
             'total_pdfs': summary['total'],
             'successful': summary['successful'],
             'skipped': summary['skipped'],
             'failed': summary['failed'],
             'statements_extracted': summary['statements_extracted']
         }
-        
+
         # Save summary
-        summary_path = self.base_dir / f'extraction_summary_batch_{batch_number}.json' if batch_number else self.base_dir / 'extraction_summary.json'
-        with open(summary_path, 'w') as f:
-            json.dump(total_summary, f, indent=2)
-        
-        # Final output
-        duration = datetime.now() - start_time
-        logger.info("\n" + "="*70)
+        if batch_number:
+            summary_path = self.base_dir / f'extraction_summary_batch_{batch_number}.json'
+        else:
+            summary_path = self.base_dir / 'extraction_summary.json'
+        with open(summary_path, 'w', encoding='utf-8') as f:
+            json.dump(total_summary, f, indent=2, ensure_ascii=False)
+
+        end_time = datetime.now()
+        duration = end_time - start_time
+        logger.info("\n" + "=" * 70)
         logger.info("EXTRACTION COMPLETE")
-        logger.info("="*70)
-        logger.info(f"Total: {summary['total']} | Success: {summary['successful']} | Skipped: {summary['skipped']} | Failed: {summary['failed']}")
-        logger.info(f"\nStatements Extracted:")
-        for stmt_type, count in summary['statements_extracted'].items():
+        logger.info("=" * 70)
+        logger.info(f"Total PDFs: {total_summary['total_pdfs']}")
+        logger.info(f"Successful: {total_summary['successful']}")
+        logger.info(f"Skipped: {total_summary['skipped']}")
+        logger.info(f"Failed: {total_summary['failed']}")
+        logger.info("\nStatements Extracted:")
+        for stmt_type, count in total_summary['statements_extracted'].items():
             logger.info(f"  {stmt_type}: {count}")
         logger.info(f"\nDuration: {duration}")
-        logger.info("="*70 + "\n")
+        logger.info(f"Summary saved: {summary_path}")
+        logger.info("=" * 70 + "\n")
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Extract consolidated financial statements from PDFs')
-    parser.add_argument('--batch', type=int, default=None, help='Batch number')
-    parser.add_argument('--batch-size', type=int, default=10, help='PDFs per batch')
+    parser = argparse.ArgumentParser(description='Extract financial statements from PDFs (pdfplumber-only)')
+    parser.add_argument('--batch', type=int, default=None, help='Batch number (1-based)')
+    parser.add_argument('--batch-size', type=int, default=10, help='Number of PDFs per batch')
     parser.add_argument('--force', action='store_true', help='Force reprocess all PDFs')
-    parser.add_argument('--no-ocr', action='store_true', help='Disable OCR for image-based PDFs')
-    
     args = parser.parse_args()
-    
-    extractor = FinancialStatementsExtractor(
-        base_dir="reports",
-        use_ocr=not args.no_ocr
-    )
+
+    extractor = FinancialStatementsExtractor(base_dir="reports")
     extractor.run(
         batch_size=args.batch_size,
         force_reprocess=args.force,
