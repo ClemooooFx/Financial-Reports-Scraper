@@ -1,213 +1,185 @@
 {
-  "title": "balance sheet optimization without compromising growth opportunities. Given our view of the future economic environment, we acted decisively 10.0 5.0%",
-  "units": "ves",
+  "title": "customers -    SMEs -   Items in course of collection     Borrowings     Due to group companies     Other liabilities   Off-balance sheet financial",
+  "units": "fvpl",
   "pages": [
-    16,
-    16,
-    17,
-    18,
-    33,
-    33,
-    52,
-    52,
-    54,
-    54,
-    55,
-    55,
-    57,
-    61,
-    65,
-    65,
-    65,
-    65,
-    65,
-    70,
-    70,
-    70,
-    70,
-    70,
-    70,
-    70,
-    71,
-    71,
-    71,
-    71,
-    73,
-    73,
-    73,
-    73,
-    73,
-    76,
-    76,
-    76,
-    76,
-    76,
-    76,
-    76,
-    76,
-    76,
-    77,
-    77,
-    77,
-    77,
-    77,
-    78,
-    78,
-    78,
-    78,
-    82,
-    82,
-    83,
-    83,
-    88,
-    89,
-    89,
-    94,
-    94,
-    94,
-    95,
-    96,
-    103,
-    103,
-    104,
-    104,
-    104,
-    104,
-    106
+    61
   ],
-  "extracted_at": "2025-11-27T09:05:16.272990",
+  "extracted_at": "2025-11-28T05:33:19.707360",
   "data": [
     {
-      "31 394": "(8 113)"
+      "0": "Category (as defined by IFRS 9)\nClass (as determined by the Group)\nSub classes",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "23 281"
+      "0": "Financial assets",
+      "1": "Fair value through profit \nor loss (FVPL)",
+      "2": "Financial assets held for \ntrading",
+      "3": "Investment in debt \nsecurities",
+      "4": ""
     },
     {
-      "31 394": ""
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Derivative assets",
+      "4": ""
     },
     {
-      "31 394": "5 245"
+      "0": "",
+      "1": "Amortised cost",
+      "2": "Loans and advances to banks",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "(572)"
+      "0": "",
+      "1": "",
+      "2": "Due from group companies",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "4 673"
+      "0": "",
+      "1": "",
+      "2": "Loans and advances to \ncustomers",
+      "3": "Loans to individuals",
+      "4": "Overdrafts"
     },
     {
-      "31 394": ""
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Credit cards"
     },
     {
-      "31 394": "5 129"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Term loans"
     },
     {
-      "31 394": "63"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Mortgages"
     },
     {
-      "31 394": "33 146"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Loans to corporate \nentities",
+      "4": "Large corporate \ncustomers"
     },
     {
-      "31 394": ""
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "SMEs"
     },
     {
-      "31 394": "(8 585)"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Others"
     },
     {
-      "31 394": "24 561"
+      "0": "",
+      "1": "",
+      "2": "Items in course of collection",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": ""
+      "0": "",
+      "1": "",
+      "2": "Cash and balances with Central Bank of Kenya",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "(10 995)"
+      "0": "",
+      "1": "Fair value through other \ncomprehensive income \n(FVOCI)",
+      "2": "Investment in debt securities",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "(1 325)"
+      "0": "Financial liabilities",
+      "1": "Financial liabilities at \namortised cost",
+      "2": "Deposits from banks",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "(5 805)"
+      "0": "",
+      "1": "",
+      "2": "Deposits from customers",
+      "3": "Retail customers",
+      "4": "-"
     },
     {
-      "31 394": "(1 022)"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Large corporate \ncustomers",
+      "4": "-"
     },
     {
-      "31 394": "(314)"
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "SMEs",
+      "4": "-"
     },
     {
-      "31 394": "(19 461)"
+      "0": "",
+      "1": "",
+      "2": "Items in course of collection",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": ""
+      "0": "",
+      "1": "",
+      "2": "Borrowings",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "5 100"
+      "0": "",
+      "1": "",
+      "2": "Due to group companies",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "(1 355)"
+      "0": "",
+      "1": "",
+      "2": "Other liabilities",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": "3 745"
+      "0": "Off-balance sheet financial \ninstruments",
+      "1": "Loan commitments",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": "59"
-    },
-    {
-      "31 394": "(18)"
-    },
-    {
-      "31 394": "41"
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": "1 136"
-    },
-    {
-      "31 394": "(341)"
-    },
-    {
-      "31 394": "795"
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": "836"
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": "4 581"
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": ""
-    },
-    {
-      "31 394": "0.69"
+      "0": "",
+      "1": "Guarantees, acceptances and other financial liabilities",
+      "2": "",
+      "3": "",
+      "4": ""
     }
   ]
 }
