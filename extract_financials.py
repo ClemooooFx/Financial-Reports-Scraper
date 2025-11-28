@@ -130,6 +130,19 @@ class FinancialStatementsExtractor:
         except Exception as e:
             logger.warning(f"  Could not extract text from page {page_num}: {e}")
             return ""
+            
+    def extract_page_text(self, pdf_path: Path, page_num: int) -> str:
+        """Extract text from a specific page using PyMuPDF"""
+        try:
+            import fitz
+            doc = fitz.open(pdf_path)
+            page = doc[page_num - 1]
+            text = page.get_text()
+            doc.close()
+            return text
+        except Exception as e:
+            logger.warning(f"  Could not extract text from page {page_num}: {e}")
+            return ""
     
     def identify_statement_type(self, text: str) -> Optional[str]:
         """Identify which consolidated financial statement this text contains"""
