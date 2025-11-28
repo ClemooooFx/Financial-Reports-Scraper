@@ -28,6 +28,18 @@ jobs:
       batches: ${{ steps.calculate-batches.outputs.batches }}
       total_batches: ${{ steps.calculate-batches.outputs.total_batches }}
     steps:
+      - name: Free Disk Space
+        run: |
+          echo "Before cleanup:"
+          df -h
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+          sudo docker system prune -af
+          echo "After cleanup:"
+          df -h
+          
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
