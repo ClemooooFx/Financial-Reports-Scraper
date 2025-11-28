@@ -1,0 +1,26 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "continued",
+  "pages": [
+    81
+  ],
+  "extracted_at": "2025-11-28T22:45:11.851417",
+  "data": [
+    {
+      "item": "Financial assets at FVTPL These assets are subsequently measured at fair value. Net gains and losses including any interest or dividend income, are recognised in profit or loss The Group does not have any financial assets measured at FVTPL.",
+      "1": "These assets are subsequently measured at fair value. Net gains and losses including any interest or dividend income, are recognised in profit or loss The Group does not have any financial assets measured at FVTPL."
+    },
+    {
+      "item": "Financial assets at amortised cost These assets are subsequently measured at amortised cost using th effective interest method. The amortised cost is reduced by impairmen losses. Interest income, foreign exchange gains and losses and impairment ar recognised in profit or loss. Any gain or loss on derecognition is recognise in profit or loss. The Group measures recognises trade receivables, cash, deposits amounts due from related parties, certain investment securities, and othe receivables at amortised cost.",
+      "1": "These assets are subsequently measured at amortised cost using th effective interest method. The amortised cost is reduced by impairmen losses. Interest income, foreign exchange gains and losses and impairment ar recognised in profit or loss. Any gain or loss on derecognition is recognise in profit or loss. The Group measures recognises trade receivables, cash, deposits amounts due from related parties, certain investment securities, and othe receivables at amortised cost."
+    },
+    {
+      "item": "Debt investments at FVOCI These assets are subsequently measured at fair value. Interest incom calculated using the effective interest method, foreign exchange gains an losses and impairment are recognised in profit or loss. Other net gain and losses are recognised in OCI. On derecognition, gains and losse accumulated in OCI are reclassified to profit or loss.",
+      "1": "These assets are subsequently measured at fair value. Interest incom calculated using the effective interest method, foreign exchange gains an losses and impairment are recognised in profit or loss. Other net gain and losses are recognised in OCI. On derecognition, gains and losse accumulated in OCI are reclassified to profit or loss."
+    },
+    {
+      "item": "Equity investments at FVOCI These assets are subsequently measured at fair value. Dividends ar recognised as income in profit or loss unless the dividend clearly represent a recovery of part of the cost of the investment. Other net gains and losse are recognised in OCI and are never reclassified to profit or loss. The Group classifies its equity investments at FVOCI.",
+      "1": "These assets are subsequently measured at fair value. Dividends ar recognised as income in profit or loss unless the dividend clearly represent a recovery of part of the cost of the investment. Other net gains and losse are recognised in OCI and are never reclassified to profit or loss. The Group classifies its equity investments at FVOCI."
+    }
+  ]
+}

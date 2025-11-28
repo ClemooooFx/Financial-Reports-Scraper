@@ -1,0 +1,34 @@
+{
+  "title": "Summarised consolidated statement of profit or loss Summarised consolidated statement of financial position — For the year ended 31 December 2020 At 31 December 2020",
+  "units": "5",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T22:44:58.268192",
+  "data": [
+    {
+      "item": "Summarised consolidated statement of financial position At 31 December 2020",
+      "0": "Summarised consolidated statement of profit or loss For the year ended 31 December 2020"
+    },
+    {
+      "item": "None 2020 2019 KShs ‘000 KShs ‘000 ASSETS Non-current assets 897,959 911,726 Current assets 1,191,299 1,080,913 Total assets 2,089,258 1,992,639 EQUITY AND LIABILITIES Share capital 97,627 97,627 Retained earnings 1,402,485 1,300,829 Other reserves 107,456 40,934 Total equity 1,607,568 1,439,390 Non-current liabilities 7,768 6,556 Current liabilities 473,922 546,693 Total liabilities 481,690 553,249 Total equity and 2,089,258 1,992,639 liabilities",
+      "0": "2020 2019 KShs ‘000 KShs ‘000 Revenue 1,098,104 975,863 Earnings before finance 120,388 37,749 income and taxes Net finance income 35,883 51,785 Profit before income tax 156,271 89,534 Income tax expense (54,615) (33,633) Profit for the year 101,656 55,901 Basic earnings per share KShs. 5.21 KShs. 2.86"
+    },
+    {
+      "item": "None None",
+      "0": ""
+    },
+    {
+      "item": "None None",
+      "0": "Dividend per share: Interim paid Nil KShs 2.35 Final proposed KShs. 4.15 Nil Total dividend KShs 4.15 KShs 2.35"
+    },
+    {
+      "item": "None Summarised consolidated statement of changes in equity For the year ended 31 December 2020",
+      "0": "Summarised consolidated statement of cash flows For the year ended 31 December 2020"
+    },
+    {
+      "item": "None 2020 2019 Kshs’000 Kshs’000 At 1 January 1,439,390 1,519,496 Net profit for the year 101,656 55,901 Change in fair value of 60,885 (30,214) financial assets at FVOCI Currency translation 5,637 662 Deferred tax on Financial - (4,923) assets at FVOCI Dividends - (101,532) 1,607,568 1,439,390 At 31 December",
+      "0": "2020 2019 Kshs’000 Kshs’000 Cash generated from 76,713 41,026 operations Tax paid (35,733) (37,191) Net cash flows from 40,980 3,835 operating activities Interest & dividends received 27,572 51,785 Cash inflows from other 208,633 65,582 investing activities Net cash flows from 236,205 117,367 investing activities Lease liabilities & interest (1,228) (2,121) paid Dividends paid (101,532) Increase in cash and cash 275,957 17,549 equivalents Cash and cash equivalents at 37,980 20,334 start of the year Effect of exchange rates 1,561 97 Cash and cash equivalents 315,498 37,980 end of the year"
+    }
+  ]
+}

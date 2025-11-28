@@ -1,0 +1,251 @@
+{
+  "title": "Statement of Cash Flows",
+  "units": "s",
+  "pages": [
+    36,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "extracted_at": "2025-11-28T22:43:20.334844",
+  "data": [
+    {
+      "item": "New standard or amendments Effective for annual periods beginning on or after",
+      "0": "New standard or amendments",
+      "1": "Effective for annual periods beginning on or after",
+      "2": NaN
+    },
+    {
+      "item": "• Defined Benefit Plans - Employee Contributions (Amendments to IAS 19) 1 July 2014",
+      "0": "• Defined Benefit Plans - Employee Contributions (Amendments to IAS 19)",
+      "1": "1 July 2014",
+      "2": NaN
+    },
+    {
+      "item": "• Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28) 1 January 2016",
+      "0": "• Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Accounting for Acquisitions of Interests in Joint Operations (Amendments to IFRS 11) 1 January 2016",
+      "0": "• Accounting for Acquisitions of Interests in Joint Operations (Amendments to IFRS 11)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Amendments to IAS 41 - Bearer Plants (Amendments to IAS 16 and IAS 41) 1 January 2016",
+      "0": "• Amendments to IAS 41 - Bearer Plants (Amendments to IAS 16 and IAS 41)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Amendments to IAS 16 and IAS 38 – Clarification of Acceptable Methods of Depreciations and Amortisation 1 January 2016",
+      "0": "• Amendments to IAS 16 and IAS 38 – Clarification of Acceptable Methods of Depreciations and Amortisation",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Equity Method in Separate Financial Statements (Amendments to IAS 27) 1 January 2016",
+      "0": "• Equity Method in Separate Financial Statements (Amendments to IAS 27)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• IFRS 14 Regulatory Deferral Accounts 1 January 2016",
+      "0": "• IFRS 14 Regulatory Deferral Accounts",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28) 1 January 2016",
+      "0": "• Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• Disclosure Initiative (Amendments to IAS 1) 1 January 2016",
+      "0": "• Disclosure Initiative (Amendments to IAS 1)",
+      "1": "1 January 2016",
+      "2": NaN
+    },
+    {
+      "item": "• IFRS 15 Revenue from Contracts with Customers 1 January 2017",
+      "0": "• IFRS 15 Revenue from Contracts with Customers",
+      "1": "1 January 2017",
+      "2": NaN
+    },
+    {
+      "item": "• IFRS 9 Financial Instruments (2014) 1 January 2018",
+      "0": "• IFRS 9 Financial Instruments (2014)",
+      "1": "1 January 2018",
+      "2": NaN
+    },
+    {
+      "item": "None",
+      "0": "Group",
+      "1": NaN,
+      "2": "Company"
+    },
+    {
+      "item": "406,611",
+      "0": "478,158",
+      "1": NaN,
+      "2": "290,359"
+    },
+    {
+      "item": "736,144",
+      "0": "271,369",
+      "1": NaN,
+      "2": "282,457"
+    },
+    {
+      "item": "6,916",
+      "0": "(18,330)",
+      "1": NaN,
+      "2": "(10,955)"
+    },
+    {
+      "item": "At 31.12.2014 Kshs ‘000 54,384 1,077 (87,517) ( 742) 14,468",
+      "0": "At 31.12.2014 Kshs ‘000 54,384 1,077 (87,517) ( 742) 14,468",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(18,330)",
+      "0": "(18,330)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "At 31.12.2013 79,668 ( 320 (72,228 ( 204",
+      "0": "At 31.12.2013 79,668 ( 320 (72,228 ( 204",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2014 KShs’000 13,022 8,094 (46,117) ( 422) 14,468",
+      "0": "2014 KShs’000 13,022 8,094 (46,117) ( 422) 14,468",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(10,955)",
+      "0": "(10,955)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "At 31.12.2014 Kshs ‘000 48,388 ( 742) (74,458) 14,468 1,389",
+      "0": "At 31.12.2014 Kshs ‘000 48,388 ( 742) (74,458) 14,468 1,389",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "At 31.12.2013 Kshs ‘000 72,942 ( 320) (59,019) ( 581)",
+      "0": "At 31.12.2013 Kshs ‘000 72,942 ( 320) (59,019) ( 581)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "13,022",
+      "0": "13,022",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "544,011",
+      "0": "553,132",
+      "1": NaN,
+      "2": "484,394"
+    },
+    {
+      "item": "299,311",
+      "0": "212,362",
+      "1": NaN,
+      "2": "209,535"
+    },
+    {
+      "item": "55,620",
+      "0": "46,161",
+      "1": NaN,
+      "2": "33,000"
+    },
+    {
+      "item": "2014 KShs’000 20,094 93,064 1,170 116",
+      "0": "2014 KShs’000 20,094 93,064 1,170 116",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "114,444",
+      "0": "114,444",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2014 KShs’000 20,094 85,762 1,170 116",
+      "0": "2014 KShs’000 20,094 85,762 1,170 116",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "107,142",
+      "0": "107,142",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Group None",
+      "0": NaN,
+      "1": NaN,
+      "2": "Company"
+    },
+    {
+      "item": "2014 KShs’000 - - None",
+      "0": NaN,
+      "1": NaN,
+      "2": "2014 KShs’000 26,109 27,954"
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": NaN,
+      "2": "54,063"
+    },
+    {
+      "item": "37,338",
+      "0": "79,245",
+      "1": NaN,
+      "2": "68,866"
+    },
+    {
+      "item": "2014 KShs’000 39,930 -",
+      "0": "2014 KShs’000 39,930 -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "39,930",
+      "0": "39,930",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2014 KShs’000 4,405 36,594",
+      "0": "2014 KShs’000 4,405 36,594",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "40,999",
+      "0": "40,999",
+      "1": NaN,
+      "2": NaN
+    }
+  ]
+}

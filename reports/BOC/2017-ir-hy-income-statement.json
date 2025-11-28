@@ -1,0 +1,42 @@
+{
+  "title": "Summarised consolidated income statement Summarised consolidated statement of financial — For the six-month period ended 30 June 2017 position",
+  "units": "losses",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T22:43:52.019248",
+  "data": [
+    {
+      "item": "Summarised consolidated income statement For the six-month period ended 30 June 2017",
+      "0": "Summarised consolidated income statement For the six-month period ended 30 June 2017"
+    },
+    {
+      "item": "2017 2016 KShs ‘000 KShs ‘000 Revenue 515,631 539,876 Earnings before finance 42,551 75,775 income and taxes Net finance income 27,780 24,810 Exchange Gains/(Losses) (9,304) (4,368) Profit before tax 61,027 96,217 Income tax expense (18,317) (28,101) Profit for the year 42,710 68,116 Basic earnings per share 2.19 3.49",
+      "0": "2017 2016 KShs ‘000 KShs ‘000 Revenue 515,631 539,876 Earnings before finance 42,551 75,775 income and taxes Net finance income 27,780 24,810 Exchange Gains/(Losses) (9,304) (4,368) Profit before tax 61,027 96,217 Income tax expense (18,317) (28,101) Profit for the year 42,710 68,116 Basic earnings per share 2.19 3.49"
+    },
+    {
+      "item": "Summarised consolidated statement of financial position As at 30 June 2017",
+      "0": "Summarised consolidated statement of financial position As at 30 June 2017"
+    },
+    {
+      "item": "2017 2016 KShs ‘000 KShs ‘000 ASSETS Non-current assets 1,007,764 1,015,880 Current assets 1,307,400 1,282,823 Total assets 2,315,164 2,298,703 EQUITY AND LIABILITIES Share capital 97,627 97,627 Retained earnings 1,490,207 1,457,082 Capital and other reserves 148,060 190,756 Total equity 1,735,894 1,745,465 Non-current liabilities - - Current liabilities 579,270 553,238 Total liabilities 579,270 553,238 Total equity and liabilities 2,315,164 2,298,703",
+      "0": "2017 2016 KShs ‘000 KShs ‘000 ASSETS Non-current assets 1,007,764 1,015,880 Current assets 1,307,400 1,282,823 Total assets 2,315,164 2,298,703 EQUITY AND LIABILITIES Share capital 97,627 97,627 Retained earnings 1,490,207 1,457,082 Capital and other reserves 148,060 190,756 Total equity 1,735,894 1,745,465 Non-current liabilities - - Current liabilities 579,270 553,238 Total liabilities 579,270 553,238 Total equity and liabilities 2,315,164 2,298,703"
+    },
+    {
+      "item": "Summarised consolidated statement of cash flows For the six-month period ended 30 June 2017",
+      "0": "Summarised consolidated statement of cash flows For the six-month period ended 30 June 2017"
+    },
+    {
+      "item": "2017 2016 Kshs’000 Kshs’000 Cash generated from 71,505 68,221 operations Tax paid (1,498) (35,784) Net cash from operating 70,007 32,437 activities Cash used in investing (66,913) (305,903) activities Interest received 27,904 24,811 Decrease in cash and cash 30,998 (248,655) equivalents At beginning of the period 71,417 400,568 Net decrease 30,998 (248,655) Effect of exchange rates (242) (19,112) At the end of the period 102,173 132,801",
+      "0": "2017 2016 Kshs’000 Kshs’000 Cash generated from 71,505 68,221 operations Tax paid (1,498) (35,784) Net cash from operating 70,007 32,437 activities Cash used in investing (66,913) (305,903) activities Interest received 27,904 24,811 Decrease in cash and cash 30,998 (248,655) equivalents At beginning of the period 71,417 400,568 Net decrease 30,998 (248,655) Effect of exchange rates (242) (19,112) At the end of the period 102,173 132,801"
+    },
+    {
+      "item": "Summarised consolidated statement of changes in equity For the six-month period ended 30 June 2017",
+      "0": "Summarised consolidated statement of changes in equity For the six-month period ended 30 June 2017"
+    },
+    {
+      "item": "2017 2016 Kshs’000 Kshs’000 At 1 January 1,689,449 1,714,106 Net profit for the period 42,710 68,116 Change in available for - (36,734) sale financial assets Translation differences 3,735 (23) At 30 June 1,735,894 1,745,465",
+      "0": "2017 2016 Kshs’000 Kshs’000 At 1 January 1,689,449 1,714,106 Net profit for the period 42,710 68,116 Change in available for - (36,734) sale financial assets Translation differences 3,735 (23) At 30 June 1,735,894 1,745,465"
+    }
+  ]
+}

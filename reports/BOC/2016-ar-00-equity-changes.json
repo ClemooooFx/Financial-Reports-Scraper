@@ -1,0 +1,310 @@
+{
+  "title": "Statement of Changes in Equity",
+  "units": "l",
+  "pages": [
+    39,
+    40,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "extracted_at": "2025-11-28T22:43:40.169880",
+  "data": [
+    {
+      "item": "Impairment of trade receivables None",
+      "0": "Impairment of trade receivables",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "See Note 3 (l) on the Group’s and Company’s accounting policy on valuation of trade receivables and Note 21. None",
+      "0": "See Note 3 (l) on the Group’s and Company’s accounting policy on valuation of trade receivables and Note 21.",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "The key audit matter How the matter was addressed",
+      "0": "The key audit matter",
+      "1": "How the matter was addressed",
+      "3": NaN
+    },
+    {
+      "item": "Trade receivables constitute more than 10% of total assets of the Group and Company. The profile of the customers who constitute the trade receivables balance varies in character and risk. Amounts due from customers may be outstanding for long periods of time before being received by the Group and Company thus, potentially exposing the Group and Company to impairment losses. Impairment of trade receivables is considered a key audit matter because the directors make subjective judgements over both timing of recognition of impairment and the estimation of the size of any such impairment. Our audit procedures in this area included, among others: — assessing the appropriateness of the accounting policy and whether it had been applied correctly; — testing, on a sample basis, the controls over credit monitoring; — testing the ageing of trade receivables and recomputing the trade receivables provision on the basis of the accounting policy; and — reviewing a sample of receivables for the settlement of trade receivables balances outstanding as at 31 December 2016 for post year end receipts.",
+      "0": "Trade receivables constitute more than 10% of total assets of the Group and Company. The profile of the customers who constitute the trade receivables balance varies in character and risk. Amounts due from customers may be outstanding for long periods of time before being received by the Group and Company thus, potentially exposing the Group and Company to impairment losses. Impairment of trade receivables is considered a key audit matter because the directors make subjective judgements over both timing of recognition of impairment and the estimation of the size of any such impairment.",
+      "1": "Our audit procedures in this area included, among others: — assessing the appropriateness of the accounting policy and whether it had been applied correctly; — testing, on a sample basis, the controls over credit monitoring; — testing the ageing of trade receivables and recomputing the trade receivables provision on the basis of the accounting policy; and — reviewing a sample of receivables for the settlement of trade receivables balances outstanding as at 31 December 2016 for post year end receipts.",
+      "3": NaN
+    },
+    {
+      "item": "Valuation of inventory None",
+      "0": "Valuation of inventory",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "See Note 3 (i) on the Group’s and Company’s accounting policy on valuation of inventory and Note 20. None",
+      "0": "See Note 3 (i) on the Group’s and Company’s accounting policy on valuation of inventory and Note 20.",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "The Group and Company holds a significant amount of inventory which comprises finished goods, items for the processing of gases and spare parts. Inventory may be held for long periods of time before utilisation making it vulnerable to obsolescence. Valuation of inventory is considered a key audit matter because the assessment and application of inventory provisions are subject to significant judgment, made by the directors. Our audit procedures in this area included, among others: — assessing the appropriateness of the accounting policy and whether it had been applied correctly; — attending the inventory count at the year end and observed if there were any obsolete or slow moving items; — assessing the ageing of inventory and recomputed the inventory provision on the basis of the accounting policy; and — testing a sample of stock items to ensure that they were held at the lower of cost and net realisable value, and evaluating management judgment with regards to the application of provisions for inventory obsolescence.",
+      "0": "The Group and Company holds a significant amount of inventory which comprises finished goods, items for the processing of gases and spare parts. Inventory may be held for long periods of time before utilisation making it vulnerable to obsolescence. Valuation of inventory is considered a key audit matter because the assessment and application of inventory provisions are subject to significant judgment, made by the directors.",
+      "1": "Our audit procedures in this area included, among others: — assessing the appropriateness of the accounting policy and whether it had been applied correctly; — attending the inventory count at the year end and observed if there were any obsolete or slow moving items; — assessing the ageing of inventory and recomputed the inventory provision on the basis of the accounting policy; and — testing a sample of stock items to ensure that they were held at the lower of cost and net realisable value, and evaluating management judgment with regards to the application of provisions for inventory obsolescence.",
+      "3": NaN
+    },
+    {
+      "item": "Provisions for tax liabilities None",
+      "0": "Provisions for tax liabilities",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "See Note 4 (a) (ii) on the Group’s and Company’s critical accounting estimates and judgments on taxes and note 29 on contingen liabilities. None",
+      "0": "See Note 4 (a) (ii) on the Group’s and Company’s critical accounting estimates and judgments on taxes and note 29 on contingen liabilities.",
+      "1": "None",
+      "3": NaN
+    },
+    {
+      "item": "The Group and Company is subject to tax reviews and claims made by the relevant tax regulatory authorities within the jurisdictions in which it operates. Management applies significant judgment when considering whether, and how much, to provide for the potential exposures arising from each claim. Provision for tax liabilities is considered a key audit matter because of the magnitude of the potential exposures across the Group, and the complexity and judgment necessary to determine whether to provide for, disclose or not disclose certain exposures. Our audit procedures in this area included, among others: — discussing with management and the Group’s tax advisors the nature of ongoing claims and reviews, and to validate the latest status of the claims to assess the consequent accounting and disclosure implications; — reviewing formal confirmations with the tax authorities and from the Group’s external tax advisors relating to significant tax reviews and claims in order to ensure completeness of provisioning and disclosure; — assessing relevant historical information and recent trends by tax authorities in the jurisdictions in which the Group operates. Further, reviewing the Group’s tax advisors’ opinion to ascertain the basis used for the provisions recorded or disclosures made by Directors; and — where provisions are not required, considering the adequacy and completeness of the Group’s disclosures made in relation to contingent liabilities.",
+      "0": "The Group and Company is subject to tax reviews and claims made by the relevant tax regulatory authorities within the jurisdictions in which it operates. Management applies significant judgment when considering whether, and how much, to provide for the potential exposures arising from each claim. Provision for tax liabilities is considered a key audit matter because of the magnitude of the potential exposures across the Group, and the complexity and judgment necessary to determine whether to provide for, disclose or not disclose certain exposures.",
+      "1": "Our audit procedures in this area included, among others: — discussing with management and the Group’s tax advisors the nature of ongoing claims and reviews, and to validate the latest status of the claims to assess the consequent accounting and disclosure implications; — reviewing formal confirmations with the tax authorities and from the Group’s external tax advisors relating to significant tax reviews and claims in order to ensure completeness of provisioning and disclosure; — assessing relevant historical information and recent trends by tax authorities in the jurisdictions in which the Group operates. Further, reviewing the Group’s tax advisors’ opinion to ascertain the basis used for the provisions recorded or disclosures made by Directors; and — where provisions are not required, considering the adequacy and completeness of the Group’s disclosures made in relation to contingent liabilities.",
+      "3": NaN
+    },
+    {
+      "item": "Total equity",
+      "0": "Total equity",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "KShs’000",
+      "0": "KShs’000",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,714,106",
+      "0": "1,714,106",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "126,323",
+      "0": "126,323",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(6,872)",
+      "0": "(6,872)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(42,366)",
+      "0": "(42,366)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "210",
+      "0": "210",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(49,448)",
+      "0": "(49,448)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "76,875",
+      "0": "76,875",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(58,576)",
+      "0": "(58,576)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(42,956)",
+      "0": "(42,956)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,689,449",
+      "0": "1,689,449",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,747,188",
+      "0": "1,747,188",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "148,600",
+      "0": "148,600",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(13,783)",
+      "0": "(13,783)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(79,717)",
+      "0": "(79,717)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "13,350",
+      "0": "13,350",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(80,150)",
+      "0": "(80,150)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "68,450",
+      "0": "68,450",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,559,843",
+      "0": "1,559,843",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "134,470",
+      "0": "134,470",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(42,576)",
+      "0": "(42,576)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "91,894",
+      "0": "91,894",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,550,205",
+      "0": "1,550,205",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,574,082",
+      "0": "1,574,082",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "153,660",
+      "0": "153,660",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(66,367)",
+      "0": "(66,367)",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "87,293",
+      "0": "87,293",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None",
+      "0": "GROUP",
+      "1": NaN,
+      "3": "COMPANY"
+    },
+    {
+      "item": "None",
+      "0": "2016",
+      "1": NaN,
+      "3": "2016"
+    },
+    {
+      "item": ") None )",
+      "0": "(80,298",
+      "1": NaN,
+      "3": "(74,865"
+    },
+    {
+      "item": "207,104",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": "(110,032) - 3,228 (119,829) 46,512 10,395",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": "(169,726)",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": "(101,532)",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": "( 64,154)",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": "478,158 ( 64,154) ( 13,436)",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    },
+    {
+      "item": ") None",
+      "0": "(7,546",
+      "1": NaN,
+      "3": "-"
+    },
+    {
+      "item": "400,568",
+      "0": "",
+      "1": NaN,
+      "3": ""
+    }
+  ]
+}

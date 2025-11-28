@@ -1,0 +1,25 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "continued",
+  "pages": [
+    91
+  ],
+  "extracted_at": "2025-11-28T22:44:42.298354",
+  "data": [
+    {
+      "item": "STANDARDS AMENDMENTS",
+      "0": "STANDARDS",
+      "1": "AMENDMENTS"
+    },
+    {
+      "item": "IFRS 1 First-time Adoption of IFR Outdated exemptions for first-time adopters of IFRS are removed. The amendments apply prospectively for annual periods beginning on or after 1 January 2018.",
+      "0": "IFRS 1 First-time Adoption of IFR",
+      "1": "Outdated exemptions for first-time adopters of IFRS are removed. The amendments apply prospectively for annual periods beginning on or after 1 January 2018."
+    },
+    {
+      "item": "IAS 28 Investments in Associates and Joint Ventures A venture capital organisation, or other qualifying entity, may elect to measure its investments in an associate or joint venture at fair value through profit or loss. This election can be made on an investment-by-investment basis. A non-investment entity investor may elect to retain the fair value accounting applied by an investment entity associate or investment entity joint venture to its subsidiaries. This election can be made separately for each investment entity associate or joint venture. The amendments apply retrospectively for annual periods beginning on or after 1 January 2018; early application is permitted.",
+      "0": "IAS 28 Investments in Associates and Joint Ventures",
+      "1": "A venture capital organisation, or other qualifying entity, may elect to measure its investments in an associate or joint venture at fair value through profit or loss. This election can be made on an investment-by-investment basis. A non-investment entity investor may elect to retain the fair value accounting applied by an investment entity associate or investment entity joint venture to its subsidiaries. This election can be made separately for each investment entity associate or joint venture. The amendments apply retrospectively for annual periods beginning on or after 1 January 2018; early application is permitted."
+    }
+  ]
+}

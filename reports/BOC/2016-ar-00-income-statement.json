@@ -1,0 +1,80 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "r",
+  "pages": [
+    58
+  ],
+  "extracted_at": "2025-11-28T22:43:40.163763",
+  "data": [
+    {
+      "item": "Standard Amendments",
+      "0": "Standard",
+      "1": "Amendments"
+    },
+    {
+      "item": "IFRS 5 Non-current Assets Held for Sale and Discontinued Operations Changes in methods of disposal. Adds specific guidance in IFRS 5 for cases in which an entity reclassifies an asset from held for sale to held for distribution or vice versa and cases in which held-for-distribution accounting is discontinued.",
+      "0": "IFRS 5 Non-current Assets Held for Sale and Discontinued Operations",
+      "1": "Changes in methods of disposal. Adds specific guidance in IFRS 5 for cases in which an entity reclassifies an asset from held for sale to held for distribution or vice versa and cases in which held-for-distribution accounting is discontinued."
+    },
+    {
+      "item": "IFRS 7 Financial Instruments: Disclosures (with consequential amendments to IFRS 1) Servicing contracts. Adds additional guidance to clarify whether a servicing contract is continuing involvement in a transferred asset for the purpose of determining the disclosures required. Applicability of the amendments to IFRS 7 to condensed interim financial statements. Clarifies the applicability of the amendments to IFRS 7 on offsetting disclosures to condensed interim financial statements.",
+      "0": "IFRS 7 Financial Instruments: Disclosures (with consequential amendments to IFRS 1)",
+      "1": "Servicing contracts. Adds additional guidance to clarify whether a servicing contract is continuing involvement in a transferred asset for the purpose of determining the disclosures required. Applicability of the amendments to IFRS 7 to condensed interim financial statements. Clarifies the applicability of the amendments to IFRS 7 on offsetting disclosures to condensed interim financial statements."
+    },
+    {
+      "item": "IAS 19 Employee Benefits Discount rate: regional market issue. Clarifies that the high quality corporate bonds used in estimating the discount rate for post-employment benefits should be denominated in the same currency as the benefits to be paid (thus, the depth of the market for high quality corporate bonds should be assessed at currency level).",
+      "0": "IAS 19 Employee Benefits",
+      "1": "Discount rate: regional market issue. Clarifies that the high quality corporate bonds used in estimating the discount rate for post-employment benefits should be denominated in the same currency as the benefits to be paid (thus, the depth of the market for high quality corporate bonds should be assessed at currency level)."
+    },
+    {
+      "item": "IAS 34 Interim Financial Reporting Disclosure of information ‘elsewhere in the interim financial report’. Clarifies the meaning of ‘elsewhere in the interim report’ and requires a cross-reference",
+      "0": "IAS 34 Interim Financial Reporting",
+      "1": "Disclosure of information ‘elsewhere in the interim financial report’. Clarifies the meaning of ‘elsewhere in the interim report’ and requires a cross-reference"
+    },
+    {
+      "item": "New standard or amendments Effective for annual periods beginning on or after",
+      "0": "New standard or amendments",
+      "1": "Effective for annual periods beginning on or after"
+    },
+    {
+      "item": "Disclosure Initiative (Amendments to IAS 7) 1 January, 2017",
+      "0": "Disclosure Initiative (Amendments to IAS 7)",
+      "1": "1 January, 2017"
+    },
+    {
+      "item": "Recognition of Deferred Tax Assets for Unrealised Losses (Amendments to IAS 12) 1 January, 2017",
+      "0": "Recognition of Deferred Tax Assets for Unrealised Losses (Amendments to IAS 12)",
+      "1": "1 January, 2017"
+    },
+    {
+      "item": "IFRS 15 Revenue from Contracts with Customers 1 January, 2018",
+      "0": "IFRS 15 Revenue from Contracts with Customers",
+      "1": "1 January, 2018"
+    },
+    {
+      "item": "IFRS 9 Financial Instruments (2014) 1 January, 2018",
+      "0": "IFRS 9 Financial Instruments (2014)",
+      "1": "1 January, 2018"
+    },
+    {
+      "item": "Applying IFRS 9 Financial Instruments with IFRS 4 Insurance contracts (Amendments to IFRS 4) 1 January, 2018",
+      "0": "Applying IFRS 9 Financial Instruments with IFRS 4 Insurance contracts (Amendments to IFRS 4)",
+      "1": "1 January, 2018"
+    },
+    {
+      "item": "Classification and measurement of share-based payment transactions (amendments to IFRS2) 1 January 2017",
+      "0": "Classification and measurement of share-based payment transactions (amendments to IFRS2)",
+      "1": "1 January 2017"
+    },
+    {
+      "item": "IFRS 16 Leases 1 January, 2019",
+      "0": "IFRS 16 Leases",
+      "1": "1 January, 2019"
+    },
+    {
+      "item": "Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28). To be determined",
+      "0": "Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28).",
+      "1": "To be determined"
+    }
+  ]
+}
