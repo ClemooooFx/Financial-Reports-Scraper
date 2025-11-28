@@ -1,0 +1,412 @@
+{
+  "title": "Consolidated Statement of Cash Flows — 2013 2012",
+  "units": "loss",
+  "pages": [
+    57,
+    58,
+    94,
+    95,
+    96,
+    97,
+    98
+  ],
+  "extracted_at": "2025-11-28T20:07:26.151899",
+  "data": [
+    {
+      "item": "Notes",
+      "2": "2013 Shs’million",
+      "3": "2012 Shs’million",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM OPERATING ACTIVITIES Cash generated from operations Interest received Net foreign exchange gain/(loss) Interest paid Tax paid 32 6 7 10 12(c)",
+      "2": "6,593 473 45 (121) (1,808)",
+      "3": "8,977 651 (98) (251) (1,807)",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net cash generated from operating activities",
+      "2": "5,182",
+      "3": "7,472",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM INVESTING ACTIVITIES Purchase of property, plant and equipment Purchase of prepaid operating lease rentals Purchase of intangible assets Proceeds from disposals of property, plant and equipment Withholding tax paid on dividend to Group Dividends received 15(a) 16 17 6 6",
+      "2": "(879) (28) (8) - (21) -",
+      "3": "(1,175) (10) (90) 3 (104) 6",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net cash used in investing activities",
+      "2": "(936)",
+      "3": "(1,370)",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM FINANCING ACTIVITIES Dividends paid to owners of the company Dividends paid to non-controlling interests Loans repaid 14(b) 28(a)",
+      "2": "(3,811) (100) (300)",
+      "3": "(3,630) (297) (477)",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net cash used in financing activities",
+      "2": "(4,211)",
+      "3": "(4,404)",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "NET INCREASE IN CASH AND CASH EQUIVALENTS",
+      "2": "35",
+      "3": "1,698",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MOVEMENT IN CASH AND CASH EQUIVALENTS At beginning of the year Net increase in cash and cash equivalents above Effects of exchange rate changes on cash held in foreign currencies",
+      "2": "8,769 35 72",
+      "3": "7,136 1,698 (65)",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "At end of the year 23(b)",
+      "2": "8,876",
+      "3": "8,769",
+      "4": NaN,
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM OPERATING ACTIVITIES Cash generated from operations Interest received Net foreign exchange gain / (loss) Tax paid 32 6 7 12(c)",
+      "2": NaN,
+      "3": "5,509 485 2 (1,535)",
+      "4": "5,993 642 (20) (1,371)",
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM INVESTING ACTIVITIES Purchase of property, plant and equipment Purchase of intangible assets Dividends received 15(b) 17 6",
+      "2": NaN,
+      "3": "(161) (5) 198",
+      "4": "(649) (55) 596",
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CASH FLOWS FROM FINANCING ACTIVITIES Dividends paid to owners of the company Loans repaid Net cash used in financing activities NET INCREASE IN CASH AND CASH 14(a) 33(iii)",
+      "2": NaN,
+      "3": "(3,808) 33 (3,775)",
+      "4": "(3,630) 29 (3,601)",
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "EQUIVALENTS",
+      "2": NaN,
+      "3": "718",
+      "4": "1,535",
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MOVEMENT IN CASH AND CASH EQUIVALENTS At beginning of the year Net increase in cash and cash equivalents above",
+      "2": NaN,
+      "3": "7,821 718",
+      "4": "6,286 1,535",
+      "1": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GROUP COMPANY",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "",
+      "2": "2012 Shs’million",
+      "3": "2013 Shs’million",
+      "4": "2012 Shs’million",
+      "1": "2013 Shs’million",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Cash at bank and on hand Cash deposits with related party (note 33(ii)) Short term bank deposits – held to maturity",
+      "2": "1,614 7,130 25",
+      "3": "2,475 6,064 -",
+      "4": "691 7,130 -",
+      "1": "2,734 6,142 -",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GROUP COMPANY None",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Cash and cash equivalents: - note 23(a)",
+      "2": "8,769",
+      "3": "8,539",
+      "4": "7,821",
+      "1": "8,876",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Cash deposits with related party (note 33(ii)) Short term bank deposits – held to maturity",
+      "2": "7,130 25",
+      "3": "6,064 -",
+      "4": "7,130 -",
+      "1": "6,142 -",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Short term fixed deposits",
+      "2": "7,155",
+      "3": "6,064",
+      "4": "7,130",
+      "1": "6,142",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Local currencies Foreign currencies",
+      "2": "16.27% 2.64%",
+      "3": "8.42% 3.58%",
+      "4": "12.54% 3.41%",
+      "1": "9.09% 2.32%",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GROUP AND COMPANY",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Authorised 366,600,000 ordinary shares of Shs 5 each 100,000, 7% redeemable cumulative preference shares of Shs 20 each",
+      "2": "1,833 2",
+      "3": NaN,
+      "4": NaN,
+      "1": "1,833 2",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "2": "1,835",
+      "3": NaN,
+      "4": NaN,
+      "1": "1,835",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Issued and fully paid 362,959,275 ordinary shares of Shs 5 each",
+      "2": "1,815",
+      "3": NaN,
+      "4": NaN,
+      "1": "1,815",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "At 1 January Net gain/(loss) arising on revaluation of available for sale investments (note 19(b))",
+      "2": "437 (188)",
+      "3": NaN,
+      "4": NaN,
+      "1": "249 335",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "At 31 December",
+      "2": "249",
+      "3": NaN,
+      "4": NaN,
+      "1": "584",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None None None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "0": "GROUP COMPANY 2013 2012 2013 2012",
+      "5": NaN
+    },
+    {
+      "item": "Shs’million Shs’million Shs’million Shs’million",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "0": "",
+      "5": NaN
+    },
+    {
+      "item": "- - 33 (33) - - 15 (15)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "0": "As at 1 January Charged to OCI during the year",
+      "5": NaN
+    },
+    {
+      "item": "Profit or loss At 31 Dec GROUP 1 Jan 2012 Note 12 (a) OCI 2012",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Property, plant and equipment Provision for staff gratuity, long service award and leave Bonus payable Foreign exchange loss Provision for site restoration and litigation Provision for bad debts Trading losses Foreign exchange adjustment*",
+      "2": "314 (6) (7) (5) 2 (1) 331 (183)",
+      "3": "411 - - - - - - 101",
+      "4": "4,262 (214) (22) (31) (34) (27) (31) 130",
+      "1": "3,537 (208) (15) (26) (36) (26) (362) 212",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Profit or loss At 31 Dec",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GROUP",
+      "2": "Note 12 (a) Shs’million",
+      "3": "OCI Shs’million",
+      "4": "2013 Shs’million",
+      "1": "1 Jan 2013 Shs’million",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "COMPANY Profit or loss At 31 Dec",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "1": "None",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Property, plant and equipment Provision for site restoration and litigation Provision for staff gratuity, long service award and leave Foreign exchange loss Provision for bad debts",
+      "2": "(52) 7 (16) (6) (3)",
+      "3": "- 11 -",
+      "4": "1,803 (17) (196) (17) (17)",
+      "1": "1,855 (24) (191) (11) (14)",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "COMPANY",
+      "2": "Profit or loss Note 12 (a) Shs’million",
+      "3": "OCI Shs’million",
+      "4": "At 31 Dec 2013 Shs’million",
+      "1": "1 Jan 2013 Shs’million",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2012 Total Shs’ million",
+      "2": "Leave pay Shs’ million",
+      "3": "Service gratuity Shs’ million",
+      "4": "Long service awards Shs’ million",
+      "1": "Site restoration and litigation Shs’ million",
+      "0": NaN,
+      "5": "2013 Total Shs’ million"
+    },
+    {
+      "item": "GROUP At beginning of year Additional provisions Utilised during the year 752 323 (14) 1,061 505 556 1,061 684 290 (14) 960 404 556 960",
+      "2": "19 6 -",
+      "3": "595 117 (75)",
+      "4": "80 3 (8)",
+      "1": "367 331 -",
+      "0": NaN,
+      "5": "1,061 457 (83)"
+    },
+    {
+      "item": "At end of year None",
+      "2": "25",
+      "3": "637",
+      "4": "75",
+      "1": "698",
+      "0": NaN,
+      "5": "1,435"
+    },
+    {
+      "item": "Categorised as: Current portion Non-current portion None",
+      "2": "4 21",
+      "3": "78 559",
+      "4": "5 70",
+      "1": "333 365",
+      "0": NaN,
+      "5": "410 1,025"
+    },
+    {
+      "item": "COMPANY At beginning of year Additional provisions Utilised during the year None",
+      "2": "19 6 -",
+      "3": "556 86 (73)",
+      "4": "61 3 (5)",
+      "1": "324 348 -",
+      "0": NaN,
+      "5": "960 443 (78)"
+    }
+  ]
+}

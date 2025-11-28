@@ -1,0 +1,106 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF CASH FLOWS — FOR THE YEAR ENDED 31 DECEMBER 2014",
+  "units": "76",
+  "pages": [
+    58,
+    59,
+    93,
+    94,
+    95,
+    96
+  ],
+  "extracted_at": "2025-11-28T20:07:43.843141",
+  "data": [
+    {
+      "item": "CASH FLOWS FROM OPERATING ACTIVITIES",
+      "1": "Notes",
+      "2": "2014 Shs’million",
+      "3": "2013 Shs’million",
+      "0": NaN
+    },
+    {
+      "item": "Cash generated from operations 33 7,441 6,638 Interest received 6 349 473 Interest paid 10 (76) (121) Tax paid 12(c) (1,793) (1,808) Net cash generated from operating activities 5,921 5,182 CASH FLOWS FROM INVESTING ACTIVITIES Purchase of property, plant and equipment 15(a) (783) (879) Purchase prepaid operating lease rentals 16 - (28) Purchase of intangible assets 17 (44) (8) Withholding tax paid on dividend to Group 6 (71) (21) Net cash used in investing activities (898) (936) CASH FLOWS FROM FINANCING ACTIVITIES Dividends paid to owners of the Company 14(b) (5,445) (3,811) Dividends paid to non-controlling interests (203) (100) Loans repaid 29(a) (587) (300) Net cash used in financing activities (6,235) (4,211) NET (DECREASE) /INCREASE IN CASH AND CASH EQUIVALENTS (1,212) 35 MOVEMENT IN CASH AND CASH EQUIVALENTS At beginning of the year 8,876 8,769 Net (decrease) /increase in cash and cash equivalents above (1,212) 35 Effects of exchange rate changes on cash held in foreign currencies (20) 72 At end of the year 23(b) 7,644 8,876",
+      "1": "33",
+      "2": "7,441",
+      "3": "6,638",
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": "6",
+      "2": "349",
+      "3": "473",
+      "0": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": "COMPANY",
+      "3": NaN,
+      "0": "GROUP"
+    },
+    {
+      "item": "2013 2013",
+      "1": NaN,
+      "2": "2014",
+      "3": NaN,
+      "0": "2014"
+    },
+    {
+      "item": "Shs’million Shs’million",
+      "1": NaN,
+      "2": "Shs’million",
+      "3": NaN,
+      "0": "Shs’million"
+    },
+    {
+      "item": "2013 Shs’million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "2014 Shs’million"
+    },
+    {
+      "item": "GROUP Profit or loss Shs’million At 31 Dec. 14 Shs’million",
+      "1": "At 1 Jan. 14 Shs’million",
+      "2": NaN,
+      "3": "Other comprehensive income Shs’million",
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "1": "4,249",
+      "2": NaN,
+      "3": "-",
+      "0": NaN
+    },
+    {
+      "item": "Profit or loss Shs’million At 31 Dec. 13 Shs’million",
+      "1": NaN,
+      "2": "Other comprehensive income Shs’million",
+      "3": NaN,
+      "0": "At 1 Jan. 13 Shs’million"
+    },
+    {
+      "item": "COMPANY Profit or loss (Note 12 (a)) Shs’million At 31 Dec. 14 Shs’million",
+      "1": "At 1 Jan. 14 Shs’million",
+      "2": NaN,
+      "3": "Other comprehensive income Shs’million",
+      "0": NaN
+    },
+    {
+      "item": "COMPANY Profit or loss Shs’million At 31 Dec. 13 Shs’million",
+      "1": "At 1 Jan. 13 Shs’million",
+      "2": NaN,
+      "3": "Other comprehensive income Shs’million",
+      "0": NaN
+    },
+    {
+      "item": "Leave pay Shs’ million 2013 Total Shs’ million",
+      "1": NaN,
+      "2": "2014 Total Shs’ million",
+      "3": NaN,
+      "0": "Site restoration and litigation Shs’ million"
+    }
+  ]
+}
