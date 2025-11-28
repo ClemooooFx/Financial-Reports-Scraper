@@ -1,0 +1,31 @@
+{
+  "title": "Statement of Financial Position",
+  "units": null,
+  "pages": [
+    37,
+    43
+  ],
+  "extracted_at": "2025-11-28T21:49:07.485709",
+  "data": [
+    {
+      "item": "None",
+      "1": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None %",
+      "1": "%",
+      "0": NaN
+    },
+    {
+      "item": "Other Selected Management targets",
+      "1": NaN,
+      "0": "Other Selected Management targets"
+    },
+    {
+      "item": "• Grow Net Income by 25% Y-o-Y • Grow Total Assets by 20% Y-o-Y • Gross Loans/Assets to 60% • Lower NPL ratio to less than or equal to 5% • Increase number of retail current accounts by 100,000 • Launch e-commerce platform by 1H 2013",
+      "1": NaN,
+      "0": "• Grow Net Income by 25% Y-o-Y • Grow Total Assets by 20% Y-o-Y • Gross Loans/Assets to 60% • Lower NPL ratio to less than or equal to 5% • Increase number of retail current accounts by 100,000 • Launch e-commerce platform by 1H 2013"
+    }
+  ]
+}

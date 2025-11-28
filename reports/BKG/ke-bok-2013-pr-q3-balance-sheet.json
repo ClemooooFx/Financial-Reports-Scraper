@@ -1,0 +1,32 @@
+{
+  "title": "Statement of Financial Position",
+  "units": null,
+  "pages": [
+    36,
+    38,
+    39
+  ],
+  "extracted_at": "2025-11-28T21:49:42.690244",
+  "data": [
+    {
+      "item": "None None None None None",
+      "1": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN
+    },
+    {
+      "item": "None %",
+      "1": "%"
+    }
+  ]
+}
