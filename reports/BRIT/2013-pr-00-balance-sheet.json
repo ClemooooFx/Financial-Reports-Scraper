@@ -1,0 +1,64 @@
+{
+  "title": "Group Balance Sheet",
+  "units": null,
+  "pages": [
+    26
+  ],
+  "extracted_at": "2025-11-28T23:12:45.449953",
+  "data": [
+    {
+      "item": "Shs’ million",
+      "1": "2013",
+      "2": "2012",
+      "3": "% change"
+    },
+    {
+      "item": "Share capital/share premium",
+      "1": "3,353",
+      "2": "3,353",
+      "3": "-"
+    },
+    {
+      "item": "Other reserves",
+      "1": "9,573",
+      "2": "5,746",
+      "3": "67"
+    },
+    {
+      "item": "Retained earnings",
+      "1": "3,536",
+      "2": "2,900",
+      "3": "22"
+    },
+    {
+      "item": "Proposed Dividends",
+      "1": "473",
+      "2": "473",
+      "3": "-"
+    },
+    {
+      "item": "Shareholders’ Funds",
+      "1": "16,935",
+      "2": "12,472",
+      "3": "36"
+    },
+    {
+      "item": "Total assets",
+      "1": "46,903",
+      "2": "35,820",
+      "3": "31"
+    },
+    {
+      "item": "Total liabilities",
+      "1": "(29,968)",
+      "2": "(23,347)",
+      "3": "28"
+    },
+    {
+      "item": "Net Assets",
+      "1": "16,935",
+      "2": "12,472",
+      "3": "36"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Statement of comprehensive income – Total Income grew by 11% — Income statement Dec’ 2016 Dec’ 2015 Growth",
+  "units": "millions",
+  "pages": [
+    23,
+    28
+  ],
+  "extracted_at": "2025-11-28T23:14:05.266329",
+  "data": [
+    {
+      "item": "Income statement",
+      "1": "Dec’ 2016 Shs Million",
+      "2": "Dec’ 2015 Shs Million",
+      "3": "Growth %",
+      "0": NaN
+    },
+    {
+      "item": "Gross earned premium Less Reinsurance premium ceded",
+      "1": "20,292 (2,898)",
+      "2": "19,606 (3,231)",
+      "3": "3% (10%)",
+      "0": NaN
+    },
+    {
+      "item": "Net earned premium Fund management fees Financial assets fair value changes Investment income Commissions ea0r.n6ed Other Income",
+      "1": "17,394 929 (2,412) 5,224 719 507",
+      "2": "16,375 718 (2,626) 4,340 735 589",
+      "3": "6% 29% (8%) 20% (2%) (14%)",
+      "0": NaN
+    },
+    {
+      "item": "Kenya 2.6% Total Income",
+      "1": "22,360",
+      "2": "20,131",
+      "3": "11%",
+      "0": NaN
+    },
+    {
+      "item": "Net insurance benefits & claims 1.0% Interest payments/increase in unit value 1.0% Commission payable Operating expenses Finance costs Share of profitT oafn azsasnoicai a1t.e0s%",
+      "1": "5,001 1,743 3,547 7,095 1,177 442",
+      "2": "10,614 496 3,292 6,717 802 595",
+      "3": "(53%) 252% 8% 6% 47% (26%)",
+      "0": NaN
+    },
+    {
+      "item": "Profit before tax Income tax",
+      "1": "4,239 (1,759)",
+      "2": "(1,195) 185",
+      "3": "455% (1,048%)",
+      "0": NaN
+    },
+    {
+      "item": "Profit after tax Other comprehensive income Total comprehensive Income",
+      "1": "2,480 (1,696) 785",
+      "2": "(1,010) (2,174) (3,184)",
+      "3": "346% 22% 125%",
+      "0": NaN
+    },
+    {
+      "item": "Dec-16 Dec-15 Growth",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Shs 000s Shs 000s %"
+    }
+  ]
+}

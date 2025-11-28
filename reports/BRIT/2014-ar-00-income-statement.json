@@ -1,0 +1,43 @@
+{
+  "title": "financial position at 31 December 2014 and the consolidated income statement, consolidated statement of comprehensive income, consolidated",
+  "units": "kenya",
+  "pages": [
+    74,
+    92
+  ],
+  "extracted_at": "2025-11-28T23:13:05.140637",
+  "data": [
+    {
+      "item": "None None None None",
+      "1": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN
+    },
+    {
+      "item": "Buildings",
+      "1": "40 years"
+    },
+    {
+      "item": "Leasehold improvements",
+      "1": "10 years"
+    },
+    {
+      "item": "Computer equipment",
+      "1": "5 years"
+    },
+    {
+      "item": "Motor vehicles",
+      "1": "5 years"
+    },
+    {
+      "item": "Furniture, fixtures, and fittings",
+      "1": "5 years"
+    }
+  ]
+}

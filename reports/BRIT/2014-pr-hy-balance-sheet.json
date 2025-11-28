@@ -1,0 +1,88 @@
+{
+  "title": "Group Balance Sheet",
+  "units": null,
+  "pages": [
+    29,
+    31
+  ],
+  "extracted_at": "2025-11-28T23:13:13.427551",
+  "data": [
+    {
+      "item": "Shs’ million",
+      "1": "June 2014",
+      "2": "June 2013",
+      "3": "% change",
+      "0": NaN
+    },
+    {
+      "item": "Share capital/share premium",
+      "1": "3,353",
+      "2": "3,353",
+      "3": "0",
+      "0": NaN
+    },
+    {
+      "item": "Other reserves",
+      "1": "13,643",
+      "2": "8,094",
+      "3": "69",
+      "0": NaN
+    },
+    {
+      "item": "0.6 Retained earnings",
+      "1": "5,531",
+      "2": "5,059",
+      "3": "9",
+      "0": NaN
+    },
+    {
+      "item": "Kenya 2.6% Shareholders’ Funds",
+      "1": "22,527",
+      "2": "16,506",
+      "3": "36",
+      "0": NaN
+    },
+    {
+      "item": "1.0% Total assets1 .0 %",
+      "1": "55,150",
+      "2": "42,973",
+      "3": "28",
+      "0": NaN
+    },
+    {
+      "item": "Total liabilities",
+      "1": "(32,623)",
+      "2": "(26,467)",
+      "3": "23",
+      "0": NaN
+    },
+    {
+      "item": "Tanzania 1.0% Net Assets",
+      "1": "22,527",
+      "2": "16,506",
+      "3": "36",
+      "0": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Key Group Numbers June 2014 June 2013 % Increase ROE for OCI 36% 29% 6% ROE for PAT 16% 17% -1% Total Assets 55,151M 42,973M 28% AUM 41,476M 32,677M 27%"
+    },
+    {
+      "item": "June 2014 June 2013 % Increase",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "ROE for OCI 36% 29% 6%"
+    }
+  ]
+}
