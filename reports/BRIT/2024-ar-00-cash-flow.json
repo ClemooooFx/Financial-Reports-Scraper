@@ -1,0 +1,623 @@
+{
+  "title": "Consolidated statement of cash flows — For the year ended 31 December",
+  "units": "b",
+  "pages": [
+    93,
+    97,
+    197,
+    198,
+    199
+  ],
+  "extracted_at": "2025-11-28T23:43:08.534624",
+  "data": [
+    {
+      "item": "2024",
+      "1": "2023",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Shs’000",
+      "1": "Shs’000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "7,142,473",
+      "1": "9,426,053",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,054,966)",
+      "1": "(1,058,828)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "6,087,507",
+      "1": "8,367,225",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(475,777)",
+      "1": "(168,156)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(34,969)",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(308,295)",
+      "1": "(98,922)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(851,264)",
+      "1": "(156,303)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "513,257",
+      "1": "36,406",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(103,296)",
+      "1": "(253,541)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(725)",
+      "1": "(186)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "749,053",
+      "1": "309,299",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(5,155,783)",
+      "1": "(2,751,969)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "5,842,819",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(16,573,708)",
+      "1": "(8,510,356)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2,063,251",
+      "1": "1,119,229",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(14,009,573)",
+      "1": "(14,846,537)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "3,598,814",
+      "1": "3,525,988",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(189,603)",
+      "1": "(139,379)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "187,014",
+      "1": "132,276",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(74,996)",
+      "1": "(95,236)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "326,308",
+      "1": "226,285",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(3,655,189)",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "187,832",
+      "1": "178,919",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "20,231,874",
+      "1": "16,249,095",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(7,732,956)",
+      "1": "(5,243,090)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,611,038)",
+      "1": "(118,961)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(129,612)",
+      "1": "(110,753)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(190,173)",
+      "1": "(176,072)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,930,823)",
+      "1": "(405,786)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(3,576,272)",
+      "1": "2,718,349",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "10,766,787",
+      "1": "7,991,854",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(111,191)",
+      "1": "56,584",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "7,079,324",
+      "1": "10,766,787",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2024 Shs’000",
+      "1": "2023 Shs’000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "25,848",
+      "1": "(247,467)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(28,175)",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(2,327)",
+      "1": "(247,467)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(4,015)",
+      "1": "(3,997)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(4,160)",
+      "1": "(1,366)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(960,052)",
+      "1": "(208,500)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,771,496",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "23,837",
+      "1": "23,530",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "",
+      "1": "102,689",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(4,621)",
+      "1": "(114,781)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(186,800)",
+      "1": "(135,538)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "182,297",
+      "1": "132,276",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "46,065",
+      "1": "60,405",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "475,843",
+      "1": "261,198",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "250,726",
+      "1": "159,281",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,590,616",
+      "1": "275,197",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,000,000)",
+      "1": "-",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(211,320)",
+      "1": "(118,961)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(93,124)",
+      "1": "(21,336)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(13,731)",
+      "1": "(10,450)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(38,279)",
+      "1": "(53,392)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,356,454)",
+      "1": "(137,639)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "231,835",
+      "1": "(109,909)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "61,551",
+      "1": "171,460",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "293,386",
+      "1": "61,551",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Staff and agents loans Car loans and premium financing loans Accrued income Dues from managed funds Refundable deposits VAT rental income recoverable Due from Motor Pool Prepayments Government taxes and statutory deductions Other receivables",
+      "1": "81,395",
+      "2": "133,863",
+      "3": "-",
+      "4": "4,960"
+    },
+    {
+      "item": "None",
+      "1": "78,414",
+      "2": "191,526",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Total",
+      "1": "2,333,996",
+      "2": "3,247,478",
+      "3": "372,098",
+      "4": "498,737"
+    },
+    {
+      "item": "Less: Provision for expected credit losses",
+      "1": "(188,486)",
+      "2": "(271,221)",
+      "3": "(32,953)",
+      "4": "(115,853)"
+    },
+    {
+      "item": "Net amount at end of year",
+      "1": "2,145,510",
+      "2": "2,976,257",
+      "3": "339,145",
+      "4": "382,884"
+    },
+    {
+      "item": "Movement in provision for expected credit losses:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "item": "At 1 January Decrease Write off",
+      "1": "271,221",
+      "2": "288,920",
+      "3": "115,853",
+      "4": "115,493"
+    },
+    {
+      "item": "At 31 December",
+      "1": "188,486",
+      "2": "271,221",
+      "3": "32,953",
+      "4": "115,853"
+    },
+    {
+      "item": "Deposits with financial institutions Cash and bank balances",
+      "1": "5,395,553",
+      "2": "9,564,878",
+      "3": "194,690",
+      "4": "39,360"
+    },
+    {
+      "item": "Cash and cash equivalents",
+      "1": "7,079,324",
+      "2": "10,766,787",
+      "3": "293,386",
+      "4": "61,551"
+    },
+    {
+      "item": "Movement in provision for expected credit losses: At start of the year Increase Write off",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "item": "At end of the year",
+      "1": "123,077",
+      "2": "125,906",
+      "3": "290",
+      "4": "10"
+    },
+    {
+      "item": "Restricted cash",
+      "1": "1,105,989",
+      "2": "216,417",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Accrued expenses",
+      "1": "2,475,711",
+      "2": "2,188,054",
+      "3": "350,793",
+      "4": "424,915"
+    },
+    {
+      "item": "Premiums paid in advance",
+      "1": "141,659",
+      "2": "117,311",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Profit share payable",
+      "1": "49,905",
+      "2": "65,278",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Accrued dividends payable",
+      "1": "-",
+      "2": "38,256",
+      "3": "-",
+      "4": "912"
+    },
+    {
+      "item": "Staff and agents bonds",
+      "1": "94,444",
+      "2": "83,898",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Payables for property funds",
+      "1": "5,683",
+      "2": "25,453",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Trade payables",
+      "1": "353,817",
+      "2": "602,172",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "Government taxes & statutory deductions",
+      "1": "472,748",
+      "2": "406,437",
+      "3": "12,986",
+      "4": "23,909"
+    },
+    {
+      "item": "Other liabilities",
+      "1": "1,657,613",
+      "2": "1,126,435",
+      "3": "4,129",
+      "4": "16,526"
+    },
+    {
+      "item": "Provision for investment losses",
+      "1": "1,415,002",
+      "2": "1,523,481",
+      "3": "1,415,002",
+      "4": "1,523,481"
+    },
+    {
+      "item": "Total provisions and other payables",
+      "1": "6,666,582",
+      "2": "6,176,775",
+      "3": "1,782,910",
+      "4": "1,989,743"
+    },
+    {
+      "item": "Profit before income tax Adjustments for: Depreciation of property and equipment (Note 22) Depreciation of right of use asset (Note 24(i) Amortisation of intangible assets (Note 23) Net income/(loss) from investment properties (Note 7) Interest computed using effective interest method (Note 8(i)) Interest and dividend income (Note 8(ii)) Impact of Net Monetary gain/loss Provision write back Net fair value (loss)/gain on financial assets at fair value through profit or loss - designated (Note 10) Foreign exchange gains and losses, net (Note 13) Share of profit of the associate Finance costs (Note 16) Gain on disposal of property and equipment Gain on IFRS 16 lease remeasurement Provision for expected credit losses on cash and cash equivalents (Note 39(i)) Net realised gains/(loss) on financial assets at fair value through profit or loss Changes in: • Insurance contract assets • Reinsurance contract assets • Retirement benefit asset • Receivable from related parties • Other receivables • Insurance contract liabilities • Reinsurance contract liabilities • Payable to related party • Other payables • Restricted cash",
+      "1": "7,330,995",
+      "2": "4,819,495",
+      "3": "(451,830)",
+      "4": "(525,957)"
+    },
+    {
+      "item": "Cash generated from/(used in) operations",
+      "1": "7,142,473",
+      "2": "9,426,053",
+      "3": "25,848",
+      "4": "(247,467)"
+    }
+  ]
+}
