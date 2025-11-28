@@ -55,7 +55,7 @@ jobs:
         run: |
           # Count total PDFs
           TOTAL_PDFS=$(find reports -name "*.pdf" -type f | wc -l)
-          BATCH_SIZE=10
+          BATCH_SIZE=20
           TOTAL_BATCHES=$(( (TOTAL_PDFS + BATCH_SIZE - 1) / BATCH_SIZE ))
           
           echo "Found $TOTAL_PDFS PDFs"
@@ -111,7 +111,7 @@ jobs:
       
       - name: Run extraction for batch ${{ matrix.batch }}
         run: |
-          python extract_financials.py --batch ${{ matrix.batch }} --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
+          python extract_financials.py --batch ${{ matrix.batch }} --batch-size 20 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
         continue-on-error: true
         timeout-minutes: 120
         env:
