@@ -1,113 +1,143 @@
 {
-  "title": "• Accelerated balance sheet PAT 10.7 30% 22% 13% 30%",
-  "units": "kes",
+  "title": "Balance Sheet production Customer Assets",
+  "units": null,
   "pages": [
-    18,
-    18,
-    18,
-    18,
-    18,
-    18,
-    22,
-    22
+    18
   ],
-  "extracted_at": "2025-11-27T09:44:27.233874",
+  "extracted_at": "2025-11-28T06:04:17.225789",
   "data": [
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": "(KES billions unless stated otherwise)",
-      "0": NaN,
-      "and Advances": NaN,
-      "split by currency": NaN
+      "0": "Q3 2022\nVs Observed YTD Momentum\nIncome Statement\n(KES billions unless stated otherwise)\nActual\nYoY\nQ1\nQ2\nQ3",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": "01",
-      "and Advances": NaN,
-      "split by currency": NaN
-    },
-    {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": "03",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "0": "Retail\n16.9\n16%\n9%\n14%\n16%\nBusiness Bank\n6.3\n29%\n15%\n22%\n29%\nCorporate Bank\n6.3\n33%\n17%\n24%\n33%\nGlobal Markets\n3.4\n25%\n18%\n15%\n25%\nJAWs\n12%\n2%\n6%\n12%\nPAT\n10.7\n30%\n22%\n13%\n30%\nReturn on Equity\n24%\n20%\n23%\n24%\nCustomer Liabilities\n281.1\n5%\n5%\n7%\n5%\nTotal Capital Ratio\n16.2%\n17.0%\n16.4%\n16.2%\nGross NPL Ratio\n6.9%\n8.6%\n7.4%\n7.0%\n6.9%\nLLR\n2.3%\n2.2%\n2.0%\n2.3%\n2.3%\nValuations\nCurrent Year\nPrior Year\n06",
+      "1": "",
+      "2": "Growth Momentum\nOperating leverage\nCost to Income Ratio\n40%\n45%\n42%\n40%\nProfitability\nPBT\n15.1\n28%\n26%\n15%\n28%\nBalance Sheet production \nCustomer Assets\n289.4\n26%\n11%\n19%\n26%\nPortfolio Quality\nCurrent Year\nPrior Year\nImpairment\n5.0\n3.4\n1.2\n3.0\n5.0",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "01",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": "04",
-      "and Advances": NaN,
-      "split by currency": NaN
-    },
-    {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": "05",
-      "and Advances": NaN,
-      "split by currency": NaN
-    },
-    {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "02",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": "06",
-      "and Advances": NaN,
-      "split by currency": NaN
-    },
-    {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
       "0": "",
-      "and Advances": NaN,
-      "split by currency": NaN
+      "1": "03",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": NaN,
-      "and Advances": "",
-      "split by currency": NaN
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     },
     {
-      "Q3 2022 Vs Observed YTD Momentum\nIncome Statement\nActual YoY Q1 Q2 Q3": NaN,
-      "0": NaN,
-      "and Advances": NaN,
-      "split by currency": ""
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "04",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "05",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
     }
   ]
 }
