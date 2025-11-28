@@ -1,0 +1,192 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "aum",
+  "pages": [
+    4,
+    5,
+    7
+  ],
+  "extracted_at": "2025-11-28T21:35:11.831016",
+  "data": [
+    {
+      "item": "Total Assets grew by 18.9% YTD to FRW 2.5 Trillion Total Assets 12M 2024 2023 2022 2021 2020",
+      "0": "Total Assets grew by 18.9% YTD to FRW 2.5 Trillion Total Assets 12M 2024 2023 2022 2021 2020",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Bank of Kigali Plc 19.3% 14.3% 16.0% 21.8% 27.8% Banking Sector 13.1% 21.9% 18.3% 17.5% 24.0% Net Loans grew by 15.4% YTD to FRW 1.4 Trillion",
+      "0": "Bank of Kigali Plc 19.3% 14.3% 16.0% 21.8% 27.8% Banking Sector 13.1% 21.9% 18.3% 17.5% 24.0% Net Loans grew by 15.4% YTD to FRW 1.4 Trillion",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Net Loans 12M 2024 2023 2022 2021 2020",
+      "0": "Net Loans 12M 2024 2023 2022 2021 2020",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Bank of Kigali Plc 16.8% 9.7% 14.6% 16.4% 25.5% Banking Sector 10.5% 19.5% 15.2% 13.9% 19.5% Client Balances and Deposits increased by 12.1% YTD to FRW 1.5 Trillion",
+      "0": "Bank of Kigali Plc 16.8% 9.7% 14.6% 16.4% 25.5% Banking Sector 10.5% 19.5% 15.2% 13.9% 19.5% Client Balances and Deposits increased by 12.1% YTD to FRW 1.5 Trillion",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Clients balances and deposits 12M 2024 2023 2022 2021 2020",
+      "0": "Clients balances and deposits 12M 2024 2023 2022 2021 2020",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Bank of Kigali Plc 35.4% 27.9% 10.6% 23.6% 20.1% Banking Sector 14.1% 32.5% 16.6% 16.6% 20.9% Shareholders’ Equity Increased by 15.1% YTD to FRW 362 Billion",
+      "0": "Bank of Kigali Plc 35.4% 27.9% 10.6% 23.6% 20.1% Banking Sector 14.1% 32.5% 16.6% 16.6% 20.9% Shareholders’ Equity Increased by 15.1% YTD to FRW 362 Billion",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Shareholders Equity 12M 2024 2023 2022 2021 2020",
+      "0": "Shareholders Equity 12M 2024 2023 2022 2021 2020",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Bank of Kigali Plc 19.7% 16.4% 12.4% 11.3% 10.0% Banking Sector 33.5% 13.2% 18.5% 18.9% 15.2%",
+      "0": "Bank of Kigali Plc 19.7% 16.4% 12.4% 11.3% 10.0% Banking Sector 33.5% 13.2% 18.5% 18.9% 15.2%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " BK General Insurance recorded a 9.4% increase in gross written premiums, reaching RWF 16.0 billion in 2024.",
+      "0": " BK General Insurance recorded a 9.4% increase in gross written premiums, reaching RWF 16.0 billion in 2024.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " The insurer paid RWF 3.7 billion in claims during the year, resulting in a loss ratio of 33%.",
+      "0": " The insurer paid RWF 3.7 billion in claims during the year, resulting in a loss ratio of 33%.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Net profit for the year rose by 41.1% to RWF 4.5 billion, compared to RWF 3.2 billion in 2023.",
+      "0": " Net profit for the year rose by 41.1% to RWF 4.5 billion, compared to RWF 3.2 billion in 2023.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Total assets stood at RWF 27.5 billion as of December 31st, 2024.",
+      "0": " Total assets stood at RWF 27.5 billion as of December 31st, 2024.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Improved customer retention drove a 28.6% increase in active customers, reaching 22,900 by year-end.",
+      "0": " Improved customer retention drove a 28.6% increase in active customers, reaching 22,900 by year-end.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " BK TecHouse achieved an 18% year-on-year growth in total sales, reaching RWF 1.7 billion in 2024.",
+      "0": " BK TecHouse achieved an 18% year-on-year growth in total sales, reaching RWF 1.7 billion in 2024.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " The number of registered digital users across all platforms increased from approximately 3.9 million to 4.5 million.",
+      "0": " The number of registered digital users across all platforms increased from approximately 3.9 million to 4.5 million.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " The Urubuto Pay platform grew its merchant network from 458 to 597, with transaction value rising from RWF 35 billion",
+      "0": " The Urubuto Pay platform grew its merchant network from 458 to 597, with transaction value rising from RWF 35 billion",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "to RWF 55 billion.",
+      "0": "to RWF 55 billion.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " The Urubuto Education School Management System expanded its footprint from 148 to 185 schools.",
+      "0": " The Urubuto Education School Management System expanded its footprint from 148 to 185 schools.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Farmer registrations on BK TecHouse’s agritech platforms increased from 3.0 million to 3.3 million during the year.",
+      "0": " Farmer registrations on BK TecHouse’s agritech platforms increased from 3.0 million to 3.3 million during the year.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " BK Capital Ltd recorded a net operating income of RWF 1.6 billion in 2024, reflecting a 2% year-on-year increase.",
+      "0": " BK Capital Ltd recorded a net operating income of RWF 1.6 billion in 2024, reflecting a 2% year-on-year increase.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Assets Under Management (AUM) rose by 76% year-on-year to RWF 71.1 billion, driven by product expansion and new",
+      "0": " Assets Under Management (AUM) rose by 76% year-on-year to RWF 71.1 billion, driven by product expansion and new",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "client acquisitions.",
+      "0": "client acquisitions.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " The Aguka Unit Trust Fund reported a 16% growth in AUM, reaching RWF 24.3 billion.",
+      "0": " The Aguka Unit Trust Fund reported a 16% growth in AUM, reaching RWF 24.3 billion.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Managed account mandates saw AUM growth of 136% year-on-year, supported by rising pension contributions.",
+      "0": " Managed account mandates saw AUM growth of 136% year-on-year, supported by rising pension contributions.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": " Within the brokerage business, equities turnover grew by 51% year-on-year, while bonds turnover declined by 34%",
+      "0": " Within the brokerage business, equities turnover grew by 51% year-on-year, while bonds turnover declined by 34%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "compared to 2023.",
+      "0": "compared to 2023.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "IFRS Based None Change Change Q-o-Q Y-o-Y",
+      "0": NaN,
+      "1": "4Q 2024 FRw (Bn) US$ (Mln) KES (Bn)",
+      "2": "4Q 2023 FRw (Bn) US$ (Mln) KES (Bn)"
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "1": "",
+      "2": "3 0.6 2 5.2 3.7 305.7 251.4 37.0 251.4 206.8 30.4 218.3 179.6 26.4 1 ,336.5 1 ,099.4 1 61.8 9 1.6 7 5.4 1 1.1 1 ,244.8 1 ,024.0 1 50.7 3 3.5 2 7.6 4.1 1 0.3 8 .5 1.2 2 1.1 1 7.3 2.6"
+    },
+    {
+      "item": "None 1 ,740.4 2 56.1 None",
+      "0": NaN,
+      "1": "2,521.6 1,823.3 303.8",
+      "2": "2 ,115.7"
+    },
+    {
+      "item": "Interbank Deposits Client Balances & Deposits Borrowed Funds Dividends payable Other Liabilities None None",
+      "0": NaN,
+      "1": "2 23.3 161.5 20.8 1,641.8 1,187.2 1 53.1 1 14.9 83.1 10.7 1 8.4 13.3 1.7 8 4.6 61.2 7.9 2,083.0 1,506.2 251.0 9.3 6.7 0.9 8 3.1 60.1 7.7 1 3.2 9.6 1.2 3 32.9 240.7 31.1 4 38.5 317.1 52.8",
+      "2": "195.2 1 ,374.3 105.4 2 3.1 5 1.3 1 ,749.4 9 .3 8 2.4 1 3.1 261.6 366.4"
+    }
+  ]
+}
