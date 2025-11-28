@@ -1,10 +1,10 @@
 {
-  "extraction_date": "2025-11-28T07:56:43.346630",
-  "duration_seconds": 350.428859,
+  "extraction_date": "2025-11-28T11:42:26.349167",
+  "duration_seconds": 349.01139,
   "batch_number": 2,
   "total_pdfs": 10,
-  "successful": 9,
-  "skipped": 1,
+  "successful": 10,
+  "skipped": 0,
   "failed": 0,
   "statements_extracted": {
     "consolidated_financial_position": 0,
