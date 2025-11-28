@@ -1,0 +1,1144 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+  "units": "a",
+  "pages": [
+    99,
+    100,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    137,
+    144,
+    145,
+    147
+  ],
+  "extracted_at": "2025-11-28T21:06:57.591253",
+  "data": [
+    {
+      "item": "None None",
+      "1": "2022",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "17 17 17 18 16 None",
+      "1": "1,000,000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": "16,381,947",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "27 19 None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "16,913,108",
+      "1": "18,466,060",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "20(a) 19 None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "22 28 23 24 25 20(b) None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "26 27 24 28 30 None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "4,608,053",
+      "1": "6,370,238",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None C None None P None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "17 17 17 18 16",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "",
+      "1": "16,381,947",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "27 19",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "20(a) 21",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "22 28 23 24 25 20(b)",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "26 27 24 30",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "C None None P None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Group - 31 December 2022",
+      "1": "USD",
+      "2": "GBP",
+      "3": "EUR",
+      "4": "AED",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Receivables and prepayments",
+      "1": "2,416,547",
+      "2": "1,318",
+      "3": "9,193",
+      "4": "324,700",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Cash and cash equivalents",
+      "1": "969,924",
+      "2": "4,634",
+      "3": "35,676",
+      "4": "-",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Liabilities",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Payables and accrued expenses",
+      "1": "(687,339)",
+      "2": "(17,787)",
+      "3": "(61,125)",
+      "4": "-",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2,354,464 631,657",
+      "1": "14,770 12,927",
+      "2": "1,532 19,993",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "(713,670)",
+      "1": "(11,465)",
+      "2": "(97,603)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Company - 31 December 2022",
+      "1": "USD",
+      "2": "GBP",
+      "3": "EUR",
+      "4": "AED",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2,354,464 631,637",
+      "1": "14,770 12,927",
+      "2": "1,532 19,993",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "(678,298)",
+      "1": "(10,415)",
+      "2": "(99,451)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Group & Company 2022",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "0": NaN
+    },
+    {
+      "item": "Average rates",
+      "1": "117.69",
+      "2": "145.59",
+      "3": "124.13",
+      "4": "28.81",
+      "5": "7.16",
+      "6": "1",
+      "0": NaN
+    },
+    {
+      "item": "Closing rates",
+      "1": "123.37",
+      "2": "148.47",
+      "3": "131.27",
+      "4": "33.63",
+      "5": "7.25",
+      "6": "0.94",
+      "0": NaN
+    },
+    {
+      "item": "2022",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "2022"
+    },
+    {
+      "item": "KShs’ 000",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "KShs’ 000"
+    },
+    {
+      "item": "270,621",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "270,621"
+    },
+    {
+      "item": "(675)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "(675)"
+    },
+    {
+      "item": "694",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "694"
+    },
+    {
+      "item": "32,470",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "32,470"
+    },
+    {
+      "item": "(141)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "(141)"
+    },
+    {
+      "item": "269,913",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "269,913"
+    },
+    {
+      "item": "(1,184)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "(1,184)"
+    },
+    {
+      "item": "(16,256)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "(16,256)"
+    },
+    {
+      "item": "32,469",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "32,469"
+    },
+    {
+      "item": "23,136 22,473 663 - (32,498) (21,682) (10,816) -",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "23,136 (32,498)",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "23,136 22,473 - 663 (32,498) (21,682) - (10,816)",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "3,028,755 2,668,584 1,278,998 23,136",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "6,999,473",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "As at 31 December 2022 - Group",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Aging bucket Credit impaired",
+      "1": "Loss rate",
+      "2": "Carrying amount",
+      "3": "Loss allowance",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Current (not past due, 0–3 days) No",
+      "1": "0.1%",
+      "2": "1,079,715",
+      "3": "1,080",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "4–30 days past due No",
+      "1": "0.6%",
+      "2": "-",
+      "3": "-",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "31–60 days past due No",
+      "1": "1.1%",
+      "2": "-",
+      "3": "-",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "61–90 days past due No",
+      "1": "1.6%",
+      "2": "-",
+      "3": "-",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "More than 90 days past due No",
+      "1": "2.1%",
+      "2": "-",
+      "3": "-",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "As at 31 December 2022 - Company",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Aging bucket Carrying amount Loss allowance Credit impaired",
+      "1": "Loss rate",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None KShs’ 000 KShs’ 000 None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "- 2.01% 3.91% 5.82% 7.72%",
+      "1": "919,100 26,383 33,334 - -",
+      "2": "530 1,303 - -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "- - - - - - - - - -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "- 2.01% 3.91% 5.82% 7.72%"
+    },
+    {
+      "item": "At 31 December 2022",
+      "1": "Less than 1 year KShs’ 000",
+      "2": "Between 1 & 3 years KShs’ 000",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Borrowings",
+      "1": "22,716",
+      "2": "15,074",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Trade and other payables",
+      "1": "3,395,837",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Amounts due to related parties",
+      "1": "884,599",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Derivative financial instruments",
+      "1": "4,848",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total financial liabilities",
+      "1": "4,308,000",
+      "2": "15,074",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Assets",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Cash and bank balances",
+      "1": "2,368,003",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Amounts due from related parties",
+      "1": "2,992,102",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Trade and other receivables",
+      "1": "1,320,808",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total financial assets",
+      "1": "6,683,685",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "20,313 3,747,494 1,270,752 32,498",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "20,313 3,747,494 1,270,752 32,498"
+    },
+    {
+      "item": "5,073,837",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "5,073,837"
+    },
+    {
+      "item": "Selling of cigarettes Dormant",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Totals",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2,831,027 1,028,610",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "3,859,637",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "978,817 300,181 419,496 2,668,584",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "4,367,078",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "4,848",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "4,848 -",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "39,846 1,230,906",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "1,270,752",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "95,373",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "95,373"
+    },
+    {
+      "item": "18,141",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "18,141"
+    },
+    {
+      "item": "113,514",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "113,514"
+    },
+    {
+      "item": "24,494",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "24,494"
+    },
+    {
+      "item": "52,182",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "52,182"
+    },
+    {
+      "item": "76,676",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "76,676"
+    },
+    {
+      "item": "210,084",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": ""
+    },
+    {
+      "item": "60,000,000 5,595,629 4,838,575 3,285,002 3,066,410 975,000 975,000 973,402 750,000 730,045 18,810,937",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "60,000,000 5,595,629 4,838,575 3,285,002 3,066,410 975,000 975,000 973,402 750,000 730,045 18,810,937"
+    },
+    {
+      "item": "100,000,000",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "100,000,000"
+    },
+    {
+      "item": "Shareholder",
+      "1": "No. of shareholders",
+      "2": "No. of shares",
+      "3": "% shareholding",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Foreign investors",
+      "1": "130",
+      "2": "80,522,566",
+      "3": "80.52%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Local institutions",
+      "1": "479",
+      "2": "12,973,458",
+      "3": "12.98%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Local individuals",
+      "1": "4,663",
+      "2": "6,503,976",
+      "3": "6.50%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total",
+      "1": "5,272",
+      "2": "100,000,000",
+      "3": "100.00%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2,960 1,901 163 203 40 5",
+      "1": "623,711 2,963,543 1,188,701 6,033,473 12,404,956 76,785,616",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "5,272",
+      "1": "100,000,000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "671",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "671"
+    },
+    {
+      "item": "300",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "300"
+    },
+    {
+      "item": "200",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "200"
+    },
+    {
+      "item": "RESOLUTION FOR AGAINST ABSTAIN",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "RESOLUTION"
+    },
+    {
+      "item": "1) To receive, consider and if approved, adopt the Company’s audited Financial Statements for the year ended 31 December 2022, together with the reports of the Chairperson, Directors and Auditor thereon.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "1) To receive, consider and if approved, adopt the Company’s audited Financial Statements for the year ended 31 December 2022, together with the reports of the Chairperson, Directors and Auditor thereon."
+    },
+    {
+      "item": "2) To confirm the interim dividend of KShs. 5/- per ordinary share paid on 16 September 2022 and to approve a final dividend of KShs. 52/- per ordinary share to be paid net of Withholding Tax on 15 June 2023, to shareholders on the register at the close of business on 26th May 2023.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "2) To confirm the interim dividend of KShs. 5/- per ordinary share paid on 16 September 2022 and to approve a final dividend of KShs. 52/- per ordinary share to be paid net of Withholding Tax on 15 June 2023, to shareholders on the register at the close of business on 26th May 2023."
+    },
+    {
+      "item": "3) Election of Directors: a) To re-elect Rita Kavashe who retires at this meeting by rotation in accordance with the provisions of Article 102 of the Company’s Articles of Association and being eligible, offers herself for re-election as a Director.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "3) Election of Directors: a) To re-elect Rita Kavashe who retires at this meeting by rotation in accordance with the provisions of Article 102 of the Company’s Articles of Association and being eligible, offers herself for re-election as a Director."
+    },
+    {
+      "item": "b) To re-elect Dr. Martin Oduor-Otieno who retires at this meeting by rotation in accordance with the provisions of Article 102 of the Company’s Articles of Association and being eligible, offers himself for re-election as a Director.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "b) To re-elect Dr. Martin Oduor-Otieno who retires at this meeting by rotation in accordance with the provisions of Article 102 of the Company’s Articles of Association and being eligible, offers himself for re-election as a Director."
+    },
+    {
+      "item": "4) To re-elect the following Directors, being members of the Board Audit & Risk Committee, to continue to serve as members of the said Committee: Dr. Martin Oduor-Otieno, Samuel Onyango and Marion Gathoga-Mwangi.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "4) To re-elect the following Directors, being members of the Board Audit & Risk Committee, to continue to serve as members of the said Committee: Dr. Martin Oduor-Otieno, Samuel Onyango and Marion Gathoga-Mwangi."
+    },
+    {
+      "item": "5) To approve the remuneration of Directors and the Directors Remuneration Report for the year ended 31 December 2022.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "5) To approve the remuneration of Directors and the Directors Remuneration Report for the year ended 31 December 2022."
+    },
+    {
+      "item": "6) To re-appoint Messrs. KPMG Kenya as External Auditor of the Company by virtue of Section 721(2) of the Companies Act 2015, and to authorise the Directors to fix their remuneration for the year ending 31 December 2023.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "6) To re-appoint Messrs. KPMG Kenya as External Auditor of the Company by virtue of Section 721(2) of the Companies Act 2015, and to authorise the Directors to fix their remuneration for the year ending 31 December 2023."
+    },
+    {
+      "item": "Special Business To consider, and if thought fit, pass the following resolution as an Ordinary Resolution, as recommended by the Directors: “That the striking off of East African Tobacco Company (Kenya) Limited, which is a wholly owned subsidiary of the Company, from the Register of Companies, be and is hereby approved”.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "Special Business To consider, and if thought fit, pass the following resolution as an Ordinary Resolution, as recommended by the Directors: “That the striking off of East African Tobacco Company (Kenya) Limited, which is a wholly owned subsidiary of the Company, from the Register of Companies, be and is hereby approved”."
+    }
+  ]
+}
