@@ -1,18 +1,20 @@
 name: Extract Financial Statements
 
 on:
+  # Run after scraper completes or manually
   workflow_dispatch:
     inputs:
-      batch_size:
-        description: "PDFs per batch"
+      batch_number:
+        description: 'Batch number to process (leave empty for all batches)'
         required: false
-        default: "20"
+        default: ''
       force_reprocess:
-        description: "Force reprocess already processed files"
+        description: 'Force reprocess already processed files'
         required: false
         type: boolean
         default: false
 
+  # Quarterly schedule: Jan 15, Apr 15, Jul 15, Oct 15 at 3 AM UTC
   schedule:
     - cron: '0 3 15 1,4,7,10 *'
 
@@ -23,48 +25,63 @@ jobs:
   prepare:
     runs-on: ubuntu-latest
     outputs:
-      batches: ${{ steps.set-batches.outputs.batches }}
+      batches: ${{ steps.calculate-batches.outputs.batches }}
+      total_batches: ${{ steps.calculate-batches.outputs.total_batches }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-
-      - name: Count PDFs and create batch matrix dynamically
-        id: set-batches
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Calculate batches dynamically
+        id: calculate-batches
         run: |
-          BATCH_SIZE=${{ github.event.inputs.batch_size }}
-          if [ -z "$BATCH_SIZE" ] || [ "$BATCH_SIZE" == "0" ]; then
-              BATCH_SIZE=20
+          # Count total PDFs
+          TOTAL_PDFS=$(find reports -name "*.pdf" -type f | wc -l)
+          BATCH_SIZE=10
+          TOTAL_BATCHES=$(( (TOTAL_PDFS + BATCH_SIZE - 1) / BATCH_SIZE ))
+          
+          echo "Found $TOTAL_PDFS PDFs"
+          echo "Will create $TOTAL_BATCHES batches of $BATCH_SIZE"
+          
+          # If specific batch requested, use only that
+          if [ -n "${{ github.event.inputs.batch_number }}" ]; then
+            echo "batches=[${{ github.event.inputs.batch_number }}]" >> $GITHUB_OUTPUT
+            echo "total_batches=1" >> $GITHUB_OUTPUT
+          else
+            # Generate array: [1,2,3,...,TOTAL_BATCHES]
+            BATCHES=$(seq -s, 1 $TOTAL_BATCHES)
+            echo "batches=[$BATCHES]" >> $GITHUB_OUTPUT
+            echo "total_batches=$TOTAL_BATCHES" >> $GITHUB_OUTPUT
           fi
-
-          PDF_COUNT=$(find reports -type f -name "*.pdf" | wc -l)
-          echo "Total PDFs: $PDF_COUNT"
-          echo "Batch size: $BATCH_SIZE"
-
-          TOTAL_BATCHES=$(( (PDF_COUNT + BATCH_SIZE - 1) / BATCH_SIZE ))
-
-          # Build JSON array [1,2,3,...]
-          BATCH_LIST=$(seq -s "," 1 $TOTAL_BATCHES)
-          echo "batches=[$BATCH_LIST]" >> $GITHUB_OUTPUT
 
   extract:
     needs: prepare
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      max-parallel: 1
+      max-parallel: 1  # Process one batch at a time to manage disk space
       matrix:
         batch: ${{ fromJson(needs.prepare.outputs.batches) }}
 
     steps:
       - name: Free Disk Space
         run: |
-          sudo rm -rf /usr/share/dotnet || true
-          sudo rm -rf /opt/ghc || true
-          sudo rm -rf "$AGENT_TOOLSDIRECTORY" || true
-          sudo docker system prune -af || true
-
+          echo "Before cleanup:"
+          df -h
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+          sudo docker system prune -af
+          echo "After cleanup:"
+          df -h
+      
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -73,38 +90,88 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install pdfplumber pandas
-
-      - name: Run extractor for batch ${{ matrix.batch }}
+      
+      - name: Run extraction for batch ${{ matrix.batch }}
         run: |
-          python extract_financials.py \
-            --batch ${{ matrix.batch }} \
-            --batch-size ${{ github.event.inputs.batch_size }} \
-            ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
+          python extract_financials.py --batch ${{ matrix.batch }} --batch-size 10 ${{ github.event.inputs.force_reprocess == 'true' && '--force' || '' }}
+        continue-on-error: true
+        timeout-minutes: 120
+        env:
+          BATCH_NUMBER: ${{ matrix.batch }}
 
-      - name: Git commit & push changes
+      - name: Monitor disk space
+        if: always()
+        run: |
+          echo "Final disk space:"
+          df -h
+          echo "Reports directory size:"
+          du -sh reports/ || echo "No reports directory"
+      
+      - name: Check for changes
+        id: check_changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-
-          git add reports/
-
-          if ! git diff --cached --quiet; then
-              git commit -m "Extracted financial statements – batch ${{ matrix.batch }}"
-              git pull --rebase origin main || true
-              git push
+          
+          # Only add new/modified files
+          git add -A reports/
+          
+          # Check if there are actually changes to commit
+          if git diff --cached --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No new extracted files"
           else
-              echo "No new files to commit."
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Found new extracted files"
           fi
-
-      - name: Upload batch summary
+      
+      - name: Commit and push changes (Batch ${{ matrix.batch }})
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          # Commit first
+          git commit -m "Extract financial statements - Batch ${{ matrix.batch }} - $(date +'%Y-%m-%d')"
+          
+          # Pull with rebase strategy to handle any conflicts
+          git pull --rebase origin main || git pull --rebase origin master
+          
+          # Push changes
+          git push
+      
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## Extraction Summary - Batch ${{ matrix.batch }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          BATCH_FILE="reports/extraction_summary_batch_${{ matrix.batch }}.json"
+          if [ -f "$BATCH_FILE" ]; then
+            echo "**Results:**" >> $GITHUB_STEP_SUMMARY
+            python3 -c "import json; data=json.load(open('$BATCH_FILE')); print(f\"- Total PDFs: {data['total_pdfs']}\"); print(f\"- Successful: {data['successful']}\"); print(f\"- Skipped: {data['skipped']}\"); print(f\"- Failed: {data['failed']}\"); print(); print('**Statements Extracted:**'); [print(f'- {k}: {v}') for k,v in data['statements_extracted'].items()]" >> $GITHUB_STEP_SUMMARY
+          fi
+      
+      - name: Upload summary artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: extraction-summary-batch-${{ matrix.batch }}
+          name: extraction-summary-batch-${{ matrix.batch }}-${{ github.run_number }}
           path: reports/extraction_summary_batch_${{ matrix.batch }}.json
           retention-days: 30
+
+      - name: Cleanup before next batch
+        if: always()
+        run: |
+          # Only clean up extracted JSONs, keep PDFs for next batch
+          find reports -name "*-balance-sheet.json" -delete
+          find reports -name "*-income-statement.json" -delete
+          find reports -name "*-cash-flow.json" -delete
+          find reports -name "*-equity-changes.json" -delete
+          find reports -name "extraction_summary*.json" -delete
+          echo "Cleaned up extracted JSONs (kept PDFs for next batch)"
+          df -h
