@@ -1,0 +1,47 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF CHANGES IN EQUITY",
+  "units": "41",
+  "pages": [
+    102,
+    106
+  ],
+  "extracted_at": "2025-11-28T23:30:24.137036",
+  "data": [
+    {
+      "item": "Share capital",
+      "1": "Share premium",
+      "2": "Other reserves",
+      "3": "Accumulated losses",
+      "4": "Total equity",
+      "5": "Non- controlling interests",
+      "6": "Total equity"
+    },
+    {
+      "item": "Shs’000",
+      "1": "Shs’000",
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "4": "Shs’000",
+      "5": "Shs’000",
+      "6": "Shs’000"
+    },
+    {
+      "item": "252,344",
+      "1": "13,237,451",
+      "2": "16,394,912",
+      "3": "(10,943,574)",
+      "4": "18,941,133",
+      "5": "142,384",
+      "6": "19,083,517"
+    },
+    {
+      "item": "",
+      "1": "-",
+      "2": "1,174,173",
+      "3": "422,076",
+      "4": "1,596,249",
+      "5": "95,050",
+      "6": "1,691,299"
+    }
+  ]
+}

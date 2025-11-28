@@ -1,0 +1,2328 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF CASH FLOWS — For the year ended",
+  "units": "i",
+  "pages": [
+    84,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165
+  ],
+  "extracted_at": "2025-11-28T23:28:44.076175",
+  "data": [
+    {
+      "item": "",
+      "1": "",
+      "2": "2019",
+      "3": "2018",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cashflows from operating activities",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash generated from operations",
+      "1": "47",
+      "2": "9,600,994",
+      "3": "5,496,143",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest paid on lease liability",
+      "1": "23",
+      "2": "(118,202)",
+      "3": "-",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Income tax paid",
+      "1": "25",
+      "2": "(504,040)",
+      "3": "(665,134)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash generated from operating activities",
+      "1": "",
+      "2": "8,978,752",
+      "3": "4,831,009",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Investing activities",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of property and equipment",
+      "1": "21",
+      "2": "(312,738)",
+      "3": "(168,403)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of intangible assets",
+      "1": "22",
+      "2": "(348,424)",
+      "3": "(366,838)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of investment property",
+      "1": "27 (i)",
+      "2": "(462,109)",
+      "3": "(1,321,910)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of property funds",
+      "1": "27 (ii)",
+      "2": "(362,953)",
+      "3": "(63,586)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds from disposal of property funds",
+      "1": "27 (ii)",
+      "2": "103,877",
+      "3": "475,059",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds from disposal of fixed assets",
+      "1": "",
+      "2": "-",
+      "3": "11,205",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of quoted shares at fair value through profit or loss",
+      "1": "29 (i)",
+      "2": "(103,506)",
+      "3": "(1,267,763)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds of disposal of quoted ordinary shares at fair value through profit or loss",
+      "1": "",
+      "2": "2,091,329",
+      "3": "168,008",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of unit trusts",
+      "1": "29 (iii)",
+      "2": "(46,450)",
+      "3": "(732,147)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds from disposal of unit trusts",
+      "1": "",
+      "2": "1,854,198",
+      "3": "1,456,066",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of government securities at fair value through profit or loss",
+      "1": "29 (iv)",
+      "2": "(21,652,090)",
+      "3": "(14,136,531)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds from disposal of government securities at fair value through profit or loss",
+      "1": "",
+      "2": "4,178,856",
+      "3": "4,367,776",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase government securities held at amortised cost",
+      "1": "30 (i)",
+      "2": "(1,048,984)",
+      "3": "(1,924,719)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Maturities of government securities at amortised cost",
+      "1": "30 (i)",
+      "2": "1,232,465",
+      "3": "2,878,647",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Purchase of corporate bonds at amortised cost",
+      "1": "30 (ii)",
+      "2": "-",
+      "3": "(2,500)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Maturities of corporate bonds at amortised cost",
+      "1": "30 (ii)",
+      "2": "348,690",
+      "3": "177,171",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortgage loans advanced",
+      "1": "31",
+      "2": "(117,205)",
+      "3": "(150,777)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortgage loans repayments",
+      "1": "31",
+      "2": "280,245",
+      "3": "202,650",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Policy loans advanced",
+      "1": "32",
+      "2": "(1,438,600)",
+      "3": "(1,212,025)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Policy loans repayments",
+      "1": "32",
+      "2": "1,448,168",
+      "3": "1,154,578",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Dividends received from associate",
+      "1": "24",
+      "2": "-",
+      "3": "59,754",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Dividends received from equity investments at fair value through profit or loss",
+      "1": "6",
+      "2": "556,670",
+      "3": "537,566",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Dividends received from equity investments at fair value through other comprehensive income",
+      "1": "6",
+      "2": "270,339",
+      "3": "270,338",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Rent and interest received",
+      "1": "",
+      "2": "6,007,339",
+      "3": "4,203,979",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash used in investing activities",
+      "1": "",
+      "2": "(7,520,883)",
+      "3": "(5,384,402)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash flows from financing activities",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Issue of new shares",
+      "1": "16",
+      "2": "-",
+      "3": "5,720,000",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Dividends paid",
+      "1": "",
+      "2": "-",
+      "3": "(756,911)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proceeds from borrowings",
+      "1": "14",
+      "2": "3,563,831",
+      "3": "2,774,000",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Repayment of bank loan",
+      "1": "14",
+      "2": "(3,999,250)",
+      "3": "(1,819,000)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Repayment of medium term note",
+      "1": "14",
+      "2": "-",
+      "3": "(6,000,000)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest paid",
+      "1": "14",
+      "2": "(103,333)",
+      "3": "(1,066,450)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Payment of the principal portion of the lease liability",
+      "1": "23(ii)",
+      "2": "(65,207)",
+      "3": "-",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash used in financing activities",
+      "1": "",
+      "2": "(603,959)",
+      "3": "(1,148,361)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Increase in cash and cash equivalents",
+      "1": "",
+      "2": "853,910",
+      "3": "(1,701,754)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash and cash equivalents at start of year",
+      "1": "",
+      "2": "6,721,401",
+      "3": "8,423,155",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash and cash equivalents at end of year",
+      "1": "38 (i)",
+      "2": "7,575,311",
+      "3": "6,721,401",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Britam Insurance (Tanzania) Limited For the year ended 31 December",
+      "1": "None",
+      "2": "None",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash used in (generated from) investing activities",
+      "1": "(258,993)",
+      "2": "228,822",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash used in (generated from) financing activities",
+      "1": "(20,428)",
+      "2": "1,241",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net decrease in cash and cash equivalents",
+      "1": "(122,976)",
+      "2": "(397,988)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "31 December 2019",
+      "1": "Britam - Companhia De Seguros De Mozambique S.A.",
+      "2": "Britam Insurance (Tanzania) Limited",
+      "3": "Total Shs ‘000",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Proportion of shares held by non-controlling interests",
+      "1": "2%",
+      "2": "45%",
+      "3": "",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total non-controlling interest at start of year",
+      "1": "3,356",
+      "2": "93,580",
+      "3": "96,936",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Loss after tax attributable to non-controlling interests",
+      "1": "(557)",
+      "2": "(15,101)",
+      "3": "(15,658)",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total non-controlling interests at year end",
+      "1": "2,799",
+      "2": "78,479",
+      "3": "81,278",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "31 December 2018",
+      "1": "Britam - Companhia De Seguros De Mozambique S.A.",
+      "2": "Britam Insurance (Tanzania) Limited",
+      "3": "Total Shs ‘000",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total non-controlling interest at the start of the year",
+      "1": "3,294",
+      "2": "73,972",
+      "3": "77,266",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Profit after tax attributable to non-controlling interests",
+      "1": "62",
+      "2": "19,608",
+      "3": "19,670",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At start of year",
+      "1": "15,927,529",
+      "2": "14,188,024",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Additions during the year",
+      "1": "462,109",
+      "2": "1,321,910",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Fair value (losses)/gains (Note 5)",
+      "1": "(627,436)",
+      "2": "417,595",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At end of year",
+      "1": "15,762,202",
+      "2": "15,927,529",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Valuation approach Key unobservable inputs Inter-relationship between key unobservable inputs and fair value measurement Estimates for unobservable inputs",
+      "1": "Key unobservable inputs",
+      "2": NaN,
+      "3": "Estimates for unobservable inputs",
+      "0": "Valuation approach",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Valued using the Discounted Cash Flow (DCF) method. Net income is determined by considering gross income less operating expenditure. The discount rate is determined with reference to the current market conditions comparable market transactions. The valuation is determined on the market weighted average cost of capital. Whereas tenancy, is based on projected occupancy of the property. Increase in the discount and vacancy rate will decrease the fair value of the properties. Similar increases/ decreases in tenancy will increase/decrease the market value of the property. Discount rate; 14.45% Exit value multiple 14",
+      "1": "The valuation is determined on the market weighted average cost of capital. Whereas tenancy, is based on projected occupancy of the property.",
+      "2": NaN,
+      "3": "Discount rate; 14.45% Exit value multiple 14",
+      "0": "Valued using the Discounted Cash Flow (DCF) method. Net income is determined by considering gross income less operating expenditure. The discount rate is determined with reference to the current market conditions comparable market transactions.",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Assumption",
+      "1": "Assumption value as per valuation",
+      "2": "Reasonable possible shift",
+      "3": "Change in the fair value of the investment property",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Discount rate",
+      "1": "14.45%",
+      "2": "0.5%",
+      "3": "203,784",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Exit value multiple",
+      "1": "14",
+      "2": "1%",
+      "3": "73,147",
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Additions",
+      "1": "362,953",
+      "2": "63,586",
+      "3": "-",
+      "0": NaN,
+      "4": "17,547",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Disposals",
+      "1": "(103,877)",
+      "2": "(475,059)",
+      "3": "(68,286)",
+      "0": NaN,
+      "4": "(198,149)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Fair value (loss) (Note 5)",
+      "1": "(181,806)",
+      "2": "(9,324)",
+      "3": "(74,548)",
+      "0": NaN,
+      "4": "(8)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Fair value gains/(losses) (Note 25)",
+      "1": "2,520,910",
+      "2": "(662,330)",
+      "3": "1,659,238",
+      "0": NaN,
+      "4": "(435,939)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Quoted ordinary shares (Note 29 (i))",
+      "1": "11,587,595",
+      "2": "9,743,172",
+      "3": "4,142,167",
+      "0": NaN,
+      "4": "2,872,468",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Unquoted ordinary shares (Note 29 (ii))",
+      "1": "9,649",
+      "2": "9,619",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Unit trusts (Note 29 (iii))",
+      "1": "3,396,349",
+      "2": "4,730,625",
+      "3": "42,851",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Government securities (Note 29 (iv))",
+      "1": "42,758,237",
+      "2": "24,798,519",
+      "3": "293,704",
+      "0": NaN,
+      "4": "286,881",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total",
+      "1": "57,751,830",
+      "2": "39,281,935",
+      "3": "4,478,722",
+      "0": NaN,
+      "4": "3,159,349",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Fair value gains/(losses) (Note 8)",
+      "1": "3,422,219",
+      "2": "(1,674,412)",
+      "3": "1,443,949",
+      "0": NaN,
+      "4": "(403,868)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Translation differences",
+      "1": "30",
+      "2": "164",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Treasury bills and bonds maturing",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Within 1 year",
+      "1": "676,816",
+      "2": "1,111,377",
+      "3": "-",
+      "0": NaN,
+      "4": "286,881",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- In 1 – 5 years",
+      "1": "6,827,824",
+      "2": "5,252,914",
+      "3": "80,633",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- After 5 years",
+      "1": "35,253,597",
+      "2": "18,434,228",
+      "3": "213,071",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Treasury bills and bonds movement",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- At start of the year",
+      "1": "24,798,519",
+      "2": "14,494,632",
+      "3": "286,881",
+      "0": NaN,
+      "4": "20,950",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Additions",
+      "1": "21,652,090",
+      "2": "14,136,531",
+      "3": "1,182,815",
+      "0": NaN,
+      "4": "1,207,676",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Fair value gains (Note 8)",
+      "1": "446,563",
+      "2": "513,067",
+      "3": "6,720",
+      "0": NaN,
+      "4": "8,255",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Disposals and maturities",
+      "1": "(4,153,421)",
+      "2": "(4,345,711)",
+      "3": "(1,182,712)",
+      "0": NaN,
+      "4": "(950,000)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Government securities (Note 30 (i))",
+      "1": "15,057,530",
+      "2": "15,212,824",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Corporate bonds (Note 30 (ii))",
+      "1": "622,109",
+      "2": "944,194",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Amortization",
+      "1": "20,742",
+      "2": "(25,366)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Maturities",
+      "1": "(1,232,465)",
+      "2": "(2,878,647)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Less: Provision expected credit losses",
+      "1": "(494)",
+      "2": "(7,939)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net amount at end of year",
+      "1": "15,057,530",
+      "2": "15,212,824",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Movement in provision for expected credit losses:",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At 1 January",
+      "1": "7,939",
+      "2": "8,247",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Decrease in the year",
+      "1": "(7,445)",
+      "2": "(308)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At 31 December",
+      "1": "494",
+      "2": "7,939",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Maturing Profile",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Less: Provision for expected credit losses",
+      "1": "(59,277)",
+      "2": "(89,067)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gross loans start of year",
+      "1": "1,258,222",
+      "2": "1,217,364",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Loans advanced during the year",
+      "1": "117,205",
+      "2": "150,777",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest charged",
+      "1": "121,773",
+      "2": "92,731",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Loan repayments at year end",
+      "1": "(280,245)",
+      "2": "(202,650)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total loan amount at end of year",
+      "1": "1,216,955",
+      "2": "1,258,222",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net loan amount at end of year",
+      "1": "1,171,693",
+      "2": "1,209,394",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Decrease",
+      "1": "(3,566)",
+      "2": "12,248",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Lending commitments:",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortgage loans approved by investment committee but not disbursed as at 31 December",
+      "1": "51,017",
+      "2": "66,928",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortgage loans maturity profile",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Surrenders",
+      "1": "1,520",
+      "2": "(5,679)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Loan repayments",
+      "1": "(1,448,168)",
+      "2": "(1,154,578)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Accrued interest at year end",
+      "1": "218,203",
+      "2": "172,884",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Movement",
+      "1": "(244,782)",
+      "2": "229,412",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1 – 60 days",
+      "1": "211,291",
+      "2": "111,091",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "61– 90 days",
+      "1": "73,854",
+      "2": "201,673",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "91 - 180 days",
+      "1": "11,258",
+      "2": "75,749",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Over 180 days",
+      "1": "586,213",
+      "2": "76,201",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Impaired",
+      "1": "-",
+      "2": "662,684",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gross",
+      "1": "882,616",
+      "2": "1,127,398",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Provision for expected credit losses",
+      "1": "(379,894)",
+      "2": "(424,078)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net",
+      "1": "502,722",
+      "2": "703,320",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Movements in the provision for expected credit losses",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(Decrease)/increase",
+      "1": "(44,184)",
+      "2": "171,579",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(ii) Payables arising out of reinsurance arrangements",
+      "1": "None",
+      "2": "None",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Deposits with financial institutions",
+      "1": "6,810,651",
+      "2": "3,216,913",
+      "3": "1,416,466",
+      "0": NaN,
+      "4": "437,804",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Investment in liquid funds",
+      "1": "34,688",
+      "2": "1,063,596",
+      "3": "34,688",
+      "0": NaN,
+      "4": "869,180",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash and bank balances",
+      "1": "885,606",
+      "2": "2,691,928",
+      "3": "8,808",
+      "0": NaN,
+      "4": "9,328",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash and cash equivalents",
+      "1": "7,730,945",
+      "2": "6,972,437",
+      "3": "1,459,962",
+      "0": NaN,
+      "4": "1,316,312",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Restricted cash",
+      "1": "80,608",
+      "2": "45,601",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Long term insurance contracts",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Claims reported and claims handling expenses",
+      "1": "475,696",
+      "2": "765,587",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Actuarial value of long term liabilities (Note 42 (ii))",
+      "1": "26,480,894",
+      "2": "21,328,975",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total – long term",
+      "1": "26,956,590",
+      "2": "22,094,562",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Short term insurance contracts",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Claims reported and claims handling expenses (Note 41)",
+      "1": "3,796,365",
+      "2": "3,416,259",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Claims incurred but not reported (Note 41)",
+      "1": "3,031,447",
+      "2": "2,710,640",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total – short term (Notes 41)",
+      "1": "6,827,812",
+      "2": "6,126,899",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total gross insurance liabilities",
+      "1": "33,784,402",
+      "2": "28,221,461",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Accident year",
+      "1": "2015",
+      "2": "2016",
+      "3": "2017",
+      "0": NaN,
+      "4": "2018",
+      "5": "2019",
+      "6": "Total"
+    },
+    {
+      "item": "Estimate of ultimate claims costs:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "item": "- at end of accident year",
+      "1": "4,329,329",
+      "2": "3,331,386",
+      "3": "3,472,018",
+      "0": NaN,
+      "4": "3,579,480",
+      "5": "5,234,167",
+      "6": "19,946,380"
+    },
+    {
+      "item": "- one year later",
+      "1": "4,863,622",
+      "2": "3,596,270",
+      "3": "4,113,455",
+      "0": NaN,
+      "4": "3,911,785",
+      "5": "-",
+      "6": "16,485,132"
+    },
+    {
+      "item": "- two years later",
+      "1": "4,877,229",
+      "2": "3,722,709",
+      "3": "4,129,476",
+      "0": NaN,
+      "4": "-",
+      "5": "-",
+      "6": "12,729,414"
+    },
+    {
+      "item": "- three years later",
+      "1": "4,992,108",
+      "2": "3,835,316",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": "-",
+      "6": "8,827,424"
+    },
+    {
+      "item": "- four years later",
+      "1": "5,136,958",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": "-",
+      "6": "5,136,958"
+    },
+    {
+      "item": "Current estimate of cumulative claims",
+      "1": "5,136,958",
+      "2": "3,835,316",
+      "3": "4,129,476",
+      "0": NaN,
+      "4": "3,911,785",
+      "5": "5,234,167",
+      "6": "22,247,702"
+    },
+    {
+      "item": "Add: Incurred but not Reported",
+      "1": "231,460",
+      "2": "221,866",
+      "3": "321,615",
+      "0": NaN,
+      "4": "508,327",
+      "5": "1,748,179",
+      "6": "3,031,447"
+    },
+    {
+      "item": "Add: Liability in respect of prior years",
+      "1": "453,898",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": "-",
+      "6": "453,898"
+    },
+    {
+      "item": "Less: Cumulative payments to date",
+      "1": "(4,706,033)",
+      "2": "(3,589,214)",
+      "3": "(3,671,215)",
+      "0": NaN,
+      "4": "(3,216,198)",
+      "5": "(3,722,575)",
+      "6": "(18,905,235)"
+    },
+    {
+      "item": "Liability included in the statement of financial position",
+      "1": "1,116,283",
+      "2": "467,968",
+      "3": "779,876",
+      "0": NaN,
+      "4": "1,203,914",
+      "5": "3,259,771",
+      "6": "6,827,812"
+    },
+    {
+      "item": "Short term insurance business",
+      "1": "Gross",
+      "2": "Reinsurance",
+      "3": "Net",
+      "0": NaN,
+      "4": "Gross",
+      "5": "Rein-surance",
+      "6": "Nett"
+    },
+    {
+      "item": "Notified claims",
+      "1": "3,416,259",
+      "2": "(1,388,940)",
+      "3": "2,027,319",
+      "0": NaN,
+      "4": "4,456,821",
+      "5": "(2,258,247)",
+      "6": "2,198,574"
+    },
+    {
+      "item": "Incurred but not reported",
+      "1": "2,710,640",
+      "2": "(441,327)",
+      "3": "2,269,313",
+      "0": NaN,
+      "4": "2,471,489",
+      "5": "(385,849)",
+      "6": "2,085,640"
+    },
+    {
+      "item": "Total at beginning of year",
+      "1": "6,126,899",
+      "2": "(1,830,267)",
+      "3": "4,296,632",
+      "0": NaN,
+      "4": "6,928,310",
+      "5": "(2,644,096)",
+      "6": "4,284,214"
+    },
+    {
+      "item": "Cash paid for claims settled in year",
+      "1": "(6,344,787)",
+      "2": "993,952",
+      "3": "(5,350,835)",
+      "0": NaN,
+      "4": "(7,285,610)",
+      "5": "1,910,486",
+      "6": "(5,375,124)"
+    },
+    {
+      "item": "Increase in liabilities: - arising from current year claims",
+      "1": "6,836,799",
+      "2": "(1,049,317)",
+      "3": "5,787,482",
+      "0": NaN,
+      "4": "4,796,750",
+      "5": "(1,160,719)",
+      "6": "3,636,031"
+    },
+    {
+      "item": "- arising from prior year claims",
+      "1": "208,901",
+      "2": "(226,464)",
+      "3": "(17,563)",
+      "0": NaN,
+      "4": "1,687,449",
+      "5": "64,062",
+      "6": "1,751,511"
+    },
+    {
+      "item": "Total at end of year",
+      "1": "6,827,812",
+      "2": "(2,112,096)",
+      "3": "4,715,716",
+      "0": NaN,
+      "4": "6,126,899",
+      "5": "(1,830,267)",
+      "6": "4,296,632"
+    },
+    {
+      "item": "Total at the end of year",
+      "1": "6,827,812",
+      "2": "(2,112,096)",
+      "3": "4,715,716",
+      "0": NaN,
+      "4": "6,126,899",
+      "5": "1,830,267)",
+      "6": "4,296,632"
+    },
+    {
+      "item": "Main basis",
+      "1": "71,998,988",
+      "2": "0.0%",
+      "3": "58,507,211",
+      "0": NaN,
+      "4": "0.0%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Expenses plus 10%",
+      "1": "73,141,772",
+      "2": "1.6%",
+      "3": "59,042,358",
+      "0": NaN,
+      "4": "0.9%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortality and other claim experience plus 20%",
+      "1": "72,144,434",
+      "2": "0.2%",
+      "3": "58,617,304",
+      "0": NaN,
+      "4": "0.2%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest rate less 2%",
+      "1": "75,810,861",
+      "2": "5.3%",
+      "3": "61,807,180",
+      "0": NaN,
+      "4": "5.6%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Withdrawals plus 20%",
+      "1": "71,596,067",
+      "2": "-0.6%",
+      "3": "58,048,755",
+      "0": NaN,
+      "4": "-0.8%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Amounts in Shs‘000",
+      "1": "Total IBNR",
+      "2": "Expected",
+      "3": "Actual",
+      "0": NaN,
+      "4": "(Shortfall)/ Surplus on Total IBNR",
+      "5": "(Shortfall)/ Surplus on Expected IBNR",
+      "6": NaN
+    },
+    {
+      "item": "Credit Life Business",
+      "1": "158,262",
+      "2": "119,530",
+      "3": "81,028",
+      "0": NaN,
+      "4": "77,234",
+      "5": "38,502",
+      "6": NaN
+    },
+    {
+      "item": "Group Life Business",
+      "1": "217,960",
+      "2": "179,625",
+      "3": "133,180",
+      "0": NaN,
+      "4": "84,780",
+      "5": "46,445",
+      "6": NaN
+    },
+    {
+      "item": "Assumption Valuation Margins on Best Estimate Liabilities Capital Charges on Best Estimate Liabilities",
+      "1": "Valuation Margins on Best Estimate Liabilities",
+      "2": "Capital Charges on Best Estimate Liabilities",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mortality 10% increase in mortality for life assurances 6% increase of base mortality rates",
+      "1": "10% increase in mortality for life assurances",
+      "2": "6% increase of base mortality rates",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Longevity 10% decrease in mortality for life assurances and annuities 7% decrease of base mortality rates",
+      "1": "10% decrease in mortality for life assurances and annuities",
+      "2": "7% decrease of base mortality rates",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Morbidity/Disability 10% increase in inception rates 5% decrease in recovery rates 40% increase in base inception rates in the first year 15% increase in base inception rates in subsequent years 10% decrease in morbidity/disability recovery rates",
+      "1": "10% increase in inception rates 5% decrease in recovery rates",
+      "2": "40% increase in base inception rates in the first year 15% increase in base inception rates in subsequent years 10% decrease in morbidity/disability recovery rates",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Lapses 25% (increase or decrease in lapse rate depending on which alternative gives rise to an increase in the liability of the policy concerned) 15% increase in lapse rates for new business 5% increase in lapse rates for in force business",
+      "1": "25% (increase or decrease in lapse rate depending on which alternative gives rise to an increase in the liability of the policy concerned)",
+      "2": "15% increase in lapse rates for new business 5% increase in lapse rates for in force business",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest rate 10% decrease 18% decrease",
+      "1": "10% decrease",
+      "2": "18% decrease",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Surrenders 10% (increase or decrease in surrender rate depending on which alternative gives rise to an increase in the liability of the policy concerned) N/A",
+      "1": "10% (increase or decrease in surrender rate depending on which alternative gives rise to an increase in the liability of the policy concerned)",
+      "2": "N/A",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Expenses & Expense inflation 10% increase on base expenses 10% increase of the base escalation rate 5% increase in best estimate assumption for expenses 1% increase in best estimate assumption for inflation",
+      "1": "10% increase on base expenses 10% increase of the base escalation rate",
+      "2": "5% increase in best estimate assumption for expenses 1% increase in best estimate assumption for inflation",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Catastrophe N/A An absolute increase in the rate of policyholders dying over the following year of 1.5 per mille.",
+      "1": "N/A",
+      "2": "An absolute increase in the rate of policyholders dying over the following year of 1.5 per mille.",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Group/Umbrella Pension Savings Plans N/A 1.0% increase in fund value",
+      "1": "N/A",
+      "2": "1.0% increase in fund value",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Deposit Administration N/A 1.0% increase in fund value",
+      "1": "N/A",
+      "2": "1.0% increase in fund value",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Group Life N/A 10% increase on premium reserves 8% increase on claims reserves",
+      "1": "N/A",
+      "2": "10% increase on premium reserves 8% increase on claims reserves",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Group Credit N/A 12% increase on premium reserves 10% increase on claims reserves",
+      "1": "N/A",
+      "2": "12% increase on premium reserves 10% increase on claims reserves",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
+      "1": "Ordinary Life",
+      "2": "Group life",
+      "3": "Total",
+      "0": NaN,
+      "4": "Ordinary life",
+      "5": "Group life",
+      "6": "Total"
+    },
+    {
+      "item": "Surrenders and annuity payments",
+      "1": "(4,195,080)",
+      "2": "(447,557)",
+      "3": "(4,642,637)",
+      "0": NaN,
+      "4": "(3,134,071)",
+      "5": "(887,462)",
+      "6": "(4,021,533)"
+    },
+    {
+      "item": "Net change in the period",
+      "1": "5,080,237",
+      "2": "(437,084)",
+      "3": "4,643,153",
+      "0": NaN,
+      "4": "5,477,899",
+      "5": "391,199",
+      "6": "5,869,098"
+    },
+    {
+      "item": "New business",
+      "1": "4,006,450",
+      "2": "1,144,953",
+      "3": "5,151,403",
+      "0": NaN,
+      "4": "2,271,743",
+      "5": "1,053,525",
+      "6": "3,325,268"
+    },
+    {
+      "item": "Change in Actuarial Reserves",
+      "1": "4,891,607",
+      "2": "260,312",
+      "3": "5,151,919",
+      "0": NaN,
+      "4": "4,615,571",
+      "5": "557,262",
+      "6": "5,172,833"
+    },
+    {
+      "item": "Pension fund deposits received",
+      "1": "9,413,229",
+      "2": "8,190,708",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Surrender and annuities paid",
+      "1": "(4,683,235)",
+      "2": "(3,865,311)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest payable to policyholders (Note 12)",
+      "1": "3,611,050",
+      "2": "1,831,852",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At start of the year",
+      "1": "3,003,326",
+      "2": "4,025,506",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Investment contracts premium received in the year",
+      "1": "686,681",
+      "2": "594,554",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Liabilities released for payments:",
+      "1": "(966,290)",
+      "2": "(1,473,520)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Fair value gain/(loss) on investments (Note 12)",
+      "1": "278,425",
+      "2": "(143,214)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At beginning of year",
+      "1": "3,556,002",
+      "2": "1,140,246",
+      "3": "4,696,248",
+      "0": NaN,
+      "4": "3,630,061",
+      "5": "942,006",
+      "6": "4,572,067"
+    },
+    {
+      "item": "Increase/(decrease) in the year (net)",
+      "1": "276,849",
+      "2": "386,477",
+      "3": "661,516",
+      "0": NaN,
+      "4": "(74,059)",
+      "5": "198,240",
+      "6": "124,181"
+    },
+    {
+      "item": "Accrued expenses",
+      "1": "914,040",
+      "2": "552,012",
+      "3": "52,495",
+      "0": NaN,
+      "4": "64,580",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Premiums paid in advance",
+      "1": "254,041",
+      "2": "171,782",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Accrued dividends payable",
+      "1": "26,774",
+      "2": "147,153",
+      "3": "26,224",
+      "0": NaN,
+      "4": "146,603",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Trade payables",
+      "1": "103,700",
+      "2": "87,415",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Government taxes & statutory deductions",
+      "1": "399,030",
+      "2": "128,217",
+      "3": "23,037",
+      "0": NaN,
+      "4": "20,145",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Other liabilities",
+      "1": "1,188,590",
+      "2": "1,640,368",
+      "3": "12,603",
+      "0": NaN,
+      "4": "80,321",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total other payables",
+      "1": "2,886,175",
+      "2": "2,726,947",
+      "3": "114,359",
+      "0": NaN,
+      "4": "311,649",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Profit/(loss) before income tax",
+      "1": "4,571,023",
+      "2": "(2,295,870)",
+      "3": "1,702,125",
+      "0": NaN,
+      "4": "(749,462)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Adjustments for:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Depreciation of leasehold improvements and equipment (Note 21)",
+      "1": "312,339",
+      "2": "316,697",
+      "3": "23,869",
+      "0": NaN,
+      "4": "12,171",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Depreciation of right of use asset (Note 23)",
+      "1": "220,007",
+      "2": "-",
+      "3": "46,389",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Amortisation of intangible assets (Note 22)",
+      "1": "409,169",
+      "2": "351,529",
+      "3": "26,107",
+      "0": NaN,
+      "4": "24,965",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net loss/(income) from investment properties (Note 5)",
+      "1": "747,036",
+      "2": "(507,207)",
+      "3": "74,548",
+      "0": NaN,
+      "4": "8",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Interest and dividend income (Note 6)",
+      "1": "(7,713,830)",
+      "2": "(6,160,381)",
+      "3": "(1,250,942)",
+      "0": NaN,
+      "4": "(1,416,620)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net realised gains on financial assets (Note 7)",
+      "1": "(477,661)",
+      "2": "(41,898)",
+      "3": "(98,621)",
+      "0": NaN,
+      "4": "(7,376)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net fair value gains on financial assets at fair value through profit or loss (Note 8)",
+      "1": "(4,300,055)",
+      "2": "3,091,171",
+      "3": "(1,447,070)",
+      "0": NaN,
+      "4": "1,029,259",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Share of loss of the associate (Note 24(ii))",
+      "1": "53,099",
+      "2": "289,657",
+      "3": "21,376",
+      "0": NaN,
+      "4": "116,593",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Finance costs (Note 14)",
+      "1": "234,667",
+      "2": "905,567",
+      "3": "649,426",
+      "0": NaN,
+      "4": "716,501",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gain on disposal of fixed assets",
+      "1": "-",
+      "2": "(1,977)",
+      "3": "-",
+      "0": NaN,
+      "4": "(1,769)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Provision for expected credit losses cash and cash equivalents (Note 38(i))",
+      "1": "155,634",
+      "2": "251,036",
+      "3": "1,809",
+      "0": NaN,
+      "4": "5,769",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Changes in:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "0": NaN,
+      "4": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Receivables arising out of direct insurance arrangements",
+      "1": "627,705",
+      "2": "(155,727)",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Receivables from related party",
+      "1": "-",
+      "2": "-",
+      "3": "397,842",
+      "0": NaN,
+      "4": "(879,842)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Re-insurers’ share of insurance liabilities",
+      "1": "(597,200)",
+      "2": "581,855",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Receivables arising out of reinsurance arrangements",
+      "1": "200,597",
+      "2": "(57,833)",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Unearned premiums",
+      "1": "661,516",
+      "2": "124,181",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Retirement benefit asset",
+      "1": "42,757",
+      "2": "10,371",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Other payables",
+      "1": "159,274",
+      "2": "(824,904)",
+      "3": "(197,281)",
+      "0": NaN,
+      "4": "213,708",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Deferred acquisition costs",
+      "1": "(43,944)",
+      "2": "(17,905)",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Other receivables",
+      "1": "320,440",
+      "2": "(299,665)",
+      "3": "(277)",
+      "0": NaN,
+      "4": "604,916",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Payable to related party",
+      "1": "-",
+      "2": "-",
+      "3": "214,422",
+      "0": NaN,
+      "4": "130,972",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Insurance contract liabilities",
+      "1": "5,562,940",
+      "2": "4,325,180",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Liabilities under investment contracts",
+      "1": "(1,185)",
+      "2": "(1,022,182)",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Payable under deposit administration contracts",
+      "1": "8,341,044",
+      "2": "6,157,249",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Payables arising out of reinsurance arrangements",
+      "1": "66,327",
+      "2": "500,661",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Payables arising out of direct insurance arrangements",
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "- Restricted cash",
+      "1": "(35,007)",
+      "2": "1,590",
+      "3": "-",
+      "0": NaN,
+      "4": "-",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cash generated from/ (used in) operations",
+      "1": "9,600,994",
+      "2": "5,496,143",
+      "3": "162,914",
+      "0": NaN,
+      "4": "(198,440)",
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}

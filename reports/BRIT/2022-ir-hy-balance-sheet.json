@@ -1,0 +1,26 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "loss",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T23:30:26.364165",
+  "data": [
+    {
+      "item": "SOLIDATED STATEMENT OF CHANGES IN EQUITY",
+      "1": "None"
+    },
+    {
+      "item": "",
+      "1": "5,593,7"
+    },
+    {
+      "item": "",
+      "1": "667,5"
+    },
+    {
+      "item": "",
+      "1": "115,4"
+    }
+  ]
+}
