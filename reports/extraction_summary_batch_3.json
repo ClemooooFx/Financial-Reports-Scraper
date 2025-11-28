@@ -1,6 +1,6 @@
 {
-  "extraction_date": "2025-11-28T08:16:00.873498",
-  "duration_seconds": 443.620361,
+  "extraction_date": "2025-11-28T12:02:07.435866",
+  "duration_seconds": 464.677351,
   "batch_number": 3,
   "total_pdfs": 10,
   "successful": 10,
@@ -10,6 +10,6 @@
     "consolidated_financial_position": 0,
     "consolidated_income": 0,
     "consolidated_cashflow": 0,
-    "consolidated_equity": 2
+    "consolidated_equity": 0
   }
 }
