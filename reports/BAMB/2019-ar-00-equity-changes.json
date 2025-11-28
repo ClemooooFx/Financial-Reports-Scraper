@@ -1,0 +1,155 @@
+{
+  "title": "Statement of Changes in Equity",
+  "units": "continued",
+  "pages": [
+    49,
+    53
+  ],
+  "extracted_at": "2025-11-28T20:23:25.216894",
+  "data": [
+    {
+      "item": "Key audit matter How our audit addressed the key audit matter",
+      "0": "Key audit matter",
+      "1": "How our audit addressed the key audit matter",
+      "5": NaN,
+      "7": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Valuation of Trade Receivables Due to the level of judgement and estimation relating to the impairment assessment of trade receivables by directors in accordance with the requirements of IFRS 9: financial instruments, the valuation of trade receivables is considered to be a key audit matter. As disclosed in note 22(a) of the consolidated and company financial statements, the Group’s and Company’s trade receivables amounted to Shs 2.2 billion and Shs 661 million as at 31 December 2019 respectively. Key judgements and estimation in respect of the timing and measurement of expected credit losses (ECL) include: • Determining the appropriate customer groupings based on credit risk characteristics and historical credit loss experience; • Determining the period over which the observed historical loss rates are appropriate; and • Adjusting the historical loss rates with forward looking macro-economic factors. Other matters considered in determining expected losses include: • Completeness and accuracy of data used to calculate the ECL; and • Accuracy and adequacy of the financial statement disclosures. Refer to note 2 of the consolidated and company financial statements for critical accounting judgements and key sources of estimation uncertainty. Also refer to note 37 (ii) for details on the estimated credit loss disclosure. To respond to the key audit matter, we performed the following procedures: • Tested the design, implementation and operating effectiveness of key controls across the processes relevant to the ECL governance, data accuracy and completeness and individual provisions and production of journal entries and disclosures. • Assessed the appropriateness of customer groupings by verifying the historical data and assumptions adopted as a basis for the groupings • Assessed whether forecasted macroeconomic variables were appropriate. • Assessed whether the period over which the observed historical loss rates was appropriate in developing the expected loss rates. • Tested the data used in the ECL calculation for accuracy and completeness. • Validated the completeness and appropriateness of the related disclosures through assessing the disclosure of trade receivables and expected credit loss provision in notes 2, 22(a) and 37 (ii) of the consolidated and company financial statements. Based on the evidence obtained, we are satisfied that trade receivables ECL provisions are reasonable and in accordance with the requirements of IFRS 9. In addition, the disclosures in the financial statements in respect of trade receivables ECL provisions were found to be appropriate.",
+      "0": "Valuation of Trade Receivables Due to the level of judgement and estimation relating to the impairment assessment of trade receivables by directors in accordance with the requirements of IFRS 9: financial instruments, the valuation of trade receivables is considered to be a key audit matter. As disclosed in note 22(a) of the consolidated and company financial statements, the Group’s and Company’s trade receivables amounted to Shs 2.2 billion and Shs 661 million as at 31 December 2019 respectively. Key judgements and estimation in respect of the timing and measurement of expected credit losses (ECL) include: • Determining the appropriate customer groupings based on credit risk characteristics and historical credit loss experience; • Determining the period over which the observed historical loss rates are appropriate; and • Adjusting the historical loss rates with forward looking macro-economic factors. Other matters considered in determining expected losses include: • Completeness and accuracy of data used to calculate the ECL; and • Accuracy and adequacy of the financial statement disclosures. Refer to note 2 of the consolidated and company financial statements for critical accounting judgements and key sources of estimation uncertainty. Also refer to note 37 (ii) for details on the estimated credit loss disclosure.",
+      "1": "To respond to the key audit matter, we performed the following procedures: • Tested the design, implementation and operating effectiveness of key controls across the processes relevant to the ECL governance, data accuracy and completeness and individual provisions and production of journal entries and disclosures. • Assessed the appropriateness of customer groupings by verifying the historical data and assumptions adopted as a basis for the groupings • Assessed whether forecasted macroeconomic variables were appropriate. • Assessed whether the period over which the observed historical loss rates was appropriate in developing the expected loss rates. • Tested the data used in the ECL calculation for accuracy and completeness. • Validated the completeness and appropriateness of the related disclosures through assessing the disclosure of trade receivables and expected credit loss provision in notes 2, 22(a) and 37 (ii) of the consolidated and company financial statements. Based on the evidence obtained, we are satisfied that trade receivables ECL provisions are reasonable and in accordance with the requirements of IFRS 9. In addition, the disclosures in the financial statements in respect of trade receivables ECL provisions were found to be appropriate.",
+      "5": NaN,
+      "7": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Asset Non-",
+      "0": NaN,
+      "1": NaN,
+      "5": "",
+      "7": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Share capital revaluation reserve Fair value reserve Translation reserve Retained earnings controlling interests",
+      "0": NaN,
+      "1": NaN,
+      "5": "Owners of the Company",
+      "7": "Total equity",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Shs’million Shs’million Shs’million Shs’million Shs’million Shs’million",
+      "0": NaN,
+      "1": NaN,
+      "5": "Shs’million",
+      "7": "Shs’million",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None 3,828 (45) _______ 3,783 (65)",
+      "0": NaN,
+      "1": NaN,
+      "5": "",
+      "7": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "0": NaN,
+      "1": NaN,
+      "5": "",
+      "7": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "- - - 889 - (121) - (271) 861 14 (289) 265",
+      "0": NaN,
+      "1": NaN,
+      "5": "861",
+      "7": "572",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None (24) - -",
+      "0": NaN,
+      "1": NaN,
+      "5": "",
+      "7": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "- - - - - - - - (544) (363) - -",
+      "0": NaN,
+      "1": NaN,
+      "5": "(544)",
+      "7": "(544)",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Share",
+      "0": NaN,
+      "1": "Asset",
+      "5": NaN,
+      "7": NaN,
+      "2": "Retained",
+      "3": "Total"
+    },
+    {
+      "item": "capital",
+      "0": NaN,
+      "1": "revaluation reserve",
+      "5": NaN,
+      "7": NaN,
+      "2": "earnings",
+      "3": "equity"
+    },
+    {
+      "item": "Shs’million",
+      "0": NaN,
+      "1": "Shs’million",
+      "5": NaN,
+      "7": NaN,
+      "2": "Shs’million",
+      "3": "Shs’million"
+    },
+    {
+      "item": "Note 24",
+      "0": NaN,
+      "1": "Note 25(a)",
+      "5": NaN,
+      "7": NaN,
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "1,815",
+      "0": NaN,
+      "1": "10,662",
+      "5": NaN,
+      "7": NaN,
+      "2": "10,063",
+      "3": "22,540"
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "-",
+      "5": NaN,
+      "7": NaN,
+      "2": "1,008",
+      "3": "1,008"
+    }
+  ]
+}
