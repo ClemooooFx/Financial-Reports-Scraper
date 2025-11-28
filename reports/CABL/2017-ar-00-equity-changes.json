@@ -1,0 +1,45 @@
+{
+  "title": "of changes in equity and consolidated and separate statements of cash flows for the year then ended, and",
+  "units": "lme",
+  "pages": [
+    37
+  ],
+  "extracted_at": "2025-11-28T23:57:29.213713",
+  "data": [
+    {
+      "item": "Impairment of trade receivables (applicable to the consolidated and separate financial statements) None",
+      "0": "Impairment of trade receivables (applicable to the consolidated and separate financial statements)",
+      "1": NaN
+    },
+    {
+      "item": "See Note 3(m)(i) and 28(a) to the financial statements None",
+      "0": "See Note 3(m)(i) and 28(a) to the financial statements",
+      "1": NaN
+    },
+    {
+      "item": "The key audit matter How the matter was addressed in our audit",
+      "0": "The key audit matter",
+      "1": NaN
+    },
+    {
+      "item": "The group and the company have significant trade receivables outstanding from customers at year end. Trade receivables represent approximately 51% of the group’s and 45% of the company’s current assets. Judgement is involved in assessing the recoverability of trade receivables and in estimating the impairment allowance required to be recognised against the gross trade receivables. Consequently, we considered this to be a key audit matter in our audit of the consolidated and separate financial statements. Our audit procedures included: — we evaluated and tested key controls over the granting of credit to customers; — we inspected customer payments after year end that related to trade receivables outstanding at year end; — we inspected legal files for doubtful debts under litigation and of compliance with the agreed payment plans with customers that had entered into distress arrangements with the group and company to settle outstanding debts; — we inspected customer payment plans and agreements and compared to the actual customer payment history; and — we evaluated the group’s and company’s policy for recognising an impairment allowance against the procedures applied by management in raising the impairment allowance to determine the appropriateness of the impairment allowance .",
+      "0": "The group and the company have significant trade receivables outstanding from customers at year end. Trade receivables represent approximately 51% of the group’s and 45% of the company’s current assets. Judgement is involved in assessing the recoverability of trade receivables and in estimating the impairment allowance required to be recognised against the gross trade receivables. Consequently, we considered this to be a key audit matter in our audit of the consolidated and separate financial statements.",
+      "1": NaN
+    },
+    {
+      "item": "Recognition of deferred tax assets on unutilised tax losses included in the net deferred tax liability (applicable to the consolidated and separate financial statements) None",
+      "0": "Recognition of deferred tax assets on unutilised tax losses included in the net deferred tax liability (applicable to the consolidated and separate financial statements)",
+      "1": "None"
+    },
+    {
+      "item": "See Note 22 to the financial statements None",
+      "0": "See Note 22 to the financial statements",
+      "1": "None"
+    },
+    {
+      "item": "In arriving at the deferred tax liability on the statements of financial position, the group and the company have recognised deferred tax assets relating to unused tax losses (see note 22 to the financial statements). The recoverability of recognised deferred tax assets is in dependent on the group’s and company’s ability to generate future taxable profits sufficient to utilise deductible temporary differences and tax losses before they expire. We determined this to be a key audit matter in our audit of the consolidated and separate financial statements due to the inherent uncertainty in forecasting the amount and timing of future taxable profits and the reversal of temporary differences and utilisation of tax losses. Our audit procedures included: — our tax experts reviewed the group’s and company’s deferred tax balances against the tax calculations prepared by the management; — we evaluated the reasonableness of the group’s and the company’s cash flow forecasts based on supporting documentation obtained from management, our knowledge of the group and company and evidence obtained in respect of other areas of the audit; — we evaluated whether the conditions for recognition of a deferred tax asset in respect of unutilised tax losses in terms of IAS 12 Income taxes have been met; and — we evaluated whether any of the tax losses, included in the deferred tax liability balances have expired by understanding the years in which the tax losses arose and the expected expiry dates of those tax losses.",
+      "0": "In arriving at the deferred tax liability on the statements of financial position, the group and the company have recognised deferred tax assets relating to unused tax losses (see note 22 to the financial statements). The recoverability of recognised deferred tax assets is in dependent on the group’s and company’s ability to generate future taxable profits sufficient to utilise deductible temporary differences and tax losses before they expire. We determined this to be a key audit matter in our audit of the consolidated and separate financial statements due to the inherent uncertainty in forecasting the amount and timing of future taxable profits and the reversal of temporary differences and utilisation of tax losses.",
+      "1": "Our audit procedures included: — our tax experts reviewed the group’s and company’s deferred tax balances against the tax calculations prepared by the management; — we evaluated the reasonableness of the group’s and the company’s cash flow forecasts based on supporting documentation obtained from management, our knowledge of the group and company and evidence obtained in respect of other areas of the audit; — we evaluated whether the conditions for recognition of a deferred tax asset in respect of unutilised tax losses in terms of IAS 12 Income taxes have been met; and — we evaluated whether any of the tax losses, included in the deferred tax liability balances have expired by understanding the years in which the tax losses arose and the expected expiry dates of those tax losses."
+    }
+  ]
+}
