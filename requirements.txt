@@ -10,3 +10,4 @@ camelot-py[cv]==0.11.0
 opencv-python-headless>=4.8.0
 PyMuPDF>=1.23.0
 ghostscript>=0.7
+pytesseract>=0.3.10
