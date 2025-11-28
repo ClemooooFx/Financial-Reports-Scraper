@@ -1,55 +1,50 @@
 {
-  "title": "Consolidated and Bank Statement of Cash Flows for the year ended 31 December 2015",
+  "title": "Consolidated and Bank Statement of Cash Flows — for the year ended 31 December 2015",
   "units": "683",
   "pages": [
     77
   ],
-  "extracted_at": "2025-11-27T10:23:14.993953",
+  "extracted_at": "2025-11-28T19:13:41.581806",
   "data": [
     {
-      "2015\nShs'millions": "(19 539)\n23 452\n(4 215)\n(3 351)"
+      "item": "2015 Shs'millions",
+      "0": "2015 Shs'millions"
     },
     {
-      "2015\nShs'millions": ""
+      "item": "(19 539) 23 452 (4 215) (3 351)",
+      "0": "(19 539) 23 452 (4 215) (3 351)"
     },
     {
-      "2015\nShs'millions": "(3 653)"
+      "item": "(3 653)",
+      "0": "(3 653)"
     },
     {
-      "2015\nShs'millions": ""
+      "item": "(1 012) (17)",
+      "0": "(1 012) (17)"
     },
     {
-      "2015\nShs'millions": "(1 012)\n(17)"
+      "item": "(1 029)",
+      "0": "(1 029)"
     },
     {
-      "2015\nShs'millions": ""
+      "item": "5 133 (2 117) (6 518)",
+      "0": "5 133 (2 117) (6 518)"
     },
     {
-      "2015\nShs'millions": "(1 029)"
+      "item": "(3 502)",
+      "0": "(3 502)"
     },
     {
-      "2015\nShs'millions": ""
+      "item": "(8 184)",
+      "0": "(8 184)"
     },
     {
-      "2015\nShs'millions": "5 133\n(2 117)\n(6 518)"
+      "item": "16 196",
+      "0": "16 196"
     },
     {
-      "2015\nShs'millions": "(3 502)"
-    },
-    {
-      "2015\nShs'millions": ""
-    },
-    {
-      "2015\nShs'millions": "(8 184)"
-    },
-    {
-      "2015\nShs'millions": ""
-    },
-    {
-      "2015\nShs'millions": "16 196"
-    },
-    {
-      "2015\nShs'millions": "8 012"
+      "item": "8 012",
+      "0": "8 012"
     }
   ]
 }

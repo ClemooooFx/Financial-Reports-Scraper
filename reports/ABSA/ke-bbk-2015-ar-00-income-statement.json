@@ -1,54 +1,536 @@
 {
-  "title": "Consolidated Statement of Comprehensive Income for the year ended 31 December 2015",
+  "title": "Consolidated Statement of Comprehensive Income — for the year ended 31 December 2015",
   "units": "959",
   "pages": [
     73,
+    85,
     92,
-    92,
-    93,
-    93,
     93,
     123,
-    123,
-    125
+    125,
+    126
   ],
-  "extracted_at": "2025-11-27T10:23:14.993434",
+  "extracted_at": "2025-11-28T19:13:41.580456",
   "data": [
     {
-      "2015\nShs'millions": "25 286\n(4 875)"
+      "item": "2015 Shs'millions",
+      "0": "2015 Shs'millions",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "20 411\n7 609\n(959)"
+      "item": "25 286 (4 875)",
+      "0": "25 286 (4 875)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "6 650\n2 487\n(453)\n367"
+      "item": "20 411 7 609 (959)",
+      "0": "20 411 7 609 (959)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "29 462\n(1 766)"
+      "item": "6 650 2 487 (453) 367",
+      "0": "6 650 2 487 (453) 367",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "27 696\n(9 305)\n(1 617)\n(3 646)\n(487)\n(567)"
+      "item": "29 462 (1 766)",
+      "0": "29 462 (1 766)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "(15 622)\n12 074\n(3 673)"
+      "item": "27 696 (9 305) (1 617) (3 646) (487) (567)",
+      "0": "27 696 (9 305) (1 617) (3 646) (487) (567)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "8 401"
+      "item": "(15 622) 12 074 (3 673)",
+      "0": "(15 622) 12 074 (3 673)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "79\n(935)\n281"
+      "item": "8 401",
+      "0": "8 401",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "(654)"
+      "item": "79 (935) 281",
+      "0": "79 (935) 281",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "(575)"
+      "item": "(654)",
+      "0": "(654)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "7 826"
+      "item": "(575)",
+      "0": "(575)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     },
     {
-      "2015\nShs'millions": "1.55"
+      "item": "7 826",
+      "0": "7 826",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1.55",
+      "0": "1.55",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Category (as defined by IAS 39) None Class (as determined by the Group) None Subclasses",
+      "0": "Category (as defined by IAS 39)",
+      "1": "None",
+      "2": "Class (as determined by the Group)",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "Financial assets Financial assets at fair value through profit or loss Financial assets held for trading Debt securities",
+      "0": "Financial assets",
+      "1": "Financial assets at fair value through profit or loss",
+      "2": "Financial assets held for trading",
+      "3": "Debt securities",
+      "4": NaN
+    },
+    {
+      "item": "None None None Derivative assets",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "Derivative assets",
+      "4": NaN
+    },
+    {
+      "item": "None None Financial assets designated at fair value through profit or loss Equity securities",
+      "0": "None",
+      "1": "None",
+      "2": "Financial assets designated at fair value through profit or loss",
+      "3": "Equity securities",
+      "4": NaN
+    },
+    {
+      "item": "None Loans and receivables Loans and advances to banks None None",
+      "0": "None",
+      "1": "Loans and receivables",
+      "2": "Loans and advances to banks",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Due from group companies None None",
+      "0": "None",
+      "1": "None",
+      "2": "Due from group companies",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Loans and advances to customers Loans to individuals (retail) Overdrafts",
+      "0": "None",
+      "1": "None",
+      "2": "Loans and advances to customers",
+      "3": "Loans to individuals (retail)",
+      "4": NaN
+    },
+    {
+      "item": "None None None None Credit cards",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None None None Term loans",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None None None Mortgages",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None None Loans to corporate entities Large corporate customers",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "Loans to corporate entities",
+      "4": NaN
+    },
+    {
+      "item": "None None None None SMEs",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None None None Others",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Items in course of collection None None",
+      "0": "None",
+      "1": "None",
+      "2": "Items in course of collection",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Cash balances with Central Bank of Kenya None None",
+      "0": "None",
+      "1": "None",
+      "2": "Cash balances with Central Bank of Kenya",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None Available for sale investments Debt securities Listed",
+      "0": "None",
+      "1": "Available for sale investments",
+      "2": "Debt securities",
+      "3": "",
+      "4": NaN
+    },
+    {
+      "item": "Financial liabilities Financial liabilities at amortised cost Deposits from banks None None",
+      "0": "Financial liabilities",
+      "1": "Financial liabilities at amortised cost",
+      "2": "Deposits from banks",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Deposits from customers Retail customers",
+      "0": "None",
+      "1": "None",
+      "2": "Deposits from customers",
+      "3": "Retail customers",
+      "4": NaN
+    },
+    {
+      "item": "None None None Large corporate customers",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "Large corporate customers",
+      "4": NaN
+    },
+    {
+      "item": "None None None SMEs",
+      "0": "None",
+      "1": "None",
+      "2": "None",
+      "3": "SMEs",
+      "4": NaN
+    },
+    {
+      "item": "None None Borrowings None None",
+      "0": "None",
+      "1": "None",
+      "2": "Borrowings",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Due to group companies None None",
+      "0": "None",
+      "1": "None",
+      "2": "Due to group companies",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None Other liabilities None None",
+      "0": "None",
+      "1": "None",
+      "2": "Other liabilities",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None Financial assets at fair value through profit or loss None None None",
+      "0": "None",
+      "1": "Financial assets at fair value through profit or loss",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "Off-balance sheet financial instruments Loan commitments None None None",
+      "0": "Off-balance sheet financial instruments",
+      "1": "Loan commitments",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None Guarantees, acceptances and other financial liabilities None None None",
+      "0": "None",
+      "1": "Guarantees, acceptances and other financial liabilities",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "None",
+      "0": "2015 Shs'millions",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "7 41",
+      "0": "42 42",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(18) (18)",
+      "0": "(39) (3)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Assets Shs'millions",
+      "0": NaN,
+      "1": "Liabilities Shs'millions",
+      "2": "Notional contract amount Shs'millions",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "42 42",
+      "0": NaN,
+      "1": "(39) (3)",
+      "2": "(13) (47)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "84",
+      "0": NaN,
+      "1": "(42)",
+      "2": "(60)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "8 368 37 438",
+      "0": "8 368 37 438",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "45 806",
+      "0": "45 806",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "253 -",
+      "0": "253 -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "253",
+      "0": "253",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "111 693 23 043 8 097 7 001",
+      "0": "111 693 23 043 8 097 7 001",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "149 834",
+      "0": "149 834",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(3 926) (529)",
+      "0": "(3 926) (529)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(4 455)",
+      "0": "(4 455)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "145 379",
+      "0": "145 379",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2015 Recurring fair value measurements",
+      "0": NaN,
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Financial Assets Fair value through profit or loss - Held for trading Trading securities",
+      "0": NaN,
+      "1": "2 245",
+      "2": "2 245",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "2 245",
+      "2": "2 245",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Available for sale Debt investments",
+      "0": NaN,
+      "1": "45 806",
+      "2": "45 806",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Category of asset/liability Valuation technique applied Significant observable inputs",
+      "0": NaN,
+      "1": NaN,
+      "2": "Significant observable inputs",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Government debt instruments Discounted cash flow valuation technique Quoted yields and 15bps bid offer adjustment that management has estimated as the reasonable basis for applying the adjustment",
+      "0": NaN,
+      "1": NaN,
+      "2": "Quoted yields and 15bps bid offer adjustment that management has estimated as the reasonable basis for applying the adjustment",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Interest received Shs'millions Interest paid Shs'millions Recharges Shs'millions Rent paid Shs'millions Investment balance Shs'millions",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Barclays Bank Plc Barclays Africa Group Limited - - - -",
+      "0": NaN,
+      "1": "14 -",
+      "2": "374 -",
+      "3": "455 355",
+      "4": NaN
+    },
+    {
+      "item": "Due from Shs'millions Due to Shs'millions",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Barclays Bank Plc Barclays Africa Group Limited Other Group companies",
+      "0": NaN,
+      "1": "8 696 5 222 33",
+      "2": "(1 960) (20 693) (31)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Senior management Directors",
+      "0": NaN,
+      "1": "560 45",
+      "2": "53 -",
+      "3": "- 22",
+      "4": "613 67"
     }
   ]
 }

@@ -1,33 +1,83 @@
 {
-  "title": "Consolidated statement of profit or loss For the year ended 31 December Notes 2014 2013",
+  "title": "Consolidated statement of profit or loss — For the year ended 31 December Notes 2014 2013",
   "units": "825",
   "pages": [
     63,
-    101
+    64,
+    101,
+    102
   ],
-  "extracted_at": "2025-11-27T10:22:59.419010",
+  "extracted_at": "2025-11-28T19:13:24.944898",
   "data": [
     {
-      "For the year ended 31 December": "Interest income\nInterest expense\nNet interest income\nFees and commission income\nFees and commission expense\nNet fees and commission income\nNet foreign exchange income\nNet income from financial instruments carried\nat fair value through profit or loss\nOther operating income\nTotal income\nProvision for impairment of loans and advances to customers\nNet operating income\nEmployee benefits\nOther operating expenses\nDepreciation and amortisation expense\nOperating expenses\nRestructuring expenses\nProfit before income tax\nIncome tax expense\nProfit for the year\nEarnings per share (Shs)\nBasic and diluted\nDividends (Shs million)\nInterim paid\nProposed final",
-      "Notes": "5\n5\n6\n6\n7\n18\n8\n9\n10\n11\n12\n13\n13",
-      "2014\nShs million": "22,941\n(3,337)\n______________\n19,604\n______________\n7,189\n(825)\n______________\n6,364\n______________\n2,042\n266\n12\n______________\n28,288\n(1,405)\n______________\n26,883\n(8,100)\n(5,420)\n(1,070)\n______________\n(14,590)\n12,293\n-\n______________\n12,293\n(3,906)\n______________\n8,387\n1.54\n-\n5,432\n______________\n5,432",
-      "2013\nShs million": "21,297\n(2,437)\n______________\n18,860\n______________\n7,237\n(717)\n______________\n6,520\n______________\n2,084\n449\n9\n______________\n27,922\n(1,223)\n______________\n26,699\n(8,114)\n(5,515)\n(1,148)\n______________\n(14,777)\n11,922\n(788)\n______________\n11,134\n(3,511)\n______________\n7,623\n1.40\n1,086\n2,716\n______________\n3,802",
-      "31 December 2014": NaN,
-      "Level 1\nShs million": NaN,
-      "Level 2\nShs million": NaN,
-      "Level 3\nShs million": NaN,
-      "Total balance\nShs million": NaN
+      "item": "For the year ended 31 December",
+      "1": "Notes",
+      "2": "2014 Shs million",
+      "3": "2013 Shs million",
+      "4": NaN
     },
     {
-      "For the year ended 31 December": NaN,
-      "Notes": NaN,
-      "2014\nShs million": NaN,
-      "2013\nShs million": NaN,
-      "31 December 2014": "Assets\nFinancial assets at fair value through profit or loss\n– Trading securities\nAvailable for sale financial assets\n– Debt investments\nTotal assets",
-      "Level 1\nShs million": "6,133\n-\n______________\n6,133",
-      "Level 2\nShs million": "-\n51,033\n______________\n51,033",
-      "Level 3\nShs million": "-\n-\n______________\n-",
-      "Total balance\nShs million": "6,133\n51,033\n______________\n57,166"
+      "item": "Interest income Interest expense Net interest income Fees and commission income Fees and commission expense Net fees and commission income Net foreign exchange income Net income from financial instruments carried at fair value through profit or loss Other operating income Total income Provision for impairment of loans and advances to customers Net operating income Employee benefits Other operating expenses Depreciation and amortisation expense Operating expenses Restructuring expenses Profit before income tax Income tax expense Profit for the year Earnings per share (Shs) Basic and diluted Dividends (Shs million) Interim paid Proposed final",
+      "1": "5 5 6 6 7 18 8 9 10 11 12 13 13",
+      "2": "22,941 (3,337) ______________ 19,604 ______________ 7,189 (825) ______________ 6,364 ______________ 2,042 266 12 ______________ 28,288 (1,405) ______________ 26,883 (8,100) (5,420) (1,070) ______________ (14,590) 12,293 - ______________ 12,293 (3,906) ______________ 8,387 1.54 - 5,432 ______________ 5,432",
+      "3": "21,297 (2,437) ______________ 18,860 ______________ 7,237 (717) ______________ 6,520 ______________ 2,084 449 9 ______________ 27,922 (1,223) ______________ 26,699 (8,114) (5,515) (1,148) ______________ (14,777) 11,922 (788) ______________ 11,134 (3,511) ______________ 7,623 1.40 1,086 2,716 ______________ 3,802",
+      "4": NaN
+    },
+    {
+      "item": "Profit for the year Other comprehensive income, net of income tax Items that will not be reclassified to profit or loss Remeasurement of post-employment benefit obligations Items that may be subsequently reclassified to profit or loss Fair value movement on available-for-sale assets: - unrealised net gains/(losses) - deferred income tax Other comprehensive income, net of income tax Total comprehensive income for the year",
+      "1": "29 16 28",
+      "2": "8,387 49 133 (40) ______________ 93 ______________ 142 ______________ 8,529",
+      "3": "7,623 246 (279) 84 ______________ (195) ______________ 51 ______________ 7,674",
+      "4": NaN
+    },
+    {
+      "item": "31 December 2014",
+      "1": "Level 1 Shs million",
+      "2": "Level 2 Shs million",
+      "3": "Level 3 Shs million",
+      "4": "Total balance Shs million"
+    },
+    {
+      "item": "Assets Financial assets at fair value through profit or loss – Trading securities Available for sale financial assets – Debt investments Total assets",
+      "1": "6,133 - ______________ 6,133",
+      "2": "- 51,033 ______________ 51,033",
+      "3": "- - ______________ -",
+      "4": "6,133 51,033 ______________ 57,166"
+    },
+    {
+      "item": "31 December 2013",
+      "1": "Level 1 Shs million",
+      "2": "Level 2 Shs million",
+      "3": "Level 3 Shs million",
+      "4": "Total balance Shs million"
+    },
+    {
+      "item": "Primary Objectives Core Practices",
+      "1": "Core Practices",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Provide a viable and sustainable business offering by maintain- ing adequate capital to cover the Bank’s current and forecast business needs and associated risks • Monitor internal targets for capital demand and ratios • Meet minimum regulatory requirements",
+      "1": "• Monitor internal targets for capital demand and ratios • Meet minimum regulatory requirements",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Ensure the Bank maintains adequate capital to withstand the impact of the risks that may arise under the stressed condi- tions • Perform internal and regulatory stress tests • Maintain capital buffers over regulatory minimum • Develop contingency plans for severe (stress manage- ment actions)",
+      "1": "• Perform internal and regulatory stress tests • Maintain capital buffers over regulatory minimum • Develop contingency plans for severe (stress manage- ment actions)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Support the Bank’s growth and strategic options • Maintain a capital plan on a short-term and medium term basis aligned with strategic objectives",
+      "1": "• Maintain a capital plan on a short-term and medium term basis aligned with strategic objectives",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
     }
   ]
 }

@@ -3,41 +3,99 @@
   "units": "206",
   "pages": [
     67,
-    67,
-    68,
     68
   ],
-  "extracted_at": "2025-11-27T10:22:59.421555",
+  "extracted_at": "2025-11-28T19:13:24.949078",
   "data": [
     {
-      "Year ended 31 December 2013": "At start of year\nTotal comprehensive income\nfor the year\nProfit for the year\nOther comprehensive income\nTransfers\nTransactions with owners:\nDividends to equity holders\n- final for 2012 paid\n- interim for 2013 paid\n- proposed final for 2013\nAt end of year",
-      "Notes": "31",
-      "Share\ncapital\nShs million": "2,716",
-      "Regulatory\nreserve\nShs million": "1,461",
-      "Other\nreserve\nShs million": "(206)",
-      "Retained\nearnings\nShs million": "21,813",
-      "Proposed\ndividends\nShs millions": "3,802",
-      "Total\nShs million": "29,586"
+      "item": "Year ended 31 December 2013 Notes",
+      "2": "Share capital Shs million",
+      "3": "Regulatory reserve Shs million",
+      "4": "Other reserve Shs million",
+      "5": "Retained earnings Shs million",
+      "6": "Proposed dividends Shs millions",
+      "7": "Total Shs million",
+      "1": NaN
     },
     {
-      "Year ended 31 December 2013": null,
-      "Notes": null,
-      "Share\ncapital\nShs million": "-\n-",
-      "Regulatory\nreserve\nShs million": "-\n-",
-      "Other\nreserve\nShs million": "-\n(195)",
-      "Retained\nearnings\nShs million": "7,623\n246",
-      "Proposed\ndividends\nShs millions": "-\n-",
-      "Total\nShs million": "7,623\n51"
+      "item": "At start of year Total comprehensive income for the year Profit for the year Other comprehensive income Transfers Transactions with owners: Dividends to equity holders - final for 2012 paid - interim for 2013 paid - proposed final for 2013 At end of year 31",
+      "2": "2,716",
+      "3": "1,461",
+      "4": "(206)",
+      "5": "21,813",
+      "6": "3,802",
+      "7": "29,586",
+      "1": NaN
     },
     {
-      "Year ended 31 December 2013": null,
-      "Notes": null,
-      "Share\ncapital\nShs million": "-\n-\n-\n-\n-\n____________\n2,716",
-      "Regulatory\nreserve\nShs million": "-\n(488)\n-\n-\n-\n____________\n973",
-      "Other\nreserve\nShs million": "(195)\n-\n-\n-\n-\n____________\n(401)",
-      "Retained\nearnings\nShs million": "7,869\n488\n-\n(1,086)\n(2,716)\n____________\n26,368",
-      "Proposed\ndividends\nShs millions": "-\n-\n(3,802)\n-\n2,716\n____________\n2,716",
-      "Total\nShs million": "7,674\n-\n(3,802)\n(1,086)\n-\n____________\n32,372"
+      "item": "None None",
+      "2": "- -",
+      "3": "- -",
+      "4": "- (195)",
+      "5": "7,623 246",
+      "6": "- -",
+      "7": "7,623 51",
+      "1": NaN
+    },
+    {
+      "item": "Year ended 31 December 2014",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "1": NaN
+    },
+    {
+      "item": "At start of year Total comprehensive income for the year Profit for the year Other comprehensive income Transfers Transactions with owners: Dividends to equity holders - final for 2013 paid - proposed for 2014 At end of year 31",
+      "2": "2,716",
+      "3": "973",
+      "4": "(401)",
+      "5": "26,368",
+      "6": "2,716",
+      "7": "32,372",
+      "1": NaN
+    },
+    {
+      "item": "Year ended 31 December 2013",
+      "2": "Share capital Shs million",
+      "3": "Regulatory reserve Shs million",
+      "4": "Other reserve Shs million",
+      "5": "Retained earnings Shs million",
+      "6": "Proposed dividends Shs millions",
+      "7": "Total Shs million",
+      "1": "Notes"
+    },
+    {
+      "item": "At start of the year Total comprehensive income for the year Profit for the year Other comprehensive income Transfers Transactions with owners: Dividends to equity holders - final for 2012 paid - interim for 2013 paid - proposed final for 2013 At end of year",
+      "2": "2,716",
+      "3": "1,461",
+      "4": "(206)",
+      "5": "21,813",
+      "6": "3,802",
+      "7": "29,586",
+      "1": ""
+    },
+    {
+      "item": "None",
+      "2": "- -",
+      "3": "- -",
+      "4": "- (195)",
+      "5": "7,623 246",
+      "6": "- -",
+      "7": "7,623 51",
+      "1": ""
+    },
+    {
+      "item": "At start of year Total comprehensive income for the year Profit for the year Other comprehensive income Transfers Transactions with owners: Dividends to equity holders - final for 2013 paid - proposed for 2014 At end of year",
+      "2": "2,716",
+      "3": "973",
+      "4": "(401)",
+      "5": "26,368",
+      "6": "2,716",
+      "7": "32,372",
+      "1": ""
     }
   ]
 }

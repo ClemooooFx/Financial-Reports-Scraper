@@ -1,33 +1,80 @@
 {
-  "title": "Consolidated statement of cash flows At 31 December Notes 2014 2013",
+  "title": "Consolidated statement of cash flows — At 31 December Notes 2014 2013",
   "units": "a",
   "pages": [
     69,
     125,
-    125
+    126,
+    127,
+    128
   ],
-  "extracted_at": "2025-11-27T10:22:59.420504",
+  "extracted_at": "2025-11-28T19:13:24.947077",
   "data": [
     {
-      "At 31 December": "Net cash flows from operating activities\nCash flows from investing activities\nPurchase of property and equipment\nPurchase of intangibles\nNet cash used in investing activities\nCash flows from financing activities\nDividends paid\nRepayment of borrowings\nNet cash used in financing activities\nNet increase/(decrease) in cash and cash equivalents\nCash and cash equivalents at start of year\nCash and cash equivalents at end of year",
-      "Notes": "35(a)\n20\n21\n35(b)\n35(b)",
-      "2014\nShs million": "9,333\n______________\n(683)\n(80)\n______________\n(763)\n______________\n(2,716)\n(992)\n______________\n(3,708)\n______________\n4,862\n1,679\n______________\n6,541",
-      "2013\nShs million": "3,814\n______________\n(656)\n(17)\n______________\n(673)\n______________\n(4,888)\n(1,390)\n______________\n(6,278)\n______________\n(3,137)\n4,816\n______________\n1,679",
-      "": NaN
+      "item": "At 31 December Notes",
+      "2": "2014 Shs million",
+      "3": "2013 Shs million",
+      "1": NaN
     },
     {
-      "At 31 December": NaN,
-      "Notes": NaN,
-      "2014\nShs million": "12,293\n487\n583\n1,405\n(2)\n104\n(8,466)\n4,497\n(6,999)\n(4,146)\n(1,982)\n13,654\n1,630\n(3,725)\n______________\n9,333",
-      "2013\nShs million": "11,134\n537\n611\n1,223\n(384)\n(658)\n(15,381)\n(319)\n(860)\n(814)\n476\n13,210\n(248)\n(4,713)\n______________\n3,814",
-      "": "Profit before taxation\nAdjustment for non cash items:\nDepreciation (Note 10)\nAmortisation of intangibles assets (Note 10)\nCredit impairment charge (Note 18)\nFair value gain on financial assets designated at FVTP&L\nOther non cash items\nChanges in operating assets and liabilities\nLoans and advances to customers\nAvailable for sale securities maturing after 90 days\nBalances with Central Bank of Kenya\nFinancial assets at FVTPL\nOther assets and prepaid expenses\nCustomer deposits\nOther liabilities and accrued expenses\nIncome tax paid\nNet cash from operating activities"
+      "item": "Net cash flows from operating activities Cash flows from investing activities Purchase of property and equipment Purchase of intangibles Net cash used in investing activities Cash flows from financing activities Dividends paid Repayment of borrowings Net cash used in financing activities Net increase/(decrease) in cash and cash equivalents Cash and cash equivalents at start of year Cash and cash equivalents at end of year 35(a) 20 21 35(b) 35(b)",
+      "2": "9,333 ______________ (683) (80) ______________ (763) ______________ (2,716) (992) ______________ (3,708) ______________ 4,862 1,679 ______________ 6,541",
+      "3": "3,814 ______________ (656) (17) ______________ (673) ______________ (4,888) (1,390) ______________ (6,278) ______________ (3,137) 4,816 ______________ 1,679",
+      "1": NaN
     },
     {
-      "At 31 December": NaN,
-      "Notes": NaN,
-      "2014\nShs million": "6,956\n8,109\n799\n4,755\n1,207\n(1,873)\n(13,291)\n(121)\n______________\n6,541",
-      "2013\nShs million": "6,295\n5\n870\n9,129\n1,386\n(2,508)\n(8,760)\n(4,738)\n______________\n1,679",
-      "": "Cash in hand (Note 14)\nAvailable-for-sale securities maturing within ninety days (Note 16)\nItems in the course of collection from banks\nDue from group companies (Note 36)\nDeposit and balances due from banking institutions (Note 17)\nItems in the course of collection to banks\nDue to group companies (Note 36)\nDeposits and balances due to banking institutions (Note 24)"
+      "item": "",
+      "2": "2013 Shs million",
+      "3": NaN,
+      "1": "2014 Shs million"
+    },
+    {
+      "item": "Profit before taxation Adjustment for non cash items: Depreciation (Note 10) Amortisation of intangibles assets (Note 10) Credit impairment charge (Note 18) Fair value gain on financial assets designated at FVTP&L Other non cash items Changes in operating assets and liabilities Loans and advances to customers Available for sale securities maturing after 90 days Balances with Central Bank of Kenya Financial assets at FVTPL Other assets and prepaid expenses Customer deposits Other liabilities and accrued expenses Income tax paid Net cash from operating activities",
+      "2": "11,134 537 611 1,223 (384) (658) (15,381) (319) (860) (814) 476 13,210 (248) (4,713) ______________ 3,814",
+      "3": NaN,
+      "1": "12,293 487 583 1,405 (2) 104 (8,466) 4,497 (6,999) (4,146) (1,982) 13,654 1,630 (3,725) ______________ 9,333"
+    },
+    {
+      "item": "Cash in hand (Note 14) Available-for-sale securities maturing within ninety days (Note 16) Items in the course of collection from banks Due from group companies (Note 36) Deposit and balances due from banking institutions (Note 17) Items in the course of collection to banks Due to group companies (Note 36) Deposits and balances due to banking institutions (Note 24)",
+      "2": "6,295 5 870 9,129 1,386 (2,508) (8,760) (4,738) ______________ 1,679",
+      "3": NaN,
+      "1": "6,956 8,109 799 4,755 1,207 (1,873) (13,291) (121) ______________ 6,541"
+    },
+    {
+      "item": "Due from: Barclays Bank Plc Barclays Africa Group Limited Other group companies Interest income earned on the above Due to: Barclays Bank Plc Barclays Africa Group Limited Other group companies Interest expense incurred on the above",
+      "2": "6,443 2,645 41 ______________ 9,129 35 5,511 3,026 223 ______________ 8,760 30",
+      "3": NaN,
+      "1": "1,666 1,900 1,189 ______________ 4,755 41 2,418 10,318 555 ______________ 13,291 31"
+    },
+    {
+      "item": "Barclays Bank Plc Barclays Africa Group Limited",
+      "2": "453 335",
+      "3": NaN,
+      "1": "429 353"
+    },
+    {
+      "item": "At the start of the year Amounts advanced during the year Repayments received At the end of year",
+      "2": "113 - (71) ______________ 42",
+      "3": NaN,
+      "1": "42 - (4) ______________ 38"
+    },
+    {
+      "item": "Key management compensation Salaries and other short –term employment benefits Directors emoluments - Fees for services as directors - Other emoluments (included in key management compensation above) - Barclays Plc share options scheme (amount recharged to Barclays Bank of Kenya)",
+      "2": "387 15 120 13",
+      "3": NaN,
+      "1": "462 25 95 3"
+    },
+    {
+      "item": "Rent expense Interest on fixed and time deposits Dividends on Barclays Bank of Kenya shares",
+      "2": "66 21 14",
+      "3": NaN,
+      "1": "65 13 -"
+    },
+    {
+      "item": "Investment balances",
+      "2": "911",
+      "3": NaN,
+      "1": "90"
     }
   ]
 }
