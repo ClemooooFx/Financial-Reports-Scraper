@@ -1,7 +1,8 @@
 """
-Financial Statements Extractor using Camelot
+Financial Statements Extractor using Camelot with OCR Support
 Extracts Consolidated Financial Statements from Annual Report PDFs
 Uses Camelot for accurate table detection with both text and numbers
+Supports OCR for image-based PDFs using Tesseract
 """
 
 import camelot
@@ -13,6 +14,8 @@ from datetime import datetime
 import argparse
 from typing import Dict, List, Optional
 import logging
+import subprocess
+import os
 
 # Set up logging
 logging.basicConfig(
@@ -23,8 +26,20 @@ logger = logging.getLogger(__name__)
 
 
 class FinancialStatementsExtractor:
-    def __init__(self, base_dir="reports"):
+    def __init__(self, base_dir="reports", use_ocr=True):
         self.base_dir = Path(base_dir)
+        self.use_ocr = use_ocr
+        
+        # Check if Tesseract is available
+        if use_ocr:
+            try:
+                result = subprocess.run(['tesseract', '--version'], 
+                                      capture_output=True, text=True)
+                logger.info(f"  Tesseract OCR available: {result.stdout.split()[1]}")
+            except FileNotFoundError:
+                logger.warning("  Tesseract not found. OCR will be disabled.")
+                logger.warning("  Install: sudo apt-get install tesseract-ocr (Ubuntu)")
+                self.use_ocr = False
         
         # Target only consolidated statements
         self.statement_keywords = {
@@ -54,7 +69,56 @@ class FinancialStatementsExtractor:
             'consolidated_cashflow': ['cash flow', 'operating', 'investing', 'financing']
         }
         
-    def extract_page_text(self, pdf_path: Path, page_num: int) -> str:
+    def is_image_based_pdf(self, pdf_path: Path) -> bool:
+        """Check if PDF is image-based (scanned)"""
+        try:
+            import fitz
+            doc = fitz.open(pdf_path)
+            # Check first 3 pages
+            for page_num in range(min(3, len(doc))):
+                page = doc[page_num]
+                text = page.get_text().strip()
+                # If page has very little text, likely image-based
+                if len(text) < 100:
+                    doc.close()
+                    return True
+            doc.close()
+            return False
+        except:
+            return False
+    
+    def extract_tables_with_ocr(self, pdf_path: Path) -> List:
+        """Extract tables using OCR for image-based PDFs"""
+        try:
+            # First convert PDF to images, then use OCR
+            logger.info(f"  Using OCR mode for image-based PDF...")
+            
+            # Use pdf-backend for OCR
+            tables = camelot.read_pdf(
+                str(pdf_path),
+                pages='all',
+                flavor='lattice',
+                backend='ghostscript',
+                line_scale=40,
+                copy_text=['v'],
+                strip_text=' \n'
+            )
+            
+            if len(tables) == 0:
+                # Try stream mode with OCR
+                tables = camelot.read_pdf(
+                    str(pdf_path),
+                    pages='all',
+                    flavor='stream',
+                    backend='ghostscript',
+                    edge_tol=50,
+                    strip_text=' \n'
+                )
+            
+            return tables
+        except Exception as e:
+            logger.error(f"  OCR extraction failed: {e}")
+            return []
         """Extract text from a specific page using PyMuPDF"""
         try:
             import fitz
@@ -218,26 +282,45 @@ class FinancialStatementsExtractor:
         }
         
         try:
-            logger.info(f"  Extracting tables with Camelot...")
+            # Check if PDF is image-based
+            is_image_pdf = self.use_ocr and self.is_image_based_pdf(pdf_path)
             
-            # Try lattice mode first (better for bordered tables)
-            try:
-                tables = camelot.read_pdf(
-                    str(pdf_path), 
-                    pages='all', 
-                    flavor='lattice',
-                    line_scale=40
-                )
-                logger.info(f"  Found {len(tables)} tables using lattice mode")
-            except Exception as e:
-                logger.warning(f"  Lattice mode failed, trying stream mode")
-                tables = camelot.read_pdf(
-                    str(pdf_path), 
-                    pages='all', 
-                    flavor='stream',
-                    edge_tol=50
-                )
-                logger.info(f"  Found {len(tables)} tables using stream mode")
+            if is_image_pdf:
+                logger.info(f"  Detected image-based PDF, using OCR...")
+                tables = self.extract_tables_with_ocr(pdf_path)
+            else:
+                logger.info(f"  Extracting tables with Camelot...")
+                
+                # Try lattice mode first (better for bordered tables)
+                try:
+                    tables = camelot.read_pdf(
+                        str(pdf_path), 
+                        pages='all', 
+                        flavor='lattice',
+                        line_scale=40,
+                        strip_text=' \n'
+                    )
+                    logger.info(f"  Found {len(tables)} tables using lattice mode")
+                except Exception as e:
+                    logger.warning(f"  Lattice mode failed, trying stream mode")
+                    try:
+                        tables = camelot.read_pdf(
+                            str(pdf_path), 
+                            pages='all', 
+                            flavor='stream',
+                            edge_tol=50,
+                            strip_text=' \n'
+                        )
+                        logger.info(f"  Found {len(tables)} tables using stream mode")
+                    except Exception as e2:
+                        # Last resort: use OCR backend
+                        if self.use_ocr:
+                            logger.warning(f"  Stream mode failed, using OCR backend")
+                            tables = self.extract_tables_with_ocr(pdf_path)
+                            logger.info(f"  Found {len(tables)} tables using OCR")
+                        else:
+                            logger.error(f"  All extraction methods failed")
+                            return None
             
             # Process each table
             for idx, table in enumerate(tables):
@@ -506,10 +589,14 @@ def main():
     parser.add_argument('--batch', type=int, default=None, help='Batch number')
     parser.add_argument('--batch-size', type=int, default=10, help='PDFs per batch')
     parser.add_argument('--force', action='store_true', help='Force reprocess all PDFs')
+    parser.add_argument('--no-ocr', action='store_true', help='Disable OCR for image-based PDFs')
     
     args = parser.parse_args()
     
-    extractor = FinancialStatementsExtractor(base_dir="reports")
+    extractor = FinancialStatementsExtractor(
+        base_dir="reports",
+        use_ocr=not args.no_ocr
+    )
     extractor.run(
         batch_size=args.batch_size,
         force_reprocess=args.force,
