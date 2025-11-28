@@ -1,0 +1,256 @@
+{
+  "title": "CONSOLIDATED INCOME STATEMENT 30.06.13 30.06.12",
+  "units": "decrease",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T19:40:42.324897",
+  "data": [
+    {
+      "item": "CONSOLIDATED INCOME STATEMENT",
+      "1": "30.06.13",
+      "2": "30.06.12",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "Ksh.’000",
+      "2": "Ksh.’000",
+      "3": ""
+    },
+    {
+      "item": "Turnover",
+      "1": "6,499,126",
+      "2": "5,073,987",
+      "3": "28%"
+    },
+    {
+      "item": "Profit Before Tax",
+      "1": "1,015,317",
+      "2": "790,962",
+      "3": "28%"
+    },
+    {
+      "item": "Taxation",
+      "1": "(312,492)",
+      "2": "(240,779)",
+      "3": ""
+    },
+    {
+      "item": "Profit After Tax",
+      "1": "702,825",
+      "2": "550,183",
+      "3": "28%"
+    },
+    {
+      "item": "Non Controlling Interests",
+      "1": "132",
+      "2": "(2,135)",
+      "3": ""
+    },
+    {
+      "item": "Profit Attributable to Shareholders of Parent Company",
+      "1": "702,693",
+      "2": "552,318",
+      "3": "27%"
+    },
+    {
+      "item": "Annualised Earning Per Share (Ksh.)",
+      "1": "2.83",
+      "2": "2.23",
+      "3": "27%"
+    },
+    {
+      "item": "CONSOLIDATED STATEMENT OF FINANCIAL",
+      "1": "UNAUDITED",
+      "2": "AUDITED",
+      "3": ""
+    },
+    {
+      "item": "POSITION AS AT",
+      "1": "30.06.2013",
+      "2": "31.12.2012",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "Ksh.’000",
+      "2": "Ksh.’000",
+      "3": ""
+    },
+    {
+      "item": "Share Capital",
+      "1": "495,275",
+      "2": "495,275",
+      "3": ""
+    },
+    {
+      "item": "Share Premium",
+      "1": "302,027",
+      "2": "302,027",
+      "3": ""
+    },
+    {
+      "item": "Capital and Other Reserves",
+      "1": "6,920,893",
+      "2": "6,216,469",
+      "3": ""
+    },
+    {
+      "item": "Equity attributable to equity holders of parent Company",
+      "1": "7,718,195",
+      "2": "7,013,771",
+      "3": ""
+    },
+    {
+      "item": "Non - Controlling interest",
+      "1": "106,881",
+      "2": "106,749",
+      "3": ""
+    },
+    {
+      "item": "Total Capital and reserves",
+      "1": "7,825,076",
+      "2": "7,120,520",
+      "3": ""
+    },
+    {
+      "item": "Non Current Liabilities",
+      "1": "14,144,280",
+      "2": "13,329,740",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "21,969,356",
+      "2": "20,450,260",
+      "3": ""
+    },
+    {
+      "item": "Assets",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "Non Current Assets",
+      "1": "20,729,010",
+      "2": "19,016,690",
+      "3": ""
+    },
+    {
+      "item": "Working Capital:",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "Current Assets",
+      "1": "7,120,560",
+      "2": "7,936,410",
+      "3": ""
+    },
+    {
+      "item": "Current Liabilities",
+      "1": "5,880,214",
+      "2": "6,502,840",
+      "3": ""
+    },
+    {
+      "item": "Net Working Capital",
+      "1": "1,240,346",
+      "2": "1,433,570",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "21,969,356",
+      "2": "20,450,260",
+      "3": ""
+    },
+    {
+      "item": "CONSOLIDATED CASH FLOW FOR SIX MONTHS ENDED",
+      "1": "30.06.13",
+      "2": "30.06.12",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "Ksh.’000",
+      "2": "Ksh.’000",
+      "3": ""
+    },
+    {
+      "item": "Cash Generated before working capital changes",
+      "1": "1,573,994",
+      "2": "1,149,299",
+      "3": ""
+    },
+    {
+      "item": "Working Capital Changes",
+      "1": "432,716",
+      "2": "(521,467)",
+      "3": ""
+    },
+    {
+      "item": "Cash Generated from operations",
+      "1": "2,006,710",
+      "2": "627,832",
+      "3": ""
+    },
+    {
+      "item": "Net Interest",
+      "1": "(183,594)",
+      "2": "(157,104)",
+      "3": ""
+    },
+    {
+      "item": "Tax Paid",
+      "1": "(176,232)",
+      "2": "-",
+      "3": ""
+    },
+    {
+      "item": "Net Cash from Operating Activities",
+      "1": "1,646,884",
+      "2": "470,728",
+      "3": ""
+    },
+    {
+      "item": "Net Cash used in Investing Activities",
+      "1": "(2,019,467)",
+      "2": "(1,102,235)",
+      "3": ""
+    },
+    {
+      "item": "Net Cash from Financing Activities",
+      "1": "253,156",
+      "2": "312,859",
+      "3": ""
+    },
+    {
+      "item": "Increase/(Decrease) in Cash and Cash Equivalents",
+      "1": "(119,427)",
+      "2": "(318,648)",
+      "3": ""
+    },
+    {
+      "item": "At start of the Period",
+      "1": "2,591,274",
+      "2": "337,133",
+      "3": ""
+    },
+    {
+      "item": "Exchange rate changes",
+      "1": "(65,439)",
+      "2": "50,194",
+      "3": ""
+    },
+    {
+      "item": "At end of the Period",
+      "1": "2,406,408",
+      "2": "68,680",
+      "3": ""
+    }
+  ]
+}
