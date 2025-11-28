@@ -147,7 +147,7 @@ class FinancialStatementsExtractor:
             return None
 
         # Normalize each cell: replace internal newlines with space and strip
-        df = df.applymap(lambda x: re.sub(r'\s+', ' ', str(x)).strip() if pd.notna(x) else '')
+        df = df.map(lambda x: re.sub(r'\s+', ' ', str(x)).strip() if pd.notna(x) else '')
 
         # Heuristic: identify which columns are primarily numeric vs textual
         numeric_cols = []
