@@ -1,0 +1,60 @@
+{
+  "title": "Summarised consolidated income statement Summarised consolidated statement of financial position — For the year ended 31 December 2024 As at 31 December 2024",
+  "units": "used",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-28T22:58:13.069038",
+  "data": [
+    {
+      "item": "Summarised consolidated income statement",
+      "0": "",
+      "1": "Summarised consolidated income statement"
+    },
+    {
+      "item": "None For the year ended 31 December 2024 None",
+      "0": "None",
+      "1": "For the year ended 31 December 2024"
+    },
+    {
+      "item": "2024 2023 KShs ‘000 KShs ‘000 Revenue 1,204,201 1,539,342 Earnings before investment 222,479 269,715 income and taxes Other income 72,975 39,366 Profit before tax 295,454 309,081 Income tax expense (83,807) (111,023) Profit for the year 211,647 198,058 Basic earnings per share Kshs. 10.84 Kshs. 10.14 None None",
+      "0": "2024 2023 KShs ‘000 KShs ‘000 Revenue 1,204,201 1,539,342 Earnings before investment 222,479 269,715 income and taxes Other income 72,975 39,366 Profit before tax 295,454 309,081 Income tax expense (83,807) (111,023) Profit for the year 211,647 198,058 Basic earnings per share Kshs. 10.84 Kshs. 10.14",
+      "1": "None"
+    },
+    {
+      "item": "Summarised consolidated statement of financial position",
+      "0": "",
+      "1": "Summarised consolidated statement of financial position"
+    },
+    {
+      "item": "None As at 31 December 2024 None",
+      "0": "None",
+      "1": "As at 31 December 2024"
+    },
+    {
+      "item": "2024 2023 KShs ‘000 KShs ‘000 ASSETS Non-current assets 835,079 766,474 Current assets 1,415,281 1,391,341 Total assets 2,250,360 2,157,815 EQUITY AND LIABILITIES Share capital 97,627 97,627 Share premium and other 234,681 138,057 reserves Retained earnings 1,616,516 1,571,812 Total equity 1,948,824 1,807,496 Non-current liabilities 7,563 7,624 Current liabilities 293,973 342,695 Total liabilities 301,536 350,319 Total equity and liabilities 2,250,360 2,157,815 None None",
+      "0": "2024 2023 KShs ‘000 KShs ‘000 ASSETS Non-current assets 835,079 766,474 Current assets 1,415,281 1,391,341 Total assets 2,250,360 2,157,815 EQUITY AND LIABILITIES Share capital 97,627 97,627 Share premium and other 234,681 138,057 reserves Retained earnings 1,616,516 1,571,812 Total equity 1,948,824 1,807,496 Non-current liabilities 7,563 7,624 Current liabilities 293,973 342,695 Total liabilities 301,536 350,319 Total equity and liabilities 2,250,360 2,157,815",
+      "1": "None"
+    },
+    {
+      "item": "Summarised consolidated statement of cash flows",
+      "0": "",
+      "1": "Summarised consolidated statement of cash flows"
+    },
+    {
+      "item": "2024 2023 Kshs’000 Kshs’000 Cash generated from 330,499 474,212 operations Tax paid (162,335) (50,547) Net cash from operating 168,164 423,665 activities Cash received/(used) in 47,584 20,606 investing activities Net cash used in financing (167,995) (87,940) activities Increase/(decrease) in cash 47,753 356,331 and cash equivalents At beginning of the period 633,449 277,118 Net increase/(decrease) 47,753 356,331 Effect of exchange rates (4,359) - At the end of the period 676,843 633,449 None None",
+      "0": "2024 2023 Kshs’000 Kshs’000 Cash generated from 330,499 474,212 operations Tax paid (162,335) (50,547) Net cash from operating 168,164 423,665 activities Cash received/(used) in 47,584 20,606 investing activities Net cash used in financing (167,995) (87,940) activities Increase/(decrease) in cash 47,753 356,331 and cash equivalents At beginning of the period 633,449 277,118 Net increase/(decrease) 47,753 356,331 Effect of exchange rates (4,359) - At the end of the period 676,843 633,449",
+      "1": "None"
+    },
+    {
+      "item": "Summarised consolidated statement of changes in equity",
+      "0": "",
+      "1": "Summarised consolidated statement of changes in equity"
+    },
+    {
+      "item": "2024 2023 Kshs’000 Kshs’000 At 1 January 1,807,497 1,661,628 Net profit for the year 211,647 198,058 Change in available for 100,980 44,550 sale financial assets Currency translation (4,357) (9,852) Dividends (166,943) (86,888) 1,948,824 1,807,497 At 31 December None None",
+      "0": "2024 2023 Kshs’000 Kshs’000 At 1 January 1,807,497 1,661,628 Net profit for the year 211,647 198,058 Change in available for 100,980 44,550 sale financial assets Currency translation (4,357) (9,852) Dividends (166,943) (86,888) 1,948,824 1,807,497 At 31 December",
+      "1": "None"
+    }
+  ]
+}
