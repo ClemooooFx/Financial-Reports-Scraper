@@ -1,0 +1,898 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "general",
+  "pages": [
+    6,
+    7,
+    15,
+    16,
+    17,
+    19,
+    20
+  ],
+  "extracted_at": "2025-11-28T19:52:28.275087",
+  "data": [
+    {
+      "item": "ARM or the Company ARM Cement PLC a public limited liability company (incorporated in Kenya under registration number C. 19/97), listed on the NSE",
+      "1": "ARM Cement PLC a public limited liability company (incorporated in Kenya under registration number C. 19/97), listed on the NSE",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "ARM Energy ARM Energy Limited a company incorporated in Kenya under registration number CPR/2009/6820 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 – 00100 Nairobi, Kenya",
+      "1": "ARM Energy Limited a company incorporated in Kenya under registration number CPR/2009/6820 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 – 00100 Nairobi, Kenya",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "ARM ESOP The Company’s Employee Share Option Plan",
+      "1": "The Company’s Employee Share Option Plan",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "ARM Minerals ARM Minerals and Chemicals Limited a company incorporated in Kenya under registration number C. 163805 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 –00100 Nairobi, Kenya",
+      "1": "ARM Minerals and Chemicals Limited a company incorporated in Kenya under registration number C. 163805 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 –00100 Nairobi, Kenya",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Articles of Association the articles of association of the Company as amended from time to time",
+      "1": "the articles of association of the Company as amended from time to time",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "BATAs the IM and Fertilisers BATA, the Mining BATA and the Silicates BATA",
+      "1": "the IM and Fertilisers BATA, the Mining BATA and the Silicates BATA",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Board the board of directors of the Company for the time being",
+      "1": "the board of directors of the Company for the time being",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "CAK the Competition Authority of Kenya or its successor body",
+      "1": "the Competition Authority of Kenya or its successor body",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Cash any (non-operating) cash or cash-like items as per the statement of financial position as at the date of completion of the SPA.",
+      "1": "any (non-operating) cash or cash-like items as per the statement of financial position as at the date of completion of the SPA.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Circular this Shareholders Circular.",
+      "1": "this Shareholders Circular.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "CMA the Capital Markets Authority of Kenya.",
+      "1": "the Capital Markets Authority of Kenya.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Companies’ Act the Companies Act (Act No.17 of 2015)",
+      "1": "the Companies Act (Act No.17 of 2015)",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Companies' Regulations the Companies (General) Regulations, 2015, (Legal Notice No.239);",
+      "1": "the Companies (General) Regulations, 2015, (Legal Notice No.239);",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Director a director of the Company",
+      "1": "a director of the Company",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Debt any debt or debt – like items (including interest bearing debt, intercompany debt, etc.) as per statement of financial position at the SPA Completion Date but excludes moneys due under the IM and Fertilisers BATA from Mavuno to ARM for inventory transferred therein",
+      "1": "any debt or debt – like items (including interest bearing debt, intercompany debt, etc.) as per statement of financial position at the SPA Completion Date but excludes moneys due under the IM and Fertilisers BATA from Mavuno to ARM for inventory transferred therein",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "EGM the extraordinary general meeting of the Company to be held on [ ] 2017.",
+      "1": "the extraordinary general meeting of the Company to be held on [ ] 2017.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "FertilisersBusiness ARM’s businessof importing, blending and trading in fertilisers.",
+      "1": "ARM’s businessof importing, blending and trading in fertilisers.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "IMand FertilisersBATA the business and assets transfer agreement for the IM Business and Fertilisers Business entered into between ARM and Mavuno",
+      "1": "the business and assets transfer agreement for the IM Business and Fertilisers Business entered into between ARM and Mavuno",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "IM Business ARM’s business of manufacturing and trading in industrial minerals",
+      "1": "ARM’s business of manufacturing and trading in industrial minerals",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "KES or K.Sh Kenya Shilling, the lawful currency of the Republic of Kenya",
+      "1": "Kenya Shilling, the lawful currency of the Republic of Kenya",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Mavuno Mavuno Fertilizers Limited a company incorporated in Kenya under registration number C. 109783 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 – 00100 Nairobi, Kenya",
+      "1": "Mavuno Fertilizers Limited a company incorporated in Kenya under registration number C. 109783 with its registered office at L. R. No. 209/74/7/2, Chiromo Road Westlands P.O. Box 41908 – 00100 Nairobi, Kenya",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Mining BATA the business and transfer agreement for the Mining Business entered into between ARM,ARM Mineralsand Mavuno.",
+      "1": "the business and transfer agreement for the Mining Business entered into between ARM,ARM Mineralsand Mavuno.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Mining Business ARM’s mining business, the mining licences, the special licences, the mining operations, assets and employees involved in the mining business",
+      "1": "ARM’s mining business, the mining licences, the special licences, the mining operations, assets and employees involved in the mining business",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Non-CementBusinesses means the IM Business, the Fertilisers Business, the Mining Business and the Silicates Business",
+      "1": "means the IM Business, the Fertilisers Business, the Mining Business and the Silicates Business",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Omya Omya (Schweiz) AG, a company incorporated in Switzerland with company number CHE- 110.344.938 whose registered address is at Baslerstrasse 42, 4665, Oftringen, Switzerland",
+      "1": "Omya (Schweiz) AG, a company incorporated in Switzerland with company number CHE- 110.344.938 whose registered address is at Baslerstrasse 42, 4665, Oftringen, Switzerland",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "PHL Mauritius Pinner Heights Ltd (Company Number 116937) a GBC2 company incorporated under the laws of the Republic of Mauritius",
+      "1": "Pinner Heights Ltd (Company Number 116937) a GBC2 company incorporated under the laws of the Republic of Mauritius",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "PHLKenya Pinner Heights Kenya Limited (Company Number PVT-3QUDADK) a private company limited by shares incorporated under the laws of the Republic of Kenya",
+      "1": "Pinner Heights Kenya Limited (Company Number PVT-3QUDADK) a private company limited by shares incorporated under the laws of the Republic of Kenya",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Pre–Sale Restructuring the transaction structure described in paragraph 5.1of Part 4.3",
+      "1": "the transaction structure described in paragraph 5.1of Part 4.3",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Purchasers Omya and PHLKenyacollectively",
+      "1": "Omya and PHLKenyacollectively",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "PoS Regulations the Capital Markets (Securities) (Public Offers, Listing and Disclosures) Regulations, 2002",
+      "1": "the Capital Markets (Securities) (Public Offers, Listing and Disclosures) Regulations, 2002",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Sale Shares means 132,929 redeemable preference shares with a par value of KES 100/- per share and share premium of KES 9,900/- per share and 100 ordinary shares each at a par value of KES 100/-per share, comprising 100% of the issued share capital of Mavuno FertilisersLimited",
+      "1": "means 132,929 redeemable preference shares with a par value of KES 100/- per share and share premium of KES 9,900/- per share and 100 ordinary shares each at a par value of KES 100/-per share, comprising 100% of the issued share capital of Mavuno FertilisersLimited",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Shareholder a shareholder in the Company",
+      "1": "a shareholder in the Company",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Silicate Back to Back the share purchase agreement entered into between Omya and PHL Kenya in respect of the sale of 100% of the issued share capital in ARM EnergyLimited.",
+      "1": "the share purchase agreement entered into between Omya and PHL Kenya in respect of the sale of 100% of the issued share capital in ARM EnergyLimited.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Silicates BATA the businessand transfer agreement for the Silicates Business entered into between ARM ,ARM Energyand Mavuno.",
+      "1": "the businessand transfer agreement for the Silicates Business entered into between ARM ,ARM Energyand Mavuno.",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Silicates Business ARM’s silicates business, employees and assets of the sodium silicate business",
+      "1": "ARM’s silicates business, employees and assets of the sodium silicate business",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "SPA means the share purchase agreement entered into between the Purchasers and ARM for the sale and transfer by ARM of the Sale Shares to the Purchasers",
+      "1": "means the share purchase agreement entered into between the Purchasers and ARM for the sale and transfer by ARM of the Sale Shares to the Purchasers",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "USDor $ United States Dollar, the lawful currency of the United States of America",
+      "1": "United States Dollar, the lawful currency of the United States of America",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Omya (Schweiz) AG None None",
+      "1": NaN,
+      "0": "Omya (Schweiz) AG",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "0": "None",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "100%",
+      "1": NaN,
+      "0": "100%",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "ARM CEMENT PLC -GROUP None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "None",
+      "5": "None",
+      "8": "None",
+      "3": NaN
+    },
+    {
+      "item": "Balance Sheet as at 31st August 2017 None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "None",
+      "5": "None",
+      "8": "None",
+      "3": NaN
+    },
+    {
+      "item": "None Balance Sheet as at 31st August 2017 None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "None",
+      "5": "None",
+      "8": "None",
+      "3": NaN
+    },
+    {
+      "item": "ARM GROUP ARM GROUP NON- ARM GROUP",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "None None BEFORE DEAL None CEMENT None PROFORMA None",
+      "1": NaN,
+      "0": NaN,
+      "2": "None",
+      "5": "None",
+      "8": "None",
+      "3": NaN
+    },
+    {
+      "item": "None 31.08.2017 None ADJUSTMENT None AFTER DEAL None",
+      "1": NaN,
+      "0": NaN,
+      "2": "31.08.2017",
+      "5": "ADJUSTMENT",
+      "8": "AFTER DEAL",
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "KES'000",
+      "5": "",
+      "8": "KES'000",
+      "3": NaN
+    },
+    {
+      "item": "ASSETS None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "Property Plant And Equipment None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "41,558,142",
+      "5": "(1,417,874)",
+      "8": "40,140,268",
+      "3": NaN
+    },
+    {
+      "item": "Prepaid Operating Lease None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "156,325",
+      "5": "",
+      "8": "156,325",
+      "3": NaN
+    },
+    {
+      "item": "Goodwill None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "71,012",
+      "5": "",
+      "8": "71,012",
+      "3": NaN
+    },
+    {
+      "item": "CURRENT ASSETS None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "Stocks None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "2,613,454",
+      "5": "(712,366)",
+      "8": "1,901,088",
+      "3": NaN
+    },
+    {
+      "item": "Trade And Other Receivables None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "4,135,468",
+      "5": "",
+      "8": "4,135,468",
+      "3": NaN
+    },
+    {
+      "item": "Bank & Cash Balances None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "89,226",
+      "5": "1,444,006",
+      "8": "1,533,232",
+      "3": NaN
+    },
+    {
+      "item": "TOTAL ASSETS None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "48,623,627",
+      "5": "(686,234)",
+      "8": "47,937,393",
+      "3": NaN
+    },
+    {
+      "item": "EQUITY AND LIABILITIES None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "CAPITAL AND RESERVES None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "Share Capital None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "848,940",
+      "5": "",
+      "8": "848,940",
+      "3": NaN
+    },
+    {
+      "item": "Share Premium None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "14,094,970",
+      "5": "",
+      "8": "14,094,970",
+      "3": NaN
+    },
+    {
+      "item": "Capital Reserve None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "10,308,338",
+      "5": "(340,364)",
+      "8": "9,967,974",
+      "3": NaN
+    },
+    {
+      "item": "Revenue Reserves None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "272,449",
+      "5": "(345,870)",
+      "8": "(73,420)",
+      "3": NaN
+    },
+    {
+      "item": "Non-Controlling Interests None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "5,964",
+      "5": "",
+      "8": "5,964",
+      "3": NaN
+    },
+    {
+      "item": "NON CURRENT LIBILITIES None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "Deferred Tax Liability None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "4,381,498",
+      "5": "-",
+      "8": "4,381,498",
+      "3": NaN
+    },
+    {
+      "item": "Long Term Liabilities -Loans None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "6,323,566",
+      "5": "-",
+      "8": "6,323,566",
+      "3": NaN
+    },
+    {
+      "item": "Finance Leases-Long Term None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "-",
+      "5": "",
+      "8": "-",
+      "3": NaN
+    },
+    {
+      "item": "CURRENT LIABILITIES None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "",
+      "5": "",
+      "8": "",
+      "3": NaN
+    },
+    {
+      "item": "Trade And Other Creditors None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "5,233,904",
+      "5": "-",
+      "8": "5,233,904",
+      "3": NaN
+    },
+    {
+      "item": "Short Term Loans None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "7,153,997",
+      "5": "-",
+      "8": "7,153,997",
+      "3": NaN
+    },
+    {
+      "item": "TOTAL EQUITY AND LIABILITIES None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": "48,623,627",
+      "5": "-",
+      "8": "47,937,393",
+      "3": NaN
+    },
+    {
+      "item": "Shareholders Name",
+      "1": NaN,
+      "0": "",
+      "2": "Number of Shares",
+      "5": NaN,
+      "8": NaN,
+      "3": "Percentage Shareholding (%)"
+    },
+    {
+      "item": "Standard Chartered Kenya Nominees A/C Ke002883",
+      "1": NaN,
+      "0": "1.",
+      "2": "353,665,200",
+      "5": NaN,
+      "8": NaN,
+      "3": "36.84"
+    },
+    {
+      "item": "Amanat Investments Limited",
+      "1": NaN,
+      "0": "2.",
+      "2": "137,481,245",
+      "5": NaN,
+      "8": NaN,
+      "3": "14.32"
+    },
+    {
+      "item": "Athi River Mining Employee Share Ownership Plan",
+      "1": NaN,
+      "0": "3.",
+      "2": "131,435,335",
+      "5": NaN,
+      "8": NaN,
+      "3": "13.69"
+    },
+    {
+      "item": "Paunrana Pradeep Harjivandas",
+      "1": NaN,
+      "0": "4.",
+      "2": "89,680,000",
+      "5": NaN,
+      "8": NaN,
+      "3": "9.34"
+    },
+    {
+      "item": "Standard Chartered Nominees Ac Ke15615",
+      "1": NaN,
+      "0": "5.",
+      "2": "21,757,541",
+      "5": NaN,
+      "8": NaN,
+      "3": "2.27"
+    },
+    {
+      "item": "Stanbic Nominees Limited A/C R 57601",
+      "1": NaN,
+      "0": "6.",
+      "2": "7,958,800",
+      "5": NaN,
+      "8": NaN,
+      "3": "2"
+    },
+    {
+      "item": "Standard Chartered Bank A/C Pan African Unit Linked Funds",
+      "1": NaN,
+      "0": "7.",
+      "2": "17,676,409",
+      "5": NaN,
+      "8": NaN,
+      "3": "1.84"
+    },
+    {
+      "item": "Stanbic Nominees Ltd A/C Nr1030820",
+      "1": NaN,
+      "0": "8.",
+      "2": "14,945,300",
+      "5": NaN,
+      "8": NaN,
+      "3": "1.56"
+    },
+    {
+      "item": "Standard Chartered Nominees Non-Resident A/C 9866",
+      "1": NaN,
+      "0": "9.",
+      "2": "14,249,900",
+      "5": NaN,
+      "8": NaN,
+      "3": "1.48"
+    },
+    {
+      "item": "Tannel World Limited",
+      "1": NaN,
+      "0": "10.",
+      "2": "5,834,310",
+      "5": NaN,
+      "8": NaN,
+      "3": "1.46"
+    },
+    {
+      "item": "Others",
+      "1": NaN,
+      "0": "11.",
+      "2": "165,256,160",
+      "5": NaN,
+      "8": NaN,
+      "3": "15.2"
+    },
+    {
+      "item": "Total",
+      "1": NaN,
+      "0": "",
+      "2": "959,940,200",
+      "5": NaN,
+      "8": NaN,
+      "3": "100"
+    },
+    {
+      "item": "DIRECTOR NAME",
+      "1": NaN,
+      "0": "",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. RMAshley None None",
+      "1": NaN,
+      "0": "1.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. P HPaunrana None None",
+      "1": NaN,
+      "0": "2.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. S L Bhatia None None",
+      "1": NaN,
+      "0": "3.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. K Gordhan None None",
+      "1": NaN,
+      "0": "4.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. K P PMeijer None None",
+      "1": NaN,
+      "0": "5.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. L Mususa None None",
+      "1": NaN,
+      "0": "6.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. J Ngumi None None",
+      "1": NaN,
+      "0": "7.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Mr. W Murungi None None",
+      "1": NaN,
+      "0": "8.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Ms. A Shariff None None",
+      "1": NaN,
+      "0": "9.",
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Director Number of Shareholding %",
+      "1": "",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None shares None None",
+      "1": "None",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "PradipkumarHarjivandas Paunrana None None 11%",
+      "1": "89,680,0001",
+      "0": NaN,
+      "2": NaN,
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Amanat Investments Limited (beneficial equity interest of PradipkumarHarjivandasPaunrana)",
+      "1": "128,975,245",
+      "0": NaN,
+      "2": "15%",
+      "5": NaN,
+      "8": NaN,
+      "3": NaN
+    }
+  ]
+}
