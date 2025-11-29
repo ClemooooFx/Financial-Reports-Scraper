@@ -285,27 +285,34 @@ class FinancialStatementsExtractor:
             logger.warning(f"Could not merge tables: {e}")
             return tables[0] if tables else None
 
-    def save_statement_as_json(self, statement_data: Dict, output_path: Path) -> bool:
-        """Save extracted statement (tables) to JSON file"""
+    def save_statement_as_csv(self, statement_data: Dict, output_path: Path) -> bool:
+        """Save extracted statement as CSV file"""
         if not statement_data or not statement_data.get('tables'):
             return False
-
+    
         merged_df = self.merge_statement_tables(statement_data['tables'])
         if merged_df is None or merged_df.empty:
             return False
-
-        output = {
-            'title': statement_data.get('title'),
-            'units': statement_data.get('units'),
-            'pages': statement_data.get('pages'),
-            'extracted_at': datetime.now().isoformat(),
-            'data': merged_df.to_dict(orient='records')
-        }
-
+    
         try:
             output_path.parent.mkdir(parents=True, exist_ok=True)
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(output, f, indent=2, ensure_ascii=False)
+            
+            # Save as CSV
+            merged_df.to_csv(output_path, index=False, encoding='utf-8')
+            
+            # Save metadata as separate JSON
+            metadata_path = output_path.with_suffix('.meta.json')
+            metadata = {
+                'title': statement_data.get('title'),
+                'units': statement_data.get('units'),
+                'pages': statement_data.get('pages'),
+                'extracted_at': datetime.now().isoformat(),
+                'rows': len(merged_df),
+                'columns': list(merged_df.columns)
+            }
+            with open(metadata_path, 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            
             logger.info(f"  ✓ Saved {output_path.name} ({len(merged_df)} rows)")
             return True
         except Exception as e:
@@ -321,10 +328,10 @@ class FinancialStatementsExtractor:
         base_name = pdf_path.stem
 
         output_files = {
-            'balance_sheet': ticker_dir / f"{base_name}-balance-sheet.json",
-            'income_statement': ticker_dir / f"{base_name}-income-statement.json",
-            'cash_flow': ticker_dir / f"{base_name}-cash-flow.json",
-            'equity_changes': ticker_dir / f"{base_name}-equity-changes.json"
+            'balance_sheet': ticker_dir / f"{base_name}-balance-sheet.csv",
+            'income_statement': ticker_dir / f"{base_name}-income-statement.csv",
+            'cash_flow': ticker_dir / f"{base_name}-cash-flow.csv",
+            'equity_changes': ticker_dir / f"{base_name}-equity-changes.csv"
         }
 
         if not force_reprocess and all(f.exists() for f in output_files.values()):
@@ -340,7 +347,7 @@ class FinancialStatementsExtractor:
         results = {}
         for statement_type, statement_data in statements.items():
             output_path = output_files[statement_type]
-            success = self.save_statement_as_json(statement_data, output_path)
+            success = self.save_statement_as_csv(statement_data, output_path)
             results[statement_type] = success
 
         return results
@@ -363,10 +370,10 @@ class FinancialStatementsExtractor:
             base_name = pdf_path.stem
             ticker_dir = pdf_path.parent
             output_files = [
-                ticker_dir / f"{base_name}-balance-sheet.json",
-                ticker_dir / f"{base_name}-income-statement.json",
-                ticker_dir / f"{base_name}-cash-flow.json",
-                ticker_dir / f"{base_name}-equity-changes.json"
+                ticker_dir / f"{base_name}-balance-sheet.csv",
+                ticker_dir / f"{base_name}-income-statement.csv",
+                ticker_dir / f"{base_name}-cash-flow.csv",
+                ticker_dir / f"{base_name}-equity-changes.csv"
             ]
             if not all(f.exists() for f in output_files):
                 unprocessed.append(pdf_path)
