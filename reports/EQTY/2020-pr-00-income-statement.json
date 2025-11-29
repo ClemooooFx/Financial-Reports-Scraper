@@ -1,0 +1,184 @@
+{
+  "title": "Income Statement",
+  "units": "assets",
+  "pages": [
+    60,
+    61,
+    62,
+    64,
+    67,
+    68,
+    73
+  ],
+  "extracted_at": "2025-11-29T07:12:11.318796",
+  "data": [
+    {
+      "item": "Growth",
+      "1": "FY 2019",
+      "2": "FY 2020",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "WILL Net Interest Income",
+      "1": "SIT H 45.0",
+      "2": "ERE 55.1",
+      "3": "23%",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Income",
+      "1": "74.8",
+      "2": "92.9",
+      "3": "24%",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Costs",
+      "1": "42.5",
+      "2": "71.0",
+      "3": "67%",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "PBT",
+      "1": "31.5",
+      "2": "22.2",
+      "3": "-30",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "PAT",
+      "1": "22.6",
+      "2": "20.1",
+      "3": "-11%",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Earnings per share",
+      "1": "5.9",
+      "2": "5.2",
+      "3": "-12%",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "*Loan loss provision has been presented net of recoveries. In the CBK publication Loan Loss Provision is presented as a gross amount. The gross provisions and recoveries are as follows; KES Bn",
+      "1": NaN,
+      "2": NaN,
+      "3": "FY 2019",
+      "4": "FY 2020",
+      "0": NaN
+    },
+    {
+      "item": "None Gro ss loan loss provision",
+      "1": NaN,
+      "2": NaN,
+      "3": "5.3",
+      "4": "26.6",
+      "0": NaN
+    },
+    {
+      "item": "None Loa n recoveries",
+      "1": NaN,
+      "2": NaN,
+      "3": "1.0",
+      "4": "0.7",
+      "0": NaN
+    },
+    {
+      "item": "None Net loan loss provision None",
+      "1": NaN,
+      "2": NaN,
+      "3": "4.3",
+      "4": "25.9",
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profitability",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset Quality",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Leverage",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "0": NaN
+    },
+    {
+      "item": "Capital Adequacy Ratios",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "0": NaN
+    },
+    {
+      "item": "Liquidity",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Equity Group Holdings Plc Investor Briefing FY 2020 PERFORMANCE Macroeconomic Environment Indicators & Trends - Kenya 64"
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    }
+  ]
+}

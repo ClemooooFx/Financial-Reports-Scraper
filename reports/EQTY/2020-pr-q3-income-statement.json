@@ -1,0 +1,152 @@
+{
+  "title": "Income Statement",
+  "units": "assets",
+  "pages": [
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    64,
+    65,
+    67,
+    68,
+    71
+  ],
+  "extracted_at": "2025-11-29T07:12:23.320706",
+  "data": [
+    {
+      "item": "KES Bn",
+      "1": "Q3 2019",
+      "2": "Q3 2020",
+      "0": NaN
+    },
+    {
+      "item": "Gross loan loss provision",
+      "1": "1.9",
+      "2": "14.8",
+      "0": NaN
+    },
+    {
+      "item": "Loan recoveries",
+      "1": "0.6",
+      "2": "0.5",
+      "0": NaN
+    },
+    {
+      "item": "Net loan loss provision",
+      "1": "1.3",
+      "2": "14.3",
+      "0": NaN
+    },
+    {
+      "item": "RoAE 27.6% YOU R HEADLINE 22.9% Q3 2019 Q3 2020 WILL SIT HERE 18.4% 16.9% EBKL Group",
+      "1": NaN,
+      "2": NaN,
+      "0": "RoAE 27.6% YOU R HEADLINE 22.9% Q3 2019 Q3 2020 WILL SIT HERE 18.4% 16.9% EBKL Group"
+    },
+    {
+      "item": "RoAA 4.0% 3.7% 2.6% 2.5% Q3 2019 Q3 2020 EBKL Group",
+      "1": NaN,
+      "2": NaN,
+      "0": "RoAA 4.0% 3.7% 2.6% 2.5% Q3 2019 Q3 2020 EBKL Group"
+    },
+    {
+      "item": "YO W None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "HE None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profitability",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset Quality",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Leverage",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital Adequacy Ratios",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Liquidity",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": "Equity Group Holdings Plc Investor Briefing Q3 2020 PERFORMANCE MACROECONOMIC ENVIRONMENT INDICATORS & TRENDS - KENYA 61",
+      "0": NaN
+    },
+    {
+      "item": "YOUR 8.00% QUARTERLY GDP GROWTH – The 6.00% HEADLINE economy contracted in the second 4.00% quarter of 2020 by 5.7% in comparison 2.00% WILL SIT HERE to expansion of 5.3% in the same 0.00% quarter of 2019. This was due to the -2.00% 8102 8102 8102 8102 9102 9102 9102 0202 0202 effectsof theCOVID-19pandemic. -4.00% 1Q 2Q 3Q 4Q 1Q 2Q 3Q 1Q 2Q -6.00% 110 108 106 USD/KES – The scarcity of FX liquidity, 104 continues to affect the market but with 102 optimismastheeconomy opens up. 100 98 91-peS-03 91-tcO-13 91-voN-03 91-ceD-13 02-naJ-13 02-beF-92 02-raM-13 02-rpA-03 02-yaM-13 02-nuJ-03 02-luJ-13 02-guA-13 02-peS-03 USD/KES",
+      "1": NaN,
+      "2": NaN,
+      "0": "YOUR 8.00% QUARTERLY GDP GROWTH – The 6.00% HEADLINE economy contracted in the second 4.00% quarter of 2020 by 5.7% in comparison 2.00% WILL SIT HERE to expansion of 5.3% in the same 0.00% quarter of 2019. This was due to the -2.00% 8102 8102 8102 8102 9102 9102 9102 0202 0202 effectsof theCOVID-19pandemic. -4.00% 1Q 2Q 3Q 4Q 1Q 2Q 3Q 1Q 2Q -6.00% 110 108 106 USD/KES – The scarcity of FX liquidity, 104 continues to affect the market but with 102 optimismastheeconomy opens up. 100 98 91-peS-03 91-tcO-13 91-voN-03 91-ceD-13 02-naJ-13 02-beF-92 02-raM-13 02-rpA-03 02-yaM-13 02-nuJ-03 02-luJ-13 02-guA-13 02-peS-03 USD/KES"
+    },
+    {
+      "item": "Source; CBK Rates, foreign exchange rates and the Kenya National Bureau of Statistics, Quarterly GDP rates.",
+      "1": NaN,
+      "2": NaN,
+      "0": "Source; CBK Rates, foreign exchange rates and the Kenya National Bureau of Statistics, Quarterly GDP rates."
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "South Sudan On the financial year 2018/19 it had an estimated growth rate of 3.2%, the first positive GDP growth in five years. The economic growth is estimated at -2.3% for 2020. To ensure economic recovery, the government will need to implement c oHmpEreheAnsivDe mLacIrNoecoEnom ic reforms, including measures to reduce inflation, address foreign exchange distortions, as well as longer term action to diversify the economy. WILL SIT HERE Foreign investment is expected to reach $30 million in 2020. The gap between the official exchange rate and the parallel market rate remains high and was estimated at 103% in June 2020. Tanzania Exports plunged in annual terms in August, largely on a drop in service receipts as tourist arrivals halted due to global travel restrictions. Additionally, imports also decreased-albeit at a slower pace than exports-suggesting frail domestic demand. The IMF has approved a second tranche of debt service relief to the country to help cope with the pandemic. In 2021, growth is expected to accelerate on the back of recovering global and domestic demand.",
+      "1": "South Sudan On the financial year 2018/19 it had an estimated growth rate of 3.2%, the first positive GDP growth in five years. The economic growth is estimated at -2.3% for 2020. To ensure economic recovery, the government will need to implement c oHmpEreheAnsivDe mLacIrNoecoEnom ic reforms, including measures to reduce inflation, address foreign exchange distortions, as well as longer term action to diversify the economy. WILL SIT HERE Foreign investment is expected to reach $30 million in 2020. The gap between the official exchange rate and the parallel market rate remains high and was estimated at 103% in June 2020. Tanzania Exports plunged in annual terms in August, largely on a drop in service receipts as tourist arrivals halted due to global travel restrictions. Additionally, imports also decreased-albeit at a slower pace than exports-suggesting frail domestic demand. The IMF has approved a second tranche of debt service relief to the country to help cope with the pandemic. In 2021, growth is expected to accelerate on the back of recovering global and domestic demand.",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Uganda Revised national accounts data showed the economy contracted 6.0% on an annual basis in the secondquarter. Thecountry saw its internationalcommercial flights resume on 1 October and land borders reopened, bodingwell for theexternal sector. Authorities have warned that another wave of locusts is possible in November, which would weigh on agriculturalproductionandlikelyderailrecentlyregained momentum. Rwanda Rwanda's current account deficit widened to over 9% of GDP in 2019 and we expect a further deteriorationto 14%in2020amidasharp downturn in remittancesandtourismreceipts. Government gross debt (at face value) rose to about 63% of GDP in 2020, up from about 55% in 2019. Macroeconomic stability is underpinned by a moderate degree of exchange rate flexibility and a developing monetary policy framework. The Rwandan franc/US dollar exchange rate depreciated by 2%this yearand14%in2017-2019.",
+      "1": NaN,
+      "2": NaN,
+      "0": "Uganda Revised national accounts data showed the economy contracted 6.0% on an annual basis in the secondquarter. Thecountry saw its internationalcommercial flights resume on 1 October and land borders reopened, bodingwell for theexternal sector. Authorities have warned that another wave of locusts is possible in November, which would weigh on agriculturalproductionandlikelyderailrecentlyregained momentum. Rwanda Rwanda's current account deficit widened to over 9% of GDP in 2019 and we expect a further deteriorationto 14%in2020amidasharp downturn in remittancesandtourismreceipts. Government gross debt (at face value) rose to about 63% of GDP in 2020, up from about 55% in 2019. Macroeconomic stability is underpinned by a moderate degree of exchange rate flexibility and a developing monetary policy framework. The Rwandan franc/US dollar exchange rate depreciated by 2%this yearand14%in2017-2019."
+    }
+  ]
+}

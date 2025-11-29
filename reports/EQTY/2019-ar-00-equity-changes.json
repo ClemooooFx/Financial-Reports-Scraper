@@ -1,0 +1,64 @@
+{
+  "title": "COMPANY STATEMENT OF CHANGES IN EQUITY",
+  "units": "g",
+  "pages": [
+    123
+  ],
+  "extracted_at": "2025-11-29T07:10:57.105297",
+  "data": [
+    {
+      "item": "Total equity",
+      "1": "Share capital",
+      "2": "Share premium",
+      "3": "Retained earnings"
+    },
+    {
+      "item": "Shs’ millions",
+      "1": "Shs’ millions",
+      "2": "Shs’ millions",
+      "3": "Shs’ millions"
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "None None",
+      "1": "1,887",
+      "2": "16,063",
+      "3": "56,511"
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "None None",
+      "1": "-",
+      "2": "-",
+      "3": "12,263"
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "None None",
+      "1": "-",
+      "2": "-",
+      "3": "(7,547)"
+    },
+    {
+      "item": "None None",
+      "1": "1,887",
+      "2": "16,063",
+      "3": "61,227"
+    }
+  ]
+}
