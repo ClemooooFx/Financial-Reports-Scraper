@@ -1,0 +1,253 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "roi",
+  "pages": [
+    38,
+    39,
+    50,
+    54,
+    59,
+    61,
+    64,
+    67,
+    72,
+    114,
+    116,
+    123,
+    132
+  ],
+  "extracted_at": "2025-11-29T07:59:35.557525",
+  "data": [
+    {
+      "item": "Stakeholder Group Key Interests Value Creation Engagement Platforms",
+      "1": "Key Interests",
+      "2": "Value Creation",
+      "3": "Engagement Platforms",
+      "0": NaN
+    },
+    {
+      "item": "Employees - A diverse and inclusive work environment. - Career growth and professional development. - Employee satisfaction and retention. - A culture of innovation and client- centered service. - Fostering a high-performance workplace that encourages professional development and career progression. - Providing competitive compensation and rewards for employees’ contributions. - Supporting flexible work arrangements to enhance work-life balance. - Promoting technological adaptation and skills development through ongoing training. - Advancing gender equality and employment equity, ensuring an inclusive and diverse workforce. - Learning and Development Programs (annual training sessions). - Senior Management visits to operational touchpoints. - Performance reviews and KPI assessments. - Departmental meetings and leadership forums. - Quarterly Senior Management engagements. - Team-based collaboration platforms and offsite strategy meetings.",
+      "1": "- A diverse and inclusive work environment. - Career growth and professional development. - Employee satisfaction and retention. - A culture of innovation and client- centered service.",
+      "2": "- Fostering a high-performance workplace that encourages professional development and career progression. - Providing competitive compensation and rewards for employees’ contributions. - Supporting flexible work arrangements to enhance work-life balance. - Promoting technological adaptation and skills development through ongoing training. - Advancing gender equality and employment equity, ensuring an inclusive and diverse workforce.",
+      "3": "- Learning and Development Programs (annual training sessions). - Senior Management visits to operational touchpoints. - Performance reviews and KPI assessments. - Departmental meetings and leadership forums. - Quarterly Senior Management engagements. - Team-based collaboration platforms and offsite strategy meetings.",
+      "0": NaN
+    },
+    {
+      "item": "Customers - High-quality and innovative products. - Value for money and transparent pricing. - Customer satisfaction and brand trust. - Resolution of complaints and improved service experience. - Developing customer-centric products tailored to market needs. - Implementing responsible business practices and ethical pricing. - Strengthening customer relationships through proactive engagement. - Enhancing customer experience through sustainable and innovative solutions aligned with United Nations Sustainable Development Goals (UN SDGs). - Marketing campaigns (TV, newspapers, and social media). - Customer satisfaction surveys. - In-store promotions and loyalty programs. - Workshops and product education events. - Digital and e-commerce platforms for engagement.",
+      "1": "- High-quality and innovative products. - Value for money and transparent pricing. - Customer satisfaction and brand trust. - Resolution of complaints and improved service experience.",
+      "2": "- Developing customer-centric products tailored to market needs. - Implementing responsible business practices and ethical pricing. - Strengthening customer relationships through proactive engagement. - Enhancing customer experience through sustainable and innovative solutions aligned with United Nations Sustainable Development Goals (UN SDGs).",
+      "3": "- Marketing campaigns (TV, newspapers, and social media). - Customer satisfaction surveys. - In-store promotions and loyalty programs. - Workshops and product education events. - Digital and e-commerce platforms for engagement.",
+      "0": NaN
+    },
+    {
+      "item": "Shareholders and Investors - Return on investment (ROI) and return on equity (ROE). - Business expansion and financial sustainability. - Risk management and resilience strategies. - Transparent financial reporting and governance. - Strengthening financial sustainability through prudent capital allocation and strategic investments. - Maintaining a healthy balance sheet to withstand economic shocks. - Enhancing corporate reporting for risk and performance transparency. - Upholding strong ESG practices, ensuring long-term business viability and shareholder trust. - Annual General Meetings (AGMs). - Financial reports and investor briefings. - Media releases and corporate announcements. - Investor presentations and roadshows. - Deployment of Oracle NetSuite for financial and analytical reporting.",
+      "1": "- Return on investment (ROI) and return on equity (ROE). - Business expansion and financial sustainability. - Risk management and resilience strategies. - Transparent financial reporting and governance.",
+      "2": "- Strengthening financial sustainability through prudent capital allocation and strategic investments. - Maintaining a healthy balance sheet to withstand economic shocks. - Enhancing corporate reporting for risk and performance transparency. - Upholding strong ESG practices, ensuring long-term business viability and shareholder trust.",
+      "3": "- Annual General Meetings (AGMs). - Financial reports and investor briefings. - Media releases and corporate announcements. - Investor presentations and roadshows. - Deployment of Oracle NetSuite for financial and analytical reporting.",
+      "0": NaN
+    },
+    {
+      "item": "Regulators and Government - Compliance with national and industry regulations. - Corporate tax contributions and responsible business practices. - Effective governance and ethical business conduct. - Ensuring full regulatory compliance and governance best practices. - Supporting economic development through corporate tax payments and employment creation. - Collaborating with regulators to maintain transparency and accountability. - Strengthening business continuity plans to mitigate risks associated with economic and geopolitical uncertainties. - Annual audits and financial reporting. - Regulatory engagement through compliance reports and meetings. - Corporate governance policies that align with ESG best practices. - Timely submission of tax and regulatory documentation.",
+      "1": "- Compliance with national and industry regulations. - Corporate tax contributions and responsible business practices. - Effective governance and ethical business conduct.",
+      "2": "- Ensuring full regulatory compliance and governance best practices. - Supporting economic development through corporate tax payments and employment creation. - Collaborating with regulators to maintain transparency and accountability. - Strengthening business continuity plans to mitigate risks associated with economic and geopolitical uncertainties.",
+      "3": "- Annual audits and financial reporting. - Regulatory engagement through compliance reports and meetings. - Corporate governance policies that align with ESG best practices. - Timely submission of tax and regulatory documentation.",
+      "0": NaN
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": "",
+      "3": "None",
+      "0": NaN
+    },
+    {
+      "item": "Society and Communities - Positive economic, environmental, and social impact. - Strong partnerships and community investment. - Sustainable and ethical business operations. - Driving socio-economic development through impact-driven corporate social investment (CSI) programs. - Engaging in sustainable business practices that align with SDGs. - Supporting local communities through employment, skills development, and inclusive supply chains. - Promoting environmental responsibility through waste reduction, carbon footprint management, and resource efficiency initiatives. - Corporate Social Investment (CSI) programs. - Employee volunteering and community engagement initiatives. - Partnerships with NGOs, local governments, and development organizations.",
+      "1": "- Positive economic, environmental, and social impact. - Strong partnerships and community investment. - Sustainable and ethical business operations.",
+      "2": "- Driving socio-economic development through impact-driven corporate social investment (CSI) programs. - Engaging in sustainable business practices that align with SDGs. - Supporting local communities through employment, skills development, and inclusive supply chains. - Promoting environmental responsibility through waste reduction, carbon footprint management, and resource efficiency initiatives.",
+      "3": "- Corporate Social Investment (CSI) programs. - Employee volunteering and community engagement initiatives. - Partnerships with NGOs, local governments, and development organizations.",
+      "0": NaN
+    },
+    {
+      "item": "ESG Dimension Key Risks Opportunities & Strategic Actions None None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Environmental - Transition to green energy & increasing regulatory pressure on emissions. - Stricter environmental laws on waste management, pollution, and resource use. - Carbon emissions contributing to climate change. - Biodiversity loss and land degradation. - Renewable Energy Investments: Transitioning to solar power to lower emissions and reduce costs. - Energy Efficiency Measures: Installing power factor correction equipment to optimize energy usage. - Circular Economy Initiatives: Expanding recycling machinery to reduce plastic waste and create new revenue streams. - Sustainable Procurement: Using recycled materials in production to minimize environmental impact.",
+      "1": "- Transition to green energy & increasing regulatory pressure on emissions. - Stricter environmental laws on waste management, pollution, and resource use. - Carbon emissions contributing to climate change. - Biodiversity loss and land degradation.",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Social - Strained community relations due to insufficient CSR initiatives. - Rapidly shifting consumer preferences toward sustainable and ethical products. - Data security and privacy risks in an increasingly digitalized world. - Employee well-being, fair wages, and diversity concerns. - Occupational health and safety hazards in manufacturing operations. - Strategic Community Investments: Engaging in tree planting, school support, and water conservation initiatives. - Customer-Centric Product Innovation: Developing sustainable, high-quality, and affordable products. - Employee Training & Development: Conducting comprehensive upskilling programs for workforce enhancement. - Workplace Safety Enhancements: Strengthening zero-accident policies and employee health programs. - Data Protection Measures: Strengthening cybersecurity and governance frameworks to protect sensitive data.",
+      "1": "- Strained community relations due to insufficient CSR initiatives. - Rapidly shifting consumer preferences toward sustainable and ethical products. - Data security and privacy risks in an increasingly digitalized world. - Employee well-being, fair wages, and diversity concerns. - Occupational health and safety hazards in manufacturing operations.",
+      "2": "- Strategic Community Investments: Engaging in tree planting, school support, and water conservation initiatives. - Customer-Centric Product Innovation: Developing sustainable, high-quality, and affordable products. - Employee Training & Development: Conducting comprehensive upskilling programs for workforce enhancement. - Workplace Safety Enhancements: Strengthening zero-accident policies and employee health programs. - Data Protection Measures: Strengthening cybersecurity and governance frameworks to protect sensitive data.",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Governance - Regulatory non-compliance risks, including tax and financial reporting obligations. - Shareholder transparency and risk oversight challenges. - Exposure to corruption, bribery, and political risks in multi-jurisdiction operations. - ESG Integration in Governance: Embedding ESG considerations into Board and Management decisions. - Enhanced Risk Management Frameworks: Conducting governance audits and compliance reviews. - Strict anti-corruption policies: Implementing whistleblowing mechanisms, anti-bribery training, and insider trading policies. - Transparent Investor Relations: Improving corporate disclosures and financial reporting for stronger stakeholder trust.",
+      "1": "- Regulatory non-compliance risks, including tax and financial reporting obligations. - Shareholder transparency and risk oversight challenges. - Exposure to corruption, bribery, and political risks in multi-jurisdiction operations.",
+      "2": "- ESG Integration in Governance: Embedding ESG considerations into Board and Management decisions. - Enhanced Risk Management Frameworks: Conducting governance audits and compliance reviews. - Strict anti-corruption policies: Implementing whistleblowing mechanisms, anti-bribery training, and insider trading policies. - Transparent Investor Relations: Improving corporate disclosures and financial reporting for stronger stakeholder trust.",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Explore more at polyplay.co.ke!",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "FTG Holdings Ltd Annual Report 2024 Secure Every Drop with Roto Tank! None None None None None",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "0": "FTG Holdings Ltd Annual Report 2024 Secure Every Drop with Roto Tank!"
+    },
+    {
+      "item": "None None None None None",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": "",
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "59 None",
+      "1": NaN,
+      "2": "59",
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "Secure Every",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Drop with",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Roto Tank!",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Armazene com Confiança ! (Store with confidence!)",
+      "1": "! (Store with confidence!)",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Storage You Can Trust Quality You Can Feel",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Grabbing one? Better Grab Two. Honeycomb Hits Different! Don’t Just Crave it, Crunch it! None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Grabbing one? Better Grab Two. Honeycomb Hits Different! Don’t Just Crave it, Crunch it!"
+    },
+    {
+      "item": "COUNTRY OF INCORPORATION AND MAURITIUS DOMICILE None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "DIRECTORS Heril Bangera Frank Ireri George Theobald Gilles Kichenin (resigned on 30 August 2024) Imalambaal Kichenin (resigned on 30 August 2024) Deven Auracootee (appointed on 30 August 2024) Bishwarnath Bachun (appointed on 30 August 2024)",
+      "1": "Heril Bangera Frank Ireri George Theobald Gilles Kichenin (resigned on 30 August 2024) Imalambaal Kichenin (resigned on 30 August 2024) Deven Auracootee (appointed on 30 August 2024) Bishwarnath Bachun (appointed on 30 August 2024)",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Impairment - - (32,219,000) (32,219,000)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Impairment - - (32,219,000) (32,219,000)"
+    },
+    {
+      "item": "- - 577,093,954 577,093,954",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "- - 577,093,954 577,093,954"
+    },
+    {
+      "item": "Other sales 35,759,924 64,470,373 - -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Other sales 35,759,924 64,470,373 - -"
+    },
+    {
+      "item": "4,166,881,020 4,462,993,507 - -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "4,166,881,020 4,462,993,507 - -"
+    },
+    {
+      "item": "14,194,460 144,545 14,339,005",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "14,194,460 144,545 14,339,005"
+    },
+    {
+      "item": "Notes:",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Notes:"
+    },
+    {
+      "item": "Signature (s) ……………………………………………………………………………………………….........................………… A member entitled to attend and vote is entitled to appoint a proxy to attend and vote in his stead and a proxy need not be a member of the Company. In the case of a member being a limited Company this form must be completed under its common seal or under the hand of an officer or attorney duly authorized in writing. Proxies must be emailed to registrar@efsregistrars.com or lodged at the registered office of the Company’s Shares Registrars, ESCROW Financial Solutions Registrars Ltd (1st Floor, Occidental Plaza, Westlands, P.O. Box 6341-00100 Nairobi) not later than 24th June 2025 at 17:00Hrs.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Signature (s) ……………………………………………………………………………………………….........................………… A member entitled to attend and vote is entitled to appoint a proxy to attend and vote in his stead and a proxy need not be a member of the Company. In the case of a member being a limited Company this form must be completed under its common seal or under the hand of an officer or attorney duly authorized in writing. Proxies must be emailed to registrar@efsregistrars.com or lodged at the registered office of the Company’s Shares Registrars, ESCROW Financial Solutions Registrars Ltd (1st Floor, Occidental Plaza, Westlands, P.O. Box 6341-00100 Nairobi) not later than 24th June 2025 at 17:00Hrs."
+    }
+  ]
+}

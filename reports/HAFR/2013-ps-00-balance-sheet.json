@@ -1,0 +1,549 @@
+{
+  "title": "Consolidated Statement of Financial Position — 31 December Year End (KES “000”) 2012 2011 2010 2009",
+  "units": "continues",
+  "pages": [
+    38,
+    39,
+    45,
+    47,
+    48,
+    50,
+    51,
+    62
+  ],
+  "extracted_at": "2025-11-29T08:00:03.327071",
+  "data": [
+    {
+      "item": "895,745 237 74,284 - 2 12,458",
+      "1": "770,256 473 74,284 - - 86,186",
+      "2": "57,414 - 74,284 - - 1,305",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "982,726",
+      "1": "931,199",
+      "2": "133,003",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,271,606 114,326 153,079 -",
+      "1": "1,332,691 50,798 63,590 9,865",
+      "2": "632,289 69,042 154,210 -",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,539,012",
+      "1": "1,456,944",
+      "2": "855,541",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "2,521,736",
+      "1": "2,388,143",
+      "2": "988,544",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "405,255 68,842 (84,332)",
+      "1": "204 456,718 (140,078)",
+      "2": "100 354,471 (3,901)",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "389,765",
+      "1": "316,844",
+      "2": "350,670",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(20,426)",
+      "1": "(93,514)",
+      "2": "4,864",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "369,339",
+      "1": "223,331",
+      "2": "355,534",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "150,000 50,749 39,865",
+      "1": "150,000 - 36,964",
+      "2": "150,000 - 159,162",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "240,613 5,382 441 157,247 1,748,716",
+      "1": "186,964 3 441 521,384 1,456,021",
+      "2": "309,162 10,160 441 159,162 154,085",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,911,783",
+      "1": "1,977,848",
+      "2": "323,848",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "632,985 (78,471) (1,198)",
+      "1": "400,830 (62,743) (20,260)",
+      "2": "(538,216) - (860)",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "s 553,316",
+      "1": "317,827",
+      "2": "(539,077)",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(133,865) - 981 1,218 (2) -",
+      "1": "(717,616) (709) 550 1,053 - -",
+      "2": "(58,140) - - 16,873 49,334 716",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(131,668)",
+      "1": "(716,722)",
+      "2": "(8,782)",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(372,770) 10,134 1,400 - (38,847) 0 17,175 50,749",
+      "1": "240,024 - - - (34,140) 40 102,352 -",
+      "2": "318,324 - - 150,000 - 50 177,779 -",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "s (332,159)",
+      "1": "(308,275)",
+      "2": "646,153",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "89,489",
+      "1": "(90,620)",
+      "2": "115,859",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "63,590 89,489",
+      "1": "154,210 (90,620)",
+      "2": "38,351 115,859",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "153,079",
+      "1": "63,590",
+      "2": "154,210",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Shareholders",
+      "1": NaN,
+      "2": "Number of Shares",
+      "0": "",
+      "3": "% share- holdings"
+    },
+    {
+      "item": "Home Afrika Continental Ltd.**",
+      "1": NaN,
+      "2": "24,000,000",
+      "0": "1.",
+      "3": "5.92%"
+    },
+    {
+      "item": "Home Afrika Investments Ltd.**",
+      "1": NaN,
+      "2": "20,384,000",
+      "0": "2.",
+      "3": "5.03%"
+    },
+    {
+      "item": "Seyani Brothers & Co. Ltd",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "3.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Stimela Co-operative Saving & Credit Society",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "4.",
+      "3": "2.47%"
+    },
+    {
+      "item": "YCEO Holdings Limited",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "5.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Lee & Consolata Gituto Karuri",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "6.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Nyagah Boore & Lillian Wanji- ku Kithinji",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "7.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Global Equity Ventures Ltd",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "8.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Lilian Nduta Githungo",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "9.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Patrick Ng’ang’a",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "10.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Hansan Investment Ltd",
+      "1": NaN,
+      "2": "10,000,000",
+      "0": "11.",
+      "3": "2.47%"
+    },
+    {
+      "item": "Wakini Ltd",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "12.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Red Anchor Ltd",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "13.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Paul Munyua Ng’ang’a",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "14.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Dale Farm & Investments",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "15.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Dominic Mbugua Kimani",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "16.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Mbugua & Nancy Wanjiku Ka- mau",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "17.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Patrick Devine",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "18.",
+      "3": "1.48%"
+    },
+    {
+      "item": "Bucknall Bruton Ltd",
+      "1": NaN,
+      "2": "6,000,000",
+      "0": "19.",
+      "3": "1.48%"
+    },
+    {
+      "item": "TOTAL",
+      "1": NaN,
+      "2": "182,384,000",
+      "0": "",
+      "3": "45.00%"
+    },
+    {
+      "item": "Property Details Owned by Encumbrances",
+      "1": "Owned by",
+      "2": "Encumbrances",
+      "0": "Property Details",
+      "3": NaN
+    },
+    {
+      "item": "L.R. Number 2/704 – Morningside Office Park Limited (Main Title) Morningside Properties Limited (leasehold for a term of 99 years from 1/07/2005) There is documentation (executed offer letter) indicating that this title was to be charged to I&M Bank for KShs. 45,000,000 but the charge has not yet been created over the property.",
+      "1": "Morningside Properties Limited (leasehold for a term of 99 years from 1/07/2005)",
+      "2": "There is documentation (executed offer letter) indicating that this title was to be charged to I&M Bank for KShs. 45,000,000 but the charge has not yet been created over the property.",
+      "0": "L.R. Number 2/704 – Morningside Office Park Limited (Main Title)",
+      "3": NaN
+    },
+    {
+      "item": "Unit Number 2, 5th Floor Morning Side Office Park on L.R. No. 2/704 together with 8 parking bays Home Afrika Limited (for a term of 99 years from 1/07/2005) There is documentation (executed offer letter) indicating that this title was to be charged to I&M Bank for KShs. 45,000,000 but the charge has not yet been created over the property.",
+      "1": "Home Afrika Limited (for a term of 99 years from 1/07/2005)",
+      "2": "There is documentation (executed offer letter) indicating that this title was to be charged to I&M Bank for KShs. 45,000,000 but the charge has not yet been created over the property.",
+      "0": "Unit Number 2, 5th Floor Morning Side Office Park on L.R. No. 2/704 together with 8 parking bays",
+      "3": NaN
+    },
+    {
+      "item": "Unit F, 1st Floor, Morning Side Office park on L.R. No. 2/704 together with 8 parking bays Home Afrika Limited (for a term of 99 years from 1/07/2005) N/A",
+      "1": "Home Afrika Limited (for a term of 99 years from 1/07/2005)",
+      "2": "N/A",
+      "0": "Unit F, 1st Floor, Morning Side Office park on L.R. No. 2/704 together with 8 parking bays",
+      "3": NaN
+    },
+    {
+      "item": "L.R Number 29509 Kiambu (main Title) Home Afrika Communi- ties Limited (leasehold for a term of 99 years from 1/10/2011) N/A",
+      "1": "Home Afrika Communi- ties Limited (leasehold for a term of 99 years from 1/10/2011)",
+      "2": "N/A",
+      "0": "L.R Number 29509 Kiambu (main Title)",
+      "3": NaN
+    },
+    {
+      "item": "Units HC01, CC01, F01,F02, F03, F04, F05, F06, F07 and F08 all situated on L.R. No. 29059 Kiambu Home Afrika Communities Limited (for a term of 95 years from 1/10/2011) Charge dated 9th September 2012 over all these units in favor of Equity Bank Limited for KShs. 100,000,000/=",
+      "1": "Home Afrika Communities Limited (for a term of 95 years from 1/10/2011)",
+      "2": "Charge dated 9th September 2012 over all these units in favor of Equity Bank Limited for KShs. 100,000,000/=",
+      "0": "Units HC01, CC01, F01,F02, F03, F04, F05, F06, F07 and F08 all situated on L.R. No. 29059 Kiambu",
+      "3": NaN
+    },
+    {
+      "item": "No charges/mortgages",
+      "1": "Mitini Scapes Develop- ment Limited (leasehold for a term of 95 years from 1/10/2011)",
+      "2": NaN,
+      "0": "Unit PDS S03 erected on L.R. No. 29059 Kiambu",
+      "3": NaN
+    },
+    {
+      "item": "Insurer Insured Subject Premium Renewal",
+      "1": NaN,
+      "2": NaN,
+      "0": "Policy Num- ber",
+      "3": NaN
+    },
+    {
+      "item": "Heritage Insurance Company Suburban Limited All risks policy - Offices at L.R. No.2/704 Ngong Road Morn- ingside office park 5th Floor penthouse 1 Kshs. 6,753/= Policy valid until 28/02/2013",
+      "1": NaN,
+      "2": NaN,
+      "0": "JP12CP0005",
+      "3": NaN
+    },
+    {
+      "item": "Heritage Insurance company Home Afrika Limited All risk policy covering –Public Liability and work Injury Bene- fits, Kshs. 391,749/= Policy valid until 04/03/2013",
+      "1": NaN,
+      "2": NaN,
+      "0": "JP09CP0009",
+      "3": NaN
+    },
+    {
+      "item": "Chartis Insurance Home Afrika Communities Limited Combined policy – general liability, Buildings, Office con- tents, Burglary Kshs. 178,126/= (total premium) Policy valid until 31st July 2013",
+      "1": NaN,
+      "2": NaN,
+      "0": "070044705",
+      "3": NaN
+    },
+    {
+      "item": "Heritage Insurance Suburban Limited/ Morningside Office Park Limited/I&M Bank Limited Fire Material Damage – L.R. No. 2/704 Morningside Office Park, Ngong Road, Nairobi Kshs. 1,270,171/= Policy valid until 01/01/2013",
+      "1": NaN,
+      "2": NaN,
+      "0": "JP11A00001",
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Lee Karuri Chairman Signed………………………………. Dr. Mbira Gikonyo Vice Chairman",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Gerald Chege Chief Executive Officer Signed………………………………. Eng. Mbugua Kamau Director",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Dan Awendo Director Signed………………………………. Nyagah Kithinji Director",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Lucy Maina Director Signed………………………………. Mbugua Gecaga Director",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Gilbert Kibe Director Signed………………………………. Ken Wathome Director",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Signed………………………………. Jane Adam Director",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Lex Chambers, ADVOCATES Tel: +254 20 4348356-59 Maji Mazuri Road, COMMISSIONERS FOR OATHS +254 714 611 954 off James Gichuru Road, NOTARIES PUBLIC +254 739 631 261 Lavington, COMPANY SECRETARIES Fax: +254 20 4348 351 P. O. Box 74041 – 00200, PATENT & TRADEMARK AGENTS advocate@lexgroupafrica.com Nairobi, K enya. www.lexgroupafrica.com Dropping Zone No. 214, Revlon Professional Plaza. O ur Ref: H094/002/M/2013/W Your Ref: TBA None None None",
+      "1": "None",
+      "2": NaN,
+      "0": "Lex Chambers, ADVOCATES Tel: +254 20 4348356-59 Maji Mazuri Road, COMMISSIONERS FOR OATHS +254 714 611 954 off James Gichuru Road, NOTARIES PUBLIC +254 739 631 261 Lavington, COMPANY SECRETARIES Fax: +254 20 4348 351 P. O. Box 74041 – 00200, PATENT & TRADEMARK AGENTS advocate@lexgroupafrica.com Nairobi, K enya. www.lexgroupafrica.com Dropping Zone No. 214, Revlon Professional Plaza. O ur Ref: H094/002/M/2013/W Your Ref: TBA",
+      "3": NaN
+    },
+    {
+      "item": "None O ur Ref: H094/002/M/2013/W Your Ref: TBA",
+      "1": "O ur Ref: H094/002/M/2013/W",
+      "2": NaN,
+      "0": "None",
+      "3": NaN
+    },
+    {
+      "item": "405,255,320 68,842,038 (84,332,213)",
+      "1": "204,000 456,718,358 (140,077,959)",
+      "2": "100,000 354,470,857 (3,900,627)",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "389,765,145",
+      "1": "316,844,399",
+      "2": "350,670,230",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(20,426,174)",
+      "1": "(93,513,779)",
+      "2": "4,863,500",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "369,338,971",
+      "1": "223,330,620",
+      "2": "355,533,730",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "150,000,000 50,748,500 39,864,777",
+      "1": "150,000,000 - 36,964,286",
+      "2": "150,000,000 - 159,162,000",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "240,613,277",
+      "1": "186,964,286",
+      "2": "309,162,000",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "609,952,248",
+      "1": "410,294,906",
+      "2": "664,695,730",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "895,744,891 236,503 74,284,247 - 2,000 12,458,034",
+      "1": "770,256,338 472,770 74,284,247 - - 86,185,796",
+      "2": "57,414,083 - 74,284,247 - - 1,304,679",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "982,725,675",
+      "1": "931,199,151",
+      "2": "133,003,009",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,271,606,432 114,326,433 153,078,889 -",
+      "1": "1,332,691,238 50,797,669 63,589,864 9,862,431",
+      "2": "632,289,000 69,041,788 154,210,003 -",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,539,011,754",
+      "1": "1,456,941,202",
+      "2": "855,540,791",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "440,659 1,748,715,788 157,247,262 5,381,472",
+      "1": "440,659 1,456,021,170 521,383,618 -",
+      "2": "440,659 154,085,354 159,162,000 10,160,057",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,911,785,181",
+      "1": "1,977,845,447",
+      "2": "323,848,070",
+      "0": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(372,773,427)",
+      "1": "(520,904,245)",
+      "2": "531,692,721",
+      "0": NaN,
+      "3": NaN
+    }
+  ]
+}

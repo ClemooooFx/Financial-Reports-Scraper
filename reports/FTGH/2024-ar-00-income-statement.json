@@ -1,0 +1,39 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "company",
+  "pages": [
+    110,
+    111
+  ],
+  "extracted_at": "2025-11-29T07:59:35.559183",
+  "data": [
+    {
+      "item": "151,994,613 6,902,287 (1,330,990) - (14,023,886) (21,766,813) 8,038,512 129,813,723",
+      "0": "151,994,613 6,902,287 (1,330,990) - (14,023,886) (21,766,813) 8,038,512 129,813,723"
+    },
+    {
+      "item": "4,940,430 1,133,473 - - (598,435) (2,723,433) 1,980,133 4,732,168",
+      "0": "4,940,430 1,133,473 - - (598,435) (2,723,433) 1,980,133 4,732,168"
+    },
+    {
+      "item": "Carrying Translation Carrying amount at Translation Depreciation on amount at Additions Disposals Revaluations start adjustments charge accumulated end of the year depreciation of the year",
+      "0": "Carrying Translation Carrying amount at Translation Depreciation on amount at Additions Disposals Revaluations start adjustments charge accumulated end of the year depreciation of the year"
+    },
+    {
+      "item": "665,994,063 3,744,891 (6,063,326) - 45,489,156 (17,133,712) 33,782,330 725,813,402",
+      "0": "665,994,063 3,744,891 (6,063,326) - 45,489,156 (17,133,712) 33,782,330 725,813,402"
+    },
+    {
+      "item": "68,021,034 24,021,049 92,042,083",
+      "0": "68,021,034 24,021,049 92,042,083"
+    },
+    {
+      "item": "29,202,934 7,850,728 37,053,662",
+      "0": "29,202,934 7,850,728 37,053,662"
+    },
+    {
+      "item": "97,223,968 31,871,777 129,095,745",
+      "0": "97,223,968 31,871,777 129,095,745"
+    }
+  ]
+}
