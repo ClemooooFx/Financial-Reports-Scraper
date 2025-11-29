@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 87,
+  "table_number": 1,
+  "title": "The table below analyses the Group’s financial liabilities that will be settled on a net basis into relevant maturity groupings based",
+  "rows": 3,
+  "columns": [
+    "Less than\n1 month\nKSh’000\n-\n-\n288,606\n-",
+    "Between\n1-3\nmonths\nKSh’000\n403,146\n461\n1,192,417\n6,486",
+    "Over\n3 months\nKSh’000\n1,028,980\n-\n330,041\n-",
+    "Over\n12 months\nKSh’000\n12,598,085\n-\n-\n-",
+    "Total\nKSh’000\n14,030,211\n461\n1,811,064\n6,486\n15,848,222\n10,625,423\n707\n1,269,059\n14,382\n11,909,571"
+  ],
+  "extracted_at": "2025-11-29T14:23:54.032187"
+}
