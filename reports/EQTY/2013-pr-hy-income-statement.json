@@ -1,0 +1,171 @@
+{
+  "title": "Solid 1H 2013 Performance: Income Statement",
+  "units": null,
+  "pages": [
+    26,
+    27
+  ],
+  "extracted_at": "2025-11-29T06:51:35.600975",
+  "data": [
+    {
+      "item": "KESm",
+      "1": "1H June 2012",
+      "2": "1 H June 2013",
+      "3": "1 H J u n e 2 0 1 3 vs. 1H June 2012",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Interest Income",
+      "1": "14,859",
+      "2": "15,712",
+      "3": "5.7%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Interest Expense (3,581) (2,445) (31.7)%",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net Interest Income",
+      "1": "11,278",
+      "2": "13,267",
+      "3": "17.6%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Other Income 6,284 6,975 11.0%",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Total Income",
+      "1": "17,563",
+      "2": "20,242",
+      "3": "15.3%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Provisions (1,244) (1,469) 18.1%",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Operating Costs",
+      "1": "(8,760)",
+      "2": "(9,923)",
+      "3": "13.2%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Exceptional Items 62 100 61.3%",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "PBT",
+      "1": "7,622",
+      "2": "8,951",
+      "3": "17.4%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Tax (2,219) (2,643) 19.1%",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "PAT",
+      "1": "5,403",
+      "2": "6,308",
+      "3": "16.7%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Key Ratios",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "NIM",
+      "1": "13.0%",
+      "2": "12.6%",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "C/I Ratio",
+      "1": "49.9%",
+      "2": "49.0%",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Cost of Risk",
+      "1": "2.09%",
+      "2": "2.05%",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "RoAE",
+      "1": "30.8%",
+      "2": "28.8%",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "RoAA",
+      "1": "5.2%",
+      "2": "5.0%",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "",
+      "1": "Tier 1 Capital",
+      "2": "Asset Size",
+      "3": "Soundness (Capital Asset Ratio)",
+      "4": "Capital Deployment Efficiency",
+      "5": "Asset Deployment Efficiency"
+    },
+    {
+      "item": "Equity Bank Global Ranking",
+      "1": "999",
+      "2": "976",
+      "3": "94",
+      "4": "12",
+      "5": "4"
+    }
+  ]
+}
