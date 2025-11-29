@@ -1,0 +1,30 @@
+{
+  "title": "Summary Statement of Profit or Loss and Other Comprehensive Income for the year ending — 30th June 2021",
+  "units": "agm",
+  "pages": [
+    5
+  ],
+  "extracted_at": "2025-11-29T10:33:21.238318",
+  "data": [
+    {
+      "item": "",
+      "0": "",
+      "1": "30 June 2021"
+    },
+    {
+      "item": "None",
+      "0": "KShs Million",
+      "1": "KShs Million"
+    },
+    {
+      "item": "45,901",
+      "0": "45,901",
+      "1": NaN
+    },
+    {
+      "item": "(4,160)",
+      "0": "(4,160)",
+      "1": NaN
+    }
+  ]
+}

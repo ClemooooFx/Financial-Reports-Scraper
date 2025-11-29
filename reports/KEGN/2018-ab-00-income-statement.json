@@ -1,0 +1,30 @@
+{
+  "title": "Condensed statement of profit or loss and other comprehensive income for the year ending — 30th June 2018",
+  "units": "kengen",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T10:28:47.919383",
+  "data": [
+    {
+      "item": "None",
+      "0": "30 June 2018",
+      "1": "None"
+    },
+    {
+      "item": "",
+      "0": "",
+      "1": "35,884"
+    },
+    {
+      "item": "45,290",
+      "0": "45,290",
+      "1": NaN
+    },
+    {
+      "item": "(9,406)",
+      "0": "(9,406)",
+      "1": NaN
+    }
+  ]
+}

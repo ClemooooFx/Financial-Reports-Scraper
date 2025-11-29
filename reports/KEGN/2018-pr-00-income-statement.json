@@ -1,0 +1,151 @@
+{
+  "title": "Summary Income Statement (KShs Millions)",
+  "units": "millions",
+  "pages": [
+    19,
+    20
+  ],
+  "extracted_at": "2025-11-29T10:29:10.481574",
+  "data": [
+    {
+      "item": "None None",
+      "0": "Financial Performance to 30 June 2018 Summary Income Statement (KShs Millions) 30-Jun-17 30-Jun-18 % ▲ Electricity Revenue 29,007 29,286 1.0% Better energy and Steam Steam Revenue 5,189 6,222 20% revenues owing to; Fuel Charge 9,069 9,623 6% • Completion of wellhead plants Water Charge 167 159 -5% • Improved evacuation from Olkaria upon completion of Total Revenue 43,432 45,290 4% Olkaria – Suswa line Fuel Costs (8,813) (9,247) 5% Water Costs through (167) (159) -5% Net Revenue 34,453 35,884 4% • Increased steam costs due to Operating expenses (21,804) (23,668) 9% improved dispatch Operating Profit 13,545 11,442 -16% • Higher depreciation on capitalization of completed EBITDA 22,789 21,590 -5% wellheads EBITDA Margin 66% 60% Net Finance costs (2,084) 304 • Slight increase in interest Profit Before Tax 11,461 11,747 2% income and a lower interest Tax Expense (2,455) (3,855) 57% expense owing to reduced Profit After Tax 9,006 7,891 -12% closing balance of the EPS 1.37 1.20 -12% Infrastructure Bond DPS (KShs) Nil 0.40",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Full Year Results to 30 June 2018 19",
+      "0": "",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "30-Jun-17",
+      "2": "30-Jun-18",
+      "3": "% ▲"
+    },
+    {
+      "item": "Electricity Revenue",
+      "0": NaN,
+      "1": "29,007",
+      "2": "29,286",
+      "3": "1.0%"
+    },
+    {
+      "item": "Steam Revenue",
+      "0": NaN,
+      "1": "5,189",
+      "2": "6,222",
+      "3": "20%"
+    },
+    {
+      "item": "Fuel Charge",
+      "0": NaN,
+      "1": "9,069",
+      "2": "9,623",
+      "3": "6%"
+    },
+    {
+      "item": "Water Charge",
+      "0": NaN,
+      "1": "167",
+      "2": "159",
+      "3": "-5%"
+    },
+    {
+      "item": "Total Revenue",
+      "0": NaN,
+      "1": "43,432",
+      "2": "45,290",
+      "3": "4%"
+    },
+    {
+      "item": "Operating expenses",
+      "0": NaN,
+      "1": "(21,804)",
+      "2": "(23,668)",
+      "3": "9%"
+    },
+    {
+      "item": "Operating Profit",
+      "0": NaN,
+      "1": "13,545",
+      "2": "11,442",
+      "3": "-16%"
+    },
+    {
+      "item": "EBITDA",
+      "0": NaN,
+      "1": "22,789",
+      "2": "21,590",
+      "3": "-5%"
+    },
+    {
+      "item": "Net Finance costs",
+      "0": NaN,
+      "1": "(2,084)",
+      "2": "304",
+      "3": ""
+    },
+    {
+      "item": "Profit Before Tax",
+      "0": NaN,
+      "1": "11,461",
+      "2": "11,747",
+      "3": "2%"
+    },
+    {
+      "item": "Tax Expense",
+      "0": NaN,
+      "1": "(2,455)",
+      "2": "(3,855)",
+      "3": "57%"
+    },
+    {
+      "item": "Profit After Tax",
+      "0": NaN,
+      "1": "9,006",
+      "2": "7,891",
+      "3": "-12%"
+    },
+    {
+      "item": "EPS",
+      "0": NaN,
+      "1": "1.37",
+      "2": "1.20",
+      "3": "-12%"
+    },
+    {
+      "item": "DPS (KShs)",
+      "0": NaN,
+      "1": "Nil",
+      "2": "0.40",
+      "3": ""
+    },
+    {
+      "item": "Full Year Results to 30 June 2018 20",
+      "0": "",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Investing",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Financing",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}
