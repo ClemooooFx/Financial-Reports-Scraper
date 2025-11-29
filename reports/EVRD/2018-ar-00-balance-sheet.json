@@ -1,0 +1,300 @@
+{
+  "title": "the balance sheet as at 30th September 2018, the profit and loss account and statements of comprehensive income,",
+  "units": "0",
+  "pages": [
+    58,
+    59,
+    62,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "extracted_at": "2025-11-29T07:40:39.748922",
+  "data": [
+    {
+      "item": "Key audit matters How the matter was addressed",
+      "0": "Key audit matters",
+      "1": "How the matter was addressed",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Existence and valuation of inventory Total inventories of KSh 88.8 million represent 27% of the total current assets of the company. These mainly consist of inventories at the company’s stores. Valuation of inventory is at the lower of cost and net realisable value. Cost is determined using the weighted average method. The determination of net realisable value for slow moving inventory is mainly based on management estimates. This in combination with the significant portion of inventories as part of the total assets, made us conclude that existence and valuation of inventory are a key audit matter for our audit of the company. The procedures performed included: • Attending inventory count and obtained evidence to support existence of stock held by third parties. • Investigating explanations for material differences between physical quantities and book records during the period and at period end. • Ensuring correct application of the group’s costing methodology for inventories, weighted average. • Reviewing the group’s methodology for identifying slow moving or obsolete items and ensured adequate provisions for write-downs were in place. • Ensuring that inventory is not stated in excess of its net realisable value and management’s estimates on realisability are corroborated.",
+      "0": "Existence and valuation of inventory Total inventories of KSh 88.8 million represent 27% of the total current assets of the company. These mainly consist of inventories at the company’s stores.",
+      "1": "Valuation of inventory is at the lower of cost and net realisable value. Cost is determined using the weighted average method. The determination of net realisable value for slow moving inventory is mainly based on management estimates. This in combination with the significant portion of inventories as part of the total assets, made us conclude that existence and valuation of inventory are a key audit matter for our audit of the company. The procedures performed included: • Attending inventory count and obtained evidence to support existence of stock held by third parties. • Investigating explanations for material differences between physical quantities and book records during the period and at period end. • Ensuring correct application of the group’s costing methodology for inventories, weighted average. • Reviewing the group’s methodology for identifying slow moving or obsolete items and ensured adequate provisions for write-downs were in place. • Ensuring that inventory is not stated in excess of its net realisable value and management’s estimates on realisability are corroborated.",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Recoverability of trade receivables - The company had trade and other receivables amounting to KSh 155 million which included trade receivables of KSh 120.6 million. The debtors’ days has deteriorated from 213 days in 2017 to 362 days in 2018 as some of the company’s customers have been experiencing financial distress. Therefore, valuation of accounts receivable has been identified as a key audit matter. Our procedures performed included the following: • Analysing the ageing of accounts receivable. • Circularising key accounts to confirm balances outstanding at period end. • Examining the historical recovery records and current credit status of customers. • Inspecting subsequent receipts from customers after the year end. • Ensuring that adequate provision for impairment is in place for balances whose recovery is doubtful.",
+      "0": "Recoverability of trade receivables - The company had trade and other receivables amounting to KSh 155 million which included trade receivables of KSh 120.6 million.",
+      "1": "The debtors’ days has deteriorated from 213 days in 2017 to 362 days in 2018 as some of the company’s customers have been experiencing financial distress. Therefore, valuation of accounts receivable has been identified as a key audit matter. Our procedures performed included the following: • Analysing the ageing of accounts receivable. • Circularising key accounts to confirm balances outstanding at period end. • Examining the historical recovery records and current credit status of customers. • Inspecting subsequent receipts from customers after the year end. • Ensuring that adequate provision for impairment is in place for balances whose recovery is doubtful.",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Recognition of deferred tax asset on tax losses which is dependent on successful achievement of the company’s business plan. We obtained and reviewed the company’s business plan for the period 2019 to 2022 which support the availability of taxable profits against which the temporary differences can be utilised. The deferred tax asset has not been recognised on deductible temporary differences and tax losses carried forward amounting to KSh 245,424,000 (2017: KSh 214,614,000) due to lack of certainty of availability of future taxable profits against which such deductible temporary differences and tax losses could be utilised.",
+      "0": "Recognition of deferred tax asset on tax losses which is dependent on successful achievement of the company’s business plan.",
+      "1": "We obtained and reviewed the company’s business plan for the period 2019 to 2022 which support the availability of taxable profits against which the temporary differences can be utilised. The deferred tax asset has not been recognised on deductible temporary differences and tax losses carried forward amounting to KSh 245,424,000 (2017: KSh 214,614,000) due to lack of certainty of availability of future taxable profits against which such deductible temporary differences and tax losses could be utilised.",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "1": "Group",
+      "3": "Company",
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Note 2017 Shs’000 2017 Shs’000",
+      "0": NaN,
+      "1": "2018 Shs’000",
+      "3": "2018 Shs’000",
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "a. Group",
+      "0": NaN,
+      "1": "Fully performing Shs ‘000",
+      "3": "Impaired Shs ‘000",
+      "2": "Past due but not impaired Shs ‘000",
+      "4": "Total Shs ‘000"
+    },
+    {
+      "item": "b. Company",
+      "0": NaN,
+      "1": "Fully performing Shs ‘000",
+      "3": "Impaired Shs ‘000",
+      "2": "Past due but not impaired Shs ‘000",
+      "4": "Total Shs ‘000"
+    },
+    {
+      "item": "2018 US$ Shs’000",
+      "0": NaN,
+      "1": "2017 US$ Shs’000",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(36)",
+      "0": "(36)",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(2,043)",
+      "0": "(2,043)",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2,800",
+      "0": "2,800",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "721",
+      "0": "721",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None None",
+      "0": "Group",
+      "1": NaN,
+      "3": NaN,
+      "2": "Company",
+      "4": NaN
+    },
+    {
+      "item": "2017 Shs’000 2017 Shs’000",
+      "0": "2018 Shs’000",
+      "1": NaN,
+      "3": NaN,
+      "2": "2018 Shs’000",
+      "4": NaN
+    },
+    {
+      "item": "Group None Company None",
+      "0": "Group",
+      "1": "None",
+      "3": "None",
+      "2": "Company",
+      "4": NaN
+    },
+    {
+      "item": "2018 Shs’000 2017 Shs’000 2018 Shs’000 2017 Shs’000",
+      "0": "2018 Shs’000",
+      "1": "2017 Shs’000",
+      "3": "2017 Shs’000",
+      "2": "2018 Shs’000",
+      "4": NaN
+    },
+    {
+      "item": "251,720",
+      "0": "251,720",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "750",
+      "0": "750",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "10,164",
+      "0": "10,164",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "4,306",
+      "0": "4,306",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "15,220",
+      "0": "15,220",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "31,105",
+      "0": "31,105",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "455",
+      "0": "455",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "5,825",
+      "0": "5,825",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "16,739",
+      "0": "16,739",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "68",
+      "0": "68",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "11",
+      "0": "11",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "79",
+      "0": "79",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2018 Shs’000",
+      "0": NaN,
+      "1": "2017 Shs’000",
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(4,721)",
+      "0": "(4,721)",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Issued and paid up capital Shs",
+      "0": "No. of shares",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None",
+      "0": "",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2017 Shs’000",
+      "0": "2018 Shs’000",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Furniture and fixtures Shs’000",
+      "0": NaN,
+      "1": "Computers Shs’000",
+      "3": "Total Shs’000",
+      "2": "Motor vehicles Shs’000",
+      "4": NaN
+    }
+  ]
+}
