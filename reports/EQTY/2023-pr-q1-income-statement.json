@@ -1,0 +1,238 @@
+{
+  "title": "Income Statement",
+  "units": "assets",
+  "pages": [
+    63,
+    64,
+    65,
+    67,
+    68,
+    69,
+    70,
+    74,
+    75,
+    76,
+    77,
+    87
+  ],
+  "extracted_at": "2025-11-29T07:26:51.119376",
+  "data": [
+    {
+      "item": "GROWTH",
+      "1": "Q1 2022",
+      "2": "Q1 2023",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net Interest Income",
+      "1": "19.4",
+      "2": "21.7",
+      "3": "12%",
+      "0": NaN
+    },
+    {
+      "item": "Total Income",
+      "1": "30.9",
+      "2": "39.7",
+      "3": "28%",
+      "0": NaN
+    },
+    {
+      "item": "Total Costs",
+      "1": "15.6",
+      "2": "22.8",
+      "3": "46%",
+      "0": NaN
+    },
+    {
+      "item": "PBT",
+      "1": "15.3",
+      "2": "16.9",
+      "3": "10%",
+      "0": NaN
+    },
+    {
+      "item": "PAT",
+      "1": "11.9",
+      "2": "12.8",
+      "3": "8%",
+      "0": NaN
+    },
+    {
+      "item": "Earnings per share",
+      "1": "3.1",
+      "2": "3.3",
+      "3": "7%",
+      "0": NaN
+    },
+    {
+      "item": "KES Bn",
+      "1": "Q1 2022",
+      "2": "Q1 2023",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Gross loan loss provision",
+      "1": "1.8",
+      "2": "3.5",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Loan recoveries",
+      "1": "(0.4)",
+      "2": "(0.4)",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net loan loss provision",
+      "1": "1.4",
+      "2": "3.1",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profitability",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset Quality",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Leverage",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital Adequacy Ratios",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Liquidity",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Equity Group Holdings Plc Investor Briefing Q1 2023 PERFORMANCE",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": ""
+    },
+    {
+      "item": "• Resilient growth – Growth was robust in 20 despite a challenging external environment protracted drought and elections. Followi an uneventful election, we expect grow to have picked up in 4Q22 and estimate t economy grew by 5.3% in 2022, faster than t SSA average of 3.8%. We expect this grow momentum to be maintained in 2023.",
+      "1": "22 , a ng th he he th",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "• Kenya shilling weakness – The Kenya shilling weakened in 2022 on the back of 1) a strengthening US dollar; 2) a strong oil price; and 3) financing shortfalls for the budget. The depreciation of the shilling accelerated in Q1 2023 as inflation remained sticky and higher-for-longer interest rates expectations remained elevated, compounded by the risk off sentiment triggered by the banking sector turmoil in US and Europe.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "• Kenya shilling weakness – The Kenya shilling weakened in 2022 on the back of 1) a strengthening US dollar; 2) a strong oil price; and 3) financing shortfalls for the budget. The depreciation of the shilling accelerated in Q1 2023 as inflation remained sticky and higher-for-longer interest rates expectations remained elevated, compounded by the risk off sentiment triggered by the banking sector turmoil in US and Europe."
+    },
+    {
+      "item": "• Kenya shilling weakness – The Ken shilling weakened in 2022 on the back of 1) strengthening US dollar; 2) a strong oil pric and 3) financing shortfalls for the budg The depreciation of the shilling accelerat in Q1 2023 as inflation remained sticky a higher-for-longer interest rates expectatio remained elevated, compounded by the ri off sentiment triggered by the banking sect turmoil in US and Europe.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "• Kenya shilling weakness – The Ken shilling weakened in 2022 on the back of 1) strengthening US dollar; 2) a strong oil pric and 3) financing shortfalls for the budg The depreciation of the shilling accelerat in Q1 2023 as inflation remained sticky a higher-for-longer interest rates expectatio remained elevated, compounded by the ri off sentiment triggered by the banking sect turmoil in US and Europe."
+    },
+    {
+      "item": "• T-Bill Rates – Rates have been gradually rising in the short-term with the long-term end of the curve remaining relatively stable.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "• Sticky inflation – Inflation was flat in Mar at 9.2% YoY, following a short-lived slowdo in November to January. Inflation was larg driven by food inflation which increased 13.4% YoY, from 13.3% YoY in February. T depreciating shilling is also likely placi upward pressure on imported prices. We expe this to be mitigated by easing food inflation,",
+      "1": "• Sticky inflation – Inflation was flat in Mar at 9.2% YoY, following a short-lived slowdo in November to January. Inflation was larg driven by food inflation which increased 13.4% YoY, from 13.3% YoY in February. T depreciating shilling is also likely placi upward pressure on imported prices. We expe this to be mitigated by easing food inflation,",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "• FX Reserves – Usable foreign exchang continued to fall in Q1 2023. They decreased b $1bn to $6.4bn million or 3.6 months of impor cover at the end of March.",
+      "1": "• FX Reserves – Usable foreign exchang continued to fall in Q1 2023. They decreased b $1bn to $6.4bn million or 3.6 months of impor cover at the end of March.",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Geographical Expansion and Business Diversification 74 None None None",
+      "1": "Geographical Expansion and Business Diversification 74",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "EVERYDAY OV ER 15 MILLIO N MEMBE RS ARE TRAN SFORMIN G AF RICA None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "EVERYDAY OV ER 15 MILLIO N MEMBE RS ARE TRAN SFORMIN G AF RICA"
+    },
+    {
+      "item": "KARIBU MEMBER Equity Bank (Kenya) Limited is regulated by the Central Bank of Kenya None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "KARIBU MEMBER Equity Bank (Kenya) Limited is regulated by the Central Bank of Kenya"
+    },
+    {
+      "item": "Q1 2023 PERFORMANCE Geographical Expansion and Business Diversification Equity Group regional presence to drive cross-border trade and support informal traders",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Q1 2023 PERFORMANCE Geographical Expansion and Business Diversification Equity Group regional presence to drive cross-border trade and support informal traders"
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": "Equity Group Holdings Plc Investor Briefing Q1 2023 PERFORMANCE EquityBCDC, Kinshasa 87",
+      "3": NaN,
+      "0": NaN
+    }
+  ]
+}

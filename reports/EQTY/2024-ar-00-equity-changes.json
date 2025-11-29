@@ -1,0 +1,103 @@
+{
+  "title": "Statement of Changes in Equity",
+  "units": "boss",
+  "pages": [
+    120,
+    121,
+    138,
+    154,
+    155,
+    156
+  ],
+  "extracted_at": "2025-11-29T07:28:03.456273",
+  "data": [
+    {
+      "item": "121",
+      "1": "121",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "122",
+      "1": NaN,
+      "0": "122",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Note",
+      "1": "Shs’ millions",
+      "0": NaN,
+      "2": "Shs’ millions",
+      "3": "Shs’ millions",
+      "4": "Shs’ millions"
+    },
+    {
+      "item": "",
+      "1": "1,887",
+      "0": NaN,
+      "2": "15,325",
+      "3": "77,092",
+      "4": "94,304"
+    },
+    {
+      "item": "139",
+      "1": "139",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "155",
+      "1": "155",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "BUSINESS MODEL KEY FEATURES CATEGORY",
+      "1": "KEY FEATURES",
+      "0": "BUSINESS MODEL",
+      "2": "CATEGORY",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Held to collect (cid:55)he ob(cid:77)ective of the business model is to hold assets to collect contractual cash (cid:190)ows(cid:17) ◼ Sales are incidental to the ob(cid:77)ective of the model(cid:17) ◼ This model typically involves the lowest level of sales in comparison with other business models (in frequency and volume). Amortised cost (1)",
+      "1": "(cid:55)he ob(cid:77)ective of the business model is to hold assets to collect contractual cash (cid:190)ows(cid:17) ◼ Sales are incidental to the ob(cid:77)ective of the model(cid:17) ◼ This model typically involves the lowest level of sales in comparison with other business models (in frequency and volume).",
+      "0": "Held to collect",
+      "2": "Amortised cost (1)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Both held to collect and for sale Both collecting contractual cash (cid:190)ows and sales are integral to achieving the ob(cid:77)ective of the business model. This model typically has more sales (in frequency and volume(cid:12) than the held-to-collect business model(cid:17) FVOCI (1)",
+      "1": "Both collecting contractual cash (cid:190)ows and sales are integral to achieving the ob(cid:77)ective of the business model. This model typically has more sales (in frequency and volume(cid:12) than the held-to-collect business model(cid:17)",
+      "0": "Both held to collect and for sale",
+      "2": "FVOCI (1)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Other business models, including: ◼ Trading, managing assets on a fair value basis and maximising cash (cid:190)ows through sale ◼ (cid:55)he business model is neither held-to-collect nor held to collect and for sale. ◼ (cid:55)he collection of contractual cash (cid:190)ows is incidental to the ob(cid:77)ective of the model(cid:17) FVTPL (2)",
+      "1": "◼ (cid:55)he business model is neither held-to-collect nor held to collect and for sale. ◼ (cid:55)he collection of contractual cash (cid:190)ows is incidental to the ob(cid:77)ective of the model(cid:17)",
+      "0": "Other business models, including: ◼ Trading, managing assets on a fair value basis and maximising cash (cid:190)ows through sale",
+      "2": "FVTPL (2)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "157",
+      "1": "157",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    }
+  ]
+}
