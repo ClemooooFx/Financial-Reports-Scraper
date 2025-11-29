@@ -1,0 +1,34 @@
+{
+  "title": "STATEMENT OF CHANGES IN EQUITY",
+  "units": "j",
+  "pages": [
+    97
+  ],
+  "extracted_at": "2025-11-29T11:02:26.992515",
+  "data": [
+    {
+      "item": "Note Ordinary share capital Share premium Retained earnings Total",
+      "2": "Ordinary share capital",
+      "3": "Share premium",
+      "4": "Retained earnings",
+      "5": "Total",
+      "0": NaN
+    },
+    {
+      "item": "Shs’000 Shs’000 Shs’000 Shs’000",
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "4": "Shs’000",
+      "5": "Shs’000",
+      "0": NaN
+    },
+    {
+      "item": "95",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": "95"
+    }
+  ]
+}

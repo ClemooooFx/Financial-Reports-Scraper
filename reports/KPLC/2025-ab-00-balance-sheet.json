@@ -1,0 +1,20 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "loss",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T11:08:55.175644",
+  "data": [
+    {
+      "item": "Change in cash and cash equivalents",
+      "1": "(2,698)",
+      "2": "(7,671)"
+    },
+    {
+      "item": "Cash and cash equivalents at close of year",
+      "1": "7,685",
+      "2": "10,353"
+    }
+  ]
+}

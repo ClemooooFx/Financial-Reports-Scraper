@@ -1,0 +1,546 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "continued",
+  "pages": [
+    54,
+    56,
+    58,
+    60,
+    62,
+    64,
+    66,
+    68,
+    69,
+    86,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
+  ],
+  "extracted_at": "2025-11-29T11:02:44.276342",
+  "data": [
+    {
+      "item": "2020",
+      "2": "2019",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs’000",
+      "2": "Shs’000",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "52",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Type of payment Chairman Member",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Salary/ honoraria Fees Expense allowances Total",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "54",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "56",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "58",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "60",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "62",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "64",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "66",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Notes",
+      "2": "2020 Shs’000",
+      "1": NaN,
+      "3": "2019 Shs’000",
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "84",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "106",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "latoT",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ni ssergorP kroW",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "erutinruF tnempiuqe",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "rotoM selcihev",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "yrenihcaM",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "noitubirtsiD senil",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "noissimsnarT senil",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "dnal sgnidliub dloheerF dna",
+      "2": NaN,
+      "1": "000’shS",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "0202",
+      "2": NaN,
+      "1": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "108",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ni ssergorp kroW",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": "ni ssergorp kroW",
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "dna sgnidliub dnal dloheerF",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": "dna sgnidliub dnal dloheerF",
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "9102",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": "9102",
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "110",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs '000",
+      "2": "Shs '000",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5 Years (previous estimation) 3 Years (new estimation) Impact of the change in estimation",
+      "2": "3 Years (new estimation)",
+      "1": "5 Years (previous estimation)",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs Million Shs Million Shs Million",
+      "2": "Shs Million",
+      "1": "Shs Million",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "112",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Total",
+      "2": "30-90 days",
+      "1": "<30 days",
+      "3": ">90 days",
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Electricity receivables Prepaid fixed charge Other receivables Total",
+      "2": "Prepaid fixed charge",
+      "1": "Electricity receivables",
+      "3": "Other receivables",
+      "0": NaN,
+      "4": "Total",
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs’000 Shs’000 Shs’000 Shs’000",
+      "2": "Shs’000",
+      "1": "Shs’000",
+      "3": "Shs’000",
+      "0": NaN,
+      "4": "Shs’000",
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "114",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(Credited)/ Charged to profit or loss Credited to OCI Effect of tax rate changes",
+      "2": "Impact of adoption of IFRS 16",
+      "1": "At July 2019",
+      "3": NaN,
+      "0": "2020",
+      "4": NaN,
+      "6": "At 30 June 2020",
+      "5": NaN
+    },
+    {
+      "item": "Shs’000 Shs’000 Shs’000",
+      "2": "Shs’000",
+      "1": "Shs’000",
+      "3": NaN,
+      "0": "",
+      "4": NaN,
+      "6": "Shs’000",
+      "5": NaN
+    },
+    {
+      "item": "116",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2019",
+      "2": "Impact of adoption of IFRS 9 Shs’000",
+      "1": "At July 2018 Restated Shs’000",
+      "3": "(Credited)/ charged to profit or loss Shs’000",
+      "0": NaN,
+      "4": "Credited to OCI Shs’000",
+      "6": NaN,
+      "5": "At 30 June 2019 Shs’000"
+    },
+    {
+      "item": "118",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "etad dnE",
+      "2": NaN,
+      "1": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "etar tseretnI",
+      "2": NaN,
+      "1": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ycnerruC",
+      "2": NaN,
+      "1": "",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "120",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs USD Euros Total",
+      "2": "USD",
+      "1": "Shs",
+      "3": "Euros",
+      "0": NaN,
+      "4": "Total",
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Shs' 000 Shs' 000 Shs' 000 Shs' 000",
+      "2": "Shs' 000",
+      "1": "Shs' 000",
+      "3": "Shs' 000",
+      "0": NaN,
+      "4": "Shs' 000",
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Current Non-current Total",
+      "2": "Non-current",
+      "1": "Current",
+      "3": "Total",
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Covenant requirement As per the financial statements",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    },
+    {
+      "item": "122",
+      "2": NaN,
+      "1": "The Kenya Power and Lighting Company Plc Annual Report and Financial Statements 2019/2020",
+      "3": NaN,
+      "0": NaN,
+      "4": NaN,
+      "6": NaN,
+      "5": NaN
+    }
+  ]
+}

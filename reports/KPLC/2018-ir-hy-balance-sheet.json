@@ -1,0 +1,185 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "incms",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T11:02:08.752116",
+  "data": [
+    {
+      "item": "",
+      "1": "31.12.2017 KShs. Million",
+      "2": "31.12.2016 KShs. Million"
+    },
+    {
+      "item": "Revenue",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Non-fuel revenue",
+      "1": "46,931",
+      "2": "45,795"
+    },
+    {
+      "item": "Foreign exchange adjustment",
+      "1": "4,492",
+      "2": "2,531"
+    },
+    {
+      "item": "Fuel cost recharge",
+      "1": "11,637",
+      "2": "6,183"
+    },
+    {
+      "item": "Other operating income",
+      "1": "4,043",
+      "2": "3,961"
+    },
+    {
+      "item": "Total Revenue",
+      "1": "67,103",
+      "2": "58,470"
+    },
+    {
+      "item": "Operating Expenditures",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Power purchase costs (non-fuel)",
+      "1": "27,429",
+      "2": "26,109"
+    },
+    {
+      "item": "Foreign exchange costs",
+      "1": "3,793",
+      "2": "3,156"
+    },
+    {
+      "item": "Fuel costs",
+      "1": "12,294",
+      "2": "6,226"
+    },
+    {
+      "item": "Transmission & distribution costs",
+      "1": "15,814",
+      "2": "15,058"
+    },
+    {
+      "item": "Total Operating Costs",
+      "1": "59,330",
+      "2": "50,549"
+    },
+    {
+      "item": "Operating Profit",
+      "1": "7,773",
+      "2": "7,921"
+    },
+    {
+      "item": "Finance income",
+      "1": "52",
+      "2": "-"
+    },
+    {
+      "item": "Finance costs",
+      "1": "(3,257)",
+      "2": "(2,281)"
+    },
+    {
+      "item": "Profit Before Tax",
+      "1": "4,568",
+      "2": "5,640"
+    },
+    {
+      "item": "Income tax expense",
+      "1": "(1,641)",
+      "2": "(1,439)"
+    },
+    {
+      "item": "Profit for the year",
+      "1": "2,927",
+      "2": "4,201"
+    },
+    {
+      "item": "Basic and diluted earnings per Share",
+      "1": "KShs.1.50",
+      "2": "KShs.2.15"
+    },
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Assets",
+      "1": "31.12.2017 KShs. Million",
+      "2": "31.12.2016 KShs. Million"
+    },
+    {
+      "item": "Property and equipment",
+      "1": "271,224",
+      "2": "244,460"
+    },
+    {
+      "item": "Other non-current assets",
+      "1": "12,563",
+      "2": "11,728"
+    },
+    {
+      "item": "Current assets",
+      "1": "73,280",
+      "2": "43,037"
+    },
+    {
+      "item": "Equity and Liabilities",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Shareholders’ Equity",
+      "1": "71,914",
+      "2": "69,231"
+    },
+    {
+      "item": "Non-current liabilities",
+      "1": "196,326",
+      "2": "179,786"
+    },
+    {
+      "item": "Current liabilities",
+      "1": "88,827",
+      "2": "50,208"
+    },
+    {
+      "item": "Cash generated from operating activities",
+      "1": "9,927",
+      "2": "12,083"
+    },
+    {
+      "item": "Net Cash used in investing activities",
+      "1": "(14,159)",
+      "2": "(13,730)"
+    },
+    {
+      "item": "Net Cash generated from financing activities",
+      "1": "(2,361)",
+      "2": "(2,931)"
+    },
+    {
+      "item": "Decrease in cash and cash equivalents",
+      "1": "(6,593)",
+      "2": "(4,578)"
+    },
+    {
+      "item": "Cash and cash equivalents at 1st July",
+      "1": "(1,150)",
+      "2": "5,503"
+    },
+    {
+      "item": "Cash and cash equivalents at 31st December",
+      "1": "(7,743)",
+      "2": "925"
+    }
+  ]
+}
