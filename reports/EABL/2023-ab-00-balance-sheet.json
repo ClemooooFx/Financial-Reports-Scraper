@@ -1,0 +1,58 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "audited",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T06:30:55.025741",
+  "data": [
+    {
+      "item": "Net Sales Kshs 109.6bn +0.2%",
+      "1": "None",
+      "2": "None",
+      "3": NaN
+    },
+    {
+      "item": "Condensed consolidated statement of comprehensive income for the year ended: 30 June 2023 30 June 2022 Kshs 'M Kshs 'M Gross sales 197,611 193,850 Indirect taxes (87,962) (84,441) Net revenue 109,649 109,409 Cost of sales (62,249) (56,553) Gross profit 47,400 52,856 Operating costs (23,206) (24,604) Net finance costs (5,485) (4,236) Profit before income tax 18,709 24,016 Income tax expense (6,386) (8,442) Profit for the year 12,323 15,574 Other comprehensive income 4,237 1,272 Total comprehensive income 16,560 16,846 Basic earnings per share 12.47 15.00",
+      "1": "None",
+      "2": "None",
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "1": "30 June 2023 Kshs 'M",
+      "2": "30 June 2022 Kshs 'M",
+      "3": NaN
+    },
+    {
+      "item": "None Dividend Per Share Kshs 5.50 F22: Kshs 11.00",
+      "1": NaN,
+      "2": "None",
+      "3": "None"
+    },
+    {
+      "item": "Condensed consolidated statement of financial position as at: 30 June 2023 30 June 2022 Kshs 'M Kshs 'M Share capital and share premium 3,273 3,273 Retained earnings 14,186 8,678 Other reserves 2,569 (1,470) Proposed dividend 1,384 5,733 Non-controlling interests 10,332 10,200 Total equity 31,744 26,414 Borrowings 51,017 36,161 Other non-current liabilities 7,941 6,013 Non-current liabilities 58,958 42,174 Total equity and non-current liabilities 90,702 68,588 Property, plant and equipment 81,477 68,585 Other non-current assets 7,678 6,431 Non-current assets 89,155 75,016 Inventories 15,608 13,272 Trade and other receivables 12,250 11,793 Cash and bank balances 10,253 9,942 Other current assets 5,327 404 Current assets 43,438 35,411 Trade and other payables 30,527 32,210 Borrowings 8,401 6,634 Bank overdraft 1,210 1,875 Other current liabilities 1,753 1,120 Current liabilities 41,891 41,839 Net current assets/(liabilities) 1,547 (6,428) 90,702 68,588 None",
+      "1": NaN,
+      "2": "None",
+      "3": "None"
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": "30 June 2023 Kshs 'M",
+      "3": "30 June 2022 Kshs 'M"
+    },
+    {
+      "item": "Condensed consolidated statement of changes in equity Share capital Non & share Other Retained Proposed controlling premium reserves earnings dividends interest Total Kshs 'M Kshs 'M Kshs 'M Kshs 'M Kshs 'M Kshs 'M At 30 June 2021 3,273 (2,607) 5,519 - 8,667 14,852 Comprehensive income - 1,229 11,857 - 3,760 16,846 Employees share based ownership plan - (92) - - - (92) Dividends - - (8,698) 5,733 (2,227) (5,192) At 30 June 2022 3,273 (1,470) 8,678 5,733 10,200 26,414 Comprehensive income - 4,124 9,857 - 2,579 16,560 Employees share based ownership plan - (85) - - - (85) Dividends: -Final for 2022 - - - (5,733) (2,447) (8,180) -Total for 2023 - - (4,349) 1,384 - (2,965) At 30 June 2023 3,273 2,569 14,186 1,384 10,332 31,744",
+      "1": "None",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Condensed consolidated statement of cash flows for the year ended: 30 June 2023 30 June 2022 Kshs 'M Kshs 'M Cash generated from operations 26,145 35,330 Net interest paid (5,485) (4,048) Income tax paid (9,606) (5,376) Net cash generated from operating activities 11,054 25,906 Purchase of property, plant and equipment (12,926) (13,007) Other investing activities (100) (165) Net cash used in investing activities (13,026) (13,172) Dividends paid (10,852) (5,225) Proceeds from borrowings 37,962 19,519 Repayment of borrowings (23,563) (22,926) Other financing activities (883) (766) Net cash generated from financing activities 2,664 (9,398) Net increase in cash and cash equivalents 692 3,336 At start of the year 8,067 4,421 Foreign exchange impact of translation 284 310 Net increase in cash and cash equivalents 692 3,336 Cash and cash equivalents at the end of the year 9,043 8,067",
+      "1": "None",
+      "2": "None",
+      "3": NaN
+    }
+  ]
+}
