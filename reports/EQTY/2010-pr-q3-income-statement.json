@@ -1,0 +1,294 @@
+{
+  "title": "Income Statement",
+  "units": null,
+  "pages": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "extracted_at": "2025-11-29T06:44:50.999447",
+  "data": [
+    {
+      "item": "Key Financial Highlights Income Statement September09 September10 Growth millions millions % LoanLoss Provision 452 1,834 306% Staff Costs 3,068 3,738 22% Depreciation costs 827 1,097 33% RentalCharges 448 541 21% Other Expenses 2,240 2,814 26%",
+      "0": "Key Financial Highlights Income Statement September09 September10 Growth millions millions % LoanLoss Provision 452 1,834 306% Staff Costs 3,068 3,738 22% Depreciation costs 827 1,097 33% RentalCharges 448 541 21% Other Expenses 2,240 2,814 26%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Trend in Quality of Loan Book 2007 2008 2009 M arch June Sept 2010 2010 2010 Gross NPL 1,198 2,647 5,083 4,790 4,337 3,578 Gross NPL/ GL 5.4% 5.9% 7.7% 7.0% 6.2% 4.9% Coverageof 35% 34% 41% 46% 41% 45% NPL AssetQuality 3.5% 3.8% 4.6% 3.8% 3.7% 2.7% 5",
+      "0": "Trend in Quality of Loan Book 2007 2008 2009 M arch June Sept 2010 2010 2010 Gross NPL 1,198 2,647 5,083 4,790 4,337 3,578 Gross NPL/ GL 5.4% 5.9% 7.7% 7.0% 6.2% 4.9% Coverageof 35% 34% 41% 46% 41% 45% NPL AssetQuality 3.5% 3.8% 4.6% 3.8% 3.7% 2.7% 5",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "September09 millions",
+      "2": "September10 millions",
+      "3": "Growth %",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "LoanLoss Provision",
+      "0": NaN,
+      "1": "452",
+      "2": "1,834",
+      "3": "306%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Staff Costs",
+      "0": NaN,
+      "1": "3,068",
+      "2": "3,738",
+      "3": "22%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Depreciation costs",
+      "0": NaN,
+      "1": "827",
+      "2": "1,097",
+      "3": "33%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "RentalCharges",
+      "0": NaN,
+      "1": "448",
+      "2": "541",
+      "3": "21%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Other Expenses",
+      "0": NaN,
+      "1": "2,240",
+      "2": "2,814",
+      "3": "26%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gross NPL",
+      "0": NaN,
+      "1": "1,198",
+      "2": "2,647",
+      "3": "5,083",
+      "4": "4,790",
+      "5": "4,337",
+      "6": "3,578"
+    },
+    {
+      "item": "Gross NPL/ GL",
+      "0": NaN,
+      "1": "5.4%",
+      "2": "5.9%",
+      "3": "7.7%",
+      "4": "7.0%",
+      "5": "6.2%",
+      "6": "4.9%"
+    },
+    {
+      "item": "Coverageof NPL",
+      "0": NaN,
+      "1": "35%",
+      "2": "34%",
+      "3": "41%",
+      "4": "46%",
+      "5": "41%",
+      "6": "45%"
+    },
+    {
+      "item": "Key Capability Indicators Ratios September September 2009 2010 Return on Equity 21.5% 26.8% Return on Assets 5.1% 5.8% Cost to Income Ratio 63% 61% Earning Per Share 1.22 1.85",
+      "0": "Key Capability Indicators Ratios September September 2009 2010 Return on Equity 21.5% 26.8% Return on Assets 5.1% 5.8% Cost to Income Ratio 63% 61% Earning Per Share 1.22 1.85",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Key Performance Indicators Statutory Compliance Statutory September Minimum 2010 Core Capital/Total 8% 19.9% Deposit Liabilities Core Capital/Total Risk 8% 22.3% Weighted Assets Total Capital/Total Risk 12% 28.9% Weighted Assets 6",
+      "0": "Key Performance Indicators Statutory Compliance Statutory September Minimum 2010 Core Capital/Total 8% 19.9% Deposit Liabilities Core Capital/Total Risk 8% 22.3% Weighted Assets Total Capital/Total Risk 12% 28.9% Weighted Assets 6",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Return on Equity",
+      "0": NaN,
+      "1": "21.5%",
+      "2": "26.8%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Return on Assets",
+      "0": NaN,
+      "1": "5.1%",
+      "2": "5.8%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Cost to Income Ratio",
+      "0": NaN,
+      "1": "63%",
+      "2": "61%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Earning Per Share",
+      "0": NaN,
+      "1": "1.22",
+      "2": "1.85",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Core Capital/Total Deposit Liabilities",
+      "0": NaN,
+      "1": "8%",
+      "2": "19.9%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Core Capital/Total Risk Weighted Assets",
+      "0": NaN,
+      "1": "8%",
+      "2": "22.3%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total Capital/Total Risk Weighted Assets",
+      "0": NaN,
+      "1": "12%",
+      "2": "28.9%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ACHIEVEMENTS & RECOGNITIONS 1133",
+      "0": "ACHIEVEMENTS & RECOGNITIONS 1133",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Best Performing Ai 40 Company of the year in Africa 2010 7",
+      "0": "Best Performing Ai 40 Company of the year in Africa 2010 7",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Global Leadership Recognition-Top 50 world business leaders •Dr. James Mwangi was named by Financial Times among the 50 emerging market business leaders in BRIC countries –Brazil, Russia, India and China –and other emerging market economies-who have shaped the economic performance of their respective regions. The Financial Times recognized Dr Mwangi for transforming the lives of many people in Kenya including house helps and low income earners who have been able to borrow as little as Sh500 from the Bank. “James Mwangi talks about Equity Bank’s mission with an evangelical enthusiasm. He lends for profit but says he also wants to transform the lives of poor Kenyans and his Bank is showing the two are compatible,” said the Financial Times.",
+      "0": "Global Leadership Recognition-Top 50 world business leaders •Dr. James Mwangi was named by Financial Times among the 50 emerging market business leaders in BRIC countries –Brazil, Russia, India and China –and other emerging market economies-who have shaped the economic performance of their respective regions. The Financial Times recognized Dr Mwangi for transforming the lives of many people in Kenya including house helps and low income earners who have been able to borrow as little as Sh500 from the Bank. “James Mwangi talks about Equity Bank’s mission with an evangelical enthusiasm. He lends for profit but says he also wants to transform the lives of poor Kenyans and his Bank is showing the two are compatible,” said the Financial Times.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "African Banker 2010 Dr James Mwangi was named the 2010 African Banker of the Year . He was cited for revolutionizing Kenya’s banking industry, pioneering the first mobile banking technology in the world to reach out to the unbanked, and for championing the empowerment of ordinary people through inclusive finance 8",
+      "0": "African Banker 2010 Dr James Mwangi was named the 2010 African Banker of the Year . He was cited for revolutionizing Kenya’s banking industry, pioneering the first mobile banking technology in the world to reach out to the unbanked, and for championing the empowerment of ordinary people through inclusive finance 8",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "THANK YOU Email: info@equitybank.co.ke Web site: www.equitybank.co.ke 17",
+      "0": "THANK YOU Email: info@equitybank.co.ke Web site: www.equitybank.co.ke 17",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "9",
+      "0": "9",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}

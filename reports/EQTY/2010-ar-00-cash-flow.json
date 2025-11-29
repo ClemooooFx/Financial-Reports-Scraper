@@ -1,0 +1,574 @@
+{
+  "title": "Statement of Cash Flows",
+  "units": "a",
+  "pages": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94
+  ],
+  "extracted_at": "2025-11-29T06:44:48.186296",
+  "data": [
+    {
+      "item": "44 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Statement of Cash Flows st FOR THE YEAR ENDED 31 DECEMBER 2010",
+      "0": "44 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Statement of Cash Flows st FOR THE YEAR ENDED 31 DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Bank In millions of Kenya Shillings Note 2010 2009 Cash flows from operating activities Net profit before taxation 9,407 5,628 Adjustments for: Depreciation of property and equipment 14(a),(c) 1,133 922 Amortisation of Investment property 14(d) - 3 Amortisation of intangible assets 15 125 118 Provision for non-performing loans 11 1,558 880 Interest on term borrowings 8 553 734 Operating profit before working capital changes 12,776 8,285 Loans and advances (14,592) (19,891) Other assets (101) (1,008) Customers deposits 29,379 16,848 Other liabilities 1,042 (536) Cash generated from operations 28,504 3,698 Income taxes paid 18 (1,270) (1,631) Net cash from operating activities 27,234 2,067 Cashflow to/from investing activities Purchase of property and equipment 14(a) (1,633) (1,856) Purchase of intangible assets 15(a),(b) (310) (341) Proceeds from sale of fixed assets 14 - 1 Investment in subsidiary (1,647) (462) Investment in associate 17a (46) (58) Purchase of investment securities 21 (31,532) (4,488) Proceeds from sale of investments securities 21 10,362 5,020 Restricted balances with Central Bank (1,392) (538) Net cash used in investing activities (26,198) (2,722) Cash flows used in financing activities Dividend paid 28(g) (1,481) (1,111) Proceeds from long term borrowings 2,129 328 Repayment of long term borrowings (780) (380) Interest paid on term borrowings 8 (553) (734) Net cashflow from financing activities (685) (1,897) Net increase/ (decrease) in cash and cash equivalents 351 (2,552) Cash and cash equivalents at the beginning of the year 19(b) 7,141 9,693 Cash and cash equivalents at the end of the year 19(b) 7,492 7,141",
+      "0": "Bank In millions of Kenya Shillings Note 2010 2009 Cash flows from operating activities Net profit before taxation 9,407 5,628 Adjustments for: Depreciation of property and equipment 14(a),(c) 1,133 922 Amortisation of Investment property 14(d) - 3 Amortisation of intangible assets 15 125 118 Provision for non-performing loans 11 1,558 880 Interest on term borrowings 8 553 734 Operating profit before working capital changes 12,776 8,285 Loans and advances (14,592) (19,891) Other assets (101) (1,008) Customers deposits 29,379 16,848 Other liabilities 1,042 (536) Cash generated from operations 28,504 3,698 Income taxes paid 18 (1,270) (1,631) Net cash from operating activities 27,234 2,067 Cashflow to/from investing activities Purchase of property and equipment 14(a) (1,633) (1,856) Purchase of intangible assets 15(a),(b) (310) (341) Proceeds from sale of fixed assets 14 - 1 Investment in subsidiary (1,647) (462) Investment in associate 17a (46) (58) Purchase of investment securities 21 (31,532) (4,488) Proceeds from sale of investments securities 21 10,362 5,020 Restricted balances with Central Bank (1,392) (538) Net cash used in investing activities (26,198) (2,722) Cash flows used in financing activities Dividend paid 28(g) (1,481) (1,111) Proceeds from long term borrowings 2,129 328 Repayment of long term borrowings (780) (380) Interest paid on term borrowings 8 (553) (734) Net cashflow from financing activities (685) (1,897) Net increase/ (decrease) in cash and cash equivalents 351 (2,552) Cash and cash equivalents at the beginning of the year 19(b) 7,141 9,693 Cash and cash equivalents at the end of the year 19(b) 7,492 7,141",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2010",
+      "0": "2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "9,407",
+      "0": "9,407",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,133",
+      "0": "1,133",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "125",
+      "0": "125",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,558",
+      "0": "1,558",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "553",
+      "0": "553",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "12,776",
+      "0": "12,776",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(14,592)",
+      "0": "(14,592)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(101)",
+      "0": "(101)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "29,379",
+      "0": "29,379",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,042",
+      "0": "1,042",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "28,504",
+      "0": "28,504",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(1,270)",
+      "0": "(1,270)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "27,234",
+      "0": "27,234",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(1,633)",
+      "0": "(1,633)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(310)",
+      "0": "(310)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(1,647)",
+      "0": "(1,647)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(46)",
+      "0": "(46)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(31,532)",
+      "0": "(31,532)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "10,362",
+      "0": "10,362",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(1,392)",
+      "0": "(1,392)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(26,198)",
+      "0": "(26,198)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(1,481)",
+      "0": "(1,481)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,129",
+      "0": "2,129",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(780)",
+      "0": "(780)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(553)",
+      "0": "(553)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(685)",
+      "0": "(685)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "351",
+      "0": "351",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7,141",
+      "0": "7,141",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7,492",
+      "0": "7,492",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 45 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 45 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "1. CORPORATE INFORMATION Equity Bank Limited (The “Bank”) is incorporated and domiciled in Kenya. The address of the Bank’s registered office is P.O Box 75104 – 00200 Nairobi. The Bank is licensed under the Kenya Banking Act (Chapter 488), and continues to offer retail banking, microfinance and related services. The Bank has subsidiaries in Kenya, Uganda and Sudan. Its shares are listed on the Nairobi Stock Exchange and Uganda Securities Exchange. The consolidated financial statements for the year ended 31st December 2010 were authorised for issue in accordance with the resolution of the directors on 28th February 2011. 2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS Equity Bank Limited and subsidiaries (the Group) adopted the following new and amended IFRS and IFRIC interpretations during the year. The accounting policies adopted are consistent with those of previous financial year. Ammendments resulting from improvements to IFRS to the following standards did not have any impact on the accounting policies, financial position and performance of the Bank: • IFRS 2 Share-based payment: Group cash settled shared- based transactions effective 1st January 2010 • IFRS 3 Business Combinations (Revised) and IAS 27 Consolidated and Separate Financial Statements (Amended) effective 01 July 2009, including consequential amendments to IFRS 2, IFRS 5, IFRS 7, IAS 7, IAS 21, IAS 28, IAS 31and IAS 39. • IAS 39 Financial Instruments : Recognition and Measurement- Eligible Hedged Items effective 01 July 2009 • IFRIC 17 Distribution of non cash assets to owners effective 01 July 2009 • Improvements to IFRSs Issued in May 2008 IFRS 5 Non current Assets Held for Sale and Discontinued Operations effective 01 January 2010 Issued in April 2009 The adoption of the standards or interpretations is described below: IFRS 2 Share-based Payment (Revised) The IASB issued an amendment to IFRS 2 that clarified the scope and the accounting for group cash- settled share-based payment transactions. The Group adopted this amendment as of 1 January 2010. It did not have an impact on the financial position or performance of the Group. IFRS 3 Business Combinations (Revised) and IAS 27 Consolidated and Separate Financial Statements (Amended) IFRS 3 (Revised) introduces significant changes in the accounting for business combinations occurring after becoming effective. Changes affect the valuation of non-controlling interest, the accounting for transaction costs, the initial recognition and subsequent measurement of a contingent consideration and business combinations achieved in stages. These changes will impact the amount of goodwill recognised, the reported results in the period that an acquisition occurs and future reported results. IAS 27 (Amended) requires that a change in the ownership interest of a subsidiary (without loss of control) is accounted for as a transaction with owners in their capacity as owners. Therefore, such transactions will no longer give rise to goodwill, nor will it give rise to a gain or loss. Furthermore, the amended standard changes the accounting for losses incurred by the subsidiary as well as the loss of control of a subsidiary. The changes by IFRS 3 (Revised) and IAS 27 (Amended) affect acquisitions or loss of control of subsidiaries and transactions with non-controlling interests after 1st January 2010. None",
+      "0": NaN,
+      "1": "1. CORPORATE INFORMATION Equity Bank Limited (The “Bank”) is incorporated and domiciled in Kenya. The address of the Bank’s registered office is P.O Box 75104 – 00200 Nairobi. The Bank is licensed under the Kenya Banking Act (Chapter 488), and continues to offer retail banking, microfinance and related services. The Bank has subsidiaries in Kenya, Uganda and Sudan. Its shares are listed on the Nairobi Stock Exchange and Uganda Securities Exchange. The consolidated financial statements for the year ended 31st December 2010 were authorised for issue in accordance with the resolution of the directors on 28th February 2011. 2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS Equity Bank Limited and subsidiaries (the Group) adopted the following new and amended IFRS and IFRIC interpretations during the year. The accounting policies adopted are consistent with those of previous financial year. Ammendments resulting from improvements to IFRS to the following standards did not have any impact on the accounting policies, financial position and performance of the Bank: • IFRS 2 Share-based payment: Group cash settled shared- based transactions effective 1st January 2010 • IFRS 3 Business Combinations (Revised) and IAS 27 Consolidated and Separate Financial Statements (Amended) effective 01 July 2009, including consequential amendments to IFRS 2, IFRS 5, IFRS 7, IAS 7, IAS 21, IAS 28, IAS 31and IAS 39. • IAS 39 Financial Instruments : Recognition and Measurement- Eligible Hedged Items effective 01 July 2009 • IFRIC 17 Distribution of non cash assets to owners effective 01 July 2009 • Improvements to IFRSs Issued in May 2008 IFRS 5 Non current Assets Held for Sale and Discontinued Operations effective 01 January 2010 Issued in April 2009 The adoption of the standards or interpretations is described below: IFRS 2 Share-based Payment (Revised) The IASB issued an amendment to IFRS 2 that clarified the scope and the accounting for group cash- settled share-based payment transactions. The Group adopted this amendment as of 1 January 2010. It did not have an impact on the financial position or performance of the Group. IFRS 3 Business Combinations (Revised) and IAS 27 Consolidated and Separate Financial Statements (Amended) IFRS 3 (Revised) introduces significant changes in the accounting for business combinations occurring after becoming effective. Changes affect the valuation of non-controlling interest, the accounting for transaction costs, the initial recognition and subsequent measurement of a contingent consideration and business combinations achieved in stages. These changes will impact the amount of goodwill recognised, the reported results in the period that an acquisition occurs and future reported results. IAS 27 (Amended) requires that a change in the ownership interest of a subsidiary (without loss of control) is accounted for as a transaction with owners in their capacity as owners. Therefore, such transactions will no longer give rise to goodwill, nor will it give rise to a gain or loss. Furthermore, the amended standard changes the accounting for losses incurred by the subsidiary as well as the loss of control of a subsidiary. The changes by IFRS 3 (Revised) and IAS 27 (Amended) affect acquisitions or loss of control of subsidiaries and transactions with non-controlling interests after 1st January 2010.",
+      "2": "None"
+    },
+    {
+      "item": "46 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "46 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (Continued) The change in accounting policy was applied prospectively and had no material impact on earnings per share IAS 39 Financial Instruments: Recognition and Measurement – Eligible Hedged Items The amendment clarifies that an entity is permitted to designate a portion of the fair value changes or cash flow variability of a financial instrument as a hedged item. This also covers the designation of inflation as a hedged risk or portion in particular situations. The Group has concluded that the amendment will have no impact on the financial position or performance of the Group, as the Group has not entered into any such hedges. IFRIC 17 Distribution of Non-cash Assets to Owners This interpretation provides guidance on accounting for arrangements whereby an entity distributes non-cash assets to shareholders either as a distribution of reserves or as dividends. The interpretation has no effect on either, the financial position nor performance of the Group. Improvements to IFRSs In May 2008 and April 2009, the IASB issued omnibus of amendments to its standards, primarily with a view to removing inconsistencies and clarifying wording. There are separate transitional provisions for each standard. The adoption of the following amendments resulted in changes to accounting policies but did not have any impact on the financial position or performance of the group. Issued in May 2008 IFRS 5 Non-current Assets Held for Sale and Discontinued Operations: clarifies that when a subsidiary is classified as held for sale, all its assets and liabilities are classified as held for sale, even when the entity remains a non-controlling interest after the sale transaction. The amendment is applied prospectively and has no impact on the financial position nor financial performance of the Group. Issued in April 2009 IFRS 5 Non-current Assets Held for Sale and Discontinued Operations: clarifies that the disclosures required in respect of non-current assets and disposal groups classified as held for sale or discontinued operations are only those set out in IFRS 5. The disclosure requirements of other IFRSs only apply if specifically required for such non-current assets or discontinued operations. This amendments, did not have any impact on the financial position or performance of the Group. IFRS 8 Operating Segments: clarifies that segment assets and liabilities need only be reported when those assets and liabilities are included in measures that are used by the chief operating decision maker. As the Group’s chief operating decision maker does review segment assets and liabilities, the Group has continued to disclose this information in Note 4 (w). IAS 7 Statement of Cash Flows: States that only expenditure that results in recognising an asset can be classified as a cash flow from investing activities. This amendment will impact amongst others, the presentation in the statement of cash flows of the contingent consideration on the business combination completed in 2010 upon cash settlement.",
+      "0": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (Continued) The change in accounting policy was applied prospectively and had no material impact on earnings per share IAS 39 Financial Instruments: Recognition and Measurement – Eligible Hedged Items The amendment clarifies that an entity is permitted to designate a portion of the fair value changes or cash flow variability of a financial instrument as a hedged item. This also covers the designation of inflation as a hedged risk or portion in particular situations. The Group has concluded that the amendment will have no impact on the financial position or performance of the Group, as the Group has not entered into any such hedges. IFRIC 17 Distribution of Non-cash Assets to Owners This interpretation provides guidance on accounting for arrangements whereby an entity distributes non-cash assets to shareholders either as a distribution of reserves or as dividends. The interpretation has no effect on either, the financial position nor performance of the Group. Improvements to IFRSs In May 2008 and April 2009, the IASB issued omnibus of amendments to its standards, primarily with a view to removing inconsistencies and clarifying wording. There are separate transitional provisions for each standard. The adoption of the following amendments resulted in changes to accounting policies but did not have any impact on the financial position or performance of the group. Issued in May 2008 IFRS 5 Non-current Assets Held for Sale and Discontinued Operations: clarifies that when a subsidiary is classified as held for sale, all its assets and liabilities are classified as held for sale, even when the entity remains a non-controlling interest after the sale transaction. The amendment is applied prospectively and has no impact on the financial position nor financial performance of the Group. Issued in April 2009 IFRS 5 Non-current Assets Held for Sale and Discontinued Operations: clarifies that the disclosures required in respect of non-current assets and disposal groups classified as held for sale or discontinued operations are only those set out in IFRS 5. The disclosure requirements of other IFRSs only apply if specifically required for such non-current assets or discontinued operations. This amendments, did not have any impact on the financial position or performance of the Group. IFRS 8 Operating Segments: clarifies that segment assets and liabilities need only be reported when those assets and liabilities are included in measures that are used by the chief operating decision maker. As the Group’s chief operating decision maker does review segment assets and liabilities, the Group has continued to disclose this information in Note 4 (w). IAS 7 Statement of Cash Flows: States that only expenditure that results in recognising an asset can be classified as a cash flow from investing activities. This amendment will impact amongst others, the presentation in the statement of cash flows of the contingent consideration on the business combination completed in 2010 upon cash settlement.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 47 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 47 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (Continued) IAS 36 Impairment of Assets: The amendment clarifies that the largest unit permitted for allocating goodwill, acquired in a business combination, is the operating segment as defined in IFRS 8 before aggregation for reporting purposes. The amendment has no impact on the Group as the annual impairment test is performed before aggregation. Other amendments resulting from Improvements to IFRSs to the following standards did not have any impact on the accounting policies, financial position or performance of the Group:- • IFRS 2 Share-based payment • IAS 1 Presentation of Financial Statements • IAS 17 Leases • IAS 38 Intangible of Assets • IAS 39 Financial Instruments: Recognition and Measurement • IFRIC 9 Reassessment of Embedded Derivatives • IFRIC 16 Hedge of a Net Investment in a Foreign Operation The Group has chosen not to early adopt the following standards, amendments and interpretations to existing standards that are issued, but not yet effective for accounting periods beginning on or after 1st January 2011. Standards issued but not yet effective up to the date of issuance of the Group’s financial statements are listed below. This listing is of standards and interpretations issued, which the Group reasonably expects to be applicable at a future date. The Group intends to adopt those standards when they become effective. IAS 24 Related Party Disclosures (Amendment) The amended standard is effective for annual periods beginning on or after 1 January 2011. It clarified the definition of a related party to simplify the identification of such relationships and to eliminate inconsistencies in its application. The revised standard introduces a partial exemption of disclosure requirements for government related entities. The Group does not expect any impact on its financial position or performance. Early adoption is permitted for either the partial exemption for government- related entities or for the entire standard. IAS 32 Financial Instruments: Presentation – Classification of Rights Issues (Amendment) The amendment to IAS 32 is effective for annual periods beginning on or after 1 February 2010 and amended the definition of a financial liability in order to classify rights issues (and certain options or warrants) as equity instruments in cases where such rights are given pro rata to all of the existing owners of the same class of an entity’s non-derivative equity instruments, or to acquire a fixed number of the entity’s own equity instruments for a fixed amount in any currency. This amendment will have no impact on the Group after initial application. IFRS 9 Financial Instruments: Classification and Measurement IFRS 9 as issued reflects the first phase of the IASBs work on the replacement of IAS 39 and applies to classification and measurement of financial assets as defined in IAS 39. The standard is effective for annual periods beginning on or after 1 January 2013. In subsequent phases, the IASB will address classification and measurement of financial liabilities, hedge accounting and de-recognition. The completion of this project is expected in early 2011. The adoption of the first phase of IFRS 9 will have no effect on the classification and measurement of the Group’s financial assets. None",
+      "0": NaN,
+      "1": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (Continued) IAS 36 Impairment of Assets: The amendment clarifies that the largest unit permitted for allocating goodwill, acquired in a business combination, is the operating segment as defined in IFRS 8 before aggregation for reporting purposes. The amendment has no impact on the Group as the annual impairment test is performed before aggregation. Other amendments resulting from Improvements to IFRSs to the following standards did not have any impact on the accounting policies, financial position or performance of the Group:- • IFRS 2 Share-based payment • IAS 1 Presentation of Financial Statements • IAS 17 Leases • IAS 38 Intangible of Assets • IAS 39 Financial Instruments: Recognition and Measurement • IFRIC 9 Reassessment of Embedded Derivatives • IFRIC 16 Hedge of a Net Investment in a Foreign Operation The Group has chosen not to early adopt the following standards, amendments and interpretations to existing standards that are issued, but not yet effective for accounting periods beginning on or after 1st January 2011. Standards issued but not yet effective up to the date of issuance of the Group’s financial statements are listed below. This listing is of standards and interpretations issued, which the Group reasonably expects to be applicable at a future date. The Group intends to adopt those standards when they become effective. IAS 24 Related Party Disclosures (Amendment) The amended standard is effective for annual periods beginning on or after 1 January 2011. It clarified the definition of a related party to simplify the identification of such relationships and to eliminate inconsistencies in its application. The revised standard introduces a partial exemption of disclosure requirements for government related entities. The Group does not expect any impact on its financial position or performance. Early adoption is permitted for either the partial exemption for government- related entities or for the entire standard. IAS 32 Financial Instruments: Presentation – Classification of Rights Issues (Amendment) The amendment to IAS 32 is effective for annual periods beginning on or after 1 February 2010 and amended the definition of a financial liability in order to classify rights issues (and certain options or warrants) as equity instruments in cases where such rights are given pro rata to all of the existing owners of the same class of an entity’s non-derivative equity instruments, or to acquire a fixed number of the entity’s own equity instruments for a fixed amount in any currency. This amendment will have no impact on the Group after initial application. IFRS 9 Financial Instruments: Classification and Measurement IFRS 9 as issued reflects the first phase of the IASBs work on the replacement of IAS 39 and applies to classification and measurement of financial assets as defined in IAS 39. The standard is effective for annual periods beginning on or after 1 January 2013. In subsequent phases, the IASB will address classification and measurement of financial liabilities, hedge accounting and de-recognition. The completion of this project is expected in early 2011. The adoption of the first phase of IFRS 9 will have no effect on the classification and measurement of the Group’s financial assets.",
+      "2": "None"
+    },
+    {
+      "item": "48 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "48 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (continued) IFRIC 14 Prepayments of a minimum funding requirement (Amendment) The amendment to IFRIC 14 is effective for annual periods beginning on or after 1 January 2011 with retrospective application. The amendment provides guidance on assessing the recoverable amount of a net pension asset. The amendment permits an entity to treat the prepayment of a minimum funding requirement as an asset. The amendment is deemed to have no impact on the financial statements of the Group. IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments IFRIC 19 is effective for annual periods beginning on or after 1 July 2010. The interpretation clarifies that equity instruments issued to a creditor to extinguish a financial liability qualify as consideration paid. The equity instruments issued are measured at their fair value. In case that this cannot be reliably measured, the instruments are measured at the fair value of the liability extinguished. Any gain or loss is recognized immediately in profit or loss. The adoption of this interpretation will have no effect on the financial statements of the Group. Improvements to IFRSs (issued in May 2010) The IASB issued Improvements to IFRSs, an omnibus of amendments to its IFRS standards. The amendments have not been adopted as they become effective for annual periods on or after either 1 July 2010 or 1 January 2011. The amendments listed below, are considered to have a reasonable possible impact on the Group: IFRS 3 Business Combinations IFRS 7 Financial Instruments: Disclosures IAS 1 Presentation of Financial Statements IAS 27 Consolidated and Separate Financial Statements IFRIC 13 Customer Loyalty Programmes The Group, however, expects no impact from the adoption of the amendments on its financial position or performance.",
+      "0": "2. NEW ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS (continued) IFRIC 14 Prepayments of a minimum funding requirement (Amendment) The amendment to IFRIC 14 is effective for annual periods beginning on or after 1 January 2011 with retrospective application. The amendment provides guidance on assessing the recoverable amount of a net pension asset. The amendment permits an entity to treat the prepayment of a minimum funding requirement as an asset. The amendment is deemed to have no impact on the financial statements of the Group. IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments IFRIC 19 is effective for annual periods beginning on or after 1 July 2010. The interpretation clarifies that equity instruments issued to a creditor to extinguish a financial liability qualify as consideration paid. The equity instruments issued are measured at their fair value. In case that this cannot be reliably measured, the instruments are measured at the fair value of the liability extinguished. Any gain or loss is recognized immediately in profit or loss. The adoption of this interpretation will have no effect on the financial statements of the Group. Improvements to IFRSs (issued in May 2010) The IASB issued Improvements to IFRSs, an omnibus of amendments to its IFRS standards. The amendments have not been adopted as they become effective for annual periods on or after either 1 July 2010 or 1 January 2011. The amendments listed below, are considered to have a reasonable possible impact on the Group: IFRS 3 Business Combinations IFRS 7 Financial Instruments: Disclosures IAS 1 Presentation of Financial Statements IAS 27 Consolidated and Separate Financial Statements IFRIC 13 Customer Loyalty Programmes The Group, however, expects no impact from the adoption of the amendments on its financial position or performance.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 49 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 49 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "3. BASIS OF PREPARATION (a) Statement of compliance The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards (IFRSs), as issued by the IASB (b) Basis of measurement The consolidated financial statements have been prepared on the historical cost except for the following: • Certain assets which are measured on a revaluation basis and • Financial instruments at fair value with profit or loss measured at fair value • Available-for-sale financial assets are measured at fair value (c) Functional and presentation currency The consolidated financial statements are presented in Kenya Shillings, which is the Bank’s functional currency and have been rounded off to the nearest million. (d) Basis of consolidation The consolidated financial statements of the Group comprise the financial statements of the Bank and its subsidiaries as at 31 December each year. All intra-group balances, transactions, income and expenses and profits and losses resulting from intra- group transactions are eliminated. Subsidiaries are consolidated from the date on which control is transferred to the Group and cease to be consolidated from the date on which control is transferred out of the Group. Control is achieved where the Bank has the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities. The accounting policies for the subsidiaries are consistent with the policies adopted by the Bank. (e) Significant accounting estimates, judgments and assumptions The preparation of financial statements in accordance with IFRSs requires management to make judgements, estimates and assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities at the date of the financial statements and the income and expenses during the reporting period. Although these estimates are based on the directors’ best knowledge of current events and actions, actual results ultimately may differ from those estimates. Estimates and underlying assumptions are review on an on-going basis. Revisions to accounting estimates are recognised in the year in which the estimates is revised and in any future years affected. The most significant uses of judgment and estimates are as follows: Going concern The Bank’s management has made an assessment of the Bank’s ability to continue as a going concern and is satisfied that the Bank has the resources to continue in business for the foreseeable future. None",
+      "0": NaN,
+      "1": "3. BASIS OF PREPARATION (a) Statement of compliance The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards (IFRSs), as issued by the IASB (b) Basis of measurement The consolidated financial statements have been prepared on the historical cost except for the following: • Certain assets which are measured on a revaluation basis and • Financial instruments at fair value with profit or loss measured at fair value • Available-for-sale financial assets are measured at fair value (c) Functional and presentation currency The consolidated financial statements are presented in Kenya Shillings, which is the Bank’s functional currency and have been rounded off to the nearest million. (d) Basis of consolidation The consolidated financial statements of the Group comprise the financial statements of the Bank and its subsidiaries as at 31 December each year. All intra-group balances, transactions, income and expenses and profits and losses resulting from intra- group transactions are eliminated. Subsidiaries are consolidated from the date on which control is transferred to the Group and cease to be consolidated from the date on which control is transferred out of the Group. Control is achieved where the Bank has the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities. The accounting policies for the subsidiaries are consistent with the policies adopted by the Bank. (e) Significant accounting estimates, judgments and assumptions The preparation of financial statements in accordance with IFRSs requires management to make judgements, estimates and assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities at the date of the financial statements and the income and expenses during the reporting period. Although these estimates are based on the directors’ best knowledge of current events and actions, actual results ultimately may differ from those estimates. Estimates and underlying assumptions are review on an on-going basis. Revisions to accounting estimates are recognised in the year in which the estimates is revised and in any future years affected. The most significant uses of judgment and estimates are as follows: Going concern The Bank’s management has made an assessment of the Bank’s ability to continue as a going concern and is satisfied that the Bank has the resources to continue in business for the foreseeable future.",
+      "2": "None"
+    },
+    {
+      "item": "88 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "88 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "19. (a) CASH AND BANK BALANCES Group Bank 2010 2009 2010 2009 Cash and balances with bank 9,792 5,144 4,569 3,109 Unrestricted balances with Central Bank 650 1,013 548 877 Restricted balances with Central Bank 5,063 3,243 4,255 2,863 Money market placements 2,998 3,594 2,375 3,155 18,503 12,994 11,747 10,004 (b) CASH AND CASH EQUIVALENTS For the purposes of the consolidated statement of cash flows cash and cash equivalents, comprise of the following as at 31st December 2010 2009 2010 2009 Cash and cash equivalents 18,503 12,994 11,747 10,004 Restricted balances with Central Bank (5,063) (3,243) (4,255) (2,863) 13,440 9,751 7,492 7,141 20. LOANS AND ADVANCES TO CUSTOMERS (a) Allowance for impairment In millions of Kenya Shillings Specific allowance for Impairment Mortgage lending 3,946 2,871 3,946 2,871 Personal loans 41,557 37,528 36,262 33,947 45,503 40,399 40,208 36,818 SMEs customers Secured lending 34,632 25,334 34,439 25,235 34,632 25,334 34,439 25,235 Gross Amount 80,135 65,733 74,647 62,053",
+      "0": "19. (a) CASH AND BANK BALANCES Group Bank 2010 2009 2010 2009 Cash and balances with bank 9,792 5,144 4,569 3,109 Unrestricted balances with Central Bank 650 1,013 548 877 Restricted balances with Central Bank 5,063 3,243 4,255 2,863 Money market placements 2,998 3,594 2,375 3,155 18,503 12,994 11,747 10,004 (b) CASH AND CASH EQUIVALENTS For the purposes of the consolidated statement of cash flows cash and cash equivalents, comprise of the following as at 31st December 2010 2009 2010 2009 Cash and cash equivalents 18,503 12,994 11,747 10,004 Restricted balances with Central Bank (5,063) (3,243) (4,255) (2,863) 13,440 9,751 7,492 7,141 20. LOANS AND ADVANCES TO CUSTOMERS (a) Allowance for impairment In millions of Kenya Shillings Specific allowance for Impairment Mortgage lending 3,946 2,871 3,946 2,871 Personal loans 41,557 37,528 36,262 33,947 45,503 40,399 40,208 36,818 SMEs customers Secured lending 34,632 25,334 34,439 25,235 34,632 25,334 34,439 25,235 Gross Amount 80,135 65,733 74,647 62,053",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None",
+      "0": "2010",
+      "1": NaN,
+      "2": "2010"
+    },
+    {
+      "item": "12,994",
+      "0": "18,503",
+      "1": NaN,
+      "2": "11,747"
+    },
+    {
+      "item": "18,503",
+      "0": "18,503",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(5,063)",
+      "0": "(5,063)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "11,747",
+      "0": "11,747",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(4,255)",
+      "0": "(4,255)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "40,399 25,334",
+      "0": "45,503",
+      "1": NaN,
+      "2": "40,208"
+    },
+    {
+      "item": "25,334",
+      "0": "34,632",
+      "1": NaN,
+      "2": "34,439"
+    },
+    {
+      "item": "65,733",
+      "0": "80,135",
+      "1": NaN,
+      "2": "74,647"
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 89 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 89 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "20. LOANS AND ADVANCES TO CUSTOMERS (Continued) (b) Allowance for impairment In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance as at 1stJanuary 2,406 1,125 2,185 989 Charge for the year Collective impairment 200 209 146 168 Specific impairment 1,779 967 1,458 741 IAS 39 adjustment- write back of overprovision (74) (141) (46) (29) 1,905 1,035 1,558 880 Suspended interest 383 315 383 316 Write offs (2,857) (69) (2,381) - (570) 1,281 (440) 1,196 Total impairment 1,836 2,406 1,745 2,185 Net loans and advances 78,299 63,326 72,902 59,868 IAS 39 adjustment relates to the excess provision between IAS 39 requirements and Central Bank of Kenya prudential guidelines. (c) Finance leases receivable Group Bank 2010 2009 2010 2009 Within one year 3 51 - - One to two years - 4 - - 3 55 - - Unearned income - - - - Present value of minimum lease payment 3 55 - - Provision for uncollectible lease payment (3) - - 3 52 - - 21. INVESTMENT SECURITIES In millions of Kenya Shillings Held to maturity As at 1stJanuary 2010 5,087 4,067 4,778 4,034 Purchase of Investment securities 765 1,020 765 744 Proceeds from retirement of bonds (730) 0 (438) 0 5,122 5,087 5,105 4,778 None",
+      "0": NaN,
+      "1": "20. LOANS AND ADVANCES TO CUSTOMERS (Continued) (b) Allowance for impairment In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance as at 1stJanuary 2,406 1,125 2,185 989 Charge for the year Collective impairment 200 209 146 168 Specific impairment 1,779 967 1,458 741 IAS 39 adjustment- write back of overprovision (74) (141) (46) (29) 1,905 1,035 1,558 880 Suspended interest 383 315 383 316 Write offs (2,857) (69) (2,381) - (570) 1,281 (440) 1,196 Total impairment 1,836 2,406 1,745 2,185 Net loans and advances 78,299 63,326 72,902 59,868 IAS 39 adjustment relates to the excess provision between IAS 39 requirements and Central Bank of Kenya prudential guidelines. (c) Finance leases receivable Group Bank 2010 2009 2010 2009 Within one year 3 51 - - One to two years - 4 - - 3 55 - - Unearned income - - - - Present value of minimum lease payment 3 55 - - Provision for uncollectible lease payment (3) - - 3 52 - - 21. INVESTMENT SECURITIES In millions of Kenya Shillings Held to maturity As at 1stJanuary 2010 5,087 4,067 4,778 4,034 Purchase of Investment securities 765 1,020 765 744 Proceeds from retirement of bonds (730) 0 (438) 0 5,122 5,087 5,105 4,778",
+      "2": "None"
+    },
+    {
+      "item": "209 967 (141)",
+      "0": "",
+      "1": NaN,
+      "2": ""
+    },
+    {
+      "item": "1,035 315 (69)",
+      "0": "1,905",
+      "1": NaN,
+      "2": "1,558"
+    },
+    {
+      "item": "1,281",
+      "0": "(570)",
+      "1": NaN,
+      "2": "(440)"
+    },
+    {
+      "item": "2,406",
+      "0": "",
+      "1": NaN,
+      "2": ""
+    },
+    {
+      "item": "63,326",
+      "0": "78,299",
+      "1": NaN,
+      "2": "72,902"
+    },
+    {
+      "item": "55 -",
+      "0": "3",
+      "1": NaN,
+      "2": "-"
+    },
+    {
+      "item": "55 (3)",
+      "0": "3",
+      "1": NaN,
+      "2": "-"
+    },
+    {
+      "item": "52",
+      "0": "3",
+      "1": NaN,
+      "2": "-"
+    },
+    {
+      "item": "5,087",
+      "0": "5,122",
+      "1": NaN,
+      "2": "5,105"
+    },
+    {
+      "item": "90 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "90 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "21. INVESTMENT SECURITIES (continued) In millions of Kenya Shillings Group Bank Available for sale 2010 2009 2010 2009 As at 1stJanuary 2010 7,098 8,173 7,066 8,117 Purchase of Investment securities 30,769 3,720 30,767 3,744 Sales of Investment Securities (9,898) (5,020) (9,924) (5,020) (Loss)/gain on fair valuation (1,103) 225 (1,103) 225 26,866 7,098 26,806 7,066 As at 31st December 2010 31,988 12,185 31,911 11,844 22. RELATED PARTIES (a) Loans to key management personnel In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 181 545 180 544 Interest charged 9 10 9 10 Loans disbursed 80 162 80 161 Repayments (110) (536) (109) (535) Balance at 31st December 160 181 160 180 (b) Loans to employees In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 1,348 857 1,257 791 Interest charged 109 101 97 93 Loans disbursed 995 814 898 690 Repayments (771) (424) (670) (317) Balance at 31st December 1,681 1,348 1,582 1,257 Interest rates charged on balances outstanding are two thirds of the rates that would be charged in an arm’s length transaction. No impairment losses have been recorded against balances outstanding during the year and no specific allowance has been made for impairment losses on balances at the year end.",
+      "0": "21. INVESTMENT SECURITIES (continued) In millions of Kenya Shillings Group Bank Available for sale 2010 2009 2010 2009 As at 1stJanuary 2010 7,098 8,173 7,066 8,117 Purchase of Investment securities 30,769 3,720 30,767 3,744 Sales of Investment Securities (9,898) (5,020) (9,924) (5,020) (Loss)/gain on fair valuation (1,103) 225 (1,103) 225 26,866 7,098 26,806 7,066 As at 31st December 2010 31,988 12,185 31,911 11,844 22. RELATED PARTIES (a) Loans to key management personnel In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 181 545 180 544 Interest charged 9 10 9 10 Loans disbursed 80 162 80 161 Repayments (110) (536) (109) (535) Balance at 31st December 160 181 160 180 (b) Loans to employees In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 1,348 857 1,257 791 Interest charged 109 101 97 93 Loans disbursed 995 814 898 690 Repayments (771) (424) (670) (317) Balance at 31st December 1,681 1,348 1,582 1,257 Interest rates charged on balances outstanding are two thirds of the rates that would be charged in an arm’s length transaction. No impairment losses have been recorded against balances outstanding during the year and no specific allowance has been made for impairment losses on balances at the year end.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7,098",
+      "0": "26,866",
+      "1": NaN,
+      "2": "26,806"
+    },
+    {
+      "item": "12,185",
+      "0": "31,988",
+      "1": NaN,
+      "2": "31,911"
+    },
+    {
+      "item": "181",
+      "0": "160",
+      "1": NaN,
+      "2": "160"
+    },
+    {
+      "item": "1,348",
+      "0": "1,681",
+      "1": NaN,
+      "2": "1,582"
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 91 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 91 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "22. RELATED PARTIES (continued) (c) Loans to related parties In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 1,420 1,060 1,420 1,060 Interest charged 72 25 72 25 Loans disbursed 1,647 726 1,647 726 Repayments (488) (391) (488) (391) Balance at 31st December 2,651 1,420 2,651 1,420 The total amount of loans and advances granted was in ordinary course of business and were advanced on commercial terms and at market rates. (d) Key management personnel compensation In millions of Kenya Shillings Group Bank 2010 2009 2010 2009 Remuneration to executive directors 419 299 369 274 Remuneration to Key Management 226 197 208 189 645 496 577 463 In addition to their salaries, the Bank also contributes to a post-employment defined benefit plan National Social Security Fund, (NSSF), on their behalf. (e) Directors’ emoluments In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 As non-executive 28 29 21 25 As executives 419 299 369 274 Balance at 31st December 447 328 390 299 (f) All the transactions with the related parties are priced on arm’s length basis and have been entered into in the normal course of business. (g) Amounts due from related parties In millions of Kenya Shillings Group Bank 2010 2009 2010 2009 Equity Insurance Agency - - 162 142 Equity Bank Uganda Ltd - - 102 1,319 Equity Bank Southern Sudan Ltd - - 852 537 Equity Investment Bank Ltd - - - 14 Equity Investment Services Ltd 17 - Equity Foundation 106 10 106 10 106 10 1,239 2,022 None",
+      "0": NaN,
+      "1": "22. RELATED PARTIES (continued) (c) Loans to related parties In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 Balance at 1st January 1,420 1,060 1,420 1,060 Interest charged 72 25 72 25 Loans disbursed 1,647 726 1,647 726 Repayments (488) (391) (488) (391) Balance at 31st December 2,651 1,420 2,651 1,420 The total amount of loans and advances granted was in ordinary course of business and were advanced on commercial terms and at market rates. (d) Key management personnel compensation In millions of Kenya Shillings Group Bank 2010 2009 2010 2009 Remuneration to executive directors 419 299 369 274 Remuneration to Key Management 226 197 208 189 645 496 577 463 In addition to their salaries, the Bank also contributes to a post-employment defined benefit plan National Social Security Fund, (NSSF), on their behalf. (e) Directors’ emoluments In millions of Kenya Shillings Specific allowance for Impairment Group Bank 2010 2009 2010 2009 As non-executive 28 29 21 25 As executives 419 299 369 274 Balance at 31st December 447 328 390 299 (f) All the transactions with the related parties are priced on arm’s length basis and have been entered into in the normal course of business. (g) Amounts due from related parties In millions of Kenya Shillings Group Bank 2010 2009 2010 2009 Equity Insurance Agency - - 162 142 Equity Bank Uganda Ltd - - 102 1,319 Equity Bank Southern Sudan Ltd - - 852 537 Equity Investment Bank Ltd - - - 14 Equity Investment Services Ltd 17 - Equity Foundation 106 10 106 10 106 10 1,239 2,022",
+      "2": "None"
+    },
+    {
+      "item": "1,420",
+      "0": "2,651",
+      "1": NaN,
+      "2": "2,651"
+    },
+    {
+      "item": "496",
+      "0": "645",
+      "1": NaN,
+      "2": "577"
+    },
+    {
+      "item": "328",
+      "0": "447",
+      "1": NaN,
+      "2": "390"
+    },
+    {
+      "item": "10",
+      "0": "106",
+      "1": NaN,
+      "2": "1,239"
+    },
+    {
+      "item": "92 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "92 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "23. OTHER ASSETS Group Bank In millions of Kenya Shillings 2010 2009 2010 2009 Investment property (note 14(d) 8 8 8 8 Accounts receivable and prepayments 1,040 937 598 700 Accrued income 1,537 1,041 1,488 1,003 Funds in clearing 560 518 527 514 Other 639 209 614 124 3,784 2,713 3,235 2,349 24. DEFERRED TAX ASSETS AND LIABILITIES Recognised deferred tax assets and liabilities Group Bank 2010 2009 2010 2009 Plant, equipment and software (35) (119) (30) (119) Available for sale securities 7 22 7 22 Allowance for loan losses 108 111 108 111 Provision for accrued leave (24) (8) (24) (8) Net tax liability 56 6 61 6 Group deferred tax assets and liabilities are attributable to the following: In millions of Kenya Shillings 2010 2009 Assets Liabilities Net Assets Liabilities Net Property, equipment and software 89 (5) 84 - (119) (119) Available for sale securities - (15) (15) 22 - 22 Allowances for loan losses - (3) (3) - 111 111 Provision for accrued leave - (16) (16) - (8) (8) 89 (39) 50 22 (16) 6 Bank deferred tax assets and liabilities are attributable to the following: In millions of Kenya Shillings 2010 2009 Assets Liabilities Net Assets Liabilities Net Property, equipment and software’s 89 - 89 - (119) (119) Available for sale securities - (15) (15) 22 - 22 Allowances for loan losses - (3) (3) 111 - 111 Provision for accrued leave - (16) (16) - (8) (8) 89 (34) 55 133 (127) 6",
+      "0": "23. OTHER ASSETS Group Bank In millions of Kenya Shillings 2010 2009 2010 2009 Investment property (note 14(d) 8 8 8 8 Accounts receivable and prepayments 1,040 937 598 700 Accrued income 1,537 1,041 1,488 1,003 Funds in clearing 560 518 527 514 Other 639 209 614 124 3,784 2,713 3,235 2,349 24. DEFERRED TAX ASSETS AND LIABILITIES Recognised deferred tax assets and liabilities Group Bank 2010 2009 2010 2009 Plant, equipment and software (35) (119) (30) (119) Available for sale securities 7 22 7 22 Allowance for loan losses 108 111 108 111 Provision for accrued leave (24) (8) (24) (8) Net tax liability 56 6 61 6 Group deferred tax assets and liabilities are attributable to the following: In millions of Kenya Shillings 2010 2009 Assets Liabilities Net Assets Liabilities Net Property, equipment and software 89 (5) 84 - (119) (119) Available for sale securities - (15) (15) 22 - 22 Allowances for loan losses - (3) (3) - 111 111 Provision for accrued leave - (16) (16) - (8) (8) 89 (39) 50 22 (16) 6 Bank deferred tax assets and liabilities are attributable to the following: In millions of Kenya Shillings 2010 2009 Assets Liabilities Net Assets Liabilities Net Property, equipment and software’s 89 - 89 - (119) (119) Available for sale securities - (15) (15) 22 - 22 Allowances for loan losses - (3) (3) 111 - 111 Provision for accrued leave - (16) (16) - (8) (8) 89 (34) 55 133 (127) 6",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,713",
+      "0": "3,784",
+      "1": NaN,
+      "2": "3,235"
+    },
+    {
+      "item": "6",
+      "0": "56",
+      "1": NaN,
+      "2": "61"
+    },
+    {
+      "item": "Assets",
+      "0": NaN,
+      "1": "Liabilities",
+      "2": "Net"
+    },
+    {
+      "item": "89",
+      "0": NaN,
+      "1": "(5)",
+      "2": "84"
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "(15)",
+      "2": "(15)"
+    },
+    {
+      "item": "None ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 93 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": NaN,
+      "1": "None",
+      "2": "ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 93 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010"
+    },
+    {
+      "item": "24. DEFERRED TAX ASSETS AND LIABILITIES (Continued) Movements in temporary differences during the year – Group Recognised In millions of Kenya Shillings Opening in profit or Recognised Closing Balance loss in equity balance 2010 Property, equipment and software (119) 84 - (35) Available-for-sale securities 22 (15) - 7 Allowances for loan losses 111 (3) - 108 Provision for accrued leave (8) (16) - (24) 6 50 - 56 2009 Property, equipment and software (209) 90 - (119) Available-for-sale securities 25 (3) - 22 Allowances for loan losses 101 10 - 111 Provision for accrued leave (10) 2 - (8) (93) 99 - 6 Movements in temporary differences during the year – Bank Recognised In millions of Kenya Shillings Opening in profit or Recognised Closing balance loss in equity balance 2010 Property, equipment and software (119) 89 - (30) Available for sale securities 22 (15) - 7 Allowances for loan losses 111 (3) - 108 Provision for accrued leave ( 8) (16) - (24) 6 55 61 2009 Property, equipment and software (172) 53 - (119) Available for sale securities 25 (3) - 22 Allowances for loan losses 77 34 - 111 Provision for accrued leave (67) 73 - (8) (137) 157 6 None",
+      "0": NaN,
+      "1": "24. DEFERRED TAX ASSETS AND LIABILITIES (Continued) Movements in temporary differences during the year – Group Recognised In millions of Kenya Shillings Opening in profit or Recognised Closing Balance loss in equity balance 2010 Property, equipment and software (119) 84 - (35) Available-for-sale securities 22 (15) - 7 Allowances for loan losses 111 (3) - 108 Provision for accrued leave (8) (16) - (24) 6 50 - 56 2009 Property, equipment and software (209) 90 - (119) Available-for-sale securities 25 (3) - 22 Allowances for loan losses 101 10 - 111 Provision for accrued leave (10) 2 - (8) (93) 99 - 6 Movements in temporary differences during the year – Bank Recognised In millions of Kenya Shillings Opening in profit or Recognised Closing balance loss in equity balance 2010 Property, equipment and software (119) 89 - (30) Available for sale securities 22 (15) - 7 Allowances for loan losses 111 (3) - 108 Provision for accrued leave ( 8) (16) - (24) 6 55 61 2009 Property, equipment and software (172) 53 - (119) Available for sale securities 25 (3) - 22 Allowances for loan losses 77 34 - 111 Provision for accrued leave (67) 73 - (8) (137) 157 6",
+      "2": "None"
+    },
+    {
+      "item": "94 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "0": "94 ANNUAL REPORT AND FINANCIAL STATEMENTS 2010 Notes to the Consolidated Financial Statements FOR THE YEAR ENDED 31st DECEMBER 2010",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "25. DEPOSITS FROM CUSTOMERS In millions of Kenya Shillings Group Bank Retail customers: 2010 2009 2010 2009 Term deposits 5,920 134 5,895 132 Current deposits 8,271 4,325 6,406 3,756 Savings deposits 55,284 39,985 51,855 38,595 69,475 44,444 64,156 42,483 Corporate customers: Term deposits 13,426 11,687 11,174 10,242 Current deposits 15,759 9,369 14,103 8,758 Savings 5,771 4,343 5,771 4,342 34,956 25,399 31,048 23,342 104,431 69,843 95,204 65,825 26 . BORROWED FUNDS Group Bank In millions of Kenya Shillings 2010 2009 2010 2009 Dexia Micro Credit Fund 1,051 664 1,051 664 Blue Orchard Loans for Development SA 808 759 808 759 Growth Management Limited 404 759 404 759 Deutsche Bank Microfinance Fund 574 539 574 539 China Development Bank Corporation 121 - 121 - Nenderlandse Financierings Maatschappij Voor - - - - Ontwikelinslanden N.V (FMO) 3,221 3,221 3,221 3,221 Ministry of Youth Affairs 65 115 65 115 Micro Finance Sector Support Credit (Ministry of Finance) 23 56 23 57 Equity Bank Southern Sudan 391 - 391 - Citibank N.A, Nairobi 806 - 806 - Microfinance Support Centre - 33 - - Triodos International Fund Management - 129 - - Bank of Uganda - 18 - - Oiko Credit - 54 - - Tropical Bank - 60 - - Development finance company of uganda - 40 - - Orient Bank - 40 - - Equity Bank Kenya limited 203 - - - Tropical Bank limited-Uganda 70 - - - Kenya Commercial Bank-Uganda 61 - - - Diamond Trust bank-Uganda 60 - - - Baroda Bank-Uganda 35 - - - Barclays Bank-Uganda 70 - - - 7,963 6,487 7,464 6,114",
+      "0": "25. DEPOSITS FROM CUSTOMERS In millions of Kenya Shillings Group Bank Retail customers: 2010 2009 2010 2009 Term deposits 5,920 134 5,895 132 Current deposits 8,271 4,325 6,406 3,756 Savings deposits 55,284 39,985 51,855 38,595 69,475 44,444 64,156 42,483 Corporate customers: Term deposits 13,426 11,687 11,174 10,242 Current deposits 15,759 9,369 14,103 8,758 Savings 5,771 4,343 5,771 4,342 34,956 25,399 31,048 23,342 104,431 69,843 95,204 65,825 26 . BORROWED FUNDS Group Bank In millions of Kenya Shillings 2010 2009 2010 2009 Dexia Micro Credit Fund 1,051 664 1,051 664 Blue Orchard Loans for Development SA 808 759 808 759 Growth Management Limited 404 759 404 759 Deutsche Bank Microfinance Fund 574 539 574 539 China Development Bank Corporation 121 - 121 - Nenderlandse Financierings Maatschappij Voor - - - - Ontwikelinslanden N.V (FMO) 3,221 3,221 3,221 3,221 Ministry of Youth Affairs 65 115 65 115 Micro Finance Sector Support Credit (Ministry of Finance) 23 56 23 57 Equity Bank Southern Sudan 391 - 391 - Citibank N.A, Nairobi 806 - 806 - Microfinance Support Centre - 33 - - Triodos International Fund Management - 129 - - Bank of Uganda - 18 - - Oiko Credit - 54 - - Tropical Bank - 60 - - Development finance company of uganda - 40 - - Orient Bank - 40 - - Equity Bank Kenya limited 203 - - - Tropical Bank limited-Uganda 70 - - - Kenya Commercial Bank-Uganda 61 - - - Diamond Trust bank-Uganda 60 - - - Baroda Bank-Uganda 35 - - - Barclays Bank-Uganda 70 - - - 7,963 6,487 7,464 6,114",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "44,444",
+      "0": "69,475",
+      "1": NaN,
+      "2": "64,156"
+    },
+    {
+      "item": "11,687 9,369 4,343",
+      "0": "",
+      "1": NaN,
+      "2": ""
+    },
+    {
+      "item": "25,399",
+      "0": "34,956",
+      "1": NaN,
+      "2": "31,048"
+    },
+    {
+      "item": "69,843",
+      "0": "104,431",
+      "1": NaN,
+      "2": "95,204"
+    },
+    {
+      "item": "6,487",
+      "0": "7,963",
+      "1": NaN,
+      "2": "7,464"
+    }
+  ]
+}

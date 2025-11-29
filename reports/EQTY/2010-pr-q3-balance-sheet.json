@@ -1,0 +1,101 @@
+{
+  "title": "Balance Sheet",
+  "units": "net",
+  "pages": [
+    4
+  ],
+  "extracted_at": "2025-11-29T06:44:50.995429",
+  "data": [
+    {
+      "item": "Key Financial Highlights Balance Sheet September09 September10 Growth Billions Billions % Loans (Net) 58.1 70.9 22% Deposits 65.7 98.8 50% TotalAssets 97.4 136.6 40%",
+      "0": "Key Financial Highlights Balance Sheet September09 September10 Growth Billions Billions % Loans (Net) 58.1 70.9 22% Deposits 65.7 98.8 50% TotalAssets 97.4 136.6 40%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Key Financial Highlights Income Statement September09 September10 Growth Billions Billions % Interest Income 7.84 11.98 53% CommissionsIncome 4.56 6.02 32% Total Income 11.27 16.51 46% OperatingExpenses 7.05 10.04 42% Profit before tax 4.25 6.53 53% Profit after tax 3.38 5.13 51% 4",
+      "0": "Key Financial Highlights Income Statement September09 September10 Growth Billions Billions % Interest Income 7.84 11.98 53% CommissionsIncome 4.56 6.02 32% Total Income 11.27 16.51 46% OperatingExpenses 7.05 10.04 42% Profit before tax 4.25 6.53 53% Profit after tax 3.38 5.13 51% 4",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Growth %",
+      "0": NaN,
+      "1": "September09 Billions",
+      "2": "September10 Billions",
+      "3": NaN
+    },
+    {
+      "item": "Loans (Net)",
+      "0": NaN,
+      "1": "58.1",
+      "2": "70.9",
+      "3": "22%"
+    },
+    {
+      "item": "Deposits",
+      "0": NaN,
+      "1": "65.7",
+      "2": "98.8",
+      "3": "50%"
+    },
+    {
+      "item": "TotalAssets",
+      "0": NaN,
+      "1": "97.4",
+      "2": "136.6",
+      "3": "40%"
+    },
+    {
+      "item": "Interest Income",
+      "0": NaN,
+      "1": "7.84",
+      "2": "11.98",
+      "3": "53%"
+    },
+    {
+      "item": "CommissionsIncome",
+      "0": NaN,
+      "1": "4.56",
+      "2": "6.02",
+      "3": "32%"
+    },
+    {
+      "item": "OperatingExpenses",
+      "0": NaN,
+      "1": "7.05",
+      "2": "10.04",
+      "3": "42%"
+    },
+    {
+      "item": "Profit before tax",
+      "0": NaN,
+      "1": "4.25",
+      "2": "6.53",
+      "3": "53%"
+    },
+    {
+      "item": "Profit after tax",
+      "0": NaN,
+      "1": "3.38",
+      "2": "5.13",
+      "3": "51%"
+    }
+  ]
+}
