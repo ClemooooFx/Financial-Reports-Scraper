@@ -1,0 +1,261 @@
+{
+  "title": "Income Statement",
+  "units": "assets",
+  "pages": [
+    85,
+    86,
+    87,
+    89,
+    90,
+    93,
+    94
+  ],
+  "extracted_at": "2025-11-29T07:17:36.092133",
+  "data": [
+    {
+      "item": "Growth",
+      "1": "FY 2020",
+      "2": "FY 2021",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net Interest Income",
+      "1": "55.1",
+      "2": "68.8",
+      "3": "25%",
+      "0": NaN
+    },
+    {
+      "item": "Total Income",
+      "1": "92.9",
+      "2": "112.4",
+      "3": "21%",
+      "0": NaN
+    },
+    {
+      "item": "Total Costs",
+      "1": "71.9",
+      "2": "60.5",
+      "3": "-16%",
+      "0": NaN
+    },
+    {
+      "item": "PBT",
+      "1": "22.2",
+      "2": "51.9",
+      "3": "134%",
+      "0": NaN
+    },
+    {
+      "item": "PAT",
+      "1": "20.1",
+      "2": "40.1",
+      "3": "99%",
+      "0": NaN
+    },
+    {
+      "item": "Earnings per share",
+      "1": "5.2",
+      "2": "10.4",
+      "3": "98%",
+      "0": NaN
+    },
+    {
+      "item": "KES Bn",
+      "1": "FY 2020",
+      "2": "FY 2021",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Gross loan loss provision",
+      "1": "26.6",
+      "2": "5.8",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Loan recoveries",
+      "1": "(0.7)",
+      "2": "(0.9)",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net loan loss provision",
+      "1": "25.9",
+      "2": "4.9",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profitability",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Asset Quality",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Leverage",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital Adequacy Ratios",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Liquidity",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "2022 Guidance",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "2022 Guidance"
+    },
+    {
+      "item": "Loan Growth 25% - 30%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Loan Growth 25% - 30%"
+    },
+    {
+      "item": "Deposit Growth 25% - 30%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Deposit Growth 25% - 30%"
+    },
+    {
+      "item": "Net Interest Margin 7.0% - 8.0%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Net Interest Margin 7.0% - 8.0%"
+    },
+    {
+      "item": "Non Funded Income Mix 40% - 43%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Non Funded Income Mix 40% - 43%"
+    },
+    {
+      "item": "Cost to Income Ratio 40% - 45%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Cost to Income Ratio 40% - 45%"
+    },
+    {
+      "item": "Return on Equity 25% - 30%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Return on Equity 25% - 30%"
+    },
+    {
+      "item": "Return on Assets 3.6% - 4.3%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Return on Assets 3.6% - 4.3%"
+    },
+    {
+      "item": "Cost of Risk 0.5% - 1.0%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Cost of Risk 0.5% - 1.0%"
+    },
+    {
+      "item": "NPL 5% - 7%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "NPL 5% - 7%"
+    },
+    {
+      "item": "Subsidiaries Contribution (Assets) 40% - 45%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Subsidiaries Contribution (Assets) 40% - 45%"
+    },
+    {
+      "item": "Subsidiaries Contribution (PBT) 25% - 30%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "Subsidiaries Contribution (PBT) 25% - 30%"
+    },
+    {
+      "item": "None Equity Group Holdings Plc Investor Briefing FY 2021 PERFORMANCE Macroeconomic Environment Indicators & Trends 90 None None None",
+      "1": "Equity Group Holdings Plc Investor Briefing FY 2021 PERFORMANCE Macroeconomic Environment Indicators & Trends 90",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    }
+  ]
+}

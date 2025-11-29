@@ -1,0 +1,147 @@
+{
+  "title": "Income Statement",
+  "units": "assets",
+  "pages": [
+    71,
+    72,
+    73,
+    77,
+    78,
+    84
+  ],
+  "extracted_at": "2025-11-29T07:17:41.559812",
+  "data": [
+    {
+      "item": "Growth",
+      "1": "H1 2020",
+      "2": "H1 2021",
+      "3": NaN
+    },
+    {
+      "item": "Net Interest Income",
+      "1": "24.6",
+      "2": "31.2",
+      "3": "26%"
+    },
+    {
+      "item": "Total Income",
+      "1": "38.7",
+      "2": "51.6",
+      "3": "33%"
+    },
+    {
+      "item": "Total Costs",
+      "1": "26.7",
+      "2": "27.8",
+      "3": "4%"
+    },
+    {
+      "item": "PBT",
+      "1": "12.0",
+      "2": "23.8",
+      "3": "99%"
+    },
+    {
+      "item": "PAT",
+      "1": "9.1",
+      "2": "17.9",
+      "3": "98%"
+    },
+    {
+      "item": "Earnings per share",
+      "1": "2.4",
+      "2": "4.7",
+      "3": "95%"
+    },
+    {
+      "item": "KES Bn",
+      "1": "H1 2020",
+      "2": "H1 2021",
+      "3": NaN
+    },
+    {
+      "item": "Gross loan loss provision",
+      "1": "8.0",
+      "2": "2.9",
+      "3": NaN
+    },
+    {
+      "item": "Loan recoveries",
+      "1": "(0.3)",
+      "2": "(0.3)",
+      "3": NaN
+    },
+    {
+      "item": "Net loan loss provision",
+      "1": "7.7",
+      "2": "2.6",
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Profitability",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Asset Quality",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Leverage",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Capital Adequacy Ratios",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Liquidity",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Notes None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}
