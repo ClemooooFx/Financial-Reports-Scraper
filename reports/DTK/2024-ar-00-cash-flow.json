@@ -1,0 +1,1391 @@
+{
+  "title": "Statement of Cash Flows",
+  "units": "continued",
+  "pages": [
+    157,
+    158,
+    159,
+    160,
+    161,
+    162
+  ],
+  "extracted_at": "2025-11-29T05:49:25.006342",
+  "data": [
+    {
+      "item": "Kenya Tanzania Uganda Burundi Total",
+      "1": "Kenya",
+      "2": "Tanzania",
+      "3": "Uganda",
+      "4": "Burundi",
+      "5": "Total"
+    },
+    {
+      "item": "Shs’000 Shs’000 Shs’000 Shs’000 Shs’000",
+      "1": "Shs’000",
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "4": "Shs’000",
+      "5": "Shs’000"
+    },
+    {
+      "item": "None None",
+      "1": "19,174,650",
+      "2": "5,267,075",
+      "3": "3,746,375",
+      "4": "349,434",
+      "5": NaN
+    },
+    {
+      "item": "53,311,533",
+      "1": "34,886,335",
+      "2": "7,786,370",
+      "3": "10,189,049",
+      "4": "449,779",
+      "5": NaN
+    },
+    {
+      "item": "Group",
+      "1": NaN,
+      "2": "None",
+      "3": "Bank",
+      "4": "None",
+      "5": NaN
+    },
+    {
+      "item": "2024",
+      "1": NaN,
+      "2": "2023",
+      "3": "2024",
+      "4": "2023",
+      "5": NaN
+    },
+    {
+      "item": "Shs’000",
+      "1": NaN,
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "4": "Shs’000",
+      "5": NaN
+    },
+    {
+      "item": "25,736,944",
+      "1": "18,344,510",
+      "2": "2,365,715",
+      "3": "4,932,525",
+      "4": "94,194",
+      "5": NaN
+    },
+    {
+      "item": "",
+      "1": NaN,
+      "2": "2,094,178",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net interest income",
+      "1": "16,541,825",
+      "2": "5,420,655",
+      "3": "5,256,524",
+      "4": "355,585",
+      "5": "27,574,589"
+    },
+    {
+      "item": "11,435,245",
+      "1": "7,235,760",
+      "2": "2,616,779",
+      "3": "1,568,735",
+      "4": "13,971",
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "1": "Group",
+      "2": "None",
+      "3": "Bank",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2023",
+      "1": "2024",
+      "2": "2023",
+      "3": "2024",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 13,352,421",
+      "1": "38,918,755",
+      "2": "43,279,118",
+      "3": "6,957,606",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "At end of year 12,414",
+      "1": "25,475",
+      "2": "22,097",
+      "3": "18,743",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Interest income earned from directors loans",
+      "1": "1,660",
+      "2": "1,836",
+      "3": "960",
+      "4": "864",
+      "5": NaN
+    },
+    {
+      "item": "At end of year 749,008",
+      "1": "847,607",
+      "2": "948,560",
+      "3": "159,055",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Interest paid on directors' deposits",
+      "1": "9,922",
+      "2": "67,700",
+      "3": "9,858",
+      "4": "67,697",
+      "5": NaN
+    },
+    {
+      "item": "1,955,851",
+      "1": "2,561,910",
+      "2": "1,280,155",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,498,683",
+      "1": "383,416",
+      "2": "2,437,000",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "17,827,487",
+      "1": "21,848,246",
+      "2": "5,015,131",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,229,098",
+      "1": "1,037,994",
+      "2": "491,364",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "631,126",
+      "1": "1,596,166",
+      "2": "1,342,364",
+      "3": "738,461",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "156,985",
+      "1": "357,811",
+      "2": "258,197",
+      "3": "186,760",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "D None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "DTBK Diamond Trust Bank Kenya",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "AFAWA Affirmative Finance Action for Women in Africa",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "DTBU Diamond Trust Bank Uganda",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "AGM Annual General Meeting",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ALCO Asset Liability Committee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "EDD Enhanced Due Diligence",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ERMF Enterprise Risk Management Framework",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "BaaS Banking as a Service",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ESMS Environmental and Social Management System",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "BCC Board Credit Committee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "EVP Employee Value Proposition",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "BITC Board Innovation and Technology Committee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "BoU Bank of Uganda",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "FYDPIII Five-year Development Plan III (Tanzania",
+      "1": "Five-year Development Plan III (Tanzania",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "BRMC Board Risk Management Committee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GDPR General Data Protection Regulation",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CES Customer Effort Score",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "H",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CMA Capital Markets Authority",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "I",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "DPO Data Protection Officer",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "DTBB Diamond Trust Bank Burundi",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ICT Information and Communications Technology",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "R",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "RMCC Risk Management Compliance Committee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "IFRS S2",
+      "1": "International Financial Reporting Standard 2 (Share-based Payment)",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GRI STANDARD DISCLOSURE LOCATION PAGE",
+      "1": "DISCLOSURE",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-1 Organizational details About us None",
+      "1": "2-1 Organizational details",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-2 Entities included in the organization’s sustainability reporting About our integrated report None",
+      "1": "2-2 Entities included in the organization’s sustainability reporting",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-3 Reporting period, frequency and contact point About our integrated report None",
+      "1": "2-3 Reporting period, frequency and contact point",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-5 External assurance About our integrated report None",
+      "1": "2-5 External assurance",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-6 Activities, value chain and other business relationships About us None",
+      "1": "2-6 Activities, value chain and other business relationships",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-7 Employees Human capital and culture None",
+      "1": "2-7 Employees",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-8 Workers who are not employees Human capital and culture None",
+      "1": "2-8 Workers who are not employees",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-9 Governance structure and composition How we are led None",
+      "1": "2-9 Governance structure and composition",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-10 Nomination and selection of the highest governance body How we are led None",
+      "1": "2-10 Nomination and selection of the highest governance body",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-11 Chair of the highest governance body How we are led None",
+      "1": "2-11 Chair of the highest governance body",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-12 Role of the highest governance body in overseeing the management of impacts How we are led None",
+      "1": "2-12 Role of the highest governance body in overseeing the management of impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-13 Delegation of responsibility for managing impacts How we are led None",
+      "1": "2-13 Delegation of responsibility for managing impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-14 Role of the highest governance body in sustainability reporting How we are led None",
+      "1": "2-14 Role of the highest governance body in sustainability reporting",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-15 Conflicts of interest How we are led None",
+      "1": "2-15 Conflicts of interest",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-17 Collective knowledge of the highest governance body How we are led None",
+      "1": "2-17 Collective knowledge of the highest governance body",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-18 Evaluation of the performance of the highest governance body How we are led None",
+      "1": "2-18 Evaluation of the performance of the highest governance body",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-19 Remuneration policies How we are led None",
+      "1": "2-19 Remuneration policies",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-20 Process to determine remuneration How we are led None",
+      "1": "2-20 Process to determine remuneration",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-22 Statement on sustainable development strategy How we create value None",
+      "1": "2-22 Statement on sustainable development strategy",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-23 Policy commitments How we create value None",
+      "1": "2-23 Policy commitments",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-24 Embedding policy commitments How we create value None",
+      "1": "2-24 Embedding policy commitments",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-25 Processes to remediate negative impacts How we create value None",
+      "1": "2-25 Processes to remediate negative impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-26 Mechanisms for seeking advice and raising concerns How we create value None",
+      "1": "2-26 Mechanisms for seeking advice and raising concerns",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-27 Compliance with laws and regulations Risk management None",
+      "1": "2-27 Compliance with laws and regulations",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "IVR Interactive Voice Response",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "S",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "K",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "SSA Sub-Saharan Africa",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "KBA Kenya Bankers’ Association",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "T",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "M",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "TZS Tanzanian Shilling",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MSMEs Micro, Small and Medium-sized Enterprises",
+      "1": "Micro, Small and Medium-sized Enterprises",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "U",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "N",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "UGX Ugandan Shilling",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "NPS Net Promotor Score",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "UN SDGs United Nations Sustainable Development Goals",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "O",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "V",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "OPCO Operational Subcommittee",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "W",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "PEP Politically Exposed Person",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-28 Membership associations Stakeholder engagement None",
+      "1": "2-28 Membership associations",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-29 Approach to stakeholder engagement Stakeholder engagement None",
+      "1": "2-29 Approach to stakeholder engagement",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 2-30 Collective bargaining agreements Human capital and culture None",
+      "1": "2-30 Collective bargaining agreements",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 3-1 Process to determine material topics Stakeholder engagement None",
+      "1": "3-1 Process to determine material topics",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 3-2 List of material topics Stakeholder engagement None",
+      "1": "3-2 List of material topics",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 3-3 Management of material topics Stakeholder engagement None",
+      "1": "3-3 Management of material topics",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 201-1 Direct economic value generated and distributed Financial review None",
+      "1": "201-1 Direct economic value generated and distributed",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None How we create value None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 201-2 Financial implications and other risks and opportunities due to climate change Risk management None",
+      "1": "201-2 Financial implications and other risks and opportunities due to climate change",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 201-3 Defined benefit plan obligations and other retirement plans Human capital and culture None",
+      "1": "201-3 Defined benefit plan obligations and other retirement plans",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 203-1 Infrastructure investments and services supported How we create value None",
+      "1": "203-1 Infrastructure investments and services supported",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 203-2 Significant indirect economic impacts Financial review None",
+      "1": "203-2 Significant indirect economic impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None Financial statements None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 204-1 Proportion of spending on local suppliers Stakeholder engagement None",
+      "1": "204-1 Proportion of spending on local suppliers",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 205-1 Operations assessed for risks related to corruption Risk management None",
+      "1": "205-1 Operations assessed for risks related to corruption",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 205-2 Communication and training about anti- corruption policies and procedures Human capital and culture None",
+      "1": "205-2 Communication and training about anti- corruption policies and procedures",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 207-1 Approach to tax Financial review None",
+      "1": "207-1 Approach to tax",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 207-2 Tax governance, control, and risk management How we are led None",
+      "1": "207-2 Tax governance, control, and risk management",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None Risk management None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 207-3 Stakeholder engagement and management of concerns related to tax Stakeholder engagement None",
+      "1": "207-3 Stakeholder engagement and management of concerns related to tax",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 207-4 Country-by-country reporting Financial review None",
+      "1": "207-4 Country-by-country reporting",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 301-2 Recycled input materials used How we create value None",
+      "1": "301-2 Recycled input materials used",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 302-1 Energy consumption within the organization How we create value None",
+      "1": "302-1 Energy consumption within the organization",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 302-2 Energy consumption outside of the organization How we create value None",
+      "1": "302-2 Energy consumption outside of the organization",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 302-3 Energy intensity How we create value None",
+      "1": "302-3 Energy intensity",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 302-4 Reduction of energy consumption How we create value None",
+      "1": "302-4 Reduction of energy consumption",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 302-5 Reductions in energy requirements of products and services How we create value None",
+      "1": "302-5 Reductions in energy requirements of products and services",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 303-1 Interactions with water as a shared resource How we create value None",
+      "1": "303-1 Interactions with water as a shared resource",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 303-2 Management of water discharge-related impacts How we create value None",
+      "1": "303-2 Management of water discharge-related impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 303-3 Water withdrawal How we create value None",
+      "1": "303-3 Water withdrawal",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 303-4 Water discharge How we create value None",
+      "1": "303-4 Water discharge",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 303-5 Water consumption How we create value None",
+      "1": "303-5 Water consumption",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 304-2 Significant impacts of activities, products and services on biodiversity How we create value None",
+      "1": "304-2 Significant impacts of activities, products and services on biodiversity",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 305-1 Direct (Scope 1) GHG emissions How we create value None",
+      "1": "305-1 Direct (Scope 1) GHG emissions",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 305-2 Energy indirect (Scope 2) GHG emissions How we create value None",
+      "1": "305-2 Energy indirect (Scope 2) GHG emissions",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 305-3 Other indirect (Scope 3) GHG emissions How we create value None",
+      "1": "305-3 Other indirect (Scope 3) GHG emissions",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 305-4 GHG emissions intensity How we create value None",
+      "1": "305-4 GHG emissions intensity",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 305-5 Reduction of GHG emissions How we create value None",
+      "1": "305-5 Reduction of GHG emissions",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 306-1 Waste generation and significant waste- related impacts How we create value None",
+      "1": "306-1 Waste generation and significant waste- related impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 306-2 Management of significant waste-related impacts How we create value None",
+      "1": "306-2 Management of significant waste-related impacts",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 306-3 Waste generated How we create value None",
+      "1": "306-3 Waste generated",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 306-4 Waste diverted from disposal How we create value None",
+      "1": "306-4 Waste diverted from disposal",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 306-5 Waste directed to disposal How we create value None",
+      "1": "306-5 Waste directed to disposal",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 308-1 New suppliers that were screened using environmental criteria How we create value None",
+      "1": "308-1 New suppliers that were screened using environmental criteria",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 401-1 New employee hires and employee turnover Human capital and culture None",
+      "1": "401-1 New employee hires and employee turnover",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees Human capital and culture None",
+      "1": "401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 401-3 Parental leave Human capital and culture None",
+      "1": "401-3 Parental leave",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-1 Occupational health and safety management system Human capital and culture None",
+      "1": "403-1 Occupational health and safety management system",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-2 Hazard identification, risk assessment, and incident investigation Human capital and culture None",
+      "1": "403-2 Hazard identification, risk assessment, and incident investigation",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-3 Occupational health services Human capital and culture None",
+      "1": "403-3 Occupational health services",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-4 Worker participation, consultation, and communication on occupational health and safety Human capital and culture None",
+      "1": "403-4 Worker participation, consultation, and communication on occupational health and safety",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-5 Worker training on occupational health and safety Human capital and culture None",
+      "1": "403-5 Worker training on occupational health and safety",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-6 Promotion of worker health Human capital and culture None",
+      "1": "403-6 Promotion of worker health",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships Human capital and culture None",
+      "1": "403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-8 Workers covered by an occupational health and safety management system Human capital and culture None",
+      "1": "403-8 Workers covered by an occupational health and safety management system",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-9 Work-related injuries Human capital and culture None",
+      "1": "403-9 Work-related injuries",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 403-10 Work-related ill health Human capital and culture None",
+      "1": "403-10 Work-related ill health",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 404-1 Average hours of training per year per employee Human capital and culture None",
+      "1": "404-1 Average hours of training per year per employee",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 404-2 Programs for upgrading employee skills and transition assistance programs Human capital and culture None",
+      "1": "404-2 Programs for upgrading employee skills and transition assistance programs",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 404-3 Percentage of employees receiving regular performance and career development reviews Human capital and culture None",
+      "1": "404-3 Percentage of employees receiving regular performance and career development reviews",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 405-1 Diversity of governance bodies and employees How we are led None",
+      "1": "405-1 Diversity of governance bodies and employees",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None Human capital and culture None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 413-1 Operations with local community engagement, impact assessments, and development programs How we create value None",
+      "1": "413-1 Operations with local community engagement, impact assessments, and development programs",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data How we create value None",
+      "1": "418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Section Recommendations Location Page",
+      "1": "Recommendations",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None a) We describe the Board’s oversight of climate related risk and opportunities How we are led None",
+      "1": "a) We describe the Board’s oversight of climate related risk and opportunities",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None b) We describe management’s role in assessing and managing climate related risk and opportunities None None",
+      "1": "b) We describe management’s role in assessing and managing climate related risk and opportunities",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None a) We describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term How we create value None",
+      "1": "a) We describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None b) We describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning None None",
+      "1": "b) We describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None c) We describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a two degree Celsius or lower scenario. None None",
+      "1": "c) We describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a two degree Celsius or lower scenario.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None a) We describe the organisation’s process for identifying, assessing, and managing climate-related risks Risk management None",
+      "1": "a) We describe the organisation’s process for identifying, assessing, and managing climate-related risks",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None b) We describe the organisation’s processes for managing climate-related risks None None",
+      "1": "b) We describe the organisation’s processes for managing climate-related risks",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None c) We describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management. None None",
+      "1": "c) We describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None a) We disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process. How we create value None",
+      "1": "a) We disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None b) We disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks. None None",
+      "1": "b) We disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None c) We describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets None None",
+      "1": "c) We describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}
