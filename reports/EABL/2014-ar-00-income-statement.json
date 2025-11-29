@@ -1,0 +1,31 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "ii",
+  "pages": [
+    7,
+    9,
+    13,
+    14,
+    15,
+    25,
+    31,
+    43,
+    44,
+    45
+  ],
+  "extracted_at": "2025-11-29T06:16:33.640989",
+  "data": [
+    {
+      "item": "Brands"
+    },
+    {
+      "item": "People"
+    },
+    {
+      "item": "Performance"
+    },
+    {
+      "item": "None None"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": " Balance Sheet",
+  "units": "dpvs",
+  "pages": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    31
+  ],
+  "extracted_at": "2025-11-29T06:17:52.958688",
+  "data": [
+    {
+      "item": "vs LY",
+      "1": "FY F17 KES ’bn’",
+      "2": "FY F16 KES ’bn’",
+      "4": NaN,
+      "5": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CAPEX",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Dividends",
+      "1": "F17 KES/Share",
+      "2": "F16 KES/Share",
+      "4": NaN,
+      "5": NaN,
+      "0": NaN
+    },
+    {
+      "item": "vs LY vs LY",
+      "1": "F17 H1 KES bn",
+      "2": "F16 H1 KES bn",
+      "4": "F17 H2 KES bn",
+      "5": "F16 H2 KES bn",
+      "0": NaN
+    },
+    {
+      "item": "Opportunities for further growth",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": "Opportunities for further growth"
+    },
+    {
+      "item": " Accelerate spirits volume momentum",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Accelerate spirits volume momentum"
+    },
+    {
+      "item": " Recruitment and re-recruitment bottled beer consumers",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Recruitment and re-recruitment bottled beer consumers"
+    },
+    {
+      "item": " Win in premium leading with Scotch",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Win in premium leading with Scotch"
+    },
+    {
+      "item": " Deliver productivity initiatives",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Deliver productivity initiatives"
+    },
+    {
+      "item": " Fast track beer and spirits capacity investments",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Fast track beer and spirits capacity investments"
+    },
+    {
+      "item": " Accelerate Pilsner 7, Zinga and Serengeti Lite Innovations 31",
+      "1": NaN,
+      "2": NaN,
+      "4": NaN,
+      "5": NaN,
+      "0": " Accelerate Pilsner 7, Zinga and Serengeti Lite Innovations 31"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "5% mainly driven by EABL Consolidated Income Statement",
+  "units": "expense",
+  "pages": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "extracted_at": "2025-11-29T06:16:38.340373",
+  "data": [
+    {
+      "item": "Financial Report Half Ended 31st December 2014 None None None",
+      "0": "Financial Report Half Ended 31st December 2014",
+      "1": "None",
+      "2": "None",
+      "3": "None"
+    },
+    {
+      "item": "EABL Consolidated Income Statement 31-Dec-14 31-Dec-13 Growth %",
+      "0": "EABL Consolidated Income Statement",
+      "1": "31-Dec-14",
+      "2": "31-Dec-13",
+      "3": "Growth %"
+    },
+    {
+      "item": "KES M KES M",
+      "0": "",
+      "1": "KES M",
+      "2": "KES M",
+      "3": ""
+    },
+    {
+      "item": "Net Revenue 34,768 31,858 9%",
+      "0": "Net Revenue",
+      "1": "34,768",
+      "2": "31,858",
+      "3": "9%"
+    },
+    {
+      "item": "Cost of Sales",
+      "0": NaN,
+      "1": "(17,657)",
+      "2": "(16,127)",
+      "3": "9%"
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": "",
+      "2": "",
+      "3": "None"
+    },
+    {
+      "item": "Selling and Distribution costs",
+      "0": NaN,
+      "1": "(3,188)",
+      "2": "(3,047)",
+      "3": "5%"
+    },
+    {
+      "item": "Administrative expenses",
+      "0": NaN,
+      "1": "(4,397)",
+      "2": "(4,507)",
+      "3": "-2%"
+    },
+    {
+      "item": "Net Finance income / (costs)",
+      "0": NaN,
+      "1": "(2,187)",
+      "2": "(2,043)",
+      "3": "7%"
+    },
+    {
+      "item": "Income tax expense",
+      "0": NaN,
+      "1": "(2,181)",
+      "2": "(1,923)",
+      "3": "13%"
+    },
+    {
+      "item": "Non Controlling interest",
+      "0": NaN,
+      "1": "(479)",
+      "2": "(212)",
+      "3": "126%"
+    },
+    {
+      "item": "Proposed Dividends KES/Share",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}

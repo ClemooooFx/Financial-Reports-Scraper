@@ -1,0 +1,98 @@
+{
+  "title": "EABL Consolidated Income Statement",
+  "units": "expense",
+  "pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "extracted_at": "2025-11-29T06:16:36.123752",
+  "data": [
+    {
+      "item": "Financial Report Half Ended 31st December 2013 EABL Consolidated Income Statement 31-Dec-13 31-Dec-12 Kshs M Kshs M Growth % None",
+      "1": "Financial Report Half Ended 31st December 2013 EABL Consolidated Income Statement 31-Dec-13 31-Dec-12 Kshs M Kshs M Growth %",
+      "0": NaN
+    },
+    {
+      "item": "Net Revenue 3 1,858 3 0,633 4%",
+      "1": "Net Revenue 3 1,858 3 0,633 4%",
+      "0": NaN
+    },
+    {
+      "item": "None Cost of Sales ( 16,127) ( 16,234) -1%",
+      "1": "Cost of Sales ( 16,127) ( 16,234) -1%",
+      "0": NaN
+    },
+    {
+      "item": "Gross Profit 1 5,731 1 4,399 9% None",
+      "1": "Gross Profit 1 5,731 1 4,399 9%",
+      "0": NaN
+    },
+    {
+      "item": "None Selling and Distribution costs (3,047) (2,541) 20% Administrative expenses (4,507) (3,564) 26% Other operating income / (expense) (50) ( 436) -89%",
+      "1": "Selling and Distribution costs (3,047) (2,541) 20% Administrative expenses (4,507) (3,564) 26% Other operating income / (expense) (50) ( 436) -89%",
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "1": "None",
+      "0": NaN
+    },
+    {
+      "item": "Operating Profit 8 ,127 7 ,858 3% None",
+      "1": "Operating Profit 8 ,127 7 ,858 3%",
+      "0": NaN
+    },
+    {
+      "item": "None Net Revenue 3 1,858 3 0,633 4%",
+      "1": "Net Revenue 3 1,858 3 0,633 4%",
+      "0": NaN
+    },
+    {
+      "item": "Cost of Sales ( 16,127) ( 16,234) -1%",
+      "1": "Cost of Sales ( 16,127) ( 16,234) -1%",
+      "0": NaN
+    },
+    {
+      "item": "None Net Revenue 3 1,858 3 0,633 4% Cost of Sales ( 16,127) ( 16,234) -1%",
+      "1": "Net Revenue 3 1,858 3 0,633 4% Cost of Sales ( 16,127) ( 16,234) -1%",
+      "0": NaN
+    },
+    {
+      "item": "Selling and Distribution costs (3,047) (2,541) 20% Administrative expenses (4,507) (3,564) 26% Other operating income / (expense) (50) ( 436) -89%",
+      "1": "Selling and Distribution costs (3,047) (2,541) 20% Administrative expenses (4,507) (3,564) 26% Other operating income / (expense) (50) ( 436) -89%",
+      "0": NaN
+    },
+    {
+      "item": "Net Finance income / (costs) (2,043) (2,061) -1%",
+      "1": "Net Finance income / (costs) (2,043) (2,061) -1%",
+      "0": ""
+    },
+    {
+      "item": "None Profit before taxation 6 ,084 5 ,797 5%",
+      "1": "Profit before taxation 6 ,084 5 ,797 5%",
+      "0": "None"
+    },
+    {
+      "item": "Income tax expense (1,923) (1,815) 6%",
+      "1": "Income tax expense (1,923) (1,815) 6%",
+      "0": ""
+    },
+    {
+      "item": "None Profit after taxation 4 ,161 3 ,982 4%",
+      "1": "Profit after taxation 4 ,161 3 ,982 4%",
+      "0": "None"
+    },
+    {
+      "item": "Non Controlling interest ( 212) ( 227) -7%",
+      "1": "Non Controlling interest ( 212) ( 227) -7%",
+      "0": ""
+    },
+    {
+      "item": "Profit attributable to Equity holders 3 ,949 3 ,755 5% Profit attributable to Equity holders 3 ,949 3 ,755 5% None None",
+      "1": "Profit attributable to Equity holders 3 ,949 3 ,755 5%",
+      "0": "Profit attributable to Equity holders 3 ,949 3 ,755 5%"
+    }
+  ]
+}
