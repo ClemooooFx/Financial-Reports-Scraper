@@ -180,11 +180,8 @@ jobs:
         if: always()
         run: |
           # Only clean up extracted CSVs and metadata, keep PDFs for next batch
-          find reports -name "*-balance-sheet.csv" -delete
-          find reports -name "*-income-statement.csv" -delete
-          find reports -name "*-cash-flow.csv" -delete
-          find reports -name "*-equity-changes.csv" -delete
+          find reports -name "*-table-*.csv" -delete
           find reports -name "*.meta.json" -delete
           find reports -name "extraction_summary*.json" -delete
-          echo "Cleaned up extracted JSONs (kept PDFs for next batch)"
+          echo "Cleaned up extracted files (kept PDFs)"
           df -h
