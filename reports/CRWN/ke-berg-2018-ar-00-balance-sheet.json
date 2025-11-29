@@ -1,0 +1,1251 @@
+{
+  "title": "Consolidated Statement of Financial Position ...........................................................................................31",
+  "units": "continued",
+  "pages": [
+    5,
+    8,
+    9,
+    15,
+    21,
+    22,
+    39,
+    87,
+    88,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    109,
+    110,
+    114
+  ],
+  "extracted_at": "2025-11-29T03:52:35.800875",
+  "data": [
+    {
+      "item": "None",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None",
+      "0": "TOP 30 SHAREHOLDERS",
+      "3": "None",
+      "4": "None",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Name Residence",
+      "0": "Rank",
+      "3": "Total Shares",
+      "4": "%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CROWN PAINTS AND BUILDING PRODUCTS LTD LC",
+      "0": "1",
+      "3": "34,462,365",
+      "4": "48.42%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "BEAUMONT PROPERTIES LIMITED FC",
+      "0": "2",
+      "3": "15,650,536",
+      "4": "21.99%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "BARCLAY HOLDINGS LIMITED FC",
+      "0": "3",
+      "3": "9,702,000",
+      "4": "13.63%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "MAHENDRA DAHYABHAI PATEL LI",
+      "0": "4",
+      "3": "672,060",
+      "4": "0.94%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "STANBIC NOMINEES LTD A/C NR1030823 FC",
+      "0": "5",
+      "3": "639,000",
+      "4": "0.90%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "MAHENDRA FULCHAND GANDHI AND MRS MALVIKA MAHENDRA GANDHI LI",
+      "0": "6",
+      "3": "602,817",
+      "4": "0.85%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CFCFS NOMINEES LIMITED A/C HRJC LC",
+      "0": "7",
+      "3": "332,700",
+      "4": "0.47%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "KANAKSINH KARSANDAS BABLA & SANDIP KANAKSINH BABLA LI",
+      "0": "8",
+      "3": "303,600",
+      "4": "0.43%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "MINESH MULCHAND SHAH LI",
+      "0": "9",
+      "3": "287,090",
+      "4": "0.40%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "DSL MOMINEES LTD A/C ORCHARD ESTATE LTD LC",
+      "0": "10",
+      "3": "280,188",
+      "4": "0.39%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SAVITABEN VELJI RAICHAND SHAH LI",
+      "0": "11",
+      "3": "220,275",
+      "4": "0.31%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ZAVERCHAND PUNJA WAREHOUSES LTD LC",
+      "0": "12",
+      "3": "211,200",
+      "4": "0.30%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "JOHN OKUNA OGANGO LI",
+      "0": "13",
+      "3": "174,700",
+      "4": "0.25%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "BIJAL MULCHAND SHAH LI",
+      "0": "14",
+      "3": "127,312",
+      "4": "0.18%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "NISHITKUMAR RAMNIKLAL SHAH LI",
+      "0": "15",
+      "3": "114,900",
+      "4": "0.16%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ABDULRASUL ISMAIL THAWER FI",
+      "0": "16",
+      "3": "110,550",
+      "4": "0.16%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SANJAY GULABSI BHATIA & MRS HEMANTI SANJAY BHATIA LI",
+      "0": "17",
+      "3": "99,000",
+      "4": "0.14%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "PRAFULKUMAR HEMRAJ SHAH LI",
+      "0": "18",
+      "3": "98,640",
+      "4": "0.14%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SHAZIQUE ENTERPRISES LIMITED LC",
+      "0": "19",
+      "3": "94,710",
+      "4": "0.13%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "PARESH P UPADHYAY & HASMUKH A JOSHI LI",
+      "0": "20",
+      "3": "89,100",
+      "4": "0.13%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SURESHCHANDRA RAICHAND SHAH LI",
+      "0": "21",
+      "3": "83,127",
+      "4": "0.12%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SAROJBEN PRAFULKUMAR SHAH LI",
+      "0": "22",
+      "3": "82,020",
+      "4": "0.12%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SANDIP VELJI SHAH LI",
+      "0": "23",
+      "3": "78,621",
+      "4": "0.11%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "RAJNIKANT NATHOOBHAI SHAH LI",
+      "0": "24",
+      "3": "77,220",
+      "4": "0.11%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SHAMSUDIN J. A. RAYANI & ROSINAKHANU S. RAYANI LI",
+      "0": "25",
+      "3": "74,568",
+      "4": "0.10%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SANTOKH SINGH ASSI FI",
+      "0": "26",
+      "3": "69,630",
+      "4": "0.10%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SILVESTER MUCHINYI LI",
+      "0": "27",
+      "3": "69,600",
+      "4": "0.10%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "RUPAM GULABSI BHATIA LI",
+      "0": "28",
+      "3": "66,000",
+      "4": "0.09%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "JOHN WAHOME MURAGE LI",
+      "0": "29",
+      "3": "65,505",
+      "4": "0.09%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "RAMABEN SUMANTRAI PATEL LI",
+      "0": "30",
+      "3": "64,000",
+      "4": "0.09%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SHARES SELECTED",
+      "0": "",
+      "3": "65,003,034",
+      "4": "91.32%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SHARES NOT SELECTED - 2,475 Shareholders",
+      "0": "",
+      "3": "6,177,966",
+      "4": "8.68%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SHARES ISSUED",
+      "0": "",
+      "3": "71,181,000",
+      "4": "100%",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "TOTAL NUMBER OF CROWN PAINTS SHAREHOLDERS",
+      "0": "",
+      "3": "2,505",
+      "4": "",
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "DEMAT ANALYSIS",
+      "0": NaN,
+      "3": "None",
+      "4": NaN,
+      "1": "None",
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CDSC",
+      "0": NaN,
+      "3": "1,743",
+      "4": NaN,
+      "1": "57,351,158",
+      "2": "80.57%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CERTIFICATED",
+      "0": NaN,
+      "3": "762",
+      "4": NaN,
+      "1": "13,829,842",
+      "2": "19.43%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "TOTALS",
+      "0": NaN,
+      "3": "2,505",
+      "4": NaN,
+      "1": "71,181,000",
+      "2": "100%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ANALYSIS BY DOMICILE",
+      "0": NaN,
+      "3": "",
+      "4": NaN,
+      "1": "",
+      "2": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "DOMICILE",
+      "0": NaN,
+      "3": "HOLDERS",
+      "4": NaN,
+      "1": "SHARES",
+      "2": "%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "FOREIGN COMPANIES",
+      "0": NaN,
+      "3": "7",
+      "4": NaN,
+      "1": "26,030,536",
+      "2": "36.57%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "FOREIGN INDIVIDUALS",
+      "0": NaN,
+      "3": "24",
+      "4": NaN,
+      "1": "307,205",
+      "2": "0.43%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "LOCAL COMPANIES",
+      "0": NaN,
+      "3": "175",
+      "4": NaN,
+      "1": "36,148,192",
+      "2": "50.78%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "LOCAL INDIVIDUALS",
+      "0": NaN,
+      "3": "2,299",
+      "4": NaN,
+      "1": "8,695,067",
+      "2": "12.22%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "TOTAL",
+      "0": NaN,
+      "3": "2,505",
+      "4": NaN,
+      "1": "71,181,000",
+      "2": "100.00%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ANALYSIS BY VOLUME",
+      "0": NaN,
+      "3": "",
+      "4": NaN,
+      "1": "",
+      "2": "",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "VOLUME",
+      "0": NaN,
+      "3": "HOLDERS",
+      "4": NaN,
+      "1": "SHARES",
+      "2": "%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1 - 500",
+      "0": NaN,
+      "3": "1,056",
+      "4": NaN,
+      "1": "170,136",
+      "2": "0.24%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "501 - 5,000",
+      "0": NaN,
+      "3": "1,156",
+      "4": NaN,
+      "1": "2,258,162",
+      "2": "3.17%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "5,001 - 10,000",
+      "0": NaN,
+      "3": "141",
+      "4": NaN,
+      "1": "1,037,360",
+      "2": "1.46%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "10,001 - 100,000",
+      "0": NaN,
+      "3": "136",
+      "4": NaN,
+      "1": "3,824,049",
+      "2": "5.37%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "100,001 - 1,000,000",
+      "0": NaN,
+      "3": "13",
+      "4": NaN,
+      "1": "4,076,392",
+      "2": "5.73%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": ">1000,000",
+      "0": NaN,
+      "3": "3",
+      "4": NaN,
+      "1": "59,814,901",
+      "2": "84.03%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Starehe Boys Centre Alumni working at Crown Paints Kenya PLC present a cheque worth One Hundred thousand to the current students of Starehe Boys’ Centre None None",
+      "0": "Starehe Boys Centre Alumni working at Crown Paints Kenya PLC present a cheque worth One Hundred thousand to the current students of Starehe Boys’ Centre",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Crown Paints repainted Njoro Sub County Hospital with the aim of enhancing the hospital’s image as well as creating a positive ambience for the patients and staff. In addition Crown Paints donated beddings to be used at the inpatient wards. None Crown Paints Kenya PLC awarded Ksh 100,000 to the top four students graduating in Bachelor of Arts: Building and Economics; Quantity Surveying and Bachelor of Construction Management; School of the Built Environment",
+      "0": "Crown Paints repainted Njoro Sub County Hospital with the aim of enhancing the hospital’s image as well as creating a positive ambience for the patients and staff. In addition Crown Paints donated beddings to be used at the inpatient wards.",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "Crown Paints Kenya PLC awarded Ksh 100,000 to the top four students graduating in Bachelor of Arts: Building and Economics; Quantity Surveying and Bachelor of Construction Management; School of the Built Environment",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Jogoo Road police Station Painted by Crown Paints None",
+      "0": "",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Jogoo Road Police station OCS Oira Misiani (Right) appreciates Crown Paints Group Human Resource Manager Nicholas Wanambisi (Left) for repainting and transforming the image of the station None None",
+      "0": "Jogoo Road Police station OCS Oira Misiani (Right) appreciates Crown Paints Group Human Resource Manager Nicholas Wanambisi (Left) for repainting and transforming the image of the station",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Jogoo Road police Station Painted by Crown Paints None",
+      "0": "None",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Crown Paints celebrated 60 Years of being the colours of Kenya. It was combined with the viewing of the Football World Cup 2018. The 3 Executive Directors during the function. Our customers enjoying the match during the function. None",
+      "0": "Crown Paints celebrated 60 Years of being the colours of Kenya. It was combined with the viewing of the Football World Cup 2018. The 3 Executive Directors during the function.",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Crown Paints celebrated 60 Years of being the colours of Kenya. It was combined with the viewing of the Football World Cup 2018. The 3 Executive Directors during the function. None None",
+      "0": "Crown Paints celebrated 60 Years of being the colours of Kenya. It was combined with the viewing of the Football World Cup 2018. The 3 Executive Directors during the function.",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Our customers enjoying the match during the function. None",
+      "0": "None",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Risk Strategic Mitigation",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Regulatory Environment The Group is expected to comply with all regulatory bodies and governments’ requirements. • The Group ensures that its products meet the regulatory requirements. • The Group engages regulatory authorities to ensure compliance. • The Group actively participates with other stakeholders in building relationships with the regulatory authorities.",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Competition The paint industry has become ever more competitive both in terms of the products and players. • The Group through its research and development team is continuously developing its products to meet the market demands.",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Risk Strategic Competition Mitigation • The Group continuously monitors the market for the entry of new players and the threat that they offer.",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Economic/Political The political environment in the countries we operate in greatly influences the economic performance • The Group monitors the environment and takes measures to mitigate the risks identified.",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Operational Technological Changes in technology is a continuous threat to the operations. The Group ensures that its operating systems are updated and protected from external threats.",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "3,050,439",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "2,036,317",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,668,841 923,058 116,928 21,718 279,355",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "1,492,184 1,221,640 1,468,757 104,978 127,346",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "3,009,900",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "4,414,905",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "6,060,339",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "6,451,222",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "355,905 1,791,004",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "355,905 2,318,396",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "2,146,909",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "2,674,301",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "302,512",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "278,968",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "31,872 598,168 1,105,756 1,572,934 7,915 294,273",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "328,759 428,457 757,379 1,826,336 - 157,022",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "3,610,918",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": "3,497,953",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(122,288)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(21,718)",
+      "2": "(104,978)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "174,835",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "209,748",
+      "2": "173,182",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "119,439 - 18,821 1,653 32,426 2,496",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "113,252 - 96,496 - - -",
+      "2": "151,865 - 18,821 - - 2,496",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "18,821",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "96,496",
+      "2": "18,821",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,401,711",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,791,004",
+      "2": "2,318,396",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "71,181",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "71,181",
+      "2": "71,181",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(114,676)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "247,483",
+      "2": "(201,413)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "6,745",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "64,755",
+      "2": "6,745",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "13,040",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "208,952",
+      "2": "13,040",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "2,310,499",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,184,482",
+      "2": "2,634,711",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "3,990,724",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "3,826,079",
+      "2": "3,671,474",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "137,486",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,237,597",
+      "2": "(1,258,274)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "98,948",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,033,735",
+      "2": "(1,242,933)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "121,458",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,179,642",
+      "2": "(346,502)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "117,097",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,724,591",
+      "2": "(246,345)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "66,491",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "10,870",
+      "2": "2,239",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(17,799) (959,339) (136,051)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(31,872) (789,426) (575,361)",
+      "2": "(17,799) (817,021) (136,051)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(1,113,189)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(1,396,659)",
+      "2": "(970,871)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(1,046,698)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(1,385,789)",
+      "2": "(968,632)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(1,181,801)",
+      "0": NaN,
+      "3": "(434,110)",
+      "4": "(603,232)",
+      "1": "(742,949)",
+      "2": "(764,801)",
+      "5": "(684,055)",
+      "6": "(4,415,036)"
+    },
+    {
+      "item": "(1,397,417)",
+      "0": NaN,
+      "3": "(180,832)",
+      "4": "(1,154,963)",
+      "1": "(602,977)",
+      "2": "(406,208)",
+      "5": "(334,601)",
+      "6": "(4,076,998)"
+    },
+    {
+      "item": "(1,115,774)",
+      "0": NaN,
+      "3": "(434,110)",
+      "4": "(512,064)",
+      "1": "(704,517)",
+      "2": "(757,083)",
+      "5": "(341,839)",
+      "6": "(3,865,386)"
+    },
+    {
+      "item": "(1,266,041)",
+      "0": NaN,
+      "3": "(151,027)",
+      "4": "(1,085,775)",
+      "1": "(562,494)",
+      "2": "(357,775)",
+      "5": "(315,234)",
+      "6": "(3,738,346)"
+    },
+    {
+      "item": "(598,229)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "(598,229)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "1,085,656",
+      "2": "1,085,656",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(252,065)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "(297,703)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(297,703)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "(297,703)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(228,949)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "(228,949)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "34,907",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(2,169,755)",
+      "2": "5,475,693",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "14,852",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(380,470)",
+      "2": "4,448,833",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "158",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "157,826",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "209,232 36,780 - 3,829",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "- (663,978) - -",
+      "2": "8,315,910 - 2,270 653,109",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "(5,138)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "395,935",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "32,437",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(1,819,507)",
+      "2": "5,871,607",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "7,245",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "(938,412)",
+      "2": "4,113,991",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "181",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "134,045",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "160,095 38,807 - 3,792",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "- (575,616) - -",
+      "2": "7,351,326 - 1,103 385,705",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "823",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "1": "-",
+      "2": "398,129",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,560,557",
+      "0": "1,560,557",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,488,654 114,676",
+      "0": "1,488,654 114,676",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "1,603,330",
+      "0": "1,603,330",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "3,163,205",
+      "0": "3,163,205",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "51%",
+      "0": "51%",
+      "3": NaN,
+      "4": NaN,
+      "1": NaN,
+      "2": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}

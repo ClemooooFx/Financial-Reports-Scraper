@@ -1,0 +1,2531 @@
+{
+  "title": "Therefore, the Company’s income statement sets total comprehensive loss of KES 4.8 billion. A significant",
+  "units": "669",
+  "pages": [
+    79,
+    105,
+    106,
+    107,
+    117,
+    118,
+    119,
+    120,
+    127,
+    135,
+    137,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    163,
+    164,
+    165,
+    167,
+    168,
+    169,
+    183,
+    184,
+    185,
+    187,
+    189,
+    190,
+    191,
+    192,
+    193,
+    212,
+    213,
+    218,
+    219,
+    220,
+    221,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228
+  ],
+  "extracted_at": "2025-11-29T03:54:03.655576",
+  "data": [
+    {
+      "item": "sssseUUn isttuuuooBbb rAAuO",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "eeecccnnnaaannnrrreeevvvoooGGG eeetttaaarrroooppprrroooCCC",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ssstttnnneeemmmeeetttaaatttSSS lllaaaiiicccnnnaaannniiiFFF",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "KES millions",
+      "1": "FY21",
+      "2": "FY20",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Operating expenses",
+      "1": "(669)",
+      "2": "(895)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Income tax expense",
+      "1": "220",
+      "2": "(797)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Total return for the year",
+      "1": "(4,819)",
+      "2": "(4,363)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "sssseenniissuuBB rruuOO",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "eeccnnaannrreevvooGG eettaarroopprrooCC",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "stnemetatS laicnaniF None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 995,792 (712,292)",
+      "1": "2020 Ksh’000 5,468,816 (3,457,099)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "283,500",
+      "1": "2,011,717",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(610,889) (201,645)",
+      "1": "(1,781,328) (205,997)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(529,034)",
+      "1": "24,392",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "459,744 (1,950) (333,376)",
+      "1": "- - -",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "124,418",
+      "1": "-",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,638,662 60,083 (555,684) (392,179)",
+      "1": "3,921,836 289,228 (650,940) -",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "875,300",
+      "1": "3,560,124",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "323,674 (261,563) 721,712 (183,072) (1,074,310) (1,385,721)",
+      "1": "397,236 (381,747) (2,458,700) (234,731) (2,077,884) (1,202,583)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,859,280)",
+      "1": "(5,958,409)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,338,068 (1,730,313) (117,505) (2,160,392)",
+      "1": "3,796,050 (1,158,748) (392,219) (2,074,153)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "329,858",
+      "1": "170,930",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "666,433 - 17,681 (715,021) (488,707) (629,441) -",
+      "1": "13,207,023 39,925 (1,131,950) (2,751,568) (1,814,660) 100,305",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,149,055",
+      "1": "7,649,075",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(2,332,211)",
+      "1": "5,446,112",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "964,295",
+      "1": "(817,796)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,367,916)",
+      "1": "4,628,316",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 (1,367,916) - (531,349) 56,803 6,822 381,169",
+      "1": "Restated 2020 Ksh’000 4,628,316 (5,000) 298,729 (126,243) (1,137,581) 181,893",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(86,555)",
+      "1": "(788,202)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,454,471)",
+      "1": "3,840,114",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(705,553) (748,918)",
+      "1": "6,031,358 (2,191,244)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 1,516,870",
+      "1": "2020 Ksh’000 3,694,506",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(669,082) (602,867)",
+      "1": "(894,691) (1,814,660)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "244,921",
+      "1": "985,155",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,071,393)",
+      "1": "(3,580,252)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(826,472) 219,871",
+      "1": "(2,595,097) (796,591)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(606,601)",
+      "1": "(3,391,688)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(3,978,028) (541,255) 80,108 227,056",
+      "1": "(2,161,160) 292,750 (29,992) 927,747",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(4,212,119)",
+      "1": "(970,655)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(4,818,720)",
+      "1": "(4,362,343)",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Number Effective date Executive summary",
+      "1": "Effective date",
+      "2": "Executive summary",
+      "0": "Number",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendment to IFRS 3, ‘Business combinations’ Definition of a business Annual periods on or after 1 January 2020 (Published October 2018) This amendment revises the definition of a business. According to feedback received by the IASB, application of the current guidance is commonly thought to be too complex, and it results in too many transactions qualifying as business combinations. More acquisitions are likely to be accounted for as asset acquisitions. To be considered a business, an acquisition would have to include an input and a substantive process that together significantly contribute to the ability to create outputs. The new guidance provides a framework to evaluate when an input and a substantive process are present (including for early stage companies that have not generated outputs). To be a business without outputs, there will now need to be an organised workforce.",
+      "1": "Annual periods on or after 1 January 2020 (Published October 2018)",
+      "2": "This amendment revises the definition of a business. According to feedback received by the IASB, application of the current guidance is commonly thought to be too complex, and it results in too many transactions qualifying as business combinations. More acquisitions are likely to be accounted for as asset acquisitions. To be considered a business, an acquisition would have to include an input and a substantive process that together significantly contribute to the ability to create outputs. The new guidance provides a framework to evaluate when an input and a substantive process are present (including for early stage companies that have not generated outputs). To be a business without outputs, there will now need to be an organised workforce.",
+      "0": "Amendment to IFRS 3, ‘Business combinations’ Definition of a business",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendment to IAS 1, ‘Presentation of financial statements’ and IAS 8, ‘Accounting policies, changes in accounting estimates and errors’ on the definition of material Annual periods beginning on or after 1 January 2020 (Published October 2018) These amendments to IAS 1 and IAS 8 and consequential amendments to other IFRSs: - use a consistent definition of materiality through IFRSs and the Conceptual Framework for Financial Reporting; - clarify the explanation of the definition of material; and - incorporate some of the guidance in IAS 1 about immaterial information. The amended definition is: “Information is material if omitting, misstating or obscuring it could reasonably be expected to influence decisions that the primary users of general purpose financial statements make on the basis of those financial statements, which provide financial information about a specific reporting entity.”",
+      "1": "Annual periods beginning on or after 1 January 2020 (Published October 2018)",
+      "2": "These amendments to IAS 1 and IAS 8 and consequential amendments to other IFRSs: - use a consistent definition of materiality through IFRSs and the Conceptual Framework for Financial Reporting; - clarify the explanation of the definition of material; and - incorporate some of the guidance in IAS 1 about immaterial information. The amended definition is: “Information is material if omitting, misstating or obscuring it could reasonably be expected to influence decisions that the primary users of general purpose financial statements make on the basis of those financial statements, which provide financial information about a specific reporting entity.”",
+      "0": "Amendment to IAS 1, ‘Presentation of financial statements’ and IAS 8, ‘Accounting policies, changes in accounting estimates and errors’ on the definition of material",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendments to IFRS 9, ‘Financial Instruments’, IAS 39, ‘Financial Instruments: Recognition and Measurement’ and IFRS 7, ‘Financial Instruments: Disclosure’ – Interest rate benchmark reform (Phase 1) Annual periods beginning on or after 1 January 2020 (early adoption is permitted) (Published September 2019) These amendments provide certain reliefs in connection with interest rate benchmark reform (IBOR). The reliefs relate to hedge accounting and have the effect that IBOR should not generally cause hedge accounting to terminate. However, any hedge ineffectiveness should continue to be recorded in the income statement. Management will engage with the financiers upon obtaining clarification of the next benchmark and review the impact on our financial statements.",
+      "1": "Annual periods beginning on or after 1 January 2020 (early adoption is permitted) (Published September 2019)",
+      "2": "These amendments provide certain reliefs in connection with interest rate benchmark reform (IBOR). The reliefs relate to hedge accounting and have the effect that IBOR should not generally cause hedge accounting to terminate. However, any hedge ineffectiveness should continue to be recorded in the income statement. Management will engage with the financiers upon obtaining clarification of the next benchmark and review the impact on our financial statements.",
+      "0": "Amendments to IFRS 9, ‘Financial Instruments’, IAS 39, ‘Financial Instruments: Recognition and Measurement’ and IFRS 7, ‘Financial Instruments: Disclosure’ – Interest rate benchmark reform (Phase 1)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendments to IFRS 9 ‘Financial Instruments’, IAS 39 ‘Financial Instruments: Recognition and Measurement’, IFRS 7 ‘Financial Instruments: Disclosures’, IFRS 4 ‘Insurance Contracts’ and IFRS 16 ‘Leases’ – interest rate benchmark (IBOR) reform (Phase 2) Annual periods beginning on or after 1 January 2021 (Published August 2020) The Phase 2 amendments address issues that arise from the implementation of the reform of an interest rate benchmark, including the replacement of one benchmark with an alternative one.",
+      "1": "Annual periods beginning on or after 1 January 2021 (Published August 2020)",
+      "2": "The Phase 2 amendments address issues that arise from the implementation of the reform of an interest rate benchmark, including the replacement of one benchmark with an alternative one.",
+      "0": "Amendments to IFRS 9 ‘Financial Instruments’, IAS 39 ‘Financial Instruments: Recognition and Measurement’, IFRS 7 ‘Financial Instruments: Disclosures’, IFRS 4 ‘Insurance Contracts’ and IFRS 16 ‘Leases’ – interest rate benchmark (IBOR) reform (Phase 2)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "IFRS 16, ‘Leases’ COVID-19-Related Rent Concessions Amendment Annual periods beginning on or after 1 June 2020 (early adoption is permitted) (Published June 2020) The IASB has provided lessees (but not lessors) with relief in the form of an optional exemption from assessing whether a rent concession related to COVID-19 is a lease modification, provided that the concession meets certain conditions. Lessees can elect to account for qualifying rent concessions in the same way as they would if they were not lease modifications. In many cases, this will result in accounting for the concession as a variable lease payment.",
+      "1": "Annual periods beginning on or after 1 June 2020 (early adoption is permitted) (Published June 2020)",
+      "2": "The IASB has provided lessees (but not lessors) with relief in the form of an optional exemption from assessing whether a rent concession related to COVID-19 is a lease modification, provided that the concession meets certain conditions. Lessees can elect to account for qualifying rent concessions in the same way as they would if they were not lease modifications. In many cases, this will result in accounting for the concession as a variable lease payment.",
+      "0": "IFRS 16, ‘Leases’ COVID-19-Related Rent Concessions Amendment",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendment to IAS 1 ‘Presentation of Financial Statements’ on Classification of Liabilities as Current or Non-current Amendments to IFRS 9 ‘Financial Instruments’, IAS 39 ‘Financial Instruments: Recognition and Measurement’, IFRS 7 ‘Financial Instruments: Disclosures’, IFRS 4 ‘Insurance Contracts’ and IFRS 16 ‘Leases’ – interest rate benchmark (IBOR) reform (Phase 2) Annual periods beginning on or after 1 January 2022 (Published January 2020) Annual periods beginning on or after 1 January 2021 (Published August 2020) The amendment clarifies that liabilities are classified as either current or non-current, depending on the rights that exist at the end of the reporting period. Classification is unaffected by expectations of the entity or events after the reporting date (for example, the receipt of a waiver or a breach of covenant). The Phase 2 amendments address issues that arise from the implementation of the reform of an interest rate benchmark, including the replacement of one benchmark with an alternative one.",
+      "1": "Annual periods beginning on or after 1 January 2022 (Published January 2020) Annual periods beginning on or after 1 January 2021 (Published August 2020)",
+      "2": "The amendment clarifies that liabilities are classified as either current or non-current, depending on the rights that exist at the end of the reporting period. Classification is unaffected by expectations of the entity or events after the reporting date (for example, the receipt of a waiver or a breach of covenant). The Phase 2 amendments address issues that arise from the implementation of the reform of an interest rate benchmark, including the replacement of one benchmark with an alternative one.",
+      "0": "Amendment to IAS 1 ‘Presentation of Financial Statements’ on Classification of Liabilities as Current or Non-current Amendments to IFRS 9 ‘Financial Instruments’, IAS 39 ‘Financial Instruments: Recognition and Measurement’, IFRS 7 ‘Financial Instruments: Disclosures’, IFRS 4 ‘Insurance Contracts’ and IFRS 16 ‘Leases’ – interest rate benchmark (IBOR) reform (Phase 2)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "IFRS 16, ‘Leases’ COVID-19-Related Rent Concessions Amendment Amendment to IAS 1 ‘Presentation of Financial Statements’ on Classification of Liabilities as Current or Non-current Annual periods beginning on or after 1 June 2020 (early adoption is permitted) (Published June 2020) Annual periods beginning on or after 1 January 2022 (Published January 2020) The IASB has provided lessees (but not lessors) with relief in the form of an optional exemption from assessing whether a rent concession related to COVID-19 is a lease modification, provided that the concession meets certain conditions. Lessees can elect to account for qualifying rent concessions in the same way as they would if they were not lease modifications. In many cases, this will result in accounting for the concession as a variable lease payment. The amendment clarifies that liabilities are classified as either current or non-current, depending on the rights that exist at the end of the reporting period. Classification is unaffected by expectations of the entity or events after the reporting date (for example, the receipt of a waiver or a breach of covenant).",
+      "1": "Annual periods beginning on or after 1 June 2020 (early adoption is permitted) (Published June 2020) Annual periods beginning on or after 1 January 2022 (Published January 2020)",
+      "2": "The IASB has provided lessees (but not lessors) with relief in the form of an optional exemption from assessing whether a rent concession related to COVID-19 is a lease modification, provided that the concession meets certain conditions. Lessees can elect to account for qualifying rent concessions in the same way as they would if they were not lease modifications. In many cases, this will result in accounting for the concession as a variable lease payment. The amendment clarifies that liabilities are classified as either current or non-current, depending on the rights that exist at the end of the reporting period. Classification is unaffected by expectations of the entity or events after the reporting date (for example, the receipt of a waiver or a breach of covenant).",
+      "0": "IFRS 16, ‘Leases’ COVID-19-Related Rent Concessions Amendment Amendment to IAS 1 ‘Presentation of Financial Statements’ on Classification of Liabilities as Current or Non-current",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendment to IFRS 3, ‘Business combinations’ Annual periods beginning on or after 1 January 2022 (Published May 2020) The Board has updated IFRS 3, 'Business combinations', to refer to the 2018 Conceptual Framework for Financial Reporting, in order to determine what constitutes an asset or a liability in a business combination. In addition, the Board added a new exception in IFRS 3 for liabilities and contingent liabilities. The exception specifies that, for some types of liabilities and contingent liabilities, an entity applying IFRS 3 should instead refer to IAS 37, ‘Provisions, Contingent Liabilities and Contingent Assets’, or IFRIC 21, ‘Levies’, rather than the 2018 Conceptual Framework. The Board has also clarified that the acquirer should not recognise contingent assets, as defined in IAS 37, at the acquisition date.",
+      "1": "Annual periods beginning on or after 1 January 2022 (Published May 2020)",
+      "2": "The Board has updated IFRS 3, 'Business combinations', to refer to the 2018 Conceptual Framework for Financial Reporting, in order to determine what constitutes an asset or a liability in a business combination. In addition, the Board added a new exception in IFRS 3 for liabilities and contingent liabilities. The exception specifies that, for some types of liabilities and contingent liabilities, an entity applying IFRS 3 should instead refer to IAS 37, ‘Provisions, Contingent Liabilities and Contingent Assets’, or IFRIC 21, ‘Levies’, rather than the 2018 Conceptual Framework. The Board has also clarified that the acquirer should not recognise contingent assets, as defined in IAS 37, at the acquisition date.",
+      "0": "Amendment to IFRS 3, ‘Business combinations’",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendments to IAS 16 ‘Property, Plant and Equipment’ on Proceeds before Intended Use Annual periods beginning on or after 1 January 2022 (Published May 2020) The amendment to IAS 16 prohibits an entity from deducting from the cost of an item of PPE any proceeds received from selling items produced while the entity is preparing the asset for its intended use (for example, the proceeds from selling samples produced when testing a machine to see if it is functioning properly). The proceeds from selling such items, together with the costs of producing them, are recognised in profit or loss.",
+      "1": "Annual periods beginning on or after 1 January 2022 (Published May 2020)",
+      "2": "The amendment to IAS 16 prohibits an entity from deducting from the cost of an item of PPE any proceeds received from selling items produced while the entity is preparing the asset for its intended use (for example, the proceeds from selling samples produced when testing a machine to see if it is functioning properly). The proceeds from selling such items, together with the costs of producing them, are recognised in profit or loss.",
+      "0": "Amendments to IAS 16 ‘Property, Plant and Equipment’ on Proceeds before Intended Use",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Amendments to IAS 37 ‘Provisions, Contingent Liabilities and Contingent Assets’ on Onerous Contracts - Cost of Fulfilling a Contract Annual periods beginning on or after 1 January 2022 (Published May 2020) The amendment clarifies which costs an entity includes in assessing whether a contract will be loss-making. This assessment is made by considering unavoidable costs, which are the lower of the net cost of exiting the contract and the costs to fulfil the contract. The amendment clarifies the meaning of ‘costs to fulfil a contract’. Under the amendment, costs to fulfil a contract include incremental costs and the allocation of other costs that relate directly to fulfilling the contract.",
+      "1": "Annual periods beginning on or after 1 January 2022 (Published May 2020)",
+      "2": "The amendment clarifies which costs an entity includes in assessing whether a contract will be loss-making. This assessment is made by considering unavoidable costs, which are the lower of the net cost of exiting the contract and the costs to fulfil the contract. The amendment clarifies the meaning of ‘costs to fulfil a contract’. Under the amendment, costs to fulfil a contract include incremental costs and the allocation of other costs that relate directly to fulfilling the contract.",
+      "0": "Amendments to IAS 37 ‘Provisions, Contingent Liabilities and Contingent Assets’ on Onerous Contracts - Cost of Fulfilling a Contract",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Annual improvements cycle 2018 -2020 Annual periods beginning on or after 1 January 2022 (Published May 2020) These amendments include minor changes to: IFRS 1, ‘First time adoption of IFRS’ has been amended for a subsidiary that becomes a first-time adopter after its parent. The subsidiary may elect to measure cumulative translation differences for foreign operations using the amounts reported by the parent at the date of the parent’s transition to IFRS. IFRS 9, ‘Financial Instruments’ has been amended to include only those costs or fees paid between the borrower and the lender in the calculation of “the 10% test” for derecognition of a financial liability. Fees paid to third parties are excluded from this calculation. IFRS 16, ‘Leases’, amendment to the Illustrative Example 13 that accompanies IFRS 16 to remove the illustration of payments from the lessor relating to leasehold improvements. The amendment intends to remove any potential confusion about the treatment of lease incentives. IAS 41, ‘Agriculture’ has been amended to align the requirements for measuring fair value with those of IFRS 13. The amendment removes the requirement for entities to exclude cash flows for taxation when measuring fair value.",
+      "1": "Annual periods beginning on or after 1 January 2022 (Published May 2020)",
+      "2": "These amendments include minor changes to: IFRS 1, ‘First time adoption of IFRS’ has been amended for a subsidiary that becomes a first-time adopter after its parent. The subsidiary may elect to measure cumulative translation differences for foreign operations using the amounts reported by the parent at the date of the parent’s transition to IFRS. IFRS 9, ‘Financial Instruments’ has been amended to include only those costs or fees paid between the borrower and the lender in the calculation of “the 10% test” for derecognition of a financial liability. Fees paid to third parties are excluded from this calculation. IFRS 16, ‘Leases’, amendment to the Illustrative Example 13 that accompanies IFRS 16 to remove the illustration of payments from the lessor relating to leasehold improvements. The amendment intends to remove any potential confusion about the treatment of lease incentives. IAS 41, ‘Agriculture’ has been amended to align the requirements for measuring fair value with those of IFRS 13. The amendment removes the requirement for entities to exclude cash flows for taxation when measuring fair value.",
+      "0": "Annual improvements cycle 2018 -2020",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 135,784 - 3,367,777 - 100,217 - 137,147 - - 459,744 995,792 323,674 24,783 - - - 1,157,290 - 17,181 85 - (1,074,310) (143,358) 2,360,374",
+      "1": NaN,
+      "2": NaN,
+      "0": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 135,784 - 3,367,777 - 100,217 - 137,147 - - 459,744 995,792 323,674 24,783 - - - 1,157,290 - 17,181 85 - (1,074,310) (143,358) 2,360,374",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,792,613 2,069,567",
+      "1": NaN,
+      "2": NaN,
+      "0": "5,792,613 2,069,567",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(2,554,812) (1,806,512) (488,707) - (4,507,180) (1,028,713)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(2,554,812) (1,806,512) (488,707) - (4,507,180) (1,028,713)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,758,086) (765,658)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(1,758,086) (765,658)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "204,253 760,042",
+      "1": NaN,
+      "2": NaN,
+      "0": "204,253 760,042",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,553,833) (5,616)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(1,553,833) (5,616)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "55% 7% -15% 0% 43,228,356 56,356,682 (12,684,754) (9,512,011) (18,939,881) (11,150,444) (1,116,104) (4,161,925)",
+      "1": NaN,
+      "2": NaN,
+      "0": "55% 7% -15% 0% 43,228,356 56,356,682 (12,684,754) (9,512,011) (18,939,881) (11,150,444) (1,116,104) (4,161,925)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,487,617 31,532,302",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,487,617 31,532,302",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "47,350,938 59,437,248 (10,047,409) (15,453,689) (25,417,596) (11,339,297) (981,479) (2,344,403)",
+      "1": NaN,
+      "2": NaN,
+      "0": "47,350,938 59,437,248 (10,047,409) (15,453,689) (25,417,596) (11,339,297) (981,479) (2,344,403)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,904,454 30,299,859",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,904,454 30,299,859",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 231,931 - 2,399,014 - 67,818 - 94,410 - 5,461,746 404,306 146,777 25,112 12,567,905 - 1,344,998 - 278,956 15,815 100,305 (2,077,884) - - 927,600 1,788,438",
+      "1": NaN,
+      "2": NaN,
+      "0": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 231,931 - 2,399,014 - 67,818 - 94,410 - 5,461,746 404,306 146,777 25,112 12,567,905 - 1,344,998 - 278,956 15,815 100,305 (2,077,884) - - 927,600 1,788,438",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "23,621,460 155,787",
+      "1": NaN,
+      "2": NaN,
+      "0": "23,621,460 155,787",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(3,178,124) (1,203,864) (2,751,568) - (9,568,262) (840,938)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(3,178,124) (1,203,864) (2,751,568) - (9,568,262) (840,938)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "8,123,506 (1,889,015)",
+      "1": NaN,
+      "2": NaN,
+      "0": "8,123,506 (1,889,015)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,096,634) 278,838",
+      "1": NaN,
+      "2": NaN,
+      "0": "(1,096,634) 278,838",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "7,026,872 (1,610,176)",
+      "1": NaN,
+      "2": NaN,
+      "0": "7,026,872 (1,610,176)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "921% 0% 274% -4% 45,963,703 53,265,868 (21,794,731) (5,076,230) (17,157,526) (7,815,645) (4,445,865) (6,130,508)",
+      "1": NaN,
+      "2": NaN,
+      "0": "921% 0% 274% -4% 45,963,703 53,265,868 (21,794,731) (5,076,230) (17,157,526) (7,815,645) (4,445,865) (6,130,508)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,565,581 34,243,485",
+      "1": NaN,
+      "2": NaN,
+      "0": "2,565,581 34,243,485",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "43,228,357 56,356,682 (12,684,754) (9,512,011) (18,939,882) (11,150,444) (1,116,105) (4,161,925)",
+      "1": NaN,
+      "2": NaN,
+      "0": "43,228,357 56,356,682 (12,684,754) (9,512,011) (18,939,882) (11,150,444) (1,116,105) (4,161,925)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,487,616 31,532,302",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,487,616 31,532,302",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 138,511 - 32,535 564,286 106,362 - - - (870,461) (3,421,766)",
+      "1": NaN,
+      "2": NaN,
+      "0": "Growth Portfolio Private Equity Real Estate Ksh’000 Ksh’000 138,511 - 32,535 564,286 106,362 - - - (870,461) (3,421,766)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(593,053) (2,857,480)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(593,053) (2,857,480)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(143,452) (391,089) (1,071,393) - (234,903) (434,179)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(143,452) (391,089) (1,071,393) - (234,903) (434,179)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(2,042,801) (3,682,748)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(2,042,801) (3,682,748)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "219,872 -",
+      "1": NaN,
+      "2": NaN,
+      "0": "219,872 -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,822,929) (3,682,748)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(1,822,929) (3,682,748)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "-6% -9% -18% -12% 13,527,479 36,879,694 (2,628,037) (4,857,486) (709,305) (1,216,195)",
+      "1": NaN,
+      "2": NaN,
+      "0": "-6% -9% -18% -12% 13,527,479 36,879,694 (2,628,037) (4,857,486) (709,305) (1,216,195)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,190,137 30,806,013",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,190,137 30,806,013",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "13,642,462 30,138,684 (2,724,589) (1,396,995) (545,164) (1,026,440)",
+      "1": NaN,
+      "2": NaN,
+      "0": "13,642,462 30,138,684 (2,724,589) (1,396,995) (545,164) (1,026,440)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,372,708 27,715,249",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,372,708 27,715,249",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Growt h Portfolio Private Equity Real Estate Ksh’000 Ksh’000 454,311 - 32,535 489,917 224,297 - 2,258,521 - 196,521 (1,137,184)",
+      "1": NaN,
+      "2": NaN,
+      "0": "Growt h Portfolio Private Equity Real Estate Ksh’000 Ksh’000 454,311 - 32,535 489,917 224,297 - 2,258,521 - 196,521 (1,137,184)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,166,185 (647,267)",
+      "1": NaN,
+      "2": NaN,
+      "0": "3,166,185 (647,267)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(792,895) (909,061) (3,580,252) - (357,252) (537,439)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(792,895) (909,061) (3,580,252) - (357,252) (537,439)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,564,214) (2,093,767)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(1,564,214) (2,093,767)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(796,591) -",
+      "1": NaN,
+      "2": NaN,
+      "0": "(796,591) -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(2,360,805) (2,093,767)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(2,360,805) (2,093,767)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "14% -3% -10% -8% 31,304,057 35,890,378 (6,446,653) (9,698,142) (1,626,035) (1,273,038)",
+      "1": NaN,
+      "2": NaN,
+      "0": "14% -3% -10% -8% 31,304,057 35,890,378 (6,446,653) (9,698,142) (1,626,035) (1,273,038)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "23,231,369 24,919,198",
+      "1": NaN,
+      "2": NaN,
+      "0": "23,231,369 24,919,198",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "13,527,479 36,879,694 (2,628,037) (4,857,486) (709,305) (1,216,195)",
+      "1": NaN,
+      "2": NaN,
+      "0": "13,527,479 36,879,694 (2,628,037) (4,857,486) (709,305) (1,216,195)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "TYPE NATURE DESCRIPTION RECOGNITION",
+      "1": "NATURE",
+      "2": "DESCRIPTION",
+      "0": NaN,
+      "3": "RECOGNITION",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Educational materials Sale of educational material is through Longhorn Publishers Limited. Revenues from the various sources are recognised in the period in which the company has delivered products to the customer, the customer has full discretion over the channel and price to sell the products, and there is no unfulfilled obligation that could affect the customers’ acceptance of the products. Delivery does not occur until the products have been accepted by the customer.",
+      "1": "Educational materials",
+      "2": "Sale of educational material is through Longhorn Publishers Limited.",
+      "0": NaN,
+      "3": "Revenues from the various sources are recognised in the period in which the company has delivered products to the customer, the customer has full discretion over the channel and price to sell the products, and there is no unfulfilled obligation that could affect the customers’ acceptance of the products. Delivery does not occur until the products have been accepted by the customer.",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None Agricultural products The Group exports exotic herbs through Greenblade Growers Limited. None",
+      "1": "Agricultural products",
+      "2": "The Group exports exotic herbs through Greenblade Growers Limited.",
+      "0": NaN,
+      "3": "None",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Financial services 1. Interest income 2. Fund management income 3. Fees, commissions and trading income 4. Leasing income 1. Interest income relates to income earned by Sidian Bank Limited and fixed income investments by the asset management entities. 2. Fund management income relates to management fees earned by asset management companies. 3. Fees, commissions and trading income is the non funded income earned by Sidian Bank Limited. 4. Leasing income relates to rental and finance lease income earned on operating and finance leases provided by Zohari Leasing Limited. - Interest income is accrued using the effective interest rate method, by reference to the principal outstanding and the interest rate applicable. - Fund management income is recognised in the period in which the services are rendered, by reference to completion of the specific transaction assessed on the basis of the actual service provided as a percentage of the total services to be provided. - Fees and commissions are recognised on an accrual basis when the service has been provided. Loan commitment fees for advances are credited to income upon first utilisation of the facility and are charged on an annual basis.",
+      "1": "1. Interest income 2. Fund management income 3. Fees, commissions and trading income 4. Leasing income",
+      "2": "1. Interest income relates to income earned by Sidian Bank Limited and fixed income investments by the asset management entities. 2. Fund management income relates to management fees earned by asset management companies. 3. Fees, commissions and trading income is the non funded income earned by Sidian Bank Limited. 4. Leasing income relates to rental and finance lease income earned on operating and finance leases provided by Zohari Leasing Limited.",
+      "0": NaN,
+      "3": "- Interest income is accrued using the effective interest rate method, by reference to the principal outstanding and the interest rate applicable. - Fund management income is recognised in the period in which the services are rendered, by reference to completion of the specific transaction assessed on the basis of the actual service provided as a percentage of the total services to be provided. - Fees and commissions are recognised on an accrual basis when the service has been provided. Loan commitment fees for advances are credited to income upon first utilisation of the facility and are charged on an annual basis.",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Sale of services 1. Project management fees 2. Utilities 3. Provision of security and cleaning services 4. Provision of IT services 1. Project management fees relate to fees earned by Centum Real Estate Limited (formerly Athena Properties Limited) on Real Estate projects. 2. Utilities relate to income earned by Two Rivers Power Company Limited and Two Rivers Water and Sanitation Company Limited on the provision of electricity and water at the Two Rivers Mall. 3. Security and cleaning services earned by Tribus TSG Limited to third party clients 4. IT services earned by Tier data on provision of IT services i.e. provision of internet services, - Project management fees are recognised in the period in which the services are rendered, by reference to completion of the specific project assessed on the basis of the actual service provided as a percentage of the total service to be provided. - Electricity and water revenue are recognised when electricity and/or water is consumed by the user and is stated net of value added tax and other Government levies. - Security and cleaning services are recognised on a monthly basis when services are offered. - IT services are recognised on a monthly basis when monthly services are offered. In case of projects, the revenues are recognised based on the work completed.",
+      "1": "1. Project management fees 2. Utilities 3. Provision of security and cleaning services 4. Provision of IT services",
+      "2": "1. Project management fees relate to fees earned by Centum Real Estate Limited (formerly Athena Properties Limited) on Real Estate projects. 2. Utilities relate to income earned by Two Rivers Power Company Limited and Two Rivers Water and Sanitation Company Limited on the provision of electricity and water at the Two Rivers Mall. 3. Security and cleaning services earned by Tribus TSG Limited to third party clients 4. IT services earned by Tier data on provision of IT services i.e. provision of internet services,",
+      "0": NaN,
+      "3": "- Project management fees are recognised in the period in which the services are rendered, by reference to completion of the specific project assessed on the basis of the actual service provided as a percentage of the total service to be provided. - Electricity and water revenue are recognised when electricity and/or water is consumed by the user and is stated net of value added tax and other Government levies. - Security and cleaning services are recognised on a monthly basis when services are offered. - IT services are recognised on a monthly basis when monthly services are offered. In case of projects, the revenues are recognised based on the work completed.",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Investment income 1. Dividend income 2. Gains on disposal of investments 3. Interest income - Dividend income from investments is recognised when the shareholders' right to receive payment has been established. - Gains on disposal of investments are recognised when the Company has no unfulfilled obligation that could affect the completion of the transaction. - Interest income is accrued using the effective interest rate method, by reference to the principal outstanding and the interest rate applicable.",
+      "1": NaN,
+      "2": "1. Dividend income 2. Gains on disposal of investments 3. Interest income",
+      "0": NaN,
+      "3": "- Dividend income from investments is recognised when the shareholders' right to receive payment has been established. - Gains on disposal of investments are recognised when the Company has no unfulfilled obligation that could affect the completion of the transaction. - Interest income is accrued using the effective interest rate method, by reference to the principal outstanding and the interest rate applicable.",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Real Estate - Revenue from sale of house units is recognised upon completion and release of ownership to the respective buyers of the completed units. - Revenue from sale of land is recognised upon execution of the transfer of title and settlement of the consideration of the land as per the agreement.",
+      "1": NaN,
+      "2": "1. Sale of houses 2. Sale of land",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 - 699,295 156,738 139,759 995,792 2,731,948 1,157,290 157,829 137,147 31,601 13,188 100,217 8,848 4,338,068 17,266 415",
+      "1": "None",
+      "2": "2021 Ksh’000 - - - - - - - - - - - - - - - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "17,681",
+      "1": "39,925",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,351,541 152,277 725,544 (61,140) 5,249 (155,497)",
+      "1": "9,304,791 306,178 376,096 12,485,232 (21,200) 60,717",
+      "2": "- 138,511 1,271,997 - - 106,362",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "666,433",
+      "1": "13,207,023",
+      "2": "1,516,870",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - 135,784 16,493",
+      "1": "- - 231,931 74,247",
+      "2": "- - 135,784 2,727",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "152,277",
+      "1": "306,178",
+      "2": "138,511",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 - 450,078 3 203,767 58,447",
+      "1": "None",
+      "2": "2021 Ksh’000 - - - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "712,292",
+      "1": "3,457,099",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,052,244 132,267 45,820 251,082 722,735 - 12,080 19,037 96,207 12,265 3,261 237,714 108,384 16,821 13,865 - 501,990",
+      "1": "2,574,406 126,845 37,923 319,674 1,257,074 55,407 32,299 124,342 45,313 11,732 4,244 232,595 - (4,704) 20,020 680,348 403,672",
+      "2": "189,544 24,726 9,200 16,101 21,235 - 12,080 207 3,146 12,265 2,308 15,315 319,116 - 7,384 - 36,455",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,225,058",
+      "1": "5,921,190",
+      "2": "669,082",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "610,889 555,684 183,072 2,160,392 715,021",
+      "1": "1,781,328 650,940 234,731 2,074,153 1,131,950",
+      "2": "- - - - 669,082",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 1,015,203 26,278 322,507",
+      "1": "None",
+      "2": "2021 Ksh'000 - - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,363,988",
+      "1": "1,202,583",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "291,964 144,048 42,903 145,684 6,588",
+      "1": "544,261 103,937 302,544 850,484 13,434",
+      "2": "291,964 144,048 21,171 145,684 -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "631,187",
+      "1": "1,814,660",
+      "2": "602,867",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,339,299",
+      "1": "4,381,988",
+      "2": "602,867",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "201,645 392,179 1,385,721 1,730,313 629,441",
+      "1": "205,997 - 1,202,583 1,158,748 1,814,660",
+      "2": "- - - - 602,867",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 1,074,310 - 488,707 - - (221,440) 1,287,948 (3,469,181) 831,683 (11,052) 1,297,296 (5,461,102) 5,609,309",
+      "1": "None",
+      "2": "2021 Ksh'000 - - 1,071,393 3,579,405 - - 197,667 - 91,601 - - - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,408,877",
+      "1": "3,066,553",
+      "2": "4,631,335",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh (0.93)",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh (0.93)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(0.93)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(0.93)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(618,997)",
+      "1": NaN,
+      "2": NaN,
+      "0": "(618,997)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "665,442",
+      "1": NaN,
+      "2": NaN,
+      "0": "665,442",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "niaG lasopsid 000'hsK - no ynapmoC sdeecorP 000'hsK - tsoC 000'hsK - )ssol(/niaG lasopsid 000'hsK )041,16( no sdeecorP 000'hsK 575,87 puorG gniyrraC eulav 000'hsK 517,931 setoN 3.5",
+      "1": "- - - )041,16( 575,87 517,931",
+      "2": "- - - )041,16( - -",
+      "0": NaN,
+      "3": "- - - )041,16( - -",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 303,182 (1,267,477)",
+      "1": "None",
+      "2": "2021 Ksh'000 - (219,871)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(964,295)",
+      "1": "817,796",
+      "2": "(219,871)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(699,663) (41,553) (630,140) - 947,098 (351,130) (188,908)",
+      "1": "1,633,834 (199,611) (1,186,989) - 15,480 555,082 -",
+      "2": "(247,941) (41,553) - - 328,060 (69,529) (188,908)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(964,296)",
+      "1": "817,796",
+      "2": "(219,871)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(1,170,433)",
+      "1": "1,850,273",
+      "2": "(231,763)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(351,130)",
+      "1": "555,082",
+      "2": "(69,529)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 448,431 2,655,955",
+      "1": "None",
+      "2": "2021 Ksh'000 - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,104,386",
+      "1": "2,723,217",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "310,439",
+      "1": "272,322",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 (556,506) 303,183 (89,198) 7,655 -",
+      "1": "None",
+      "2": "2021 Ksh'000 29,108 - (90,513) - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(334,866)",
+      "1": "(556,506)",
+      "2": "(61,405)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(595,395) 260,529",
+      "1": "(678,985) 122,479",
+      "2": "(61,405) -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 4,603,218 (1,267,477) (6,822) 4,344 -",
+      "1": "None",
+      "2": "2021 Ksh'000 1,195,839 (219,871) (227,056) - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,333,263",
+      "1": "4,603,218",
+      "2": "748,912",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": "None",
+      "0": "(825,655) 4,158,918",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,603,218",
+      "1": NaN,
+      "2": "1,195,839",
+      "0": "3,333,263",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "186,853 - 20,015 - 205,763 386,733 - - (386,733) - (1,575,728) - (419,005) - (1,994,733) (241,443) - 312,356 - 327,802 48,711 - - - 48,711 6,856,630 - (367,888) - 6,488,742 (1,058,538) - (808,611) 379,911 (1,487,238",
+      "1": NaN,
+      "2": NaN,
+      "0": "186,853 - 20,015 - 205,763 386,733 - - (386,733) - (1,575,728) - (419,005) - (1,994,733) (241,443) - 312,356 - 327,802 48,711 - - - 48,711 6,856,630 - (367,888) - 6,488,742 (1,058,538) - (808,611) 379,911 (1,487,238",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,603,218 - (1,263,133) (6,822) 3,333,263",
+      "1": NaN,
+      "2": NaN,
+      "0": "4,603,218 - (1,263,133) (6,822) 3,333,263",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,333 (1,228) - 1,105 (38,246) (218,643) - (256,889) 1,231,752 - (227,056) 1,004,696",
+      "1": NaN,
+      "2": NaN,
+      "0": "2,333 (1,228) - 1,105 (38,246) (218,643) - (256,889) 1,231,752 - (227,056) 1,004,696",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,195,839 (219,871) (227,056) 748,912",
+      "1": NaN,
+      "2": NaN,
+      "0": "1,195,839 (219,871) (227,056) 748,912",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 839,844 - 6,476",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh'000 839,844 - 6,476",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "846,320",
+      "1": NaN,
+      "2": NaN,
+      "0": "846,320",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 1,328,493 (202,495)",
+      "1": "None",
+      "2": "2021 Ksh'000 - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,125,998 267,992 1,562,928 877,428 99,801",
+      "1": "1,505,420 1,405,052 1,635,405 955,076 97,021",
+      "2": "- - 326,498 4,889 99,801",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,934,147",
+      "1": "5,597,974",
+      "2": "431,188",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,319,155 (559,122)",
+      "1": "2,427,856 (559,123)",
+      "2": "- -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,760,033",
+      "1": "1,868,733",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,694,180",
+      "1": "7,466,707",
+      "2": "431,188",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 3,015,964 3,313,297 56,889 83,701 (71,085) 86,379",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh'000 3,015,964 3,313,297 56,889 83,701 (71,085) 86,379",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "6,485,145",
+      "1": NaN,
+      "2": NaN,
+      "0": "6,485,145",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 41,181,081 925,037 (1,030,227) 2,360,374 (2,682,197) 773,942",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh'000 41,181,081 925,037 (1,030,227) 2,360,374 (2,682,197) 773,942",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "41,528,010",
+      "1": NaN,
+      "2": NaN,
+      "0": "41,528,010",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "45,938",
+      "1": NaN,
+      "2": NaN,
+      "0": "45,938",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "16,632",
+      "1": NaN,
+      "2": NaN,
+      "0": "16,632",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "62,570",
+      "1": NaN,
+      "2": NaN,
+      "0": "62,570",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 2,360,374 773,942",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh'000 2,360,374 773,942",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,134,316",
+      "1": NaN,
+      "2": NaN,
+      "0": "3,134,316",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 4,550,450 40,914 - (531,349)",
+      "1": "None",
+      "2": "2021 Ksh'000 4,126,484 - - (541,255)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(490,435)",
+      "1": "404,211",
+      "2": "(541,255)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,060,015",
+      "1": "4,550,450",
+      "2": "3,585,229",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 398,174 82,644 (139,715) 45,091 - (13,893) 56,803",
+      "1": "None",
+      "2": "2021 Ksh'000 22,586 53,717 - - - - 80,108",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "30,930",
+      "1": "(1,162,990)",
+      "2": "133,825",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "429,104",
+      "1": "398,174",
+      "2": "156,411",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Company Country of incorporation and Principal place of business Classification Operating segment Percentage ownership Principal activity",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Centum Real Estate Limited (Formerly Athena Properties Limited) Kenya Investment operations Real estate End-to-end project and development management services for real estate projects and real estate development and also owns developments",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Rasimu Limited Kenya Investment operations Real estate Investment holding company. At 31 March 2021, the company's sole holding was a 3.65% stake in Two Rivers Development Limited and invested in the Centum Real Estate Limited bond.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Pearl Marina Estates Limited Uganda Investment operations Real estate Real estate development in Uganda",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Two Rivers Development Limited Kenya Investment operations Real estate Real estate development. The company has developed the Two Rivers project in Nairobi. The company holds a joint controlling stake of 50% at Two Rivers Lifestyle Center Limited and a 100% stake in Two Rivers Luxury Apartments Limited, Two Rivers Power Company Limited, Two Rivers Water and Sanitation Company Limited, Two Rivers Property Owners Limited, Two Rivers Office Suites Limited and Two Rivers Development Phase 2 Limited. Two Rivers Theme Park Limited is owned through a Joint Venture agreement",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "58.30%",
+      "5": NaN
+    },
+    {
+      "item": "Uhuru Heights Limited Kenya Investment operations Real estate The company is an investment holding company . At 31 March 2021, the company's holdings included a 1.05% stake in Two Rivers Development Limited, investment in Cascadia apartments.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Centum Development Kenya Limited Kenya Investment operations Real estate The company is an investment holding company . At 31 March 2021, the company's holdings included investment in Riverbank apartments. Following reorganisation, the development was transferred to Centum Real Estate Limited.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Centum Exotics Limited Mauritius Investment operations Marketable securities The company is engaged in investment in marketable securities. At 31 March 2021, the company held 100% stake in Oleibon Investments Limited.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Centum Development Limited Mauritius Investment operations Real estate The company is an investment holding company for real estate development. At 31 March 2021, the company's sole holding was in Pearl Marina Estates Limited",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Nabo Capital Limited Kenya Financial services Private equity The company is involved in fund management and transaction advisory services.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Investpool Holdings Limited Mauritius Investment operations Private equity Investment Holding Company. At 31 March 2021, the company held 100% of Kilele Holdings Limited that is a private equity holding company and Mvuke Limited that is a special purpose vehicle to explore Geothermal opportunities in Africa.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Centum Business Solutions Limited Kenya Investment operations Private equity Provision of shared services to Centum Investment Company Plc and its subsidiaries.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Bakki Holdco Limited Kenya Financial services Private equity Holding company for the Group's investment in Sidian Bank Limited.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Vipingo Development Plc Kenya Investment operations Real estate Real estate development",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Vipingo Estates Plc Kenya Investment operations Real estate Real estate development",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Greenblade Growers Limited Kenya Trading Private equity Agricultural production",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Shefa Holdings Limited Mauritius Investment operations Private equity Private equity investments",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Zohari Leasing Limited Kenya Financial services Private equity Leasing services",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Mvuke Limited Kenya Investment operations Private equity Investment holding company for Akiira Geothermal Limited.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "E Tranzact Limited Kenya Investment operations Private equity Dormant entity",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Centum BVI Limited British Virgin Islands Investment operations Private equity Dormant entity",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Mwaya Investment Company Limited Mauritius Investment operations Private equity Dormant entity",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Longhorn Publishers Limited Kenya Trading Private equity Public limited liability company involved in publishing and distribution of learning materials in Kenya and East Africa.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "60.20%",
+      "5": NaN
+    },
+    {
+      "item": "Tier Data Limited Kenya IT Services Private equity Provision of IT services",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "100%",
+      "5": NaN
+    },
+    {
+      "item": "Tribus TSG Limited Kenya Investment operations Private equity Training, security and governance consultancy services.",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": "80%",
+      "5": NaN
+    },
+    {
+      "item": "1202 000'hsK 811,406,52 )091,058,72(",
+      "1": ")270,642,2(",
+      "2": "877,081,53 )319,640,12(",
+      "0": NaN,
+      "3": "568,331,41",
+      "4": "397,788,11 052,039,3 860,479,4 )557,757,1( 861,35 )785,407,1( )819,847(",
+      "5": "-"
+    },
+    {
+      "item": "1202 000'hsK 051,639,1 )572,762,1(",
+      "1": "578,866",
+      "2": "442,861,1 )258,672,1(",
+      "0": NaN,
+      "3": ")806,801(",
+      "4": "762,065 689,222 592,996 )451,473( - )451,473( )319,841(",
+      "5": "-"
+    },
+    {
+      "item": "1202 000'hsK 083,751,6 )977,236,2(",
+      "1": "106,425,3",
+      "2": "138,959,71 )162,314,41(",
+      "0": NaN,
+      "3": "075,645,3",
+      "4": "171,170,7 876,849,2 - )395,475,1( 861,35 )524,125,1( )434,436(",
+      "5": "-"
+    },
+    {
+      "item": "1202 000'hsK 366,611 )347,48(",
+      "1": "029,13",
+      "2": "506,31 )221,2(",
+      "0": NaN,
+      "3": "384,11",
+      "4": "304,34 186,8 508,902 066,91 - 066,91 239,3",
+      "5": "-"
+    },
+    {
+      "item": "1202 000'hsK 529,393,71 )393,568,32(",
+      "1": ")864,174,6(",
+      "2": "890,930,61 )876,453,5(",
+      "0": NaN,
+      "3": "024,486,01",
+      "4": "259,212,4 509,947 869,460,4 233,171 - 233,171 794,03",
+      "5": "-"
+    },
+    {
+      "item": "2021 Ksh'000 806,439 9,211,218 1,815,477 647,868",
+      "1": "None",
+      "2": "2021 Ksh'000 - 2,625,925 1,609,418 -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "12,481,002",
+      "1": "8,913,428",
+      "2": "4,235,342",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - - - -",
+      "1": "None",
+      "2": NaN,
+      "0": "1,639,048 2,161,196 (2,990,029) 41,484 (45,260)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "",
+      "1": "903,729",
+      "2": NaN,
+      "0": "(832,609)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 6,463,945 5,420,901 (2,858,355) 184,727",
+      "1": "None",
+      "2": "2021 Ksh'000 2,621,439 4,485 - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,747,273",
+      "1": "3,865,823",
+      "2": "4,485",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "9,211,218",
+      "1": "6,463,945",
+      "2": "2,625,924",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "634,940 1,276,894 17,459 (113,816)",
+      "1": "None",
+      "2": "529,118 1,080,300 - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,180,537",
+      "1": "528,858",
+      "2": "1,080,300",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,815,477",
+      "1": "634,940",
+      "2": "1,609,418",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 175,495 604,394 50,395 (29,910) (152,506)",
+      "1": "None",
+      "2": "2021 Ksh'000 - - - - -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "472,373",
+      "1": "145,495",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "647,868",
+      "1": "175,495",
+      "2": "-",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "181 days - Over 5 0 - 180 days 1 year 1 - 5 years years Total Ksh'000 Ksh'000 Ksh'000 Ksh'000 Ksh'000 806,439 - - - 806,439 - - - 9,211,218 9,211,218 - - 1,815,477 - 1,815,477 - 647,868 - - 647,868",
+      "1": NaN,
+      "2": NaN,
+      "0": "181 days - Over 5 0 - 180 days 1 year 1 - 5 years years Total Ksh'000 Ksh'000 Ksh'000 Ksh'000 Ksh'000 806,439 - - - 806,439 - - - 9,211,218 9,211,218 - - 1,815,477 - 1,815,477 - 647,868 - - 647,868",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "806,439 647,868 1,815,477 9,211,218 12,481,002",
+      "1": NaN,
+      "2": NaN,
+      "0": "806,439 647,868 1,815,477 9,211,218 12,481,002",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - - 2,625,924 2,625,924 - - 1,609,418 - 1,609,418",
+      "1": NaN,
+      "2": NaN,
+      "0": "- - - 2,625,924 2,625,924 - - 1,609,418 - 1,609,418",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - 1,609,418 2,625,924 4,235,342",
+      "1": NaN,
+      "2": NaN,
+      "0": "- - 1,609,418 2,625,924 4,235,342",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh'000 11,733,567 8,621,726 2,714,436",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh'000 11,733,567 8,621,726 2,714,436",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "23,069,729",
+      "1": NaN,
+      "2": NaN,
+      "0": "23,069,729",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "22,848,088 221,641",
+      "1": NaN,
+      "2": NaN,
+      "0": "22,848,088 221,641",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "618,890,4 495,035 747,541 )273,48( 280,95 )249,592( 342,03 712,883 )620,45( - - - 927,511 210,73 - - - )896,32( 591,671 000,2 - )238,2( - )902,22( 965,463 081,44 270,5 )788,12( 606,6 )297,82( 165,450,3 387,85 357,151 )356,95( 674,25 )336,802( 915,753 204 849,24 - - )016,21(",
+      "1": "529,354,4 434,463 340,921 451,351 847,963 782,940,3 952,883",
+      "2": "739,533,01 )210,288,5( 434,463 - 206,905 )955,083( 719,395 )367,044( 864,900,1 )027,936( 629,155,5 )936,205,2( 121,505 )268,611(",
+      "0": NaN,
+      "3": "529,354,4 434,463 340,921 451,351 847,963 782,940,3 952,883",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 505,121 (116,862)",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh’000 505,121 (116,862)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "388,259",
+      "1": NaN,
+      "2": NaN,
+      "0": "388,259",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,946 8,998 103,681 118,625 - 297 - 297 (5,946) (4,912) (10,377) (21,235)",
+      "1": NaN,
+      "2": NaN,
+      "0": "5,946 8,998 103,681 118,625 - 297 - 297 (5,946) (4,912) (10,377) (21,235)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- 4,383 93,304 97,687",
+      "1": NaN,
+      "2": NaN,
+      "0": "- 4,383 93,304 97,687",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "27,536 18,477 123,739 169,752 (27,536) (14,094) (30,435) (72,065)",
+      "1": NaN,
+      "2": NaN,
+      "0": "27,536 18,477 123,739 169,752 (27,536) (14,094) (30,435) (72,065)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "361,335 1,007,680 1,369,015 - - 206,364 206,364 - - (152,506) (152,506) -",
+      "1": NaN,
+      "2": NaN,
+      "0": "361,335 1,007,680 1,369,015 - - 206,364 206,364 - - (152,506) (152,506) -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "361,335 1,061,538 1,422,873 -",
+      "1": NaN,
+      "2": NaN,
+      "0": "361,335 1,061,538 1,422,873 -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,209,983 1,975,974 3,185,957 2,327 - (914,436) (914,436) (2,327) (848,648) - (848,648) -",
+      "1": NaN,
+      "2": NaN,
+      "0": "1,209,983 1,975,974 3,185,957 2,327 - (914,436) (914,436) (2,327) (848,648) - (848,648) -",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 361,335",
+      "1": NaN,
+      "2": NaN,
+      "0": "2021 Ksh’000 361,335",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "361,335",
+      "1": NaN,
+      "2": NaN,
+      "0": "361,335",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Longhorn Publishers Limited",
+      "1": "Method Used to determine recoverable amount: Fair value less cost to sell The fair value of the entity was determined using the quoted share price as the company is listed on the Nairobi Securities Exchange Significant estimate: Impact of possible changes in key assumptions: Share price If the share price had been 5% lower and all inputs remain unchanged, the market value would have been Ksh 49 million lower. If the share price had been 5% higher and all inputs remain unchanged, the market value would have been Ksh 49 million higher",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Carrying amount + Recoverable amount goodwill (Fair value) Carrying value Headroom KES'000 KES'000 KES’000 KES’000 725,169 980,804 980,804 361,335",
+      "1": NaN,
+      "2": NaN,
+      "0": "Carrying amount + Recoverable amount goodwill (Fair value) Carrying value Headroom KES'000 KES'000 KES’000 KES’000 725,169 980,804 980,804 361,335",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "725,169 980,804 980,804 (361,335)",
+      "1": NaN,
+      "2": NaN,
+      "0": "725,169 980,804 980,804 (361,335)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Group Up to 1-3 3-12 1-3 3-5 Over 5 At 31 March 2021 1 month months months years years years Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Financial assets Investment in associates - - - - 1,094,479 - 1,094,479 Investment in joint ventures - - - - 2,108,890 - 2,108,890 Unquoted equity investments - - - - 4,060,015 - 4,060,015 Quoted investments - - - 429,104 - 429,104 Loans and advances 2,782,861 652,781 1,317,952 7,163,107 5,854,024 2,651,808 20,422,533 Finance lease receivable - - 75,482 89,963 - - 165,445 Government securities at fair value through profit and loss - 86,265 200,000 - - 520,174 806,439 Government securities at amortised cost 250,001 2,625,925 2,471,268 99,498 - 1,785,828 9,859,086 Corporate bonds at amortised cost - 1,609,418 - - 206,059 - 1,815,477 Receivables and prepayments 650,431 855,432 1,828,495 4,866 35,801 2,319,155 5,694,180 Cash and cash equivalent 4,651,522 945,247 280,500 - - - 5,877,269",
+      "1": NaN,
+      "2": NaN,
+      "0": "Group Up to 1-3 3-12 1-3 3-5 Over 5 At 31 March 2021 1 month months months years years years Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Financial assets Investment in associates - - - - 1,094,479 - 1,094,479 Investment in joint ventures - - - - 2,108,890 - 2,108,890 Unquoted equity investments - - - - 4,060,015 - 4,060,015 Quoted investments - - - 429,104 - 429,104 Loans and advances 2,782,861 652,781 1,317,952 7,163,107 5,854,024 2,651,808 20,422,533 Finance lease receivable - - 75,482 89,963 - - 165,445 Government securities at fair value through profit and loss - 86,265 200,000 - - 520,174 806,439 Government securities at amortised cost 250,001 2,625,925 2,471,268 99,498 - 1,785,828 9,859,086 Corporate bonds at amortised cost - 1,609,418 - - 206,059 - 1,815,477 Receivables and prepayments 650,431 855,432 1,828,495 4,866 35,801 2,319,155 5,694,180 Cash and cash equivalent 4,651,522 945,247 280,500 - - - 5,877,269",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "8,334,815 9,401,634 6,173,697 7,786,538 13,359,268 7,276,965 52,332,917",
+      "1": NaN,
+      "2": NaN,
+      "0": "8,334,815 9,401,634 6,173,697 7,786,538 13,359,268 7,276,965 52,332,917",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Financial liabilities Customer deposits 5,528,785 11,518,903 4,964,400 1,057,641 - - 23,069,729 Borrowings 777,202 4,121,584 8,207,007 8,639,266 3,756,038 - 25,501,097 Other liabilities and accrued expenses 862,458 1,306,600 2,113,692 44,816 - - 4,327,566 Lease liabilities 29,150 58,300 262,348 1,157,875 - - 1,507,672 Unclaimed dividends - 310,303 - - - - 310,303",
+      "1": NaN,
+      "2": NaN,
+      "0": "Financial liabilities Customer deposits 5,528,785 11,518,903 4,964,400 1,057,641 - - 23,069,729 Borrowings 777,202 4,121,584 8,207,007 8,639,266 3,756,038 - 25,501,097 Other liabilities and accrued expenses 862,458 1,306,600 2,113,692 44,816 - - 4,327,566 Lease liabilities 29,150 58,300 262,348 1,157,875 - - 1,507,672 Unclaimed dividends - 310,303 - - - - 310,303",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "7,197,595 17,315,690 15,547,447 10,899,598 3,756,038 - 54,716,367",
+      "1": NaN,
+      "2": NaN,
+      "0": "7,197,595 17,315,690 15,547,447 10,899,598 3,756,038 - 54,716,367",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net liquidity 1,137,220 (7,914,056) (9,373,750) (3,113,060) 9,603,230 7,276,965 (2,383,451)",
+      "1": NaN,
+      "2": NaN,
+      "0": "Net liquidity 1,137,220 (7,914,056) (9,373,750) (3,113,060) 9,603,230 7,276,965 (2,383,451)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Financial guarantees 1,213,135 1,522,860 6,075,239 2,535,520 167,222 60,140 11,574,116",
+      "1": NaN,
+      "2": NaN,
+      "0": "Financial guarantees 1,213,135 1,522,860 6,075,239 2,535,520 167,222 60,140 11,574,116",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Company Up to 1-3 3-12 1-3 3-5 Over 5 At 31 March 2021 1 month months months years years years Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Financial assets Investment in subsidiaries 3,667 - 1,363,081 8,827,118 22,638,471 5,230,018 38,062,355 Unquoted equity investments - - - - 3,585,229 - 3,585,229 Quoted investments - - 156,411 - - - 156,411 Receivables and prepayments 104,690 - 326,499 - - - 431,189 Cash and cash equivalent 557,528 309,192 - - - - 866,720",
+      "1": NaN,
+      "2": NaN,
+      "0": "Company Up to 1-3 3-12 1-3 3-5 Over 5 At 31 March 2021 1 month months months years years years Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Financial assets Investment in subsidiaries 3,667 - 1,363,081 8,827,118 22,638,471 5,230,018 38,062,355 Unquoted equity investments - - - - 3,585,229 - 3,585,229 Quoted investments - - 156,411 - - - 156,411 Receivables and prepayments 104,690 - 326,499 - - - 431,189 Cash and cash equivalent 557,528 309,192 - - - - 866,720",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "665,885 309,192 1,845,991 8,827,118 26,223,700 5,230,018 43,101,904",
+      "1": NaN,
+      "2": NaN,
+      "0": "665,885 309,192 1,845,991 8,827,118 26,223,700 5,230,018 43,101,904",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Financial liabilities Payables and accruals 40,475 10,022 - 442,215 - - 492,712 Due to subsidiary companies - 296 - - - - 296 Borrowings - - 4,121,584 - - - 4,121,584 Unclaimed dividends - 249,205 - 61,098 - - 310,303",
+      "1": NaN,
+      "2": NaN,
+      "0": "Financial liabilities Payables and accruals 40,475 10,022 - 442,215 - - 492,712 Due to subsidiary companies - 296 - - - - 296 Borrowings - - 4,121,584 - - - 4,121,584 Unclaimed dividends - 249,205 - 61,098 - - 310,303",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "40,475 259,523 4,121,584 503,313 - - 4,924,895",
+      "1": NaN,
+      "2": NaN,
+      "0": "40,475 259,523 4,121,584 503,313 - - 4,924,895",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Net liquidity 625,410 49,669 (2,275,593) 8,323,805 26,223,700 5,230,018 38,177,009",
+      "1": NaN,
+      "2": NaN,
+      "0": "Net liquidity 625,410 49,669 (2,275,593) 8,323,805 26,223,700 5,230,018 38,177,009",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Level 1 Level 2 Level 3 Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 - - 4,060,015 4,060,015 429,104 - - 429,104 - 806,439 - 806,439",
+      "1": NaN,
+      "2": NaN,
+      "0": "Level 1 Level 2 Level 3 Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 - - 4,060,015 4,060,015 429,104 - - 429,104 - 806,439 - 806,439",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "429,104 806,439 4,060,015 5,295,558",
+      "1": NaN,
+      "2": NaN,
+      "0": "429,104 806,439 4,060,015 5,295,558",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - 41,528,010 41,528,010 - - 388,259 388,259",
+      "1": NaN,
+      "2": NaN,
+      "0": "- - 41,528,010 41,528,010 - - 388,259 388,259",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - 41,916,269 41,916,269",
+      "1": NaN,
+      "2": NaN,
+      "0": "- - 41,916,269 41,916,269",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Carrying amount Fair value Level 1 Level 2 Level 3 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 20,422,533 20,422,533 - - 20,422,533 165,445 165,445 - - 165,445 5,877,269 5,877,269 - - 5,877,269 5,694,180 5,694,180 - - 5,694,180",
+      "1": NaN,
+      "2": NaN,
+      "0": "Carrying amount Fair value Level 1 Level 2 Level 3 Ksh’000 Ksh’000 Ksh’000 Ksh’000 Ksh’000 20,422,533 20,422,533 - - 20,422,533 165,445 165,445 - - 165,445 5,877,269 5,877,269 - - 5,877,269 5,694,180 5,694,180 - - 5,694,180",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "32,159,427 32,159,427 - - 32,159,427",
+      "1": NaN,
+      "2": NaN,
+      "0": "32,159,427 32,159,427 - - 32,159,427",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "23,069,729 23,069,729 - - 23,069,729 25,501,097 25,501,097 - - 25,501,097 310,303 310,303 - - 310,303 7,925,174 7,925,174 - - 7,925,174",
+      "1": NaN,
+      "2": NaN,
+      "0": "23,069,729 23,069,729 - - 23,069,729 25,501,097 25,501,097 - - 25,501,097 310,303 310,303 - - 310,303 7,925,174 7,925,174 - - 7,925,174",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "56,806,303 56,806,303 - - 56,806,303",
+      "1": NaN,
+      "2": NaN,
+      "0": "56,806,303 56,806,303 - - 56,806,303",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Level 1 Level 2 Level 3 Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 665,897 - 25,592,493 26,258,390 - - 4,235,342 4,235,342 - - 3,585,229 3,585,229 156,411 - - 156,411",
+      "1": NaN,
+      "2": NaN,
+      "0": "Level 1 Level 2 Level 3 Total Ksh’000 Ksh’000 Ksh’000 Ksh’000 665,897 - 25,592,493 26,258,390 - - 4,235,342 4,235,342 - - 3,585,229 3,585,229 156,411 - - 156,411",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "822,308 - 33,413,064 34,235,372",
+      "1": NaN,
+      "2": NaN,
+      "0": "822,308 - 33,413,064 34,235,372",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 4,550,450 40,914 - - - - - (531,349)",
+      "1": "None",
+      "2": "2021 Ksh’000 33,493,628 - - - - - - (4,315,906)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(531,349)",
+      "1": "298,729",
+      "2": "(4,315,906)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 332,721 589,753 1,813,737 40,168,721 217,599 3,926,172",
+      "1": "None",
+      "2": "2021 Ksh’000 332,721 589,753 19,321,343 21,360,631 217,599 -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "47,048,703",
+      "1": "49,273,082",
+      "2": "41,822,047",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "21,008,981 (5,877,269)",
+      "1": "18,090,076 (8,182,331)",
+      "2": "4,121,584 (866,720)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "15,131,712",
+      "1": "9,907,745",
+      "2": "3,254,864",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "32.16%",
+      "1": "20.11%",
+      "2": "7.78%",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 275,038 67,458 - (32,193)",
+      "1": "None",
+      "2": "2021 Ksh’000 275,038 67,458 - (32,193)",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "310,303",
+      "1": "275,038",
+      "2": "310,303",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 26,783 -",
+      "1": "None",
+      "2": "2021 Ksh’000 16,101 319,116",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "26,783",
+      "1": "49,115",
+      "2": "335,217",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 192,385 - 14,209",
+      "1": "None",
+      "2": "2021 Ksh’000 43,013 - 3,228",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "206,594",
+      "1": "290,952",
+      "2": "46,241",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- - - -",
+      "1": "None",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2021 Ksh’000 132,267 46,241",
+      "1": "None",
+      "2": "2021 Ksh’000 24,276 46,241",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "178,508",
+      "1": "172,273",
+      "2": "70,517",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,453 1,760,033",
+      "1": "1,445 1,868,734",
+      "2": "296 11,803,965",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "- 1,760,033 - - - - - - - - - - - - - - - - - -",
+      "1": "- 1,747,360 - - - - - - - - - - - - - - - - - -",
+      "2": "1,326,635 - 580,377 2,275,996 4,711,264 - 30,910 307,975 1,094,479 3,512 - 31,253 3,935 5,106 142,480 1,266 - 1,242,652 36,446 6,000 12 3,667 -",
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "stnemetatS laicnaniF",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Revaluation gain on investment property",
+      "1": NaN,
+      "2": NaN,
+      "0": "Revaluation gain on investment property",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "TOTAL",
+      "1": NaN,
+      "2": NaN,
+      "0": "TOTAL",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Ksh’000",
+      "1": NaN,
+      "2": NaN,
+      "0": "Ksh’000",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,070,028 3,328,240",
+      "1": NaN,
+      "2": NaN,
+      "0": "10,070,028 3,328,240",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "13,398,268",
+      "1": NaN,
+      "2": NaN,
+      "0": "13,398,268",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Company Income Statement",
+  "units": "669",
+  "pages": [
+    36
+  ],
+  "extracted_at": "2025-11-29T03:54:12.504385",
+  "data": [
+    {
+      "item": "KShs. Millions %Δ",
+      "1": "March 2021",
+      "2": "March 2020",
+      "3": NaN
+    },
+    {
+      "item": "Operating profit",
+      "1": "245",
+      "2": "985",
+      "3": "(75%)"
+    },
+    {
+      "item": "(Loss) Profit before tax",
+      "1": "(826)",
+      "2": "(2,595)",
+      "3": "(68%)"
+    },
+    {
+      "item": "Profit after tax",
+      "1": "(606)",
+      "2": "(3,392)",
+      "3": "(82%)"
+    },
+    {
+      "item": "Total comprehensive (loss)/ income",
+      "1": "(4,818)",
+      "2": "(4,363)",
+      "3": "10%"
+    },
+    {
+      "item": "Return on opening NAV",
+      "1": "(10.2%)",
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}

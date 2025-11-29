@@ -1,0 +1,67 @@
+{
+  "title": "Company Cash Flow Statement",
+  "units": "11",
+  "pages": [
+    38,
+    39,
+    40
+  ],
+  "extracted_at": "2025-11-29T03:54:12.505969",
+  "data": [
+    {
+      "item": "KES millions",
+      "1": "Mar-21",
+      "2": "Mar-20"
+    },
+    {
+      "item": "Net cash generated from operating activities",
+      "1": "4,541",
+      "2": "19,077"
+    },
+    {
+      "item": "Net cash used in investing activities",
+      "1": "(2,073)",
+      "2": "(4,795)"
+    },
+    {
+      "item": "Net cash generated from financing activities",
+      "1": "(4,492)",
+      "2": "(12,551)"
+    },
+    {
+      "item": "At start of period",
+      "1": "1,875",
+      "2": "144"
+    },
+    {
+      "item": "At end of period",
+      "1": "(149)",
+      "2": "1,875"
+    },
+    {
+      "item": "Closing Cash and Cash equivalents",
+      "1": "(149)",
+      "2": "1,875"
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None None None None None None None None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Consolidated Financial Statements For purposes of compliance with the Company’s Act requirements",
+      "1": NaN,
+      "2": NaN
+    }
+  ]
+}
