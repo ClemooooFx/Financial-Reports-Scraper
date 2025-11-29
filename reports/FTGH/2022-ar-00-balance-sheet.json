@@ -1,0 +1,1421 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "gdp",
+  "pages": [
+    10,
+    12,
+    16,
+    17,
+    18,
+    19,
+    20,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    46,
+    47,
+    54,
+    111,
+    112,
+    113,
+    114
+  ],
+  "extracted_at": "2025-11-29T07:54:34.165538",
+  "data": [
+    {
+      "item": "None",
+      "1": "10",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "10",
+      "1": NaN,
+      "0": "10",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Holdings Annual Report 2022 About Flame Tree Group 12",
+      "1": "Flame Tree Holdings Annual Report 2022 About Flame Tree Group 12",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "12",
+      "1": NaN,
+      "0": "12",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None",
+      "1": NaN,
+      "0": "01 Health & Beauty",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None None",
+      "1": "None",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 04 Spices None None None None",
+      "1": "04 Spices",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": "",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 06 Trade None None None None None",
+      "1": "06 Trade",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "1": "",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Full Process Colour - with tonesTanques None None None",
+      "1": "None",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 05 Food & Nutrition",
+      "1": "05 Food & Nutrition",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "18",
+      "1": NaN,
+      "0": "18",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "19",
+      "1": NaN,
+      "0": "19",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "BOARD OF DIRECTORS",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Heril Bangera Gilles Kichenin Frank Ireri Imalambaal Kichenin George Theobald",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "REGISTERED OFFICE",
+      "1": NaN,
+      "0": "REGISTERED OFFICE",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "C/o JurisTax Ltd Level 3, Ebene house, Hotel Avenue Ebene Mauritius",
+      "1": NaN,
+      "0": "C/o JurisTax Ltd Level 3, Ebene house, Hotel Avenue Ebene Mauritius",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ADMINISTRATOR AND COMPANY SECRETARY",
+      "1": NaN,
+      "0": "ADMINISTRATOR AND COMPANY SECRETARY",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "JurisTax Ltd Level 3, Ebene house, Hotel Avenue Ebene Mauritius",
+      "1": NaN,
+      "0": "JurisTax Ltd Level 3, Ebene house, Hotel Avenue Ebene Mauritius",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "PRINCIPAL BANKERS",
+      "1": NaN,
+      "0": "PRINCIPAL BANKERS",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SBM Bank Mauritius Limited Port Louis SBM Bank Kenya Limited Nairobi Diamond Trust Bank Kenya Limited Nairobi, Kenya ABSA Bank Kenya, Absa Head Quarters, Waiyaki Way, PO Box 30120, 00100 GPO, Nairobi, Kenya",
+      "1": NaN,
+      "0": "SBM Bank Mauritius Limited Port Louis SBM Bank Kenya Limited Nairobi Diamond Trust Bank Kenya Limited Nairobi, Kenya ABSA Bank Kenya, Absa Head Quarters, Waiyaki Way, PO Box 30120, 00100 GPO, Nairobi, Kenya",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "AUDITORS",
+      "1": NaN,
+      "0": "AUDITORS",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Crowe ATA 2nd Floor Ebene Esplanade 24, Bank Street, Cybercity, Ebene 72201, Republic of Mauritius",
+      "1": NaN,
+      "0": "Crowe ATA 2nd Floor Ebene Esplanade 24, Bank Street, Cybercity, Ebene 72201, Republic of Mauritius",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "TAX ADVISORS",
+      "1": NaN,
+      "0": "TAX ADVISORS",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Rodl & Partner P. O Box 2087 - 00606 Nairobi Kenya",
+      "1": NaN,
+      "0": "Rodl & Partner P. O Box 2087 - 00606 Nairobi Kenya",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "NOMINATED ADVISOR",
+      "1": NaN,
+      "0": "NOMINATED ADVISOR",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Faida Investment Ltd P.O. Box 45236 - 00100 Nairobi, Kenya",
+      "1": NaN,
+      "0": "Faida Investment Ltd P.O. Box 45236 - 00100 Nairobi, Kenya",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "LEGAL GOVERNANCE AUDITOR",
+      "1": NaN,
+      "0": "LEGAL GOVERNANCE AUDITOR",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Munyaka Advocates LLP P.O.Box 2087 – 00606 Nairobi, Kenya",
+      "1": NaN,
+      "0": "Munyaka Advocates LLP P.O.Box 2087 – 00606 Nairobi, Kenya",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CORPORATE GOVERNANCE AUDITOR",
+      "1": NaN,
+      "0": "CORPORATE GOVERNANCE AUDITOR",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Scribe Registars P.O. Box 3085 – 00100 GPO Nairobi, Kenya",
+      "1": NaN,
+      "0": "Scribe Registars P.O. Box 3085 – 00100 GPO Nairobi, Kenya",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "COMPANY REGISTRARS",
+      "1": NaN,
+      "0": "COMPANY REGISTRARS",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "CDSC Registrars Ltd P.O.Box 6341-00100, Nairobi, KENYA.",
+      "1": NaN,
+      "0": "CDSC Registrars Ltd P.O.Box 6341-00100, Nairobi, KENYA.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ESG CONSULTANT",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Christine Gatakaa",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None www.suziebeauty.com FOUNDATiON 24 MAKES YOUR SKiN LOOK FLAWLESS IMMEDiATELY",
+      "1": "www.suziebeauty.com FOUNDATiON 24 MAKES YOUR SKiN LOOK FLAWLESS IMMEDiATELY",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "24",
+      "1": NaN,
+      "0": "24",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Holdings Annual Report 2022 Environmental Social Governance Report 2022 For our full ESG report, visit, www.flametreegroup.com 25",
+      "1": NaN,
+      "0": "Flame Tree Holdings Annual Report 2022 Environmental Social Governance Report 2022 For our full ESG report, visit, www.flametreegroup.com 25",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "25",
+      "1": NaN,
+      "0": "25",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "HAA T A R I Y A K UP A TA M A G O N JW A • Z U G N U P U H A M A M A Y A W IZ AM ARA KU • I J A T P O H Z A I D I K U I N Y O NY W A N A M W IL I IS I H A R I N A M A M A Y A W IZ A M",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "AWJNOGAM ATAPUK AY IRATAHAZUGNUPUH AMAM AY AWI MZA • A R A K U • IJA T IH ILIWM AN A O WYNO P YNUK IDIAZ ISIHAR IN AMAM AY AWIZMA",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Stakeholder group Stakeholder interest Value is created and preserved through... Engagement platforms",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Employees Metrics and key objectives that we monitor A culture that is client-centered and innovative. A diverse and inclusive employee profile. Employee attrition. Employee satisfaction metrics. A working environment that encourages professional growth and high performance. Motivated and skilled employees, together with efficient, innovative, and value-creating solutions, services, and operations, offer value to our customers. Employment opportunities in the countries in which we operate; Rewarding employees for the value they add; Embracing flexible working practices; Encouraging our employees to embrace technological changes, further their careers, and improve our services and products; and Contributing to the transformation towards a more inclusive society through employment equity and gender equality. Learning & Development Programmes (through annual training); Senior Management visits to touchpoints Email engagements KPIs appraisal and performance Review and Development Cycle) Department Meetings, Senior Management Quarterly Engagements, Team Groups, Senior Management Offsite, and Department Offsite",
+      "1": "A working environment that encourages professional growth and high performance. Motivated and skilled employees, together with efficient, innovative, and value-creating solutions, services, and operations, offer value to our customers.",
+      "0": "Employees Metrics and key objectives that we monitor A culture that is client-centered and innovative. A diverse and inclusive employee profile. Employee attrition. Employee satisfaction metrics.",
+      "2": "Employment opportunities in the countries in which we operate; Rewarding employees for the value they add; Embracing flexible working practices; Encouraging our employees to embrace technological changes, further their careers, and improve our services and products; and Contributing to the transformation towards a more inclusive society through employment equity and gender equality.",
+      "3": "Learning & Development Programmes (through annual training); Senior Management visits to touchpoints Email engagements KPIs appraisal and performance Review and Development Cycle) Department Meetings, Senior Management Quarterly Engagements, Team Groups, Senior Management Offsite, and Department Offsite",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Customers Metrics and key objectives that we monitor Brand value. Customer satisfaction. Client complaints. Impactful solutions that make a difference (e.g. aligned to UN SDGs). Unique and quality products to meet their needs. Our customers remain key in driving up our sales, allowing us to fund our activi- ties. Revenue rises as a result of acquiring more customers and strengthening existing relationships, while responsible business practices and world-class risk management prevent value loss. Developing innovative products that meet our customers’ specific needs; Understanding our customers’ pain points; Value-for- money products that arecompetitive and transparent in the pricing Marketing campaigns in TV, newspapers, and social media; Customer satisfaction survey; In-shop promotions; Product workshops and events; Digital and online marketing platforms",
+      "1": "Unique and quality products to meet their needs. Our customers remain key in driving up our sales, allowing us to fund our activi- ties. Revenue rises as a result of acquiring more customers and strengthening existing relationships, while responsible business practices and world-class risk management prevent value loss.",
+      "0": "Customers Metrics and key objectives that we monitor Brand value. Customer satisfaction. Client complaints. Impactful solutions that make a difference (e.g. aligned to UN SDGs).",
+      "2": "Developing innovative products that meet our customers’ specific needs; Understanding our customers’ pain points; Value-for- money products that arecompetitive and transparent in the pricing",
+      "3": "Marketing campaigns in TV, newspapers, and social media; Customer satisfaction survey; In-shop promotions; Product workshops and events; Digital and online marketing platforms",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Shareholders/ Investors Metrics and key objectives that we monitor Net Asset Value per share growth. ROE and cost-to-income ratios. Price-to-book ratios. Dividends paid Relative share price performance. AGM voting outcomes. Business continuity and expansion, including strategic investments, are made possible by the financial capital we obtain from equity and debt investors and retained earnings. Enhanced corporate reporting to inform the assessment of risks and returns; and improved performance of the Group. Boosting the Net asset value, dividends, returns, and share price; Preserving a healthy balance sheet to guard against downside risk (such as the Covid-19 pandemic, and Ukraine-Russia War); Sustainably investing in and expanding our operations; and Adhering to good ESG practices that guarantee the long-term viability of the Group. Annual General Meeting, Financial statements; Media releases; Investor Presentations. Rolled out Oracle Net suite for financial & analytical reporting",
+      "1": "Business continuity and expansion, including strategic investments, are made possible by the financial capital we obtain from equity and debt investors and retained earnings. Enhanced corporate reporting to inform the assessment of risks and returns; and improved performance of the Group.",
+      "0": "Shareholders/ Investors Metrics and key objectives that we monitor Net Asset Value per share growth. ROE and cost-to-income ratios. Price-to-book ratios. Dividends paid Relative share price performance. AGM voting outcomes.",
+      "2": "Boosting the Net asset value, dividends, returns, and share price; Preserving a healthy balance sheet to guard against downside risk (such as the Covid-19 pandemic, and Ukraine-Russia War); Sustainably investing in and expanding our operations; and Adhering to good ESG practices that guarantee the long-term viability of the Group.",
+      "3": "Annual General Meeting, Financial statements; Media releases; Investor Presentations. Rolled out Oracle Net suite for financial & analytical reporting",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Regulators/ Government Metrics and key objectives that we monitor Effective delivery of compliance with regulatory change (meeting minimum regulatory requirements) Monitoring payment of corporate taxes. Tax Compliance The economic and social development of the countries in which we operate depends on the tax we pay. Good governance and compliance. Reduction of systemic risks We have to fully comply with the laws of the countries in which we operate. Embracing sustainable business practices and regulatory compliance; and Working closely with regulators in times of crisis. Contributing to government accounts through our corporate taxes and employees’ taxes. Annual audits, Timely reports Corporate policies",
+      "1": "Tax Compliance The economic and social development of the countries in which we operate depends on the tax we pay. Good governance and compliance. Reduction of systemic risks We have to fully comply with the laws of the countries in which we operate.",
+      "0": "Regulators/ Government Metrics and key objectives that we monitor Effective delivery of compliance with regulatory change (meeting minimum regulatory requirements) Monitoring payment of corporate taxes.",
+      "2": "Embracing sustainable business practices and regulatory compliance; and Working closely with regulators in times of crisis. Contributing to government accounts through our corporate taxes and employees’ taxes.",
+      "3": "Annual audits, Timely reports Corporate policies",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Society Metrics and key objectives that we monitor We continuously work on building strong partnerships and relationships with our community through engaging in sustainable business activities and various CSR projects. A business that serves the community better. We embrace our role in society as active builders of a thriving society. Achieving positive economic, environmental, and social change through our SDG-aligned business activities; Being a valuable member of society as a consumer and supplier of goods and services; Making a difference through our CSR activities and partnerships. CSI investment programs; Volunteering programs",
+      "1": "A business that serves the community better. We embrace our role in society as active builders of a thriving society.",
+      "0": "Society Metrics and key objectives that we monitor We continuously work on building strong partnerships and relationships with our community through engaging in sustainable business activities and various CSR projects.",
+      "2": "Achieving positive economic, environmental, and social change through our SDG-aligned business activities; Being a valuable member of society as a consumer and supplier of goods and services; Making a difference through our CSR activities and partnerships.",
+      "3": "CSI investment programs; Volunteering programs",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Material Matters Business context Risks Opportunities Our Approach",
+      "1": "Business context",
+      "0": "Material Matters",
+      "2": "Risks",
+      "3": "Opportunities",
+      "4": "Our Approach",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Governance and compliance To safeguard the financial ecosystem, guarantee financial stability, and promote customer protection, regulatory reforms, and developments have to take place. As a result, we must quickly and effectively respond to regulatory changes to remain resilient The Group may be exposed to financial and non-financial losses as a result of regulatory non- compliance. The Group can withstand the ever-changing regulatory landscape by keeping a close eye on the industry and regulatory developments. Through Group and individual KPIs that improve compliance with policies and procedures; integrating compliance into the business’s strategic focus.",
+      "1": "To safeguard the financial ecosystem, guarantee financial stability, and promote customer protection, regulatory reforms, and developments have to take place. As a result, we must quickly and effectively respond to regulatory changes to remain resilient",
+      "0": "Governance and compliance",
+      "2": "The Group may be exposed to financial and non-financial losses as a result of regulatory non- compliance.",
+      "3": "The Group can withstand the ever-changing regulatory landscape by keeping a close eye on the industry and regulatory developments.",
+      "4": "Through Group and individual KPIs that improve compliance with policies and procedures; integrating compliance into the business’s strategic focus.",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Environmental, Social, & Governance factors There is an increasing expectation for listed companies to integrate ESG considerations into their business to drive long-term value and performance. The negative environmental and social impact that arises from unsustainable practices may lead to regulatory non-compliance. The implementation of sustainability strategies and practices improves our brand equity and investor perspective. Established an ESG framework that outlines our pathway to becoming a sustainable organization by incorporating Environmental, Social, and Governance (ESG) considerations into our business strategy.",
+      "1": "There is an increasing expectation for listed companies to integrate ESG considerations into their business to drive long-term value and performance.",
+      "0": "Environmental, Social, & Governance factors",
+      "2": "The negative environmental and social impact that arises from unsustainable practices may lead to regulatory non-compliance.",
+      "3": "The implementation of sustainability strategies and practices improves our brand equity and investor perspective.",
+      "4": "Established an ESG framework that outlines our pathway to becoming a sustainable organization by incorporating Environmental, Social, and Governance (ESG) considerations into our business strategy.",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Market un- certainties & Supply chain disruptions Geopolitical conflicts, market uncertainties, and fluctuating currency forced businesses yet again to adjust opera- tions. Key materials shortages, mate- rial cost increas- es, and demand volatility. Diversifying sources and logistics routes where possible, and preparing risk response plans for the most fragile supply chains. Inventory cushions- having extra stock on hand as a contin- gency plan should the supply source face disruption; Debt financing.",
+      "1": "Geopolitical conflicts, market uncertainties, and fluctuating currency forced businesses yet again to adjust opera- tions.",
+      "0": "Market un- certainties & Supply chain disruptions",
+      "2": "Key materials shortages, mate- rial cost increas- es, and demand volatility.",
+      "3": "Diversifying sources and logistics routes where possible, and preparing risk response plans for the most fragile supply chains.",
+      "4": "Inventory cushions- having extra stock on hand as a contin- gency plan should the supply source face disruption; Debt financing.",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Keep your hair clean and healthy with Alana Hair Shampoo. Ensures your hair smells fresher for longer.",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Holder Names",
+      "1": NaN,
+      "0": "No.",
+      "2": "Shares",
+      "3": "% Holding",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Bangera, Heril Colbert",
+      "1": NaN,
+      "0": "1",
+      "2": "149,577,242",
+      "3": "84.01",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mukumbu, Japheth Mulinge",
+      "1": NaN,
+      "0": "2",
+      "2": "3,081,900",
+      "3": "1.73",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Stanbic Nominees Ltd A/C Nr1030823",
+      "1": NaN,
+      "0": "3",
+      "2": "2,498,734",
+      "3": "1.40",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Dawid,Dominikus Johannes",
+      "1": NaN,
+      "0": "4",
+      "2": "1,971,600",
+      "3": "1.11",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Kestrel Capital Nominees Limited A/C 009",
+      "1": NaN,
+      "0": "5",
+      "2": "1,551,060",
+      "3": "0.87",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Shah, Ramesh Chandra G.",
+      "1": NaN,
+      "0": "6",
+      "2": "1,368,933",
+      "3": "0.77",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mwaniki, Njuki",
+      "1": NaN,
+      "0": "7",
+      "2": "1,173,800",
+      "3": "0.66",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gichuki, Simon Gachira",
+      "1": NaN,
+      "0": "8",
+      "2": "1,011,030",
+      "3": "0.57",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "SBM Bank Nominees Ltd A/C 0042",
+      "1": NaN,
+      "0": "9",
+      "2": "958,210",
+      "3": "0.54",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Mjeru, Constatine Rutere",
+      "1": NaN,
+      "0": "10",
+      "2": "957,200",
+      "3": "0.54",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Stanbic Nominees Limited A/C R88601",
+      "1": NaN,
+      "0": "11",
+      "2": "939,410",
+      "3": "0.53",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Burbidge, Edward Lyndon Lovell",
+      "1": NaN,
+      "0": "12",
+      "2": "414,130",
+      "3": "0.23",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gacheru, Charles Kiai",
+      "1": NaN,
+      "0": "13",
+      "2": "332,523",
+      "3": "0.19",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Juma, Al-Noor Akbarali",
+      "1": NaN,
+      "0": "14",
+      "2": "275,200",
+      "3": "0.15",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Standard Chartered Nomiwnees A/C 9675C",
+      "1": NaN,
+      "0": "15",
+      "2": "236,411",
+      "3": "0.13",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Tole, Mwakio Peter",
+      "1": NaN,
+      "0": "16",
+      "2": "233,000",
+      "3": "0.13",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Gadani, Rakesh Prakash",
+      "1": NaN,
+      "0": "17",
+      "2": "231,100",
+      "3": "0.13",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Standard Chartered Kenya Nominees Ltd A/C KE004504",
+      "1": NaN,
+      "0": "18",
+      "2": "225,893",
+      "3": "0.13",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Khan, Imtiaz",
+      "1": NaN,
+      "0": "19",
+      "2": "205,810",
+      "3": "0.12",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Njoroge Engineering Works Limited",
+      "1": NaN,
+      "0": "20",
+      "2": "200,000",
+      "3": "0.11",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "No.",
+      "1": "Range",
+      "0": NaN,
+      "2": "Shares",
+      "3": "Shares %",
+      "4": "Shareholders",
+      "5": "Shareholders %",
+      "6": NaN
+    },
+    {
+      "item": "1",
+      "1": "1 - 500",
+      "0": NaN,
+      "2": "179,740",
+      "3": "0.10",
+      "4": "1,139",
+      "5": "55.02",
+      "6": NaN
+    },
+    {
+      "item": "2",
+      "1": "501 - 5000",
+      "0": NaN,
+      "2": "1,043,676",
+      "3": "0.59",
+      "4": "593",
+      "5": "28.65",
+      "6": NaN
+    },
+    {
+      "item": "3",
+      "1": "5001 - 10000",
+      "0": NaN,
+      "2": "773,108",
+      "3": "0.44",
+      "4": "105",
+      "5": "5.07",
+      "6": NaN
+    },
+    {
+      "item": "4",
+      "1": "10001 - 100000",
+      "0": NaN,
+      "2": "5,451,825",
+      "3": "3.08",
+      "4": "189",
+      "5": "9.13",
+      "6": NaN
+    },
+    {
+      "item": "5",
+      "1": "100001 - 1000000",
+      "0": NaN,
+      "2": "8,338,207",
+      "3": "4.67",
+      "4": "36",
+      "5": "1.74",
+      "6": NaN
+    },
+    {
+      "item": "6",
+      "1": ">1000000",
+      "0": NaN,
+      "2": "162,252,399",
+      "3": "91.12",
+      "4": "8",
+      "5": "0.39",
+      "6": NaN
+    },
+    {
+      "item": "Totals",
+      "1": "",
+      "0": NaN,
+      "2": "178,053,486",
+      "3": "100.00",
+      "4": "2,009",
+      "5": "100.00",
+      "6": NaN
+    },
+    {
+      "item": "Industry",
+      "1": NaN,
+      "0": "No.",
+      "2": "Shares",
+      "3": "Shares %",
+      "4": "Shareholders",
+      "5": "Shareholders %",
+      "6": NaN
+    },
+    {
+      "item": "East African Community Partner States Individuals",
+      "1": NaN,
+      "0": "1.",
+      "2": "167,603,260",
+      "3": "94.13",
+      "4": "1,988",
+      "5": "96.04",
+      "6": NaN
+    },
+    {
+      "item": "East African Community Partner States Institutions",
+      "1": NaN,
+      "0": "2.",
+      "2": "5,276,842",
+      "3": "2.96",
+      "4": "64",
+      "5": "3.09",
+      "6": NaN
+    },
+    {
+      "item": "Foreign Individual",
+      "1": NaN,
+      "0": "3.",
+      "2": "2,674,650",
+      "3": "1.50",
+      "4": "17",
+      "5": "0.82",
+      "6": NaN
+    },
+    {
+      "item": "Foreign Institutions",
+      "1": NaN,
+      "0": "4.",
+      "2": "2,498,734",
+      "3": "1.40",
+      "4": "1",
+      "5": "0.05",
+      "6": NaN
+    },
+    {
+      "item": "Executive Directors",
+      "1": "Gross Salary (Kshs. in 000’s)",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "",
+      "1": "2022",
+      "0": NaN,
+      "2": "2021",
+      "3": "2020",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Heril Colbert Bangera",
+      "1": "23,876",
+      "0": NaN,
+      "2": "23, 058",
+      "3": "20, 105",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Imalambaal Kichenin",
+      "1": "72",
+      "0": NaN,
+      "2": "72",
+      "3": "72",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Giles Kichenin",
+      "1": "72",
+      "0": NaN,
+      "2": "72",
+      "3": "72",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Non -Executive Directors",
+      "1": "Fixed Retainer",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": "Sitting Allowance",
+      "5": "None",
+      "6": "None"
+    },
+    {
+      "item": "George Theobald",
+      "1": "1,294",
+      "0": NaN,
+      "2": "1,101",
+      "3": "1,064",
+      "4": "183",
+      "5": "277",
+      "6": "109"
+    },
+    {
+      "item": "Frank Ireri",
+      "1": "607",
+      "0": NaN,
+      "2": "714",
+      "3": "500",
+      "4": "314",
+      "5": "286",
+      "6": "500"
+    },
+    {
+      "item": "Flame Tree Group Holdings Annual Report 2022 FY2022 Overview None None",
+      "1": "None",
+      "0": "Flame Tree Group Holdings Annual Report 2022 FY2022 Overview",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None FY2022 Overview None",
+      "1": "FY2022 Overview",
+      "0": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Sales 4,026,016,240",
+      "1": NaN,
+      "0": "Sales 4,026,016,240",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Margin 24.20%",
+      "1": NaN,
+      "0": "Margin 24.20%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "ROE (EBITDA) 6%",
+      "1": NaN,
+      "0": "ROE (EBITDA) 6%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Revenue Growth vs LY 19%",
+      "1": NaN,
+      "0": "Revenue Growth vs LY 19%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Revenue growth last 3 years 66%",
+      "1": NaN,
+      "0": "Revenue growth last 3 years 66%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net assets growth vs LY 8%",
+      "1": NaN,
+      "0": "Net assets growth vs LY 8%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net assets growth last 3 years 22%",
+      "1": NaN,
+      "0": "Net assets growth last 3 years 22%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Recycled material 8622 Tonnes",
+      "1": NaN,
+      "0": "Recycled material 8622 Tonnes",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Employees Trained 511",
+      "1": NaN,
+      "0": "Employees Trained 511",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Total Staff",
+      "1": NaN,
+      "0": "Total Staff",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": ">1200, 71% Men, 29% Women",
+      "1": NaN,
+      "0": ">1200, 71% Men, 29% Women",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "39",
+      "1": NaN,
+      "0": "39",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "01",
+      "1": NaN,
+      "0": "01",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "02",
+      "1": NaN,
+      "0": "02",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "03",
+      "1": NaN,
+      "0": "03",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "04",
+      "1": NaN,
+      "0": "04",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "05",
+      "1": NaN,
+      "0": "05",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "06",
+      "1": NaN,
+      "0": "06",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "07",
+      "1": NaN,
+      "0": "07",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "08",
+      "1": NaN,
+      "0": "08",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "September Polyplay introduced Trampolines, Artifical Grass, Checkers, Circle Swing, Unichair & Prefect Chair. None None",
+      "1": NaN,
+      "0": "September Polyplay introduced Trampolines, Artifical Grass, Checkers, Circle Swing, Unichair & Prefect Chair.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "0": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "09",
+      "1": NaN,
+      "0": "09",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Solar Energy In",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Solar Energy In stallation at Roto Moulders Ltd.",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None None None None",
+      "1": NaN,
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Group Holdings Annual Report 2022 47",
+      "1": NaN,
+      "0": "Flame Tree Group Holdings Annual Report 2022 47",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "47",
+      "1": NaN,
+      "0": "47",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Holdings Annual Report 2022 Financials FY 2022 54",
+      "1": "Flame Tree Holdings Annual Report 2022 Financials FY 2022 54",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "54",
+      "1": NaN,
+      "0": "54",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Notes:",
+      "1": NaN,
+      "0": "Notes:",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "A member entitled to attend and vote is entitled to appoint a proxy to attend and vote in his stead and a proxy need not be a member of the Company. In the case of a member being a limited Company this form must be completed under its common seal or under the hand of an officer or attorney duly authorized in writing. Proxies must be emailed to registrar@cdscregistrars.com or lodged at the registered office of the Company’s Shares Registrars, CDSC Registrars Limited (1st Floor, Occidental Plaza, Westlands, P.O. Box 6341-00100 Nairobi) not later than 26th June 2023 at 17:00Hrs.",
+      "1": NaN,
+      "0": "A member entitled to attend and vote is entitled to appoint a proxy to attend and vote in his stead and a proxy need not be a member of the Company. In the case of a member being a limited Company this form must be completed under its common seal or under the hand of an officer or attorney duly authorized in writing. Proxies must be emailed to registrar@cdscregistrars.com or lodged at the registered office of the Company’s Shares Registrars, CDSC Registrars Limited (1st Floor, Occidental Plaza, Westlands, P.O. Box 6341-00100 Nairobi) not later than 26th June 2023 at 17:00Hrs.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "W None Flame Tree Group Holdings Consolidated and separate financial statements for the year ended 31 December 2022 ILLS ANTiSEPTiC PROTECTiON GUARANTEED Kills 99.9% of Bacteria & Viruses Home use for infection control purposes Used on cuts, scratches and insect bites to kill germs and protect against infection P58",
+      "1": NaN,
+      "0": NaN,
+      "2": "Flame Tree Group Holdings Consolidated and separate financial statements for the year ended 31 December 2022 ILLS ANTiSEPTiC PROTECTiON GUARANTEED Kills 99.9% of Bacteria & Viruses Home use for infection control purposes Used on cuts, scratches and insect bites to kill germs and protect against infection P58",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None P58",
+      "1": NaN,
+      "0": NaN,
+      "2": "P58",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "P58",
+      "1": NaN,
+      "0": "P58",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Group Holdings Consolidated and separate financial statements for the year ended 31 December 2022 P59",
+      "1": NaN,
+      "0": "Flame Tree Group Holdings Consolidated and separate financial statements for the year ended 31 December 2022 P59",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "P59",
+      "1": NaN,
+      "0": "P59",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Flame Tree Holdings Annual Report 2022 60",
+      "1": "Flame Tree Holdings Annual Report 2022 60",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "60",
+      "1": NaN,
+      "0": "60",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}
