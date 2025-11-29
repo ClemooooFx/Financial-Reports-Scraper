@@ -1,0 +1,70 @@
+{
+  "title": "STATEMENT OF FINANCIAL POSITION — AS AT 31 DECEMBER 2019 COMPANY GROUP",
+  "units": "fvtpl",
+  "pages": [
+    3
+  ],
+  "extracted_at": "2025-11-29T09:07:25.511805",
+  "data": [
+    {
+      "item": "AS AT 31 DECEMBER 2019",
+      "1": "COMPANY",
+      "2": "None"
+    },
+    {
+      "item": "None",
+      "1": "AUDITED 31-Dec 2019 KShs '000'",
+      "2": "AUDITED 31-Dec 2018 KShs '000'"
+    },
+    {
+      "item": "ASSETS Cash and balances with central banks Items in the course of collection Loans and advances to banks Loans and advances to customers Financial assets at fair value through profit or loss (FVTPL) Financial assets measured at fair value through other comprehensive income (FVOCI ) Other financial assets at amortised cost Investment in Joint Venture Investment in subsidiaries Property and equipment Intangible assets - Goodwill Intangible assets - Software Prepaid operating lease rentals Tax recoverable Deferred tax asset Due from group companies Other assets TOTAL ASSETS LIABILITIES AND SHAREHOLDERS’ EQUITY Liabilities Deposits from banks Items in course of collection Deposits from customers Deferred tax liability Tax payable Due to group companies Other liabilities Long term debt Subordinated debt Shareholders’ equity Share capital Share premium Retained earnings Revaluation reserve Fair value reserve Translation reserve Statutory credit risk reserve Defined benefit reserve Equity attributable to owners of the company Non-controlling interest TOTAL SHAREHOLDERS’ EQUITY TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY",
+      "1": "- - - - - 27,679 - 2,110,591 25,662,294 - - - - 5,253 - 79,277 8,880",
+      "2": "- - - - - 133,223 - 1,679,971 25,662,294 - - - - 6,347 - 1,648,515 499"
+    },
+    {
+      "item": "GROUP",
+      "1": "None",
+      "2": NaN
+    },
+    {
+      "item": "AUDITED 31-Dec 2019 KShs '000'",
+      "1": "AUDITED 31-Dec 2018 KShs '000'",
+      "2": NaN
+    },
+    {
+      "item": "1 5,385,829 5 36,459 4 3,662,404 1 75,329,426 1 3,744,048 1 3,109,198 2 7,071,019 5 ,398,545 - 1 0,152,429 3 ,113,771 2 ,042,907 - 3 7,819 3 ,014,836 - 2 ,691,984",
+      "1": "1 4,867,139 7 64,460 3 3,675,193 1 66,736,729 1 3,145,126 1 0,853,371 2 8,158,101 4 ,535,205 - 6 ,724,561 3 ,136,312 1 ,735,882 2 46,271 1 26,609 1 ,929,345 - 1 ,887,745",
+      "2": NaN
+    },
+    {
+      "item": "3 15,290,674",
+      "1": "2 88,522,049",
+      "2": NaN
+    },
+    {
+      "item": "8 ,005,604 1 47,321 2 29,736,509 - 8 94,694 - 4 ,788,747 6 ,210,571 4 ,645,055",
+      "1": "5 ,647,101 1 77,736 2 13,139,370 - 1 30,130 - 4 ,797,580 8 ,246,775 5 ,508,909",
+      "2": NaN
+    },
+    {
+      "item": "2 54,428,501",
+      "1": "2 37,647,601",
+      "2": NaN
+    },
+    {
+      "item": "8 26,811 1 8,390,507 3 3,918,324 8 75,985 (273,802) (1,416,566) 5 ,518,392 (101,042)",
+      "1": "4 13,405 1 8,805,359 2 6,931,401 8 20,277 (454,825) (766,356) 2 ,190,131 (70,361)",
+      "2": NaN
+    },
+    {
+      "item": "5 7,738,609 3 ,123,564",
+      "1": "4 7,869,031 3 ,005,417",
+      "2": NaN
+    },
+    {
+      "item": "6 0,862,173",
+      "1": "5 0,874,448",
+      "2": NaN
+    }
+  ]
+}
