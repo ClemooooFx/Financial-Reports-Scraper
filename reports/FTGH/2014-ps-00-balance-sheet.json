@@ -1,0 +1,650 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "0",
+  "pages": [
+    4,
+    11,
+    12,
+    13,
+    16,
+    17,
+    24,
+    30,
+    36,
+    55,
+    66
+  ],
+  "extracted_at": "2025-11-29T07:45:51.871667",
+  "data": [
+    {
+      "item": "Nominated Advisor Burbidge Capital 4th Floor Nivina Towers Westlands Road, Museum Hill, Westlands, P.O. Box 51525 – 00100, Nairobi, Kenya Tel: +254 (0) 202 100 102 Contact: Edward Burbidge",
+      "1": "Legal Advisors Coulson Harney Advocates 5th floor, ICEA Lion Centre, West Wing,Riverside Park, Chiromo Road, P. O. Box 10643-00100, Nairobi, Kenya Tel + 254 (20) 289 9000 Contact: Paras Shah",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Reporting Accountants PKF Kenya Certified Public Accountants (Kenya) Kalamu House, Grevillea, Westlands P.O. Box 14077-00800, Nairobi, Kenya Contact: Rajan Shah",
+      "1": "Advisors Viva Africa Consulting LLP Advisors Kiganjo House, 3rd Floor, Rose Avenue, P. O. Box 75079-00200, Nairobi, Kenya",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Registrar The Central Depository & Settlement Corporation Limited (CDSC) Nation Centre, 10th Floor, Kimathi Street P.O. Box 3464-00100 GPO Nairobi",
+      "1": "Sponsoring Stockbroker Faida Investment Bank Crawford Business Park Ground Floor, State House Road P.O. Box 45236-00100 Nairobi",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Subject Definition",
+      "1": NaN,
+      "3": "",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "3": "",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Articles None None The Articles of Association of FTG Holdings Limited None None",
+      "1": NaN,
+      "3": "The Articles of Association of FTG Holdings Limited",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Board None None The Board of Directors of the Issuer None None",
+      "1": NaN,
+      "3": "The Board of Directors of the Issuer",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital Markets Legislation None None Means (a) the Capital Markets Act, Chapter 485A of the Laws of Kenya and all subsidiary legislation and rules and guidelines promulgated thereunder (b) the rules of the NSE (c) Companies Act and (d) any law applicable to capital markets in Kenya None None",
+      "1": NaN,
+      "3": "Means (a) the Capital Markets Act, Chapter 485A of the Laws of Kenya and all subsidiary legislation and rules and guidelines promulgated thereunder (b) the rules of the NSE (c) Companies Act and (d) any law applicable to capital markets in Kenya",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CAGR None None Compounded Annual Growth Rate None None",
+      "1": NaN,
+      "3": "Compounded Annual Growth Rate",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CBK None None Central Bank of Kenya None None",
+      "1": NaN,
+      "3": "Central Bank of Kenya",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CBR None None Central Bank Rate None None",
+      "1": NaN,
+      "3": "Central Bank Rate",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CCA None None Comparable Company Analysis None None",
+      "1": NaN,
+      "3": "Comparable Company Analysis",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CDSC None None Central Depository and Settlement Corporation Limited. The Central Depository System, a computer system operated by CDSC in accordance with the Central Depositories Act, 2000 that facilitates holding of securities in electronic accounts thereby facilitating faster and easier processing of transactions at the NSE None None",
+      "1": NaN,
+      "3": "Central Depository and Settlement Corporation Limited. The Central Depository System, a computer system operated by CDSC in accordance with the Central Depositories Act, 2000 that facilitates holding of securities in electronic accounts thereby facilitating faster and easier processing of transactions at the NSE",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CEO None None Chief Executive Officer None None",
+      "1": NaN,
+      "3": "Chief Executive Officer",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CMA None None The Capital Markets Authority in Kenya, a statutory body incorporated under the Capital Markets Act and includes anybody replacing it or any of its functions None None",
+      "1": NaN,
+      "3": "The Capital Markets Authority in Kenya, a statutory body incorporated under the Capital Markets Act and includes anybody replacing it or any of its functions",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Company None None FTG Holdings Limited None None",
+      "1": NaN,
+      "3": "FTG Holdings Limited",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "The Group None None FTG Holdings Limited together with its Subsidiaries None None",
+      "1": NaN,
+      "3": "FTG Holdings Limited together with its Subsidiaries",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Companies’ Act None None The Companies Act 2001 (Laws of Mauritius) None None",
+      "1": NaN,
+      "3": "The Companies Act 2001 (Laws of Mauritius)",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "DCF None None Discounted Cash Flow valuation methodology None None",
+      "1": NaN,
+      "3": "Discounted Cash Flow valuation methodology",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Directors or the Board None None Directors of the Group whose names appear on page vii of this Listing Statement None None",
+      "1": NaN,
+      "3": "Directors of the Group whose names appear on page vii of this Listing Statement",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "DPS None None Dividend Per Share None None",
+      "1": NaN,
+      "3": "Dividend Per Share",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "EBITDA None None Earnings Before Interest Tax Depreciation and Amortization None None",
+      "1": NaN,
+      "3": "Earnings Before Interest Tax Depreciation and Amortization",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "EPS None None Earnings Per Share None None",
+      "1": NaN,
+      "3": "Earnings Per Share",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "FCFF None None Free Cash Flow to Firm None None",
+      "1": NaN,
+      "3": "Free Cash Flow to Firm",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "GDP None None Gross Domestic Product None None",
+      "1": NaN,
+      "3": "Gross Domestic Product",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "GEMS None None Growth Enterprise Market Segment of the NSE None None",
+      "1": NaN,
+      "3": "Growth Enterprise Market Segment of the NSE",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Issuer None None FTG Holdings Limited None None",
+      "1": NaN,
+      "3": "FTG Holdings Limited",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "KES None None Kenya Shilling None None",
+      "1": NaN,
+      "3": "Kenya Shilling",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Listing None None Admission of the Shares to the GEMS None None",
+      "1": NaN,
+      "3": "Admission of the Shares to the GEMS",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Listing Price None None KES 8.00 per share None None",
+      "1": NaN,
+      "3": "KES 8.00 per share",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Market Cap None None Market Capitalisation None None",
+      "1": NaN,
+      "3": "Market Capitalisation",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "MPC None None Monetary Policy Committee None None",
+      "1": NaN,
+      "3": "Monetary Policy Committee",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "NSE None None Nairobi Securities Exchange None None",
+      "1": NaN,
+      "3": "Nairobi Securities Exchange",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share Capital None None The stated capital of FTG Holdings amounting to KES 307,802,875 divided into 161,866,804 ordinary shares of KES 0.825 each and share premium None None",
+      "1": NaN,
+      "3": "The stated capital of FTG Holdings amounting to KES 307,802,875 divided into 161,866,804 ordinary shares of KES 0.825 each and share premium",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Subsidiaries None None Flame Tree Africa Limited, Roto Moulders Limited, Happy Eaters Kenya Limited, Cherry Styles Limited, Roto Plc, Rino Tanques Lda, Roto Limited, Flame Tree Brands Limited, BuildMart Limited, Jojo Plastics Limited and Cirrus International FZC, being the companies which are wholly owned by the Issuer None None",
+      "1": NaN,
+      "3": "Flame Tree Africa Limited, Roto Moulders Limited, Happy Eaters Kenya Limited, Cherry Styles Limited, Roto Plc, Rino Tanques Lda, Roto Limited, Flame Tree Brands Limited, BuildMart Limited, Jojo Plastics Limited and Cirrus International FZC, being the companies which are wholly owned by the Issuer",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "USD / US Dollar None None United States Dollar None None",
+      "1": NaN,
+      "3": "United States Dollar",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "VAT None None Value Added Tax None None",
+      "1": NaN,
+      "3": "Value Added Tax",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "WACC Weighted Average Cost of Capital",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Y/Y Year on Year",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "FMCG Fast Moving Consumer Goods",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Transaction Listing by Introduction on GEMS segment of NSE",
+      "1": "Listing by Introduction on GEMS segment of NSE",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Issuer FTG Holdings Limited",
+      "1": "FTG Holdings Limited",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Shares 161,866,804 ordinary shares each of KES 0.825 each comprising the issued and fully paid up Share Capital of the Issuer.",
+      "1": "161,866,804 ordinary shares each of KES 0.825 each comprising the issued and fully paid up Share Capital of the Issuer.",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Status Upon listing, freely transferable ordinary shares ranking pari passu with each other.",
+      "1": "Upon listing, freely transferable ordinary shares ranking pari passu with each other.",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Trades Shares will be fully dematerialized and uploaded into the CDS prior to trading.",
+      "1": "Shares will be fully dematerialized and uploaded into the CDS prior to trading.",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Compliance The Listing is subject to the requirements of the Articles, The Companies Act, The Capital Markets Act, the Nairobi Securities Exchange Listing Manual and the Central Depositories Act, 2000.",
+      "1": "The Listing is subject to the requirements of the Articles, The Companies Act, The Capital Markets Act, the Nairobi Securities Exchange Listing Manual and the Central Depositories Act, 2000.",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Listing/ Introduction Price KES 8.00 per share",
+      "1": "KES 8.00 per share",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Nominated Advisor Burbidge Capital Limited",
+      "1": "Burbidge Capital Limited",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Market Segment GEMS",
+      "1": "GEMS",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Expected Listing Date 6th November 2014",
+      "1": "6th November 2014",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Governing Law Kenyan Law",
+      "1": "Kenyan Law",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Listing price per share",
+      "1": "KES 8.00",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Par value of each share before the share split",
+      "1": "KES 5",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total number of issued shares before the share split",
+      "1": "22,700,586",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share split ratio",
+      "1": "1: 6.06061",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total number of issued shares after the share split",
+      "1": "137,579,311",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Par value of each share after the share split",
+      "1": "KES 0.825",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Additional new shares issued through private placement",
+      "1": "24, 287,493",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total number of issued shares after shares split and private placement",
+      "1": "161,866,804",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net profit for the twelve (12) months ended 31st December 2013",
+      "1": "KES 149,047,389",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Earnings per share (“EPS”) for the twelve (12) months ended 31st December 2013 before share split",
+      "1": "KES 6.57",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Earnings per share (“EPS”) for the twelve (12) months ended 31st December 2013 after share split and new shares issued",
+      "1": "KES 0.92",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Approvals from the NSE",
+      "1": "15th October 2014",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Deadline for uploading the shares into CDSC",
+      "1": "4th November 2014",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Dispatch of Listing Statement to shareholders",
+      "1": "5th November 2014",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Listing and Commencement of Trading at the NSE",
+      "1": "6th November 2014",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Professional fees and related costs KES1",
+      "1": NaN,
+      "3": "",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Nominated Advisor None None None None",
+      "1": NaN,
+      "3": "4,432,500",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Reporting Accountants None None None None",
+      "1": NaN,
+      "3": "3,000,000",
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Legal Advisors",
+      "1": "3,000,000",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Registrars",
+      "1": "250,000",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "NSE listing fees",
+      "1": "250,000",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Miscellaneous Expenses (Printing)",
+      "1": "250,000",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total",
+      "1": "11,180,500",
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Name Qualification Designation Work Nationality Age Physical Address",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None Experience None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None None None None None None None",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": NaN
+    },
+    {
+      "item": "",
+      "1": "2014",
+      "3": "2012",
+      "2": "2013",
+      "0": NaN
+    },
+    {
+      "item": "Directors’ Fees (in KES)",
+      "1": "5,107,223",
+      "3": "4,091,058",
+      "2": "6,973,599",
+      "0": NaN
+    },
+    {
+      "item": "George Theobald Non- Executive Director (Chairman) Sign: ------------------------------------------------------ Heril Bangera Managing Director and CEO Sign: ------------------------------------------------------",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": "George Theobald Non- Executive Director (Chairman) Sign: ------------------------------------------------------"
+    },
+    {
+      "item": "Frank Ireri Non-Executive Director Sign: --------------------------------------------------- Gilles Kichenin Executive Director Sign ------------------------------------------------------",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": "Frank Ireri Non-Executive Director Sign: ---------------------------------------------------"
+    },
+    {
+      "item": "Imalambaal Kichenin Executive Director Sign: -----------------------------------------------------",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": "Imalambaal Kichenin Executive Director Sign: -----------------------------------------------------"
+    },
+    {
+      "item": "FTG Group Proforma balance sheet post money",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": "FTG Group Proforma balance sheet post money"
+    },
+    {
+      "item": "COMBINED STATEMENT OF FINANCIAL POSITION Pre money Receipt of money Post money Notes Shs Equity Share capital 9 1 13,502,932 20,037,182 133,540,114 Share premium - 174,262,762 174,262,762 Legal reserves 1,595,016 1,595,016 Retained earnings 89,389,138 8 9,389,138 Translation reserve (3,510,501) (3,510,501) Total Equity 2 00,976,585 3 95,276,529 Non-current liabilities Borrowings 10 1 93,378,580 1 93,378,580 Total equity and non-current liabilities 3 94,355,165 5 88,655,109 Non-current assets Deferred tax 11 2 4,034,509 2 4,034,509 Property, plant and equipment 12 1 54,040,979 1 54,040,979 1 78,075,488 1 78,075,488 Current assets Inventories 13 1 17,156,604 1 17,156,604 Trade and other receivables 14 4 01,416,213 4 01,416,213 Cash and cash equivalents 15 1 8,189,249 194,299,944 2 12,489,193 Tax recoverable 3,659,905 3,659,905 5 40,421,971 7 34,721,915 Current liabilities Borrowings 10 8 2,927,403 8 2,927,403 Trade and other payables 16 2 41,214,891 2 41,214,891 Deposit for shares 17 - - 3 24,142,294 3 24,142,294 Net current assets 2 16,279,677 4 10,579,621 3 94,355,165 5 88,655,109",
+      "1": NaN,
+      "3": NaN,
+      "2": NaN,
+      "0": "COMBINED STATEMENT OF FINANCIAL POSITION Pre money Receipt of money Post money Notes Shs Equity Share capital 9 1 13,502,932 20,037,182 133,540,114 Share premium - 174,262,762 174,262,762 Legal reserves 1,595,016 1,595,016 Retained earnings 89,389,138 8 9,389,138 Translation reserve (3,510,501) (3,510,501) Total Equity 2 00,976,585 3 95,276,529 Non-current liabilities Borrowings 10 1 93,378,580 1 93,378,580 Total equity and non-current liabilities 3 94,355,165 5 88,655,109 Non-current assets Deferred tax 11 2 4,034,509 2 4,034,509 Property, plant and equipment 12 1 54,040,979 1 54,040,979 1 78,075,488 1 78,075,488 Current assets Inventories 13 1 17,156,604 1 17,156,604 Trade and other receivables 14 4 01,416,213 4 01,416,213 Cash and cash equivalents 15 1 8,189,249 194,299,944 2 12,489,193 Tax recoverable 3,659,905 3,659,905 5 40,421,971 7 34,721,915 Current liabilities Borrowings 10 8 2,927,403 8 2,927,403 Trade and other payables 16 2 41,214,891 2 41,214,891 Deposit for shares 17 - - 3 24,142,294 3 24,142,294 Net current assets 2 16,279,677 4 10,579,621 3 94,355,165 5 88,655,109"
+    }
+  ]
+}
