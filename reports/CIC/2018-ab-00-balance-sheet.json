@@ -1,0 +1,25 @@
+{
+  "title": "CONSOLIDATED STATEMENTS OF PROFIT OR LOSS AND OTHER CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+  "units": "loss",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T01:32:25.535361",
+  "data": [
+    {
+      "item": "None None",
+      "1": "2018 KShs’000 16,627,384 16,945,301 (2,683,815) 14,261,486 903,839 1,517,464 354,096 41,826 17,078,711 (9,250,055) (2,384,012) (4,601,816) - (16,235,883) 8,793 851,621 (226,258) 625,363",
+      "3": "2017 KShs’000 14,886,887 14,336,192 (2,241,195) 12,094,997 1,023,407 1,543,581 704,373 233,904 15,600,262 (7,856,468) (2,122,470) (4,914,736) (187,478) (15,081,152) 46 519,156 (40,683) 478,473"
+    },
+    {
+      "item": "OTHER COMPREHENSIVE INCOME Surplus on revaluation of buildings Forex gain/(loss) on translation Fair value gain/(loss) on financial assets Total comprehensive income for the year",
+      "1": "28,316 14,462 94,291 762,432",
+      "3": "21,914 (99,595) (47,722) 353,070"
+    },
+    {
+      "item": "None None",
+      "1": "0.24",
+      "3": "0.18"
+    }
+  ]
+}

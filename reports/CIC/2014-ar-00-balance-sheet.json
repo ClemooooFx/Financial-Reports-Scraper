@@ -1,0 +1,26 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "continued",
+  "pages": [
+    47
+  ],
+  "extracted_at": "2025-11-29T01:31:21.597523",
+  "data": [
+    {
+      "item": "Reportable segment total liabilities 6,817,485 4,772,563 5,976,605 17,566,653 Less: related party balances - (242,955) (840,751) (1,083,706)",
+      "0": "Reportable segment total liabilities 6,817,485 4,772,563 5,976,605 17,566,653 Less: related party balances - (242,955) (840,751) (1,083,706)"
+    },
+    {
+      "item": "Net 6,817,485 4,529,608 5,135,854 16,482,947",
+      "0": "Net 6,817,485 4,529,608 5,135,854 16,482,947"
+    },
+    {
+      "item": "Reportable segment total liabilities 7,653,211 3,139,784 429,346 11,222,341",
+      "0": "Reportable segment total liabilities 7,653,211 3,139,784 429,346 11,222,341"
+    },
+    {
+      "item": "Less: Related party balances (179,545) (264,875) (429,005) (873,425) Net 7,473,666 2,874,909 341 10,348,916",
+      "0": "Less: Related party balances (179,545) (264,875) (429,005) (873,425) Net 7,473,666 2,874,909 341 10,348,916"
+    }
+  ]
+}
