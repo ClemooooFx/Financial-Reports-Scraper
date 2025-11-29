@@ -1,0 +1,27 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "cbr",
+  "pages": [
+    5,
+    38,
+    44,
+    45,
+    56,
+    57,
+    58,
+    59,
+    60,
+    65,
+    66,
+    67,
+    69
+  ],
+  "extracted_at": "2025-11-29T12:17:44.075840",
+  "rows": 67,
+  "columns": [
+    "item",
+    0,
+    1,
+    2
+  ]
+}
