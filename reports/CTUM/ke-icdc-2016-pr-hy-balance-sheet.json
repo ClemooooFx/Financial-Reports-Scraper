@@ -1,0 +1,604 @@
+{
+  "title": "Company Statement of Financial Position",
+  "units": null,
+  "pages": [
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "extracted_at": "2025-11-29T04:39:04.043119",
+  "data": [
+    {
+      "item": "Company Statement of Financial Position 15% increase in total assets, driven by performance & value of the underlying portfolio Assets Liabilities & Shareholder Capital Kes. M HY 2016 FY 2015 Kes. M HY 2016 FY 2015 Investment in Subsidiaries 28,969 22,269 Borrowings 10,348 7,569 Associates & JVs 6,612 8,826 Other liabilities 100 666 Unquoted investments 6,339 5,969 Deferred tax liability 1,077 880 Quoted investments 242 406 Current tax liability - 274 Other assets 1,613 185 Total Liabilities 11,525 9,327 Cash 3,230 3,673 Shareholder funds 34,669 31,939 Total Assets 46,194 41,328 Equity & liabilities 46,194 41,328 24",
+      "1": "Company Statement of Financial Position 15% increase in total assets, driven by performance & value of the underlying portfolio Assets Liabilities & Shareholder Capital Kes. M HY 2016 FY 2015 Kes. M HY 2016 FY 2015 Investment in Subsidiaries 28,969 22,269 Borrowings 10,348 7,569 Associates & JVs 6,612 8,826 Other liabilities 100 666 Unquoted investments 6,339 5,969 Deferred tax liability 1,077 880 Quoted investments 242 406 Current tax liability - 274 Other assets 1,613 185 Total Liabilities 11,525 9,327 Cash 3,230 3,673 Shareholder funds 34,669 31,939 Total Assets 46,194 41,328 Equity & liabilities 46,194 41,328 24",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Kes. M",
+      "1": "HY 2016",
+      "2": "FY 2015",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Investment in Subsidiaries",
+      "1": "28,969",
+      "2": "22,269",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Associates & JVs",
+      "1": "6,612",
+      "2": "8,826",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Unquoted investments",
+      "1": "6,339",
+      "2": "5,969",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Quoted investments",
+      "1": "242",
+      "2": "406",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Other assets",
+      "1": "1,613",
+      "2": "185",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Cash",
+      "1": "3,230",
+      "2": "3,673",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Total Assets",
+      "1": "46,194",
+      "2": "41,328",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Kes. M HY 2016",
+      "1": NaN,
+      "2": "FY 2015",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Borrowings 10,348 None",
+      "1": NaN,
+      "2": "7,569",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Other liabilities 100 None",
+      "1": NaN,
+      "2": "666",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Deferred tax liability 1,077 None",
+      "1": NaN,
+      "2": "880",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Current tax liability - None",
+      "1": NaN,
+      "2": "274",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Total Liabilities 11,525 None",
+      "1": NaN,
+      "2": "9,327",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Shareholder funds 34,669 None",
+      "1": NaN,
+      "2": "31,939",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Equity & liabilities 46,194",
+      "1": NaN,
+      "2": "41,328",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Centum Portfolio Valuation Methodology Our portfolio is held at conservative valuations Cash – 7.0% Valuation of cash based on Fair Value – 34.6% actual cash held by the Valuation of investments company 7.0% done with reference to market multiples of comparable listed 9.3% Market Price – 9.3% companies. Mostly applied Valuation of investments is for private equity done on the basis of market investments 34.6% prices on the stock market. This valuation basis has been applied for all listed 14.9% securities. Net Asset Value – 34.1% Valuation of investments is done based on share of shareholder funds. This Cost – 14.9% valuation basis has been Valuation of investments is applied mostly for subsidiaries maintained at cost. This including Two Rivers valuation basis has been 34.1% applied for early stage opportunities 25",
+      "1": "Centum Portfolio Valuation Methodology Our portfolio is held at conservative valuations Cash – 7.0% Valuation of cash based on Fair Value – 34.6% actual cash held by the Valuation of investments company 7.0% done with reference to market multiples of comparable listed 9.3% Market Price – 9.3% companies. Mostly applied Valuation of investments is for private equity done on the basis of market investments 34.6% prices on the stock market. This valuation basis has been applied for all listed 14.9% securities. Net Asset Value – 34.1% Valuation of investments is done based on share of shareholder funds. This Cost – 14.9% valuation basis has been Valuation of investments is applied mostly for subsidiaries maintained at cost. This including Two Rivers valuation basis has been 34.1% applied for early stage opportunities 25",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "PE - Fair Value Movement Attribution The fair value movement attributable to earnings was an upward movement of KES 1.6 Billion but after adjusting the multiples to the current multiples there was a drop of 1.4 Billion. Fair Value Attribution Fair Value Attribution 24 • So as to reflect the reality of the market Centum has adjusted the multiples used in its 22 1.6 1.4 valuations. 20 0.1 18 • This led to a drop in valuation of 1.4 Billion vs 16 a gain of KES 1.6 Billion had the multiples been 19.8 18.5 14 similar. 12 10 • This underlines the fact that the PE portfolio FV March 2015 Earnings Mvt Multiples Mvt Share Price FV September continues to perform well fundamentally and Mvt 2015 the robustness of the valuation despite a fall in the peer multiples highlights this. Fair Value Movement 26",
+      "1": "PE - Fair Value Movement Attribution The fair value movement attributable to earnings was an upward movement of KES 1.6 Billion but after adjusting the multiples to the current multiples there was a drop of 1.4 Billion. Fair Value Attribution Fair Value Attribution 24 • So as to reflect the reality of the market Centum has adjusted the multiples used in its 22 1.6 1.4 valuations. 20 0.1 18 • This led to a drop in valuation of 1.4 Billion vs 16 a gain of KES 1.6 Billion had the multiples been 19.8 18.5 14 similar. 12 10 • This underlines the fact that the PE portfolio FV March 2015 Earnings Mvt Multiples Mvt Share Price FV September continues to perform well fundamentally and Mvt 2015 the robustness of the valuation despite a fall in the peer multiples highlights this. Fair Value Movement 26",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Group Statement of Financial Position 9% growth in Total Assets Assets Liabilities & Shareholder Capital Kes. M HY 2016 FY 2015 Kes. M HY 2016 FY 2015 Investment property 21,111 17,775 Customer deposits 10,600 12,401 Associates & JVs 3,618 3,745 Borrowings 17,653 9,983 Unquoted assets 9.659 8,548 Quoted assets 1,466 2,979 ELN Liability 4,332 4,928 Loans and advances 12,050 11,061 Other liabilities 5,505 6,473 ELN Asset 4,332 4,928 Total Liabilities 38,090 33,785 Bonds & gov't securities 3,977 3,427 Other assets 14,837 10,871 Shareholder funds 39,523 38,555 Cash & cash equiv. 6,564 9,006 Equity & liabilities 77,613 72,340 Total Assets 77,613 72,340 28",
+      "1": "Group Statement of Financial Position 9% growth in Total Assets Assets Liabilities & Shareholder Capital Kes. M HY 2016 FY 2015 Kes. M HY 2016 FY 2015 Investment property 21,111 17,775 Customer deposits 10,600 12,401 Associates & JVs 3,618 3,745 Borrowings 17,653 9,983 Unquoted assets 9.659 8,548 Quoted assets 1,466 2,979 ELN Liability 4,332 4,928 Loans and advances 12,050 11,061 Other liabilities 5,505 6,473 ELN Asset 4,332 4,928 Total Liabilities 38,090 33,785 Bonds & gov't securities 3,977 3,427 Other assets 14,837 10,871 Shareholder funds 39,523 38,555 Cash & cash equiv. 6,564 9,006 Equity & liabilities 77,613 72,340 Total Assets 77,613 72,340 28",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Equity & liabilities",
+      "1": "77,613",
+      "2": "72,340",
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Gearing Successful raise of Kes. 6 Bn through issuance of fixed rate & equity linked notes in June 2015 Bonds Amount Fixed ELN Maturity (Kes. Bn) Rate Bond 1 KES 4.2 Bn 13.50% 12.75% Sept 2017 Bond 2 KES 6.0 Bn 13.0% 12.50% June 2020 Company’s Credit Rating was maintained atA1(short term) andA(long term) 29",
+      "1": "Gearing Successful raise of Kes. 6 Bn through issuance of fixed rate & equity linked notes in June 2015 Bonds Amount Fixed ELN Maturity (Kes. Bn) Rate Bond 1 KES 4.2 Bn 13.50% 12.75% Sept 2017 Bond 2 KES 6.0 Bn 13.0% 12.50% June 2020 Company’s Credit Rating was maintained atA1(short term) andA(long term) 29",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Bonds Amount (Kes. Bn) Maturity",
+      "1": NaN,
+      "2": "Fixed Rate",
+      "3": "ELN",
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Bond 1 KES 4.2 Bn Sept 2017",
+      "1": NaN,
+      "2": "13.50%",
+      "3": "12.75%",
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Bond 2 KES 6.0 Bn June 2020",
+      "1": NaN,
+      "2": "13.0%",
+      "3": "12.50%",
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Gearing Well positioned to take advantage of investment opportunities Relatively low gearing, enhanced liquidity Kes. M 2010 2011 2012 2013 2014 2015 HY2016 Total Debt - 1,988 1,000 4,149 5,492 7,569 10,348 Cash 394 7 322 1,502 844 3,673 3,230 Net Debt (Total debt less cash) - 1,988 678 2,647 4,649 3,896 7,118 Equity 9,157 12,552 13,685 16,137 22,936 31,938 34,669 Gearing - 16% 5% 16% 20% 12% 21% Liquidity (KES Bn) 2.1 0.2 1.5 2.7 1.5 5.9 5.2 30",
+      "1": "Gearing Well positioned to take advantage of investment opportunities Relatively low gearing, enhanced liquidity Kes. M 2010 2011 2012 2013 2014 2015 HY2016 Total Debt - 1,988 1,000 4,149 5,492 7,569 10,348 Cash 394 7 322 1,502 844 3,673 3,230 Net Debt (Total debt less cash) - 1,988 678 2,647 4,649 3,896 7,118 Equity 9,157 12,552 13,685 16,137 22,936 31,938 34,669 Gearing - 16% 5% 16% 20% 12% 21% Liquidity (KES Bn) 2.1 0.2 1.5 2.7 1.5 5.9 5.2 30",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Kes. M 2010 2011 2012 2013 2014 2015",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "HY2016",
+      "4": NaN
+    },
+    {
+      "item": "Total Debt - 1,988 1,000 4,149 5,492 7,569 None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "10,348",
+      "4": NaN
+    },
+    {
+      "item": "Cash 394 7 322 1,502 844 3,673 None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "3,230",
+      "4": NaN
+    },
+    {
+      "item": "Net Debt (Total debt less cash) - 1,988 678 2,647 4,649 3,896 None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "7,118",
+      "4": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "",
+      "4": NaN
+    },
+    {
+      "item": "Equity 9,157 12,552 13,685 16,137 22,936 31,938 None None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "34,669",
+      "4": NaN
+    },
+    {
+      "item": "Gearing 16% 5% 16% 20% 12%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "21%",
+      "4": NaN
+    },
+    {
+      "item": "Liquidity (KES Bn) 2.1 0.2 1.5 2.7 1.5 5.9",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "7": "5.2",
+      "4": NaN
+    },
+    {
+      "item": "Content 1 • Centum 3.0 Update 2 • Tactical Strategy In Current Operating Environment 3 • Financial Performance 4• Sector Update & Outlook 5• Q& A 31",
+      "1": "Content 1 • Centum 3.0 Update 2 • Tactical Strategy In Current Operating Environment 3 • Financial Performance 4• Sector Update & Outlook 5• Q& A 31",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Assets as at HY 2016 We have created a track record of deal sourcing, value addition and value realization Centum Investment Company Ltd Total Assets- KES 46.1 Bn Financial FMCG Energy Others* Real Estate QPE Health Services Education Agri. KES. 8.0 Bn KES. 2.5 Bn KES. 6.7 Bn KES. 14.2 Bn KES. 4.0 Bn care KES. 10.7Bn Centum On going Exotics Ltd *As at 30thSep 32",
+      "1": "Assets as at HY 2016 We have created a track record of deal sourcing, value addition and value realization Centum Investment Company Ltd Total Assets- KES 46.1 Bn Financial FMCG Energy Others* Real Estate QPE Health Services Education Agri. KES. 8.0 Bn KES. 2.5 Bn KES. 6.7 Bn KES. 14.2 Bn KES. 4.0 Bn care KES. 10.7Bn Centum On going Exotics Ltd *As at 30thSep 32",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None Energy KES. 2.5 Bn None",
+      "1": "FMCG KES. 8.0 Bn",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Centum Exotics Ltd On going",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1. Financial Services K-Rep Bank Centum acquired a controlling stake of 65% in K-rep Bank for KES 2.3 Bn. Making it the first operational investment company to have a bank as a subsidiary HY 2016 Key performance metrics of the Bank Key activities Return on Assets (%) 3.0% • A rights issue was approved and Centum Return on Equity (%) 20.0% has already invested KES1.2 Bn. This will provide the bank with much needed capital Total Assets (KES Bn) 18 to fund growth& future investment. Profit Before Tax (KES Mn) 402 • New management & Board of Directors is in place. • On going rebranding and upgrade of ICT Systems is on going. • The Bank is profitable and the goal is to position the bank for growth into a Tier II lender by 2019. 33",
+      "1": "1. Financial Services K-Rep Bank Centum acquired a controlling stake of 65% in K-rep Bank for KES 2.3 Bn. Making it the first operational investment company to have a bank as a subsidiary HY 2016 Key performance metrics of the Bank Key activities Return on Assets (%) 3.0% • A rights issue was approved and Centum Return on Equity (%) 20.0% has already invested KES1.2 Bn. This will provide the bank with much needed capital Total Assets (KES Bn) 18 to fund growth& future investment. Profit Before Tax (KES Mn) 402 • New management & Board of Directors is in place. • On going rebranding and upgrade of ICT Systems is on going. • The Bank is profitable and the goal is to position the bank for growth into a Tier II lender by 2019. 33",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Return on Assets (%)",
+      "1": "3.0%",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Return on Equity (%)",
+      "1": "20.0%",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Total Assets (KES Bn)",
+      "1": "18",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Profit Before Tax (KES Mn)",
+      "1": "402",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1. Financial Services AON Centum entered into an agreement to sell its stake in AON Insurance Brokers • Centum entered into an agreement to sell its stake in AON Insurance Brokers. Centum has received all approvals and is awaiting Competition Authority approval. • The sale of Centum’s stake in AON is in line with our strategic objective of focusing on being developers of investment grade assets of scale. 34",
+      "1": "1. Financial Services AON Centum entered into an agreement to sell its stake in AON Insurance Brokers • Centum entered into an agreement to sell its stake in AON Insurance Brokers. Centum has received all approvals and is awaiting Competition Authority approval. • The sale of Centum’s stake in AON is in line with our strategic objective of focusing on being developers of investment grade assets of scale. 34",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2. FMCG Almasi Beverages Ltd The business is currently investing& implementing new capacity measures to enhance its output and efficiency Fact Sheet Almasi Territory • Centum acquired a controlling stake in the company in 2015 and has a stake of 50.95% • Almasi’s market share is 29% of the carbonated soft drinks consumed in Kenya. And is the fastest growing bottle in the country. • Additional investment to increase capacity through the commissioning of a new RGB line. The line will have a capacity of 38,000 bottles per hour. Almasi has also added a PET Line that will be commissioned in Q1 2016. • The growth of the soft drink market in sub Saharan Africa has outpaced global growth maintaining double digit growth. 35",
+      "1": "2. FMCG Almasi Beverages Ltd The business is currently investing& implementing new capacity measures to enhance its output and efficiency Fact Sheet Almasi Territory • Centum acquired a controlling stake in the company in 2015 and has a stake of 50.95% • Almasi’s market share is 29% of the carbonated soft drinks consumed in Kenya. And is the fastest growing bottle in the country. • Additional investment to increase capacity through the commissioning of a new RGB line. The line will have a capacity of 38,000 bottles per hour. Almasi has also added a PET Line that will be commissioned in Q1 2016. • The growth of the soft drink market in sub Saharan Africa has outpaced global growth maintaining double digit growth. 35",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "3. Others GMEA has grown its market share in new vehicle sales to 31% up from 26% in the nine months ended September 2015 • GMEA, which sells Isuzu and Chevrolet brands, grew its market share to 31% on the back of increased sales. • This has seen the company being ranked as the country’s largest dealer in the nine months ended September 30th. • We are also looking to enhance synergies by leveraging on various portfolio companies that require fleets. 36",
+      "1": "3. Others GMEA has grown its market share in new vehicle sales to 31% up from 26% in the nine months ended September 2015 • GMEA, which sells Isuzu and Chevrolet brands, grew its market share to 31% on the back of increased sales. • This has seen the company being ranked as the country’s largest dealer in the nine months ended September 30th. • We are also looking to enhance synergies by leveraging on various portfolio companies that require fleets. 36",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "4. Real Estate: i. Two Rivers A new urban node that will be a development on 100 acres • Phase 1 of the development includes the retail and lifestyle centre& the infrastructure. • The mall is set for completion in December 2015 and with a target to open in March 2016. • 190 shops of the 220 this represents 86% of the total shops in the mall. • The tenants of the mall have began taking possession of their various shops, and beginning fit outs in preparation for the opening. 37",
+      "1": "4. Real Estate: i. Two Rivers A new urban node that will be a development on 100 acres • Phase 1 of the development includes the retail and lifestyle centre& the infrastructure. • The mall is set for completion in December 2015 and with a target to open in March 2016. • 190 shops of the 220 this represents 86% of the total shops in the mall. • The tenants of the mall have began taking possession of their various shops, and beginning fit outs in preparation for the opening. 37",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Two Rivers Lifestyle Update: Vision 38",
+      "1": "Two Rivers Lifestyle Update: Vision 38",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Two Rivers Lifestyle Update 39",
+      "1": "Two Rivers Lifestyle Update 39",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "ii. Pearl Marina A mixed use development with 1.3 Km of lake frontage in Garuga, Uganda. • The development will be set out on 385 Acres. • Phase 1 of the Project is designed on 41 acres of the land and development of 97 units. • Currently 4 show houses, the infrastructure works, gatehouse, jetty& recreational areas are under construction, due for completion in 2016. 40",
+      "1": "ii. Pearl Marina A mixed use development with 1.3 Km of lake frontage in Garuga, Uganda. • The development will be set out on 385 Acres. • Phase 1 of the Project is designed on 41 acres of the land and development of 97 units. • Currently 4 show houses, the infrastructure works, gatehouse, jetty& recreational areas are under construction, due for completion in 2016. 40",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Pearl Marina – Internal Road Status Status Item Start Finish Comments Internal Jan 2015 May 2015 Civil & structural – 50% complete roads 41",
+      "1": "Pearl Marina – Internal Road Status Status Item Start Finish Comments Internal Jan 2015 May 2015 Civil & structural – 50% complete roads 41",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Status Item Start Finish Comments",
+      "1": NaN,
+      "2": "Start",
+      "3": "Finish",
+      "7": NaN,
+      "4": "Comments"
+    },
+    {
+      "item": "Internal roads Jan 2015 May 2015 Civil & structural – 50% complete",
+      "1": NaN,
+      "2": "Jan 2015",
+      "3": "May 2015",
+      "7": NaN,
+      "4": "Civil & structural – 50% complete"
+    },
+    {
+      "item": "Pearl Marina – Show House & Gatehouse • The show cluster construction is currently on going and will include villas, apartments, the jetty and recreational areas. • Pre-Sales are expected to commence in January 2016 • Civil and structural works are set to conclude in May 2015 42",
+      "1": "Pearl Marina – Show House & Gatehouse • The show cluster construction is currently on going and will include villas, apartments, the jetty and recreational areas. • Pre-Sales are expected to commence in January 2016 • Civil and structural works are set to conclude in May 2015 42",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "iii. Vipingo Centum acquired 11,794 acres of land in Vipingo, Kilifi County. • The vision of the proposed Vipingo development is to develop a city will become a sought after destination to do business in East African and beyond. • The City will provide a mix of residential, manufacturing, logistics, sports& recreation zones. • Currently in the process of completing the transaction and master planning of the development is also on going. 43",
+      "1": "iii. Vipingo Centum acquired 11,794 acres of land in Vipingo, Kilifi County. • The vision of the proposed Vipingo development is to develop a city will become a sought after destination to do business in East African and beyond. • The City will provide a mix of residential, manufacturing, logistics, sports& recreation zones. • Currently in the process of completing the transaction and master planning of the development is also on going. 43",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "5. Energy Amu Power This will be the largest private sector funded infrastructure project in EA . The plant will be at the top of the economic merit dispatch order as the lower cost producing IPP. Image for illustration only 44",
+      "1": "5. Energy Amu Power This will be the largest private sector funded infrastructure project in EA . The plant will be at the top of the economic merit dispatch order as the lower cost producing IPP. Image for illustration only 44",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Update on Amu Power Project development is at fairly advanced stage with drafts of key documents being completed. Key Item Status PPA Initiated by KPLC and approved by the Energy Regulatory Commission (“ERC”) for formal execution. ESIA Being updated with Lenders comments before they are sent to NEMA O&M Contract Term sheet signed, initiated negotiation of final agreement Fuel-Supply Draft being reviewed by lenders. Agreement EPC Contract Initialed and agreed with EPC contractor. Currently being reviewed by lenders before being executed. Land Lease Land identified and approved for use by local county. Resettlement action plan being driven by NLC to determine settlement terms. Financing Currently being drafted. Term sheet executed in November 2014. Documents 45",
+      "1": "Update on Amu Power Project development is at fairly advanced stage with drafts of key documents being completed. Key Item Status PPA Initiated by KPLC and approved by the Energy Regulatory Commission (“ERC”) for formal execution. ESIA Being updated with Lenders comments before they are sent to NEMA O&M Contract Term sheet signed, initiated negotiation of final agreement Fuel-Supply Draft being reviewed by lenders. Agreement EPC Contract Initialed and agreed with EPC contractor. Currently being reviewed by lenders before being executed. Land Lease Land identified and approved for use by local county. Resettlement action plan being driven by NLC to determine settlement terms. Financing Currently being drafted. Term sheet executed in November 2014. Documents 45",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Key Item Status",
+      "1": "Status",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "PPA Initiated by KPLC and approved by the Energy Regulatory Commission (“ERC”) for formal execution.",
+      "1": "Initiated by KPLC and approved by the Energy Regulatory Commission (“ERC”) for formal execution.",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "ESIA Being updated with Lenders comments before they are sent to NEMA",
+      "1": "Being updated with Lenders comments before they are sent to NEMA",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "O&M Contract Term sheet signed, initiated negotiation of final agreement",
+      "1": "Term sheet signed, initiated negotiation of final agreement",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Fuel-Supply Agreement Draft being reviewed by lenders.",
+      "1": "Draft being reviewed by lenders.",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "EPC Contract Initialed and agreed with EPC contractor. Currently being reviewed by lenders before being executed.",
+      "1": "Initialed and agreed with EPC contractor. Currently being reviewed by lenders before being executed.",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Land Lease Land identified and approved for use by local county. Resettlement action plan being driven by NLC to determine settlement terms.",
+      "1": "Land identified and approved for use by local county. Resettlement action plan being driven by NLC to determine settlement terms.",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Financing Documents Currently being drafted. Term sheet executed in November 2014.",
+      "1": "Currently being drafted. Term sheet executed in November 2014.",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "5. Energy Akiira 1 Geothermal At 70 MW, the Geothermal project will be the first private sector funded greenfield geothermal development in Sub-Saharan Africa. 46",
+      "1": "5. Energy Akiira 1 Geothermal At 70 MW, the Geothermal project will be the first private sector funded greenfield geothermal development in Sub-Saharan Africa. 46",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Akiira 1 Geothermal - Update • Well 1 drilled to a distance 2,840M striking steam. Testing is on-going on the well. • The second well is currently being drilled. • CSR activities for the surrounding community also on going: Library books, provision of clean water and education sponsorship for the local community. 47",
+      "1": "Akiira 1 Geothermal - Update • Well 1 drilled to a distance 2,840M striking steam. Testing is on-going on the well. • The second well is currently being drilled. • CSR activities for the surrounding community also on going: Library books, provision of clean water and education sponsorship for the local community. 47",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "• This is the vehicle that leverages Centum’s core business strengths, to support the community and build value by promoting entrepreneurship. • The Centum Foundation, identifies promising, innovative ideas and supports them with mentorship & capital. • The Foundation has so far provided mentorship to over 10 businesses. 48",
+      "1": "• This is the vehicle that leverages Centum’s core business strengths, to support the community and build value by promoting entrepreneurship. • The Centum Foundation, identifies promising, innovative ideas and supports them with mentorship & capital. • The Foundation has so far provided mentorship to over 10 businesses. 48",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "So far we have invested in 1 company and are finalizing the investment in 2 more. • The key focus of the foundation is to not only provide capital, but also mentor individual businesses by upskilling the entrepreneurs through various workshops. • The goal of the foundation is to have a sustainable investment model that not only promotes entrepreneurship and venture capital but also impacts society. 49",
+      "1": "So far we have invested in 1 company and are finalizing the investment in 2 more. • The key focus of the foundation is to not only provide capital, but also mentor individual businesses by upskilling the entrepreneurs through various workshops. • The goal of the foundation is to have a sustainable investment model that not only promotes entrepreneurship and venture capital but also impacts society. 49",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Content 1 • Centum 3.0 Update 2 • Tactical Strategy In Current Operating Environment 3 • Financial Performance 4• Sector Update & Outlook 5• Q& A 50",
+      "1": "Content 1 • Centum 3.0 Update 2 • Tactical Strategy In Current Operating Environment 3 • Financial Performance 4• Sector Update & Outlook 5• Q& A 50",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    },
+    {
+      "item": "51",
+      "1": "51",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "4": NaN
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "title": "Company Statement of Financial Position",
+  "units": "463",
+  "pages": [
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "extracted_at": "2025-11-29T04:39:55.098171",
+  "data": [
+    {
+      "item": "Financial Performance Company Statement of Financial Position Assets Liabilities and Shareholder Funds KES Mn FY18 FY17 KES Mn FY18 FY17 Investments Portfolio Borrowings 14,843 14,656 Other Liabilities 2,559 2,106 Investment in Subsidiaries 39,414 35,311 Total Liabilities 17,401 16,762 Debt investment in 13,386 12,723 subsidiaries Shareholder Funds 48,686 44,808 Investment in Associates 5,081 4,687 Equity and Liabilities 66,087 61,570 Investment in Joint 2,100 2,144 NAV Per Share 73.2 67.4 Ventures Unquoted Investments 3,887 3,797 Quoted Investments 98 100 Total Portfolio 63,966 58,762 Other Assets 1,044 361 Cash and Cash Equivalent 1,078 2,447 Total Assets 66,087 61,570 42",
+      "1": "Financial Performance Company Statement of Financial Position Assets Liabilities and Shareholder Funds KES Mn FY18 FY17 KES Mn FY18 FY17 Investments Portfolio Borrowings 14,843 14,656 Other Liabilities 2,559 2,106 Investment in Subsidiaries 39,414 35,311 Total Liabilities 17,401 16,762 Debt investment in 13,386 12,723 subsidiaries Shareholder Funds 48,686 44,808 Investment in Associates 5,081 4,687 Equity and Liabilities 66,087 61,570 Investment in Joint 2,100 2,144 NAV Per Share 73.2 67.4 Ventures Unquoted Investments 3,887 3,797 Quoted Investments 98 100 Total Portfolio 63,966 58,762 Other Assets 1,044 361 Cash and Cash Equivalent 1,078 2,447 Total Assets 66,087 61,570 42",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "KES Mn",
+      "1": "FY18",
+      "2": "FY17",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Total Liabilities",
+      "1": "17,401",
+      "2": "16,762",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Equity and Liabilities",
+      "1": "66,087",
+      "2": "61,570",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "NAV Per Share",
+      "1": "73.2",
+      "2": "67.4",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Total Portfolio",
+      "1": "63,966",
+      "2": "58,762",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Total Assets",
+      "1": "66,087",
+      "2": "61,570",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Portfolio Valuation Methodology Valuation Methodology Description Portfolio Breakdown by Valuation as at FY2018 Net Asset Value • Value derived as an investee’s book value of equity multiplied by Centum’s shareholding 1.3% 7.2% Fair Value: Multiples • Market multiples of comparable listed companies 7.3% used • Mostly applied on private equity investments KES Fair Value: Recent • Value inferred from recently 66.1 Bn Price transacted portions of the 56.2% 28.0% asset • This approach is preferred where a reference price exists from a transaction closed in the recent 12 months Cost • Assets carried at cost of acquisition Market Price • Asset values based on Net Asset Value Fair Value: Multiples prevailing market prices on Fair Value: Recent Price Cost the reporting date Market Price • Applies to listed securities 43",
+      "1": "Portfolio Valuation Methodology Valuation Methodology Description Portfolio Breakdown by Valuation as at FY2018 Net Asset Value • Value derived as an investee’s book value of equity multiplied by Centum’s shareholding 1.3% 7.2% Fair Value: Multiples • Market multiples of comparable listed companies 7.3% used • Mostly applied on private equity investments KES Fair Value: Recent • Value inferred from recently 66.1 Bn Price transacted portions of the 56.2% 28.0% asset • This approach is preferred where a reference price exists from a transaction closed in the recent 12 months Cost • Assets carried at cost of acquisition Market Price • Asset values based on Net Asset Value Fair Value: Multiples prevailing market prices on Fair Value: Recent Price Cost the reporting date Market Price • Applies to listed securities 43",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Valuation Methodology Description None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Net Asset Value • Value derived as an investee’s book value of equity multiplied by Centum’s shareholding",
+      "1": "• Value derived as an investee’s book value of equity multiplied by Centum’s shareholding",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Fair Value: Multiples • Market multiples of comparable listed companies used • Mostly applied on private equity investments",
+      "1": "• Market multiples of comparable listed companies used • Mostly applied on private equity investments",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Fair Value: Recent Price • Value inferred from recently transacted portions of the asset • This approach is preferred where a reference price exists from a transaction closed in the recent 12 months",
+      "1": "• Value inferred from recently transacted portions of the asset • This approach is preferred where a reference price exists from a transaction closed in the recent 12 months",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Cost • Assets carried at cost of acquisition",
+      "1": "• Assets carried at cost of acquisition",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Market Price • Asset values based on prevailing market prices on the reporting date • Applies to listed securities",
+      "1": "• Asset values based on prevailing market prices on the reporting date • Applies to listed securities",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Financial Performance Segmented Portfolio Valuation (1 of 2) Carrying Value (KES Mn) Implied Portfolio Companies Stake Sector 31-Mar- Valuation Method Valuation 31-Mar-17 18 Multiple Growth Portfolio Almasi Beverages Limited 53.90% FMCG 8,697 7,716 FV: Multiples 6.77x Nairobi Bottlers Ltd 27.60% FMCG 5,078 4,388 FV: Multiples 6.77x Sidian Bank Limited 77.02% Fin. Services 3,890 3,232 FV: Multiples 1.16x Isuzu (E.A.) Ltd 17.80% Others 2,470 3,027 FV: Recent price Platcorp Holdings Limited 25.00% Fin. Services - 2,651 FV: Recent price Ongoing GenAfrica Investment Management Ltd 73.40% Fin. Services 2,324 1,404 Transaction Nabo Capital Limited 100.00% Fin. Services 494 765 NAV NAS Servair 15.00% Others 856 765 FV: Multiples 3.90x Longhorn Kenya Limited 60.20% Others 763 738 Market price Centum Business Solutions Limited 100.00% Others 399 219 NAV Zohari Leasing Limited 100.00% Fin. Services 213 208 NAV King Beverage Limited 100.00% FMCG 471 310 Cost Others 201 363 Cost Total 25,856 25,787 Development Portfolio Amu Power Ltd 51.00% Energy 2,103 2,144 Cost Akiira Geothermal Limited 37.50% Energy 1,491 1,347 Cost ACE Holdings Limited 40.00% Education 556 295 Cost Greenblade Growers Limited 100.00% Agribusiness 185 269 NAV Others - Healthcare, Agribusiness Dev. Cost - 269 178 Cost Total 4,605 4,233 44",
+      "1": "Financial Performance Segmented Portfolio Valuation (1 of 2) Carrying Value (KES Mn) Implied Portfolio Companies Stake Sector 31-Mar- Valuation Method Valuation 31-Mar-17 18 Multiple Growth Portfolio Almasi Beverages Limited 53.90% FMCG 8,697 7,716 FV: Multiples 6.77x Nairobi Bottlers Ltd 27.60% FMCG 5,078 4,388 FV: Multiples 6.77x Sidian Bank Limited 77.02% Fin. Services 3,890 3,232 FV: Multiples 1.16x Isuzu (E.A.) Ltd 17.80% Others 2,470 3,027 FV: Recent price Platcorp Holdings Limited 25.00% Fin. Services - 2,651 FV: Recent price Ongoing GenAfrica Investment Management Ltd 73.40% Fin. Services 2,324 1,404 Transaction Nabo Capital Limited 100.00% Fin. Services 494 765 NAV NAS Servair 15.00% Others 856 765 FV: Multiples 3.90x Longhorn Kenya Limited 60.20% Others 763 738 Market price Centum Business Solutions Limited 100.00% Others 399 219 NAV Zohari Leasing Limited 100.00% Fin. Services 213 208 NAV King Beverage Limited 100.00% FMCG 471 310 Cost Others 201 363 Cost Total 25,856 25,787 Development Portfolio Amu Power Ltd 51.00% Energy 2,103 2,144 Cost Akiira Geothermal Limited 37.50% Energy 1,491 1,347 Cost ACE Holdings Limited 40.00% Education 556 295 Cost Greenblade Growers Limited 100.00% Agribusiness 185 269 NAV Others - Healthcare, Agribusiness Dev. Cost - 269 178 Cost Total 4,605 4,233 44",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Portfolio Companies Sector Valuation Method Implied Valuation Multiple",
+      "1": "Stake",
+      "2": NaN,
+      "3": "Carrying Value (KES Mn)",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": "None",
+      "2": NaN,
+      "3": "31-Mar- 18",
+      "4": "31-Mar-17",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Growth Portfolio None None None",
+      "1": "None",
+      "2": NaN,
+      "3": "None",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Almasi Beverages Limited FMCG FV: Multiples 6.77x",
+      "1": "53.90%",
+      "2": NaN,
+      "3": "8,697",
+      "4": "7,716",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Nairobi Bottlers Ltd FMCG FV: Multiples 6.77x",
+      "1": "27.60%",
+      "2": NaN,
+      "3": "5,078",
+      "4": "4,388",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Sidian Bank Limited Fin. Services FV: Multiples 1.16x",
+      "1": "77.02%",
+      "2": NaN,
+      "3": "3,890",
+      "4": "3,232",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Isuzu (E.A.) Ltd Others FV: Recent price",
+      "1": "17.80%",
+      "2": NaN,
+      "3": "2,470",
+      "4": "3,027",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Platcorp Holdings Limited Fin. Services FV: Recent price",
+      "1": "25.00%",
+      "2": NaN,
+      "3": "-",
+      "4": "2,651",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "GenAfrica Investment Management Ltd Fin. Services Ongoing Transaction",
+      "1": "73.40%",
+      "2": NaN,
+      "3": "2,324",
+      "4": "1,404",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Nabo Capital Limited Fin. Services NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "494",
+      "4": "765",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "NAS Servair Others FV: Multiples 3.90x",
+      "1": "15.00%",
+      "2": NaN,
+      "3": "856",
+      "4": "765",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Longhorn Kenya Limited Others Market price",
+      "1": "60.20%",
+      "2": NaN,
+      "3": "763",
+      "4": "738",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Centum Business Solutions Limited Others NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "399",
+      "4": "219",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Zohari Leasing Limited Fin. Services NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "213",
+      "4": "208",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "King Beverage Limited FMCG Cost",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "471",
+      "4": "310",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Others Cost",
+      "1": "",
+      "2": NaN,
+      "3": "201",
+      "4": "363",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Total",
+      "1": "",
+      "2": NaN,
+      "3": "25,856",
+      "4": "25,787",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Development Portfolio None None None",
+      "1": "None",
+      "2": NaN,
+      "3": "None",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Amu Power Ltd Energy Cost",
+      "1": "51.00%",
+      "2": NaN,
+      "3": "2,103",
+      "4": "2,144",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Akiira Geothermal Limited Energy Cost",
+      "1": "37.50%",
+      "2": NaN,
+      "3": "1,491",
+      "4": "1,347",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "ACE Holdings Limited Education Cost",
+      "1": "40.00%",
+      "2": NaN,
+      "3": "556",
+      "4": "295",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Greenblade Growers Limited Agribusiness NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "185",
+      "4": "269",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Others - Healthcare, Agribusiness Dev. Cost Cost",
+      "1": "-",
+      "2": NaN,
+      "3": "269",
+      "4": "178",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": NaN,
+      "3": "",
+      "4": "",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Financial Performance Segmented Portfolio Valuation (2 of 2) Carrying Value (KES Mn) Valuation Portfolio Companies Stake Sector 31-Mar-18 31-Mar-17 Method Real Estate Portfolio Vipingo Development Limited 100.00% Real Estate 8,659 5,718 NAV Two Rivers Development Limited 58.30% Real Estate 12,389 14,490 NAV Uhuru Heights 100% Real Estate 856 835 NAV Centum Development Limited 100.00% Real Estate 7,464 4,178 NAV Athena Properties Limited 100.00% Real Estate 150 25 NAV Broll 30.00% Real Estate 37 - NAV Two Rivers Luxury Apartments 100.00% Real Estate 37 - NAV Total 29,591 25,247 Marketable Securities and WC Marketable Centum Exotics Limited 100.00% 3,589 3,134 Market price Securities Marketable Centum – QPE 100.00% 98 100 Market price Securities Receivables 100.00% 1,271 622 Cost Cash 100.00% 1,078 2,447 Cost Total 6,036 6,303 66,087 61,570 45",
+      "1": "Financial Performance Segmented Portfolio Valuation (2 of 2) Carrying Value (KES Mn) Valuation Portfolio Companies Stake Sector 31-Mar-18 31-Mar-17 Method Real Estate Portfolio Vipingo Development Limited 100.00% Real Estate 8,659 5,718 NAV Two Rivers Development Limited 58.30% Real Estate 12,389 14,490 NAV Uhuru Heights 100% Real Estate 856 835 NAV Centum Development Limited 100.00% Real Estate 7,464 4,178 NAV Athena Properties Limited 100.00% Real Estate 150 25 NAV Broll 30.00% Real Estate 37 - NAV Two Rivers Luxury Apartments 100.00% Real Estate 37 - NAV Total 29,591 25,247 Marketable Securities and WC Marketable Centum Exotics Limited 100.00% 3,589 3,134 Market price Securities Marketable Centum – QPE 100.00% 98 100 Market price Securities Receivables 100.00% 1,271 622 Cost Cash 100.00% 1,078 2,447 Cost Total 6,036 6,303 66,087 61,570 45",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Portfolio Companies Sector Valuation Method",
+      "1": "Stake",
+      "2": NaN,
+      "3": "Carrying Value (KES Mn)",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "None None None",
+      "1": "None",
+      "2": NaN,
+      "3": "31-Mar-18",
+      "4": "31-Mar-17",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Real Estate Portfolio None None",
+      "1": "None",
+      "2": NaN,
+      "3": "None",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Vipingo Development Limited Real Estate NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "8,659",
+      "4": "5,718",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Two Rivers Development Limited Real Estate NAV",
+      "1": "58.30%",
+      "2": NaN,
+      "3": "12,389",
+      "4": "14,490",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Uhuru Heights Real Estate NAV",
+      "1": "100%",
+      "2": NaN,
+      "3": "856",
+      "4": "835",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Centum Development Limited Real Estate NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "7,464",
+      "4": "4,178",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Athena Properties Limited Real Estate NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "150",
+      "4": "25",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Broll Real Estate NAV",
+      "1": "30.00%",
+      "2": NaN,
+      "3": "37",
+      "4": "-",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Two Rivers Luxury Apartments Real Estate NAV",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "37",
+      "4": "-",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Marketable Securities and WC None None",
+      "1": "None",
+      "2": NaN,
+      "3": "None",
+      "4": "None",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Centum Exotics Limited Marketable Securities Market price",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "3,589",
+      "4": "3,134",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Centum – QPE Marketable Securities Market price",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "98",
+      "4": "100",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Receivables Cost",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "1,271",
+      "4": "622",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Cash Cost",
+      "1": "100.00%",
+      "2": NaN,
+      "3": "1,078",
+      "4": "2,447",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "",
+      "1": "",
+      "2": NaN,
+      "3": "66,087",
+      "4": "61,570",
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Company Liquidity Kes 4.6Bn Listed securities Kes Held through 100% owned 3.4bn Cash and marketable subsidiary securities representing 6.96% of total company assets Listed securities Kes Held on Centum 98m balance sheet Cash and Kes equivalents 1.08Bn held by Centum 47",
+      "1": "Company Liquidity Kes 4.6Bn Listed securities Kes Held through 100% owned 3.4bn Cash and marketable subsidiary securities representing 6.96% of total company assets Listed securities Kes Held on Centum 98m balance sheet Cash and Kes equivalents 1.08Bn held by Centum 47",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Company Gearing KES million FY 2014 FY 2015 FY 2016 FY 2017 FY 18 Operating Inflows 4,146 8,114 7,904 5,259 6,289 Operating Outflows (463) (519) (1,033) (922) (695) Internally Generated Funds 3,683 7,595 6,871 4,336 5,594 Finance Costs 660 814 1,511 1,754 1,646 Debt Service Coverage 5.6x 9.3x 4.5x 2.5x 3.4x 16.0 35% 14.7 14.9 14.0 30% 12.0 25% 10.5 n 10.0 B 20% s e 7.6 K 8.0 15% 6.0 5.5 10% 4.0 5% 2.0 0.0 0% FY14 FY15 FY16 FY17 FY18 Cash 0.2 3.7 3.9 2.4 1.07 Net Debt 5.3 3.9 6.6 12.2 13.8 LT Debt to Equity 18% 24% 27% 31% 23% • Net Debt to Equity of 23% as at 31st March 2018, well below bond covenant requirement of 50% • Debt Service Coverage required of 1.5x on bond covenant with a 3.4x coverage as at 31st March 2018 48",
+      "1": "Company Gearing KES million FY 2014 FY 2015 FY 2016 FY 2017 FY 18 Operating Inflows 4,146 8,114 7,904 5,259 6,289 Operating Outflows (463) (519) (1,033) (922) (695) Internally Generated Funds 3,683 7,595 6,871 4,336 5,594 Finance Costs 660 814 1,511 1,754 1,646 Debt Service Coverage 5.6x 9.3x 4.5x 2.5x 3.4x 16.0 35% 14.7 14.9 14.0 30% 12.0 25% 10.5 n 10.0 B 20% s e 7.6 K 8.0 15% 6.0 5.5 10% 4.0 5% 2.0 0.0 0% FY14 FY15 FY16 FY17 FY18 Cash 0.2 3.7 3.9 2.4 1.07 Net Debt 5.3 3.9 6.6 12.2 13.8 LT Debt to Equity 18% 24% 27% 31% 23% • Net Debt to Equity of 23% as at 31st March 2018, well below bond covenant requirement of 50% • Debt Service Coverage required of 1.5x on bond covenant with a 3.4x coverage as at 31st March 2018 48",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "KES million",
+      "1": "FY 2014",
+      "2": "FY 2015",
+      "3": "FY 2016",
+      "4": "FY 2017",
+      "5": "FY 18",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Operating Inflows",
+      "1": "4,146",
+      "2": "8,114",
+      "3": "7,904",
+      "4": "5,259",
+      "5": "6,289",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Operating Outflows",
+      "1": "(463)",
+      "2": "(519)",
+      "3": "(1,033)",
+      "4": "(922)",
+      "5": "(695)",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Internally Generated Funds",
+      "1": "3,683",
+      "2": "7,595",
+      "3": "6,871",
+      "4": "4,336",
+      "5": "5,594",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Finance Costs",
+      "1": "660",
+      "2": "814",
+      "3": "1,511",
+      "4": "1,754",
+      "5": "1,646",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Debt Service Coverage",
+      "1": "5.6x",
+      "2": "9.3x",
+      "3": "4.5x",
+      "4": "2.5x",
+      "5": "3.4x",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "None",
+      "1": "FY14",
+      "2": "FY15",
+      "3": "FY16",
+      "4": "FY17",
+      "5": "FY18",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Cash",
+      "1": "0.2",
+      "2": "3.7",
+      "3": "3.9",
+      "4": "2.4",
+      "5": "1.07",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Net Debt",
+      "1": "5.3",
+      "2": "3.9",
+      "3": "6.6",
+      "4": "12.2",
+      "5": "13.8",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "LT Debt to Equity",
+      "1": "18%",
+      "2": "24%",
+      "3": "27%",
+      "4": "31%",
+      "5": "23%",
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Company Gearing & Debt Capacity We redeemed the Kes 4.2 Bn 5-year corporate bond in Sep 2017, effectively deleveraging our balance sheet Accrued Accrued Additions Paid Paid FX 31-Mar-18 Debt KES Mn 31-Mar-17 Interest Expenses Movements Bond I - 4,331 - - - (4,331) - Bond II 6,294 6,225 228 69 - (228) - Term Loan 5,087 3,118 109 (65) 5,139 (3,083) (132) Total 13,674 337 4 5,139 (7,642) (132) 11,381 LT Debt Ratio 22% 17% GCR accorded Centum a credit rating of A (long term) and A1 (short term) with a positive outlook 49",
+      "1": "Company Gearing & Debt Capacity We redeemed the Kes 4.2 Bn 5-year corporate bond in Sep 2017, effectively deleveraging our balance sheet Accrued Accrued Additions Paid Paid FX 31-Mar-18 Debt KES Mn 31-Mar-17 Interest Expenses Movements Bond I - 4,331 - - - (4,331) - Bond II 6,294 6,225 228 69 - (228) - Term Loan 5,087 3,118 109 (65) 5,139 (3,083) (132) Total 13,674 337 4 5,139 (7,642) (132) 11,381 LT Debt Ratio 22% 17% GCR accorded Centum a credit rating of A (long term) and A1 (short term) with a positive outlook 49",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Debt KES Mn",
+      "1": "31-Mar-17",
+      "2": "Accrued Interest",
+      "3": "Accrued Expenses",
+      "4": "Additions",
+      "5": "Paid",
+      "6": "Paid FX Movements",
+      "7": "31-Mar-18"
+    },
+    {
+      "item": "Bond I",
+      "1": "4,331",
+      "2": "-",
+      "3": "-",
+      "4": "-",
+      "5": "(4,331)",
+      "6": "-",
+      "7": "-"
+    },
+    {
+      "item": "Bond II",
+      "1": "6,225",
+      "2": "228",
+      "3": "69",
+      "4": "-",
+      "5": "(228)",
+      "6": "-",
+      "7": "6,294"
+    },
+    {
+      "item": "Term Loan",
+      "1": "3,118",
+      "2": "109",
+      "3": "(65)",
+      "4": "5,139",
+      "5": "(3,083)",
+      "6": "(132)",
+      "7": "5,087"
+    },
+    {
+      "item": "Debt Profile Borrowings by Nature of Debt FY18 (KES Bn) Debt Maturity Profile (KES Mn) 10,000 8,587 13.1% 8,000 10.2% 42.4% Total Debt: n M 6,000 KES 14.8Bn S E K 4,000 34.3% 2,521 1,948 2,000 1,513 Overdraft Facilities Revolving Credit Facilities 0 FY19 FY20 FY21 FY22 Bank Term Loans Corporate Bond 50",
+      "1": "Debt Profile Borrowings by Nature of Debt FY18 (KES Bn) Debt Maturity Profile (KES Mn) 10,000 8,587 13.1% 8,000 10.2% 42.4% Total Debt: n M 6,000 KES 14.8Bn S E K 4,000 34.3% 2,521 1,948 2,000 1,513 Overdraft Facilities Revolving Credit Facilities 0 FY19 FY20 FY21 FY22 Bank Term Loans Corporate Bond 50",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Consolidated Financial Performance Group Turnover Analysis KES.'millions Mar-18 Mar-17 Change Beverage sales 8,565 8,186 5% Publishing sales 1,287 1,248 3% Agribusiness sales 59 16 274% Interest, fees and commissions income 2,677 3,458 -23% Asset management 710 617 15% Utility sales 261 60 337% Management fees 143 29 390% Total revenue 13,702 13,614 1% • Beverage sales up due to increased volumes contribution, new products and improved product mix despite the challenging environment. • The full effect of the interest rate caps is reflected in the decline in revenue from Sidian Bank. • The utility and the agribusiness become fully operational during the year. 51",
+      "1": "Consolidated Financial Performance Group Turnover Analysis KES.'millions Mar-18 Mar-17 Change Beverage sales 8,565 8,186 5% Publishing sales 1,287 1,248 3% Agribusiness sales 59 16 274% Interest, fees and commissions income 2,677 3,458 -23% Asset management 710 617 15% Utility sales 261 60 337% Management fees 143 29 390% Total revenue 13,702 13,614 1% • Beverage sales up due to increased volumes contribution, new products and improved product mix despite the challenging environment. • The full effect of the interest rate caps is reflected in the decline in revenue from Sidian Bank. • The utility and the agribusiness become fully operational during the year. 51",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "KES.'millions Change",
+      "1": "Mar-18",
+      "2": "Mar-17",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Total revenue",
+      "1": "13,702",
+      "2": "13,614",
+      "3": "1%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Consolidated Financial Performance Group Investment Income KES.'millions Mar-18 Mar-17 Change Unrealised gains on revaluation of investment property 4,182 6,452 -35% Realised gains on disposal 786 1,047 -25% Dividends 271 306 -12% Interest income 101 216 -53% Other income 229 220 4% Total revenue 5,569 8,242 -32% • Realised gains reflect the disposal of Platcorp Holdings Limited. The gains from the GenAfrica transaction to be reflected in the new financial year. • Low valuation uplifts on investment property reflect the general performance of the real estate market which appreciated at a lower rate in 2017 on account of the operating environment. 52",
+      "1": "Consolidated Financial Performance Group Investment Income KES.'millions Mar-18 Mar-17 Change Unrealised gains on revaluation of investment property 4,182 6,452 -35% Realised gains on disposal 786 1,047 -25% Dividends 271 306 -12% Interest income 101 216 -53% Other income 229 220 4% Total revenue 5,569 8,242 -32% • Realised gains reflect the disposal of Platcorp Holdings Limited. The gains from the GenAfrica transaction to be reflected in the new financial year. • Low valuation uplifts on investment property reflect the general performance of the real estate market which appreciated at a lower rate in 2017 on account of the operating environment. 52",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Group Financial Performance Consolidated Statement of Financial Position Assets Liabilities and Shareholder Funds KES Mn FY18 FY17 KES Mn FY18 FY17 Customer deposits and banking Property, plant and equipment 9,665 10,072 liabilities 16,042 13,369 Investment properties 32,719 27,311 Borrowings 21,254 17,416 Associates and Joint ventures 12,544 13,520 Dividends payables 154 83 Unquoted investments 4,363 4,226 Other liabilities 7,941 8,044 Total Liabilities 45,391 38,911 Quoted investments 1,739 1,223 Bonds and Government securities 4,056 3,021 Shareholder funds 50,897 49,474 Loans and advances 11,772 12,633 Equity and liabilities 96,288 88,386 Other assets 13,610 10,739 Cash and cash equivalent 5,820 5,639 Total Assets 96,288 88,386 56",
+      "1": "Group Financial Performance Consolidated Statement of Financial Position Assets Liabilities and Shareholder Funds KES Mn FY18 FY17 KES Mn FY18 FY17 Customer deposits and banking Property, plant and equipment 9,665 10,072 liabilities 16,042 13,369 Investment properties 32,719 27,311 Borrowings 21,254 17,416 Associates and Joint ventures 12,544 13,520 Dividends payables 154 83 Unquoted investments 4,363 4,226 Other liabilities 7,941 8,044 Total Liabilities 45,391 38,911 Quoted investments 1,739 1,223 Bonds and Government securities 4,056 3,021 Shareholder funds 50,897 49,474 Loans and advances 11,772 12,633 Equity and liabilities 96,288 88,386 Other assets 13,610 10,739 Cash and cash equivalent 5,820 5,639 Total Assets 96,288 88,386 56",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Equity and liabilities",
+      "1": "96,288",
+      "2": "88,386",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Outlook",
+      "1": "Outlook",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "57",
+      "1": "57",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Recommended Dividend: Stable Pay-out Despite Headwinds Dividends Per Share (KES) FY16 – FY18 1.20 1.20 1.00 FY16 FY17 FY18 ▪ Board recommended the payment of a dividend of KES 1.20 per share for financial year ended March 2018 • Cumulative payout of KES 798.5 Mn recommended for FY18, similar to amount paid out in FY17 58",
+      "1": "Recommended Dividend: Stable Pay-out Despite Headwinds Dividends Per Share (KES) FY16 – FY18 1.20 1.20 1.00 FY16 FY17 FY18 ▪ Board recommended the payment of a dividend of KES 1.20 per share for financial year ended March 2018 • Cumulative payout of KES 798.5 Mn recommended for FY18, similar to amount paid out in FY17 58",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Dividends Per Share (KES) FY16 – FY18",
+      "1": "Dividends Per Share (KES) FY16 – FY18",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Near Term Priorities Narrow the Gap between NAV & Share Price while continuing to grow NAV STEPS: APPROACH 1 ▪ Robust exit pipeline of mature assets across the Portfolio to optimize Optimise Gross Return Gross Return ▪ Portfolio enhancements across the four business lines 2 ▪ Invest exit proceeds with a focus on more cash generative assets than Asset Redeployment capital appreciation assets 3 ▪ Raising 3rd Party Equity and Debt Capital (Non-recourse to Company) at Leverage 3rd Party the Portfolio/Project level and creating value uplift at Portfolio/Project Capital level 4 ▪ Utilize part of exit proceeds to completely pay down long-term debt as Reduce Debt at Centum it matures Level 5 ▪ Returns from cash generative assets and finance costs savings to be Progressively increase utilized towards higher dividend pay-outs with a 3X target growth Dividend Yield 59",
+      "1": "Near Term Priorities Narrow the Gap between NAV & Share Price while continuing to grow NAV STEPS: APPROACH 1 ▪ Robust exit pipeline of mature assets across the Portfolio to optimize Optimise Gross Return Gross Return ▪ Portfolio enhancements across the four business lines 2 ▪ Invest exit proceeds with a focus on more cash generative assets than Asset Redeployment capital appreciation assets 3 ▪ Raising 3rd Party Equity and Debt Capital (Non-recourse to Company) at Leverage 3rd Party the Portfolio/Project level and creating value uplift at Portfolio/Project Capital level 4 ▪ Utilize part of exit proceeds to completely pay down long-term debt as Reduce Debt at Centum it matures Level 5 ▪ Returns from cash generative assets and finance costs savings to be Progressively increase utilized towards higher dividend pay-outs with a 3X target growth Dividend Yield 59",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Thank You",
+      "1": "Thank You",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    },
+    {
+      "item": "60",
+      "1": "60",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "7": NaN
+    }
+  ]
+}

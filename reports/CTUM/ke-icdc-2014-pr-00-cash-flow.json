@@ -1,0 +1,100 @@
+{
+  "title": "Cash flow Statement — Kes M 2014 2013",
+  "units": "18",
+  "pages": [
+    58
+  ],
+  "extracted_at": "2025-11-29T04:37:56.454774",
+  "data": [
+    {
+      "item": "Cash flow Statement Kes M 2014 2013 Internally generated funds: 3,550 2,167 Investing activities: Equity & Investment Property (4,776) (3,753) Equipment & intangibles (18) (27) (3,780) (4,794) Financing Activities: Net Proceeds from borrowings 3,150 - Dividends paid to shareholders (2) (45) Interest paid (344) (660) 2,804 (705) Net Increase/(Decrease) 1,191 (1,949) Opening cash 322 1,502 Closing cash & cash equivalents (Net of Overdraft) 1,502 (447) *Dividend paid relates to unclaimed dividends paid in the year and dividends paid to non-controlling interest in subsidiaries 58",
+      "1": "Cash flow Statement Kes M 2014 2013 Internally generated funds: 3,550 2,167 Investing activities: Equity & Investment Property (4,776) (3,753) Equipment & intangibles (18) (27) (3,780) (4,794) Financing Activities: Net Proceeds from borrowings 3,150 - Dividends paid to shareholders (2) (45) Interest paid (344) (660) 2,804 (705) Net Increase/(Decrease) 1,191 (1,949) Opening cash 322 1,502 Closing cash & cash equivalents (Net of Overdraft) 1,502 (447) *Dividend paid relates to unclaimed dividends paid in the year and dividends paid to non-controlling interest in subsidiaries 58",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Kes M 2014 2013",
+      "1": "2014",
+      "0": "Kes M",
+      "2": "2013"
+    },
+    {
+      "item": "Internally generated funds: 3,550 2,167 None None",
+      "1": "None",
+      "0": "Internally generated funds: 3,550 2,167",
+      "2": "None"
+    },
+    {
+      "item": "Investing activities: None None",
+      "1": "None",
+      "0": "Investing activities:",
+      "2": "None"
+    },
+    {
+      "item": "Equity & Investment Property (4,776) (3,753) None None",
+      "1": "None",
+      "0": "Equity & Investment Property (4,776) (3,753)",
+      "2": "None"
+    },
+    {
+      "item": "Equipment & intangibles (18) (27) None None",
+      "1": "None",
+      "0": "Equipment & intangibles (18) (27)",
+      "2": "None"
+    },
+    {
+      "item": "(3,780) (4,794) None None",
+      "1": "None",
+      "0": "(3,780) (4,794)",
+      "2": "None"
+    },
+    {
+      "item": "Financing Activities: None None",
+      "1": "None",
+      "0": "Financing Activities:",
+      "2": "None"
+    },
+    {
+      "item": "Net Proceeds from borrowings 3,150 - None None",
+      "1": "None",
+      "0": "Net Proceeds from borrowings 3,150 -",
+      "2": "None"
+    },
+    {
+      "item": "Dividends paid to shareholders (2) (45) None None",
+      "1": "None",
+      "0": "Dividends paid to shareholders (2) (45)",
+      "2": "None"
+    },
+    {
+      "item": "Interest paid (344) (660) None None",
+      "1": "None",
+      "0": "Interest paid (344) (660)",
+      "2": "None"
+    },
+    {
+      "item": "2,804 (705) None None",
+      "1": "None",
+      "0": "2,804 (705)",
+      "2": "None"
+    },
+    {
+      "item": "Net Increase/(Decrease) 1,191 (1,949) None None",
+      "1": "None",
+      "0": "Net Increase/(Decrease) 1,191 (1,949)",
+      "2": "None"
+    },
+    {
+      "item": "Opening cash 322 1,502 None None",
+      "1": "None",
+      "0": "Opening cash 322 1,502",
+      "2": "None"
+    },
+    {
+      "item": "Closing cash & cash equivalents (Net of Overdraft) (447) 1,502",
+      "1": "(447)",
+      "0": "Closing cash & cash equivalents (Net of Overdraft)",
+      "2": "1,502"
+    }
+  ]
+}
