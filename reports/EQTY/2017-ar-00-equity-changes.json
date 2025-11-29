@@ -1,0 +1,78 @@
+{
+  "title": "income, changes in equity and cash flows for the year then ended, together with the separate statement of financial",
+  "units": "isas",
+  "pages": [
+    89,
+    90,
+    91,
+    92,
+    93,
+    100
+  ],
+  "extracted_at": "2025-11-29T07:04:12.960306",
+  "data": [
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Key audit matter How our audit addressed the key audit matter",
+      "0": "Key audit matter",
+      "1": "How our audit addressed the key audit matter",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Credit risk and provision for impairment loss on loans and advances to customers Loans and advances to customers account for a significant portion of the Group’s total assets at 31 December 2017. The carrying value of these balances may be materially misstated if the impairment provision is not appropriately estimated. We assessed and tested the design and operating effectiveness of the controls over the identification of loans and advances that were impaired, including the system configuration to accurately compute the number of days past due on loans.",
+      "0": "Credit risk and provision for impairment loss on loans and advances to customers Loans and advances to customers account for a significant portion of the Group’s total assets at 31 December 2017. The carrying value of these balances may be materially misstated if the impairment provision is not appropriately estimated.",
+      "1": "We assessed and tested the design and operating effectiveness of the controls over the identification of loans and advances that were impaired, including the system configuration to accurately compute the number of days past due on loans.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Credit risk and provision for impairment loss on loans and advances to customers (continued) As explained in notes 2 (i) (iv) and 4 (b) of the financial statements, the directors make complex judgements over both the timing of recognition, and the estimation of the magnitude of impairment of loans and advances to customers. For non-performing loans and advances, the impairment provision is calculated as the difference between carrying amount and the present value of estimated future cashflows discounted at the effective interest rate of the loan. Where the facility is secured against collateral, the key judgment applied is the realisation period. Where no collateral is held, the key input is the collection trends for loans and advances with similar credit risk characteristics. Where no objective evidence of impairment exists for an individually assessed loan or advance, the loan or advance is classified as performing and collectively assessed for impairment using a separate impairment model whose key inputs are the historical loss rate and the estimated emergence period for loans and advances with similar credit risk characteristics. We focussed our audit on the following areas: - the completeness and accuracy of the classification of loans and advances; and - the main assumptions applied in the impairment calculations. We examined a sample of loans and advances which had not been identified by management as potentially impaired and formed our own judgment as to whether that was appropriate including using external evidence in respect of the relevant counterparties. We tested a sample of non-performing loans and advances to ascertain whether the loss event (that is the point at which impairment is recognised) had been identified in a timely manner including, where relevant, how forbearance had been considered. Where the impaired loan or advance was secured against collateral, we tested whether the collateral included in the impairment computation was charged to the Group and challenged the assumption on the recoverable amount being discounted. Where no collateral was held, we assessed the reasonableness of the collection trends for loans and advances with similar credit risk characteristics. For performing loans, we validated the historical data used in computing the historical loss rate and refreshed the computation inputs to take into account current credit information. We also assessed the reasonableness of the estimated emergence period based on our knowledge of the products and the Group’s monitoring activities. For the impairment computation models, our audit procedures included testing the operation of those models including, in some cases, performing an independent recomputation and comparing results.",
+      "0": "Credit risk and provision for impairment loss on loans and advances to customers (continued) As explained in notes 2 (i) (iv) and 4 (b) of the financial statements, the directors make complex judgements over both the timing of recognition, and the estimation of the magnitude of impairment of loans and advances to customers. For non-performing loans and advances, the impairment provision is calculated as the difference between carrying amount and the present value of estimated future cashflows discounted at the effective interest rate of the loan. Where the facility is secured against collateral, the key judgment applied is the realisation period. Where no collateral is held, the key input is the collection trends for loans and advances with similar credit risk characteristics. Where no objective evidence of impairment exists for an individually assessed loan or advance, the loan or advance is classified as performing and collectively assessed for impairment using a separate impairment model whose key inputs are the historical loss rate and the estimated emergence period for loans and advances with similar credit risk characteristics. We focussed our audit on the following areas: - the completeness and accuracy of the classification of loans and advances; and - the main assumptions applied in the impairment calculations.",
+      "1": "We examined a sample of loans and advances which had not been identified by management as potentially impaired and formed our own judgment as to whether that was appropriate including using external evidence in respect of the relevant counterparties. We tested a sample of non-performing loans and advances to ascertain whether the loss event (that is the point at which impairment is recognised) had been identified in a timely manner including, where relevant, how forbearance had been considered. Where the impaired loan or advance was secured against collateral, we tested whether the collateral included in the impairment computation was charged to the Group and challenged the assumption on the recoverable amount being discounted. Where no collateral was held, we assessed the reasonableness of the collection trends for loans and advances with similar credit risk characteristics. For performing loans, we validated the historical data used in computing the historical loss rate and refreshed the computation inputs to take into account current credit information. We also assessed the reasonableness of the estimated emergence period based on our knowledge of the products and the Group’s monitoring activities. For the impairment computation models, our audit procedures included testing the operation of those models including, in some cases, performing an independent recomputation and comparing results.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Revenue recognition and information technology (IT) systems and controls over financial reporting Revenue recognition is an inherently complex area due to the wide range of products offered by the Group and the way it is captured by the various IT systems in the Group. This being an initial audit engagement required additional consideration of aspects relating to gaining an understanding of the revenue cycle, related IT environment and the Group’s revenue recognition principles. Our audit of revenue focused on the following: • the relevant information systems and applications. These included testing logical access and security including segregation of duties, controls over changes to programs and system developments, and automated application controls; and • the consistency of the application of the Group’s revenue recognition principles and assessment of compliance with IFRS. We understood and tested the design and operating effectiveness of the controls over the continued integrity of the IT systems that are relevant to the revenue cycle and financial accounting and reporting, including compensating controls where required. We tested the Information Technology General Controls (ITGCs) and application controls for the Group’s core banking systems, including those relating to computation of interest income and fees and commission to ensure that applications are working accurately and as designed. In addition to the work done on the systems, we performed appropriate analytical reviews and other tests of details on interest income and fees and commissions, as well as testing manual journals posted to the revenue lines. We assessed the Group’s application of the effective interest rate principles in the recognition of revenue. We also reviewed the disclosures in the financial statements related to revenue.",
+      "0": "Revenue recognition and information technology (IT) systems and controls over financial reporting Revenue recognition is an inherently complex area due to the wide range of products offered by the Group and the way it is captured by the various IT systems in the Group. This being an initial audit engagement required additional consideration of aspects relating to gaining an understanding of the revenue cycle, related IT environment and the Group’s revenue recognition principles. Our audit of revenue focused on the following: • the relevant information systems and applications. These included testing logical access and security including segregation of duties, controls over changes to programs and system developments, and automated application controls; and • the consistency of the application of the Group’s revenue recognition principles and assessment of compliance with IFRS.",
+      "1": "We understood and tested the design and operating effectiveness of the controls over the continued integrity of the IT systems that are relevant to the revenue cycle and financial accounting and reporting, including compensating controls where required. We tested the Information Technology General Controls (ITGCs) and application controls for the Group’s core banking systems, including those relating to computation of interest income and fees and commission to ensure that applications are working accurately and as designed. In addition to the work done on the systems, we performed appropriate analytical reviews and other tests of details on interest income and fees and commissions, as well as testing manual journals posted to the revenue lines. We assessed the Group’s application of the effective interest rate principles in the recognition of revenue. We also reviewed the disclosures in the financial statements related to revenue.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Valuation of loan notes measured at fair value As described in Note 3 (b) of the financial statements, the Group holds loan notes which are measured at fair value. To determine the fair value of the instrument, the directors use various sources of external and internal data. In addition, complex modelling techniques are applied in the valuation process. The selection of an appropriate valuation method and key reliable inputs is a matter of significant judgment and estimation. In particular, various assumptions applied in the valuation process yielded a range of values and the directors applied their judgment in selecting the most appropriate valuation. Due to the magnitude of the financial asset measured at fair value, changes in the underlying assumptions and the inputs in the valuation models could result in material variations in the carrying value of the asset at year end. We obtained an understanding of the salient features of the loan measured at fair value and assessed the reasonableness of the accounting approach adopted for compliance with IFRS 13 – Fair value measurement. In conjunction with our valuation experts, we assessed the appropriateness of the modelling techniques used by the directors. Further, we independently sourced and verified the key valuation inputs, and assessed the key assumptions used in estimating the instrument’s valuation range. We also tested the mathematical accuracy of the valuation computation. We challenged the directors as to appropriateness of the fair value selected from the range of values determined through different assumptions. We specifically considered the disclosure of the key valuation assumptions in terms of International Financial Reporting Standards.",
+      "0": "Valuation of loan notes measured at fair value As described in Note 3 (b) of the financial statements, the Group holds loan notes which are measured at fair value. To determine the fair value of the instrument, the directors use various sources of external and internal data. In addition, complex modelling techniques are applied in the valuation process. The selection of an appropriate valuation method and key reliable inputs is a matter of significant judgment and estimation. In particular, various assumptions applied in the valuation process yielded a range of values and the directors applied their judgment in selecting the most appropriate valuation. Due to the magnitude of the financial asset measured at fair value, changes in the underlying assumptions and the inputs in the valuation models could result in material variations in the carrying value of the asset at year end.",
+      "1": "We obtained an understanding of the salient features of the loan measured at fair value and assessed the reasonableness of the accounting approach adopted for compliance with IFRS 13 – Fair value measurement. In conjunction with our valuation experts, we assessed the appropriateness of the modelling techniques used by the directors. Further, we independently sourced and verified the key valuation inputs, and assessed the key assumptions used in estimating the instrument’s valuation range. We also tested the mathematical accuracy of the valuation computation. We challenged the directors as to appropriateness of the fair value selected from the range of values determined through different assumptions. We specifically considered the disclosure of the key valuation assumptions in terms of International Financial Reporting Standards.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,887",
+      "0": NaN,
+      "1": "16,063",
+      "2": "52,937",
+      "3": "70,887"
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "-",
+      "2": "8,123",
+      "3": "8,123"
+    }
+  ]
+}
