@@ -1,0 +1,223 @@
+{
+  "title": "KCB GROUP PLC CONSOLIDATED STATEMENT OF PROFIT OR LOSS — FOR THE YEAR ENDED 31 DECEMBER 2018",
+  "units": "808",
+  "pages": [
+    92,
+    93,
+    94,
+    95,
+    96,
+    110,
+    112,
+    118,
+    119,
+    120,
+    152
+  ],
+  "extracted_at": "2025-11-29T09:54:18.677926",
+  "data": [
+    {
+      "item": "2017",
+      "2": "2018",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Note KShs.’million",
+      "2": "KShs.’million",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None None None",
+      "2": "66,280",
+      "1": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "999444",
+      "2": NaN,
+      "1": "999444",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None 2017 None",
+      "2": NaN,
+      "1": NaN,
+      "3": "2018",
+      "0": NaN
+    },
+    {
+      "item": "None Note KShs.’million None",
+      "2": NaN,
+      "1": NaN,
+      "3": "KShs.’million",
+      "0": NaN
+    },
+    {
+      "item": "None None None None None",
+      "2": NaN,
+      "1": NaN,
+      "3": "",
+      "0": NaN
+    },
+    {
+      "item": "999666",
+      "2": NaN,
+      "1": "999666",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "111111000",
+      "2": NaN,
+      "1": "111111000",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "111111222",
+      "2": NaN,
+      "1": "111111222",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "111111888",
+      "2": NaN,
+      "1": "111111888",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Category (as defined by IAS 39) None Class (as determined by the Group) None Subclasses",
+      "2": "Class (as determined by the Group)",
+      "1": NaN,
+      "3": "None",
+      "0": "Category (as defined by IAS 39)"
+    },
+    {
+      "item": "None Financial assets at fair value through profit or loss Loans and receivables Financial assets held for trading Debt Securities None",
+      "2": "Financial assets held for trading",
+      "1": NaN,
+      "3": "Debt Securities",
+      "0": "None"
+    },
+    {
+      "item": "None None Loans and advances to banks None",
+      "2": "Loans and advances to banks",
+      "1": NaN,
+      "3": "",
+      "0": "None"
+    },
+    {
+      "item": "None Loans and receivables Loans and advances to banks None None",
+      "2": "Loans and advances to banks",
+      "1": NaN,
+      "3": "None",
+      "0": "None"
+    },
+    {
+      "item": "None None Loans and advances to customers Loans to individuals (retail) None",
+      "2": "Loans and advances to customers",
+      "1": NaN,
+      "3": "Loans to individuals (retail)",
+      "0": "None"
+    },
+    {
+      "item": "None None None Loans to corporate entities None",
+      "2": "None",
+      "1": NaN,
+      "3": "Loans to corporate entities",
+      "0": "None"
+    },
+    {
+      "item": "None None Investment securities – debt instruments None",
+      "2": "Investment securities – debt instruments",
+      "1": NaN,
+      "3": "",
+      "0": "None"
+    },
+    {
+      "item": "None Held to maturity investments Investment securities – debt securities None",
+      "2": "Investment securities – debt securities",
+      "1": "Held to maturity investments",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None Available for sale financial assets Investment securities – debt securities None",
+      "2": "Investment securities – debt securities",
+      "1": "Available for sale financial assets",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None None Investment securities – equity securities None",
+      "2": "Investment securities – equity securities",
+      "1": "None",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None Deposits from banks None None",
+      "2": "Deposits from banks",
+      "1": "",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None Customers deposits Borrowings Retail customers Large corporate customers SMEs None",
+      "2": "Customers deposits Borrowings",
+      "1": "",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None Loan commitments None None None",
+      "2": "None",
+      "1": "Loan commitments",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "None Guarantees, acceptances and other financial facilities None None",
+      "2": "None",
+      "1": "Guarantees, acceptances and other financial facilities",
+      "3": NaN,
+      "0": "None"
+    },
+    {
+      "item": "111222000",
+      "2": NaN,
+      "1": "111222000",
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kenya Tanzania South Sudan Uganda Rwanda Burundi Group Elimination Total",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "KShs. million KShs. million KShs. million KShs. million KShs. million KShs. million KShs. million KShs. million",
+      "2": NaN,
+      "1": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "111555222",
+      "2": NaN,
+      "1": "111555222",
+      "3": NaN,
+      "0": NaN
+    }
+  ]
+}

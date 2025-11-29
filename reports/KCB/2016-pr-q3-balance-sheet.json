@@ -1,0 +1,343 @@
+{
+  "title": "-79% Balance Sheet Impact in South Sudan",
+  "units": "net",
+  "pages": [
+    9,
+    12,
+    16,
+    17
+  ],
+  "extracted_at": "2025-11-29T09:53:11.685582",
+  "data": [
+    {
+      "item": "Assets:SSP 'M 13,457 2,269 1,088 593 172 334 84 253 Cash and Bank Investment in Loans and Other Assets Balances Securities Advances(Net) 3Q 15 3Q 16",
+      "0": "Assets:SSP 'M 13,457 2,269 1,088 593 172 334 84 253 Cash and Bank Investment in Loans and Other Assets Balances Securities Advances(Net) 3Q 15 3Q 16",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Funding: SSP ‘M 12,939 2,768 1,387 700 17 106 77 255 Customer Deposits Due from Banks Other Liabilities Shareholder's Funds 3Q 15 3Q 16",
+      "0": "Funding: SSP ‘M 12,939 2,768 1,387 700 17 106 77 255 Customer Deposits Due from Banks Other Liabilities Shareholder's Funds 3Q 15 3Q 16",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Assets: KES ‘M 77,537 20,052 20,261 5,861 1,620 497 2,879 377 Cash and Bank Investment in Loans and Other Assets Balances Securities Advances(Net) 3Q 15 3Q 16",
+      "0": "Assets: KES ‘M 77,537 20,052 20,261 5,861 1,620 497 2,879 377 Cash and Bank Investment in Loans and Other Assets Balances Securities Advances(Net) 3Q 15 3Q 16",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Funding: KES ‘M 94,596 19,280 8,710 590 157 2,642 1,042 2,066 Customer Deposits Due from Banks Other Liabilities Shareholder's Funds 3Q 15 3Q 16",
+      "0": "Funding: KES ‘M 94,596 19,280 8,710 590 157 2,642 1,042 2,066 Customer Deposits Due from Banks Other Liabilities Shareholder's Funds 3Q 15 3Q 16",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "KShs Millions",
+      "0": NaN,
+      "1": "KCB BANK KENYA",
+      "2": "None",
+      "3": "None",
+      "4": "KCB GROUP",
+      "5": "None",
+      "6": "None"
+    },
+    {
+      "item": "Cash",
+      "0": NaN,
+      "1": "6,535",
+      "2": "6,914",
+      "3": "(5%)",
+      "4": "10,435",
+      "5": "16,269",
+      "6": "(36%)"
+    },
+    {
+      "item": "Balances with Central Bank",
+      "0": NaN,
+      "1": "16,710",
+      "2": "17,908",
+      "3": "(7%)",
+      "4": "16,710",
+      "5": "17,908",
+      "6": "(7%)"
+    },
+    {
+      "item": "Balances with other institutions",
+      "0": NaN,
+      "1": "9,087",
+      "2": "8,286",
+      "3": "10%",
+      "4": "45,605",
+      "5": "97,124",
+      "6": "(53%)"
+    },
+    {
+      "item": "Investments in Government & Other securities",
+      "0": NaN,
+      "1": "89,104",
+      "2": "68,446",
+      "3": "30%",
+      "4": "100,814",
+      "5": "100,059",
+      "6": "1%"
+    },
+    {
+      "item": "Net loans and advances",
+      "0": NaN,
+      "1": "332,283",
+      "2": "309,091",
+      "3": "8%",
+      "4": "364,525",
+      "5": "347,650",
+      "6": "5%"
+    },
+    {
+      "item": "Fixed assets",
+      "0": NaN,
+      "1": "9,032",
+      "2": "7,336",
+      "3": "23%",
+      "4": "12,052",
+      "5": "11,022",
+      "6": "9%"
+    },
+    {
+      "item": "Other assets",
+      "0": NaN,
+      "1": "17,477",
+      "2": "27,794",
+      "3": "(37%)",
+      "4": "19,960",
+      "5": "17,219",
+      "6": "16%"
+    },
+    {
+      "item": "Total Assets",
+      "0": NaN,
+      "1": "480,228",
+      "2": "445,776",
+      "3": "8%",
+      "4": "570,101",
+      "5": "607,252",
+      "6": "(6%)"
+    },
+    {
+      "item": "Customer Deposits",
+      "0": NaN,
+      "1": "372,612",
+      "2": "326,866",
+      "3": "14%",
+      "4": "436,816",
+      "5": "471,055",
+      "6": "(7%)"
+    },
+    {
+      "item": "Balances due to other banks",
+      "0": NaN,
+      "1": "4,936",
+      "2": "15,326",
+      "3": "(68%)",
+      "4": "12,054",
+      "5": "19,145",
+      "6": "(37%)"
+    },
+    {
+      "item": "Other liabilities",
+      "0": NaN,
+      "1": "8,835",
+      "2": "6,979",
+      "3": "27%",
+      "4": "13,297",
+      "5": "12,715",
+      "6": "5%"
+    },
+    {
+      "item": "Long-term debt",
+      "0": NaN,
+      "1": "14,733",
+      "2": "20,798",
+      "3": "(29%)",
+      "4": "15,968",
+      "5": "22,507",
+      "6": "(29%)"
+    },
+    {
+      "item": "Total Liabilities",
+      "0": NaN,
+      "1": "401,115",
+      "2": "369,969",
+      "3": "8%",
+      "4": "478,135",
+      "5": "525,423",
+      "6": "(9%)"
+    },
+    {
+      "item": "Shareholders’ Equity",
+      "0": NaN,
+      "1": "79,113",
+      "2": "75,806",
+      "3": "4%",
+      "4": "91,966",
+      "5": "81,829",
+      "6": "12%"
+    },
+    {
+      "item": "Total Liabilities and Equity",
+      "0": NaN,
+      "1": "480,228",
+      "2": "445,776",
+      "3": "8%",
+      "4": "570,101",
+      "5": "607,252",
+      "6": "(6%)"
+    },
+    {
+      "item": "Interest Income",
+      "0": NaN,
+      "1": "43,359",
+      "2": "34,513",
+      "3": "26%",
+      "4": "48,591",
+      "5": "39,664",
+      "6": "23%"
+    },
+    {
+      "item": "Interest Expense",
+      "0": NaN,
+      "1": "10,442",
+      "2": "9,780",
+      "3": "7%",
+      "4": "12,450",
+      "5": "11,306",
+      "6": "10%"
+    },
+    {
+      "item": "Net interest income",
+      "0": NaN,
+      "1": "32,917",
+      "2": "24,732",
+      "3": "33%",
+      "4": "36,141",
+      "5": "28,359",
+      "6": "27%"
+    },
+    {
+      "item": "Foreign exchange income",
+      "0": NaN,
+      "1": "1,618",
+      "2": "1,730",
+      "3": "(6%)",
+      "4": "2,399",
+      "5": "2,927",
+      "6": "(18%)"
+    },
+    {
+      "item": "Net fees and commissions",
+      "0": NaN,
+      "1": "6,890",
+      "2": "6,785",
+      "3": "2%",
+      "4": "9,492",
+      "5": "10,324",
+      "6": "(8%)"
+    },
+    {
+      "item": "Other income",
+      "0": NaN,
+      "1": "1,837",
+      "2": "1,359",
+      "3": "35%",
+      "4": "1,936",
+      "5": "1,724",
+      "6": "12%"
+    },
+    {
+      "item": "Total operating income",
+      "0": NaN,
+      "1": "43,262",
+      "2": "34,606",
+      "3": "25%",
+      "4": "49,968",
+      "5": "43,333",
+      "6": "15%"
+    },
+    {
+      "item": "Total operating expenses",
+      "0": NaN,
+      "1": "18,977",
+      "2": "16,819",
+      "3": "13%",
+      "4": "24,001",
+      "5": "22,445",
+      "6": "7%"
+    },
+    {
+      "item": "Net provisions for bad debts",
+      "0": NaN,
+      "1": "2,577",
+      "2": "771",
+      "3": ">100%",
+      "4": "3,022",
+      "5": "1,493",
+      "6": "102%"
+    },
+    {
+      "item": "Profit before tax",
+      "0": NaN,
+      "1": "21,708",
+      "2": "17,015",
+      "3": "28%",
+      "4": "22,944",
+      "5": "19,395",
+      "6": "18%"
+    },
+    {
+      "item": "Tax",
+      "0": NaN,
+      "1": "6,512",
+      "2": "5,105",
+      "3": "28%",
+      "4": "6,997",
+      "5": "5,470",
+      "6": "28%"
+    },
+    {
+      "item": "Profit after tax",
+      "0": NaN,
+      "1": "15,196",
+      "2": "11,911",
+      "3": "26%",
+      "4": "15,947",
+      "5": "13,925",
+      "6": "15%"
+    }
+  ]
+}
