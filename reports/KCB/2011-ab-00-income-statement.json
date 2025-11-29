@@ -1,0 +1,164 @@
+{
+  "title": "II PROFIT AND LOSS ACCOUNT GROUP BANK",
+  "units": "000",
+  "pages": [
+    2
+  ],
+  "extracted_at": "2025-11-29T09:40:47.869058",
+  "data": [
+    {
+      "item": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "II PROFIT AND LOSS ACCOUNT",
+      "1": "GROUP",
+      "2": "None",
+      "3": "BANK",
+      "4": "None"
+    },
+    {
+      "item": "4INTEREST INCOME 4.1Loans and advances 4.2Government securities 4.3Deposits and placements with banking institutions 4.4Other Interest Income 4.5Total interest income 5INTEREST EXPENSE 5.1Customer deposits 5.2Deposits and placement from banking institutions 5.3Other interest expenses 5.4Total interest expenses 5.5NET INTEREST INCOME 6OTHER OPERATING INCOME 6.1Fees and commissions on loans and advances 6.2Other fees and commissions 6.3Foreign exchange trading income 6.4Dividend Income 6.5Other income 6.6Total non-interest income 6.7TOTAL OPERATING INCOME 7OPERATING EXPENSES 7.1Loan loss provision 7.2Staff costs 7.3Directors' emoluments 7.4Rental charges 7.5Depreciation charge on property and equipment 7.6Amortisation charges 7.7Other operating expenses 7.8Total operating expenses 7.9Profit before tax and exceptional items 7.10Exceptional items 7.11Profit after exceptional items 7.12Current tax 7.13Deferred tax 7.15Profit after tax and exceptional items 8EARNINGS PER SHARE- DILUTED KSHS 9DIVIDEND PER SHARE - PROPOSED KSHS",
+      "1": "31-Dec-10 Kshs 000 Audited",
+      "2": "31-Dec-11 Kshs 000 Audited",
+      "3": "31-Dec-10 Kshs 000 Audited",
+      "4": "31-Dec-11 Kshs 000 Audited"
+    },
+    {
+      "item": "None None",
+      "1": "1 7,663,904 5 ,259,702 1 86,187 -",
+      "2": "23,612,698 3 ,742,965 5 46,986 -",
+      "3": "16,162,740 5,178,712 9 9,810 -",
+      "4": "21,293,264 3,516,523 371,521 -"
+    },
+    {
+      "item": "None None",
+      "1": "2 3,109,793",
+      "2": "27,902,649",
+      "3": "21,441,262",
+      "4": "25,181,308"
+    },
+    {
+      "item": "None None",
+      "1": "3 ,307,581 1 56,887 -",
+      "2": "3 ,821,853 7 94,388 -",
+      "3": "2,802,736 140,145 -",
+      "4": "3,308,614 595,932 -"
+    },
+    {
+      "item": "None None",
+      "1": "3 ,464,468",
+      "2": "4 ,616,241",
+      "3": "2,942,881",
+      "4": "3,904,546"
+    },
+    {
+      "item": "None None",
+      "1": "1 9,645,325",
+      "2": "23,286,408",
+      "3": "18,498,381",
+      "4": "21,276,762"
+    },
+    {
+      "item": "None None",
+      "1": "4 ,091,986 2 ,696,594 2 ,775,494 1 ,185 1 ,450,803",
+      "2": "4 ,203,626 4 ,981,222 3 ,607,836 26,157 3 ,203,833",
+      "3": "3,212,596 2,405,750 1,357,658 1,519,248 1,392,649",
+      "4": "3,739,588 3,236,032 1,940,587 2 6,157 3,152,133"
+    },
+    {
+      "item": "None None",
+      "1": "1 1,016,062",
+      "2": "16,022,674",
+      "3": "9 ,887,901",
+      "4": "12,094,497"
+    },
+    {
+      "item": "None None",
+      "1": "3 0,661,387",
+      "2": "39,309,082",
+      "3": "28,386,282",
+      "4": "33,371,259"
+    },
+    {
+      "item": "None None",
+      "1": "2 ,144,320 9 ,379,643 1 04,401 7 98,141 1 ,382,540 3 75,249 6 ,679,122",
+      "2": "1 ,896,082 10,883,679 1 45,592 1,024,329 1 ,672,850 4 97,685 8 ,059,491",
+      "3": "1,898,230 8 ,024,266 9 1,522 2 36,654 1,029,436 371,219 5,197,422",
+      "4": "1,471,868 9,222,469 106,224 276,472 1,166,348 488,098 6,557,914"
+    },
+    {
+      "item": "None None",
+      "1": "2 0,863,416",
+      "2": "24,179,708",
+      "3": "16,848,749",
+      "4": "19,289,393"
+    },
+    {
+      "item": "None None",
+      "1": "9 ,797,971",
+      "2": "15,129,374",
+      "3": "11,537,533",
+      "4": "14,081,866"
+    },
+    {
+      "item": "None None",
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "4": "-"
+    },
+    {
+      "item": "None None",
+      "1": "9 ,797,971",
+      "2": "15,129,374",
+      "3": "11,537,533",
+      "4": "14,081,866"
+    },
+    {
+      "item": "None None",
+      "1": "( 3,651,244) 1 ,031,246",
+      "2": "( 4,083,979) ( 64,349)",
+      "3": "(3,560,777) 842,104",
+      "4": "(3,994,742) (248,787)"
+    },
+    {
+      "item": "None None",
+      "1": "7 ,177,973",
+      "2": "10,981,046",
+      "3": "8 ,818,860",
+      "4": "9,838,337"
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "item": "None None",
+      "1": "2.76",
+      "2": "3.72",
+      "3": "3 .40",
+      "4": "3.33"
+    },
+    {
+      "item": "None None",
+      "1": "1 .25",
+      "2": "1 .85",
+      "3": "1.25",
+      "4": "1.85"
+    },
+    {
+      "item": "None",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    }
+  ]
+}

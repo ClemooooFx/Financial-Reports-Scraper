@@ -1,0 +1,33 @@
+{
+  "title": "Consolidated Statement of Cash Flows — For the year ended 31 December 2012",
+  "units": "a",
+  "pages": [
+    70,
+    71,
+    122
+  ],
+  "extracted_at": "2025-11-29T09:41:32.996574",
+  "data": [
+    {
+      "item": "None",
+      "0": "2012 KShs‘000",
+      "2": "2011 KShs‘000",
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "",
+      "0": "82,794 (196,187) - (2,665,360)",
+      "2": "359,151 (581,782) (2,769) (1,732,186)",
+      "4": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None",
+      "0": "2012 KShs’000",
+      "2": "2011 KShs’000",
+      "4": "2012 KShs’000",
+      "6": "2011 KShs’000"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "GROUP INCOME STATEMENT (KSHS. M)",
+  "units": "m",
+  "pages": [
+    4
+  ],
+  "extracted_at": "2025-11-29T09:41:35.298562",
+  "data": [
+    {
+      "item": "",
+      "1": "AUDITED Dec 2010",
+      "2": "AUDITED Dec 2011",
+      "3": "% Change"
+    },
+    {
+      "item": "Net interest income",
+      "1": "19,645",
+      "2": "23,286",
+      "3": "19%"
+    },
+    {
+      "item": "Foreign exchange income",
+      "1": "2,775",
+      "2": "3,608",
+      "3": "30%"
+    },
+    {
+      "item": "Fees and commissions",
+      "1": "6,789",
+      "2": "9,185",
+      "3": "35%"
+    },
+    {
+      "item": "Other income",
+      "1": "426",
+      "2": "881",
+      "3": "107%"
+    },
+    {
+      "item": "Total operating income",
+      "1": "29,635",
+      "2": "36,960",
+      "3": "25%"
+    },
+    {
+      "item": "Total operating expenses",
+      "1": "(18,719)",
+      "2": "(22,283)",
+      "3": "19%"
+    },
+    {
+      "item": "Profit before provisions & tax",
+      "1": "10,916",
+      "2": "14,677",
+      "3": "34%"
+    },
+    {
+      "item": "Provisions for bad debts",
+      "1": "(2,144)",
+      "2": "(1,897)",
+      "3": "(12%)"
+    },
+    {
+      "item": "Bad debts recovered",
+      "1": "1,026",
+      "2": "2,349",
+      "3": "129%"
+    },
+    {
+      "item": "Profit before tax",
+      "1": "9,798",
+      "2": "15,129",
+      "3": "54%"
+    },
+    {
+      "item": "Tax",
+      "1": "(2,620)",
+      "2": "(4,148)",
+      "3": "58%"
+    },
+    {
+      "item": "Profit after tax",
+      "1": "7,178",
+      "2": "10,981",
+      "3": "53%"
+    }
+  ]
+}
