@@ -1,0 +1,83 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "continued",
+  "pages": [
+    50,
+    84
+  ],
+  "extracted_at": "2025-11-29T01:44:39.353297",
+  "data": [
+    {
+      "item": "Adopted approach",
+      "0": "",
+      "1": "",
+      "2": "Adopted approach"
+    },
+    {
+      "item": "Title IFRS 17 options None",
+      "0": "Title",
+      "1": "IFRS 17 options",
+      "2": "None"
+    },
+    {
+      "item": "None None",
+      "0": "None",
+      "1": "None",
+      "2": ""
+    },
+    {
+      "item": "Insurance acquisition cash flows Provided that the coverage period of each contract in the group at initial recognition is no more than one year, IFRS 17 allows an accounting policy choice of either expensing the insurance acquisition cash flows when incurred or amortising them over the contract’s coverage period. Insurance acquisition cashflows will be expensed when incurred except for commission expense which will be amortised on a linear basis over the coverage period.",
+      "0": "Insurance acquisition cash flows",
+      "1": "Provided that the coverage period of each contract in the group at initial recognition is no more than one year, IFRS 17 allows an accounting policy choice of either expensing the insurance acquisition cash flows when incurred or amortising them over the contract’s coverage period.",
+      "2": "Insurance acquisition cashflows will be expensed when incurred except for commission expense which will be amortised on a linear basis over the coverage period."
+    },
+    {
+      "item": "Liability for Remaining Coverage (“LRC”) adjusted for financial risk and time value of money Where there is no significant financing component in relation to the LRC, or where the time between providing each part of the services and the related premium due date is no more than a year, an entity is not required to make an adjustment for accretion of interest on the LRC. Under the PAA approach, there will be no accretion of interest to the LRC since the time between providing each part of the services and the related premium due date is no more than a year. Interest will however be accreted to the LRC under the GMM model due to the long-term nature of the contracts under this model.",
+      "0": "Liability for Remaining Coverage (“LRC”) adjusted for financial risk and time value of money",
+      "1": "Where there is no significant financing component in relation to the LRC, or where the time between providing each part of the services and the related premium due date is no more than a year, an entity is not required to make an adjustment for accretion of interest on the LRC.",
+      "2": "Under the PAA approach, there will be no accretion of interest to the LRC since the time between providing each part of the services and the related premium due date is no more than a year. Interest will however be accreted to the LRC under the GMM model due to the long-term nature of the contracts under this model."
+    },
+    {
+      "item": "Liability for Incurred Claims (“LIC”) adjusted for time value of money. Where claims are expected to be paid within a year of the date that the claim is incurred, it is not required to adjust these amounts for the time value of money. Medical claims incurred are expected to be paid out in less than one year. Hence, no adjustment is made for the time value of money. For all other business lines, the LIC will be adjusted for the time value of money since these typically have a settlement period of over one year.",
+      "0": "Liability for Incurred Claims (“LIC”) adjusted for time value of money.",
+      "1": "Where claims are expected to be paid within a year of the date that the claim is incurred, it is not required to adjust these amounts for the time value of money.",
+      "2": "Medical claims incurred are expected to be paid out in less than one year. Hence, no adjustment is made for the time value of money. For all other business lines, the LIC will be adjusted for the time value of money since these typically have a settlement period of over one year."
+    },
+    {
+      "item": "Insurance finance income and expenses IFRS 17 provides an accounting policy choice to recognise the impact of changes in discount rates and other financial variables in profit or loss or in OCI. The accounting policy choice (the PL or OCI option) is applied on a portfolio basis. The Group will include all insurance finance income or expenses for the period in profit or loss.",
+      "0": "Insurance finance income and expenses",
+      "1": "IFRS 17 provides an accounting policy choice to recognise the impact of changes in discount rates and other financial variables in profit or loss or in OCI. The accounting policy choice (the PL or OCI option) is applied on a portfolio basis.",
+      "2": "The Group will include all insurance finance income or expenses for the period in profit or loss."
+    },
+    {
+      "item": "Disaggregation of risk adjustment An insurer is not required to include the entire change in the risk adjustment for non-financial risk in the insurance service result. Instead, it can choose to split the amount between the insurance service result and insurance finance income or expenses. The Group will disaggregate the change in risk adjustment for non-financial risk between the insurance service result and the insurance finance result.",
+      "0": "Disaggregation of risk adjustment",
+      "1": "An insurer is not required to include the entire change in the risk adjustment for non-financial risk in the insurance service result. Instead, it can choose to split the amount between the insurance service result and insurance finance income or expenses.",
+      "2": "The Group will disaggregate the change in risk adjustment for non-financial risk between the insurance service result and the insurance finance result."
+    },
+    {
+      "item": "Reportable segment total liabilities 14,161,668 19,211,712 113,580 4,916,469 38,403,429 Less: related party balances (193,378) (72,139) - - (265,517)",
+      "0": "Reportable segment total liabilities 14,161,668 19,211,712 113,580 4,916,469 38,403,429 Less: related party balances (193,378) (72,139) - - (265,517)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Reportable segments total liabilities - net 13,968,290 19,139,573 113,580 4,916,469 38,137,912",
+      "0": "Reportable segments total liabilities - net 13,968,290 19,139,573 113,580 4,916,469 38,137,912",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Reportable segment total liabilities 10,116,528 16,508,531 93,794 6,870,063 33,588,916 Less: related party balances (26,836) (5,375) - (32,211)",
+      "0": "Reportable segment total liabilities 10,116,528 16,508,531 93,794 6,870,063 33,588,916 Less: related party balances (26,836) (5,375) - (32,211)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Net assets 10,089,692 16,503,156 93,794 6,870,063 33,556,705",
+      "0": "Net assets 10,089,692 16,503,156 93,794 6,870,063 33,556,705",
+      "1": NaN,
+      "2": NaN
+    }
+  ]
+}
