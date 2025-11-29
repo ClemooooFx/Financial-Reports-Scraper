@@ -1,0 +1,55 @@
+{
+  "title": "Company statement of changes in equity",
+  "units": "a",
+  "pages": [
+    118
+  ],
+  "extracted_at": "2025-11-29T06:23:01.056126",
+  "data": [
+    {
+      "item": "Financial Statements For the year ended 30 June 2019",
+      "0": "Financial Statements For the year ended 30 June 2019",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Total equity",
+      "0": NaN,
+      "1": "Share capital",
+      "2": "Share premium",
+      "3": "Share based payment reserve",
+      "4": "Proposed dividends",
+      "5": "Retained earnings"
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": "Kshs’000",
+      "2": "Kshs’000",
+      "3": "Kshs ‘000",
+      "4": "Kshs’000",
+      "5": "Kshs’000"
+    },
+    {
+      "item": "118",
+      "0": "118",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "EABL 2019 Integrated Report and Financial Statements",
+      "0": "EABL 2019 Integrated Report and Financial Statements",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}

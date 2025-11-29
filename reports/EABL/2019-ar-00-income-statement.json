@@ -1,0 +1,89 @@
+{
+  "title": "Consolidated statement of profit or loss",
+  "units": "a",
+  "pages": [
+    110,
+    111,
+    112
+  ],
+  "extracted_at": "2025-11-29T06:23:01.034400",
+  "data": [
+    {
+      "item": "Financial Statements For the year ended 30 June 2019",
+      "0": "Financial Statements For the year ended 30 June 2019",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "",
+      "2": "Year ended 30 June",
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": "Note",
+      "2": "2019",
+      "3": NaN
+    },
+    {
+      "item": "110",
+      "0": "110",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "EABL 2019 Integrated Report and Financial Statements",
+      "0": "EABL 2019 Integrated Report and Financial Statements",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None Financial Statements For the year ended 30 June 2019 None",
+      "0": NaN,
+      "1": "None",
+      "2": "Financial Statements For the year ended 30 June 2019",
+      "3": "None"
+    },
+    {
+      "item": "Consolidated statement of comprehensive income Year ended 30 June 2019 2018 Kshs ‘000 Kshs ‘000 Profit for the year 11,515,130 7,255,555 Other comprehensive income, net of tax: Items that may be reclassified to profit or loss: Exchange differences from translation of net foreign operations 610,943 (865,067) Total comprehensive income for the year 12,126,073 6,390,488 Total comprehensive income for the year attributable to: Equity holders of the Company 9,453,569 4,873,315 Non-controlling interests 2,672,504 1,517,173 Total comprehensive income for the year 12,126,073 6,390,488 None",
+      "0": NaN,
+      "1": "Consolidated statement of comprehensive income Year ended 30 June 2019 2018 Kshs ‘000 Kshs ‘000 Profit for the year 11,515,130 7,255,555 Other comprehensive income, net of tax: Items that may be reclassified to profit or loss: Exchange differences from translation of net foreign operations 610,943 (865,067) Total comprehensive income for the year 12,126,073 6,390,488 Total comprehensive income for the year attributable to: Equity holders of the Company 9,453,569 4,873,315 Non-controlling interests 2,672,504 1,517,173 Total comprehensive income for the year 12,126,073 6,390,488",
+      "2": "",
+      "3": "None"
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": ""
+    },
+    {
+      "item": "None None None EABL 2019 Integrated Report and Financial Statements",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": "EABL 2019 Integrated Report and Financial Statements"
+    },
+    {
+      "item": "111",
+      "0": NaN,
+      "1": "111",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "112",
+      "0": "112",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}

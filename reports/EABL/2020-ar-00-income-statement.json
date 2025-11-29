@@ -1,0 +1,169 @@
+{
+  "title": "Consolidated statement of profit or loss",
+  "units": "a",
+  "pages": [
+    130,
+    131,
+    132,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188
+  ],
+  "extracted_at": "2025-11-29T06:23:29.283509",
+  "data": [
+    {
+      "item": "Financial Statements as at 30 June 2020",
+      "0": "Financial Statements as at 30 June 2020",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "",
+      "2": "Year ended 30 June",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": "Note",
+      "2": "2020",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2019",
+      "0": NaN,
+      "1": "Note",
+      "2": "2020",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": "",
+      "2": "Kshs ‘000",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kshs’000",
+      "0": NaN,
+      "1": "Kshs’000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Carrying amount at 30 June",
+      "0": NaN,
+      "1": "Carrying amount at 1 July",
+      "2": "Effect of exchange rate changes",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "1": NaN,
+      "2": "Kshs’000",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Country of inco poration 2019",
+      "0": NaN,
+      "1": NaN,
+      "2": "Effective ownership interest",
+      "3": "2020",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None Kenya None",
+      "0": NaN,
+      "1": NaN,
+      "2": "100%",
+      "3": "22,377,809",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None Tanzania None",
+      "0": NaN,
+      "1": NaN,
+      "2": "77.5%",
+      "3": "15,970,420",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None Uganda None",
+      "0": NaN,
+      "1": NaN,
+      "2": "98%",
+      "3": "687,648",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None South Sudan None",
+      "0": NaN,
+      "1": NaN,
+      "2": "99%",
+      "3": "299",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Year ended 30 June 2020",
+      "0": "Year ended 30 June 2020",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Year ended 30 June 2019",
+      "0": "Year ended 30 June 2019",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kshs ‘000",
+      "0": NaN,
+      "1": "Kshs ‘000",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}

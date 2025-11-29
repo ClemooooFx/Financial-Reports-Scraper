@@ -1,0 +1,44 @@
+{
+  "title": "Consolidated statement of profit or loss",
+  "units": "a",
+  "pages": [
+    129,
+    130,
+    131,
+    140,
+    144
+  ],
+  "extracted_at": "2025-11-29T06:24:10.197416",
+  "data": [
+    {
+      "item": "",
+      "1": "Year ended 30 June",
+      "2": "None",
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": "Note",
+      "2": "2021",
+      "0": NaN
+    },
+    {
+      "item": "130 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS",
+      "1": NaN,
+      "2": NaN,
+      "0": "130 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS"
+    },
+    {
+      "item": "140 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS",
+      "1": NaN,
+      "2": NaN,
+      "0": "140 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS"
+    },
+    {
+      "item": "144 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS",
+      "1": NaN,
+      "2": NaN,
+      "0": "144 2021 INTEGRATED REPORT & FINANCIAL STATEMENTS"
+    }
+  ]
+}

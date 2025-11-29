@@ -1,0 +1,179 @@
+{
+  "title": "• Balance Sheet",
+  "units": "underlying",
+  "pages": [
+    28,
+    30,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39
+  ],
+  "extracted_at": "2025-11-29T06:24:14.410699",
+  "data": [
+    {
+      "item": "F21 FY FINANCIAL PERFORMANCE • Financial Highlights • Topline Performance • Profitability • Balance Sheet • Cash Performance • Capex Risper Ohaga",
+      "1": "F21 FY FINANCIAL PERFORMANCE • Financial Highlights • Topline Performance • Profitability • Balance Sheet • Cash Performance • Capex Risper Ohaga",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "",
+      "1": "F21 Kes bn",
+      "2": "F20 Kes bn",
+      "3": "Vs F20",
+      "0": NaN
+    },
+    {
+      "item": "Volume (m EUs)",
+      "1": "14.1",
+      "2": "12.4",
+      "3": "13%",
+      "0": NaN
+    },
+    {
+      "item": "Excise Duty",
+      "1": "(66.6)",
+      "2": "(58.4)",
+      "3": "14%",
+      "0": NaN
+    },
+    {
+      "item": "Net Sales",
+      "1": "86.0",
+      "2": "75.0",
+      "3": "15%",
+      "0": NaN
+    },
+    {
+      "item": "Cost of Sales",
+      "1": "(48.6)",
+      "2": "(42.0)",
+      "3": "16%",
+      "0": NaN
+    },
+    {
+      "item": "Gross Profit",
+      "1": "37.4",
+      "2": "33.0",
+      "3": "13%",
+      "0": NaN
+    },
+    {
+      "item": "0",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "0"
+    },
+    {
+      "item": "None None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Selling & Distribution",
+      "1": "(7.4)",
+      "2": "(6.6)",
+      "3": "12%",
+      "0": NaN
+    },
+    {
+      "item": "Administrative expenses",
+      "1": "(9.3)",
+      "2": "(8.6)",
+      "3": "9%",
+      "0": NaN
+    },
+    {
+      "item": "FX",
+      "1": "(1.2)",
+      "2": "(0.2)",
+      "3": ">100%",
+      "0": NaN
+    },
+    {
+      "item": "Other expenses",
+      "1": "(4.7)",
+      "2": "(3.2)",
+      "3": "48%",
+      "0": NaN
+    },
+    {
+      "item": "Net Finance cost",
+      "1": "(3.9)",
+      "2": "(3.8)",
+      "3": "3%",
+      "0": NaN
+    },
+    {
+      "item": "Profit before Tax (underlying)",
+      "1": "13.6",
+      "2": "10.7",
+      "3": "28%",
+      "0": NaN
+    },
+    {
+      "item": "Profit before Tax (reported)",
+      "1": "10.9",
+      "2": "10.7",
+      "3": "2%",
+      "0": NaN
+    },
+    {
+      "item": "Profit before Tax",
+      "1": "10.9",
+      "2": "10.7",
+      "3": "2%",
+      "0": NaN
+    },
+    {
+      "item": "Income Tax",
+      "1": "(3.9)",
+      "2": "(3.6)",
+      "3": "7%",
+      "0": NaN
+    },
+    {
+      "item": "Profit after Tax",
+      "1": "7.0",
+      "2": "7.0",
+      "3": "-1%",
+      "0": NaN
+    },
+    {
+      "item": "EPS (Kes/Share)",
+      "1": "5.51",
+      "2": "5.17",
+      "3": "7%",
+      "0": NaN
+    },
+    {
+      "item": "DPS (KES/share)",
+      "1": "0.0",
+      "2": "3.0",
+      "3": "",
+      "0": NaN
+    },
+    {
+      "item": "0.2",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "0.2"
+    },
+    {
+      "item": "0.8",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "0.8"
+    }
+  ]
+}
