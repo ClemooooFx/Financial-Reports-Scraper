@@ -1,0 +1,148 @@
+{
+  "title": "Income statement Ksh (m)",
+  "units": "m",
+  "pages": [
+    33
+  ],
+  "extracted_at": "2025-11-29T06:08:47.530103",
+  "data": [
+    {
+      "item": "East African Breweries Limited",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "None",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "Interim Financial Report for six months period ended 31 December 2008 (UNAUDITED)",
+      "1": "None",
+      "2": "None",
+      "3": "None"
+    },
+    {
+      "item": "Consolidated Profit and Loss Account",
+      "1": "None",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "None",
+      "1": "None",
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "",
+      "1": "31-Dec-08",
+      "2": "31-Dec-07",
+      "3": ""
+    },
+    {
+      "item": "Net Revenue",
+      "1": "18,096",
+      "2": "16,089",
+      "3": "12%"
+    },
+    {
+      "item": "Cost of Sales",
+      "1": "(8,948)",
+      "2": "(7,290)",
+      "3": "23%"
+    },
+    {
+      "item": "Gross profit",
+      "1": "9,148",
+      "2": "8,799",
+      "3": "4%"
+    },
+    {
+      "item": "Other operating expense",
+      "1": "(53)",
+      "2": "(92)",
+      "3": "-42%"
+    },
+    {
+      "item": "Selling and distribution costs",
+      "1": "(1,162)",
+      "2": "(1,107)",
+      "3": "5%"
+    },
+    {
+      "item": "Administrative expenses",
+      "1": "(2,011)",
+      "2": "(1,925)",
+      "3": "4%"
+    },
+    {
+      "item": "Profit from operations",
+      "1": "5,922",
+      "2": "5,675",
+      "3": "4%"
+    },
+    {
+      "item": "Net finance income",
+      "1": "326",
+      "2": "323",
+      "3": "1%"
+    },
+    {
+      "item": "Income from associate",
+      "1": "517",
+      "2": "455",
+      "3": "14%"
+    },
+    {
+      "item": "Profit before taxation",
+      "1": "6,765",
+      "2": "6,453",
+      "3": "5%"
+    },
+    {
+      "item": "Income tax expense",
+      "1": "(1,863)",
+      "2": "(1,720)",
+      "3": "8%"
+    },
+    {
+      "item": "Profit after taxation",
+      "1": "4,902",
+      "2": "4,733",
+      "3": "4%"
+    },
+    {
+      "item": "Minority interest",
+      "1": "(849)",
+      "2": "(864)",
+      "3": "-2%"
+    },
+    {
+      "item": "Net profit",
+      "1": "4,053",
+      "2": "3,869",
+      "3": "5%"
+    },
+    {
+      "item": "Basic earnings per share",
+      "1": "5.13",
+      "2": "4.89",
+      "3": "5%"
+    },
+    {
+      "item": "Diluted earnings per share",
+      "1": "5.13",
+      "2": "4.89",
+      "3": "5%"
+    },
+    {
+      "item": "Interim dividend per share paid",
+      "1": "None",
+      "2": "2.40",
+      "3": "4%"
+    }
+  ]
+}

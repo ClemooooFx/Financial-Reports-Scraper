@@ -1,0 +1,81 @@
+{
+  "title": "EABL Consolidated Income Statement",
+  "units": "expense",
+  "pages": [
+    17,
+    18,
+    19,
+    20,
+    22,
+    24,
+    28
+  ],
+  "extracted_at": "2025-11-29T06:10:55.656424",
+  "data": [
+    {
+      "item": "",
+      "0": "Financial Report for the year ended 30th June 2013 EABL Consolidated Income Statement 30-Jun-13 30-Jun-12 Kshs M Kshs M Growth %",
+      "1": NaN
+    },
+    {
+      "item": "None",
+      "0": "( 31,563) ( 28,657) Cost of Sales 10% Gross Profit 2 7,499 2 6,865 2% Selling and Distribution costs (5,085) (4,589) 11% Administrative expenses (7,555) (7,450) 1% 1 41 1 51 Other operating income / (expense) -7% Operating Profit 1 4,999 1 4,977 0.2%",
+      "1": NaN
+    },
+    {
+      "item": "• 12 m repa with • One from",
+      "0": "Net Revenue 5 9,062 5 5,522 6% ( 31,563) ( 28,657) Cost of Sales 10% Gross Profit 2 7,499 2 6,865 2% Selling and Distribution costs (5,085) (4,589) 11% Administrative expenses (7,555) (7,450) 1% 1 41 1 51 Other operating income / (expense) -7% Operating Profit 1 4,999 1 4,977 0.2%",
+      "1": NaN
+    },
+    {
+      "item": "of Ta",
+      "0": "(3,885) (3,370) Net Finance income / (costs) 15%",
+      "1": NaN
+    },
+    {
+      "item": "Ltd",
+      "0": "Profit before exceptional items 1 1,115 1 1,607 -4%",
+      "1": NaN
+    },
+    {
+      "item": "• Inco",
+      "0": "Profit before taxation 1 1,115 1 5,253 -27%",
+      "1": NaN
+    },
+    {
+      "item": "rose",
+      "0": "Income tax expense (4,170) (4,067) 3%",
+      "1": NaN
+    },
+    {
+      "item": "F13 F1 Net debt to EBITDA 1.65 1.1 1.5 2.9 4.5 11.1 6.0 1.8 -0.19",
+      "0": "F13 F1 Net debt to EBITDA 1.65 1.1 1.5 2.9 4.5 11.1 6.0 1.8 -0.19",
+      "1": NaN
+    },
+    {
+      "item": "6.9 -0.2 -0.2 -0.3 -4.89",
+      "0": "6.9 -0.2 -0.2 -0.3 -4.89",
+      "1": NaN
+    },
+    {
+      "item": "None None",
+      "0": "",
+      "1": ""
+    },
+    {
+      "item": "DIAGEO Summary & Outlook Charles Ireland Group Managing Director & CEO",
+      "0": NaN,
+      "1": NaN
+    },
+    {
+      "item": "http://www.google.",
+      "0": NaN,
+      "1": NaN
+    },
+    {
+      "item": "DIAGEO",
+      "0": NaN,
+      "1": NaN
+    }
+  ]
+}

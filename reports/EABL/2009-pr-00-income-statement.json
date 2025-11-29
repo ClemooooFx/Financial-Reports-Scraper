@@ -1,0 +1,466 @@
+{
+  "title": "Income statement Ksh (Mn) — SUMMARY GROUP P&L 2009 2008 Movement",
+  "units": "mn",
+  "pages": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "extracted_at": "2025-11-29T06:08:42.759371",
+  "data": [
+    {
+      "item": "Income statement Ksh (Mn) None None",
+      "2": "None",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "SUMMARY GROUP P&L 2009 2008 Movement Kshs M Kshs M Kshs M Change % Net Revenue 34,408 32,488 1,920 6% None None",
+      "2": "None",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None SUMMARY GROUP P&L None",
+      "2": "2009 2008 Movement Kshs M Kshs M Kshs M Change %",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Net Revenue None",
+      "2": "34,408 32,488 1,920 6%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Cost of Sales",
+      "2": "(17,079) ( 15,007) ( 2,072) 14%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Gross Profit Other Operating Income(Expense) Selling & distribution None",
+      "2": "17,329 17,481 ( 153) -1% (336) ( 599) 263 -44% (2,115) ( 2,164) 49 -2%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "AAddmmiinniissttrraattiivvee EExxppeennsseess",
+      "2": "((33,883388)) ((33,883344)) ((44)) 00%%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Profit from Operations Net Finance Income Income from Associates Reorganisation costs None",
+      "2": "11,039 10,884 155 1% 493 624 ( 131) -21% 1,016 808 207 26% (558) - ( 558) 100%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None None",
+      "2": "",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Profit before tax Income tax expense",
+      "2": "11,989 12,316 ( 327) -3% (3,380) ( 3,132) ( 248) 8%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Profit after tax Minority Interest None",
+      "2": "8,609 9,184 ( 575) -6% (1,421) ( 1,631) 210 -13%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Net Profit 7,189 7,553 ( 365) -5% Basic earnings per share 9.09 9.55 ( 0) -5% Highly Restricted & Confidential 24 None",
+      "2": "",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Net Profit None",
+      "2": "7,189 7,553 ( 365) -5%",
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Markets contributed … None None None",
+      "2": "None",
+      "0": "Markets contributed …",
+      "1": "None",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Kenya F09 None None None",
+      "2": "None",
+      "0": "Kenya F09",
+      "1": "None",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Kenya F09 None None",
+      "2": "None",
+      "0": "None",
+      "1": "Kenya F09",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "KKsshhss bbnn GGRROOWWTTHH None",
+      "2": "None",
+      "0": "",
+      "1": "KKsshhss bbnn GGRROOWWTTHH",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Net Sales 26.5 1% Profit Before Taxes 9.2 -5% 26.5 1% 9.2 -5% None",
+      "2": "26.5 1% 9.2 -5%",
+      "0": "None",
+      "1": "Net Sales 26.5 1% Profit Before Taxes 9.2 -5%",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Uganda F09 None None",
+      "2": "None",
+      "0": "None",
+      "1": "Uganda F09",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Net Sales 6.77 0% Profit Before Taxes 0.80 -31% 6.77 0% 0.80 -31%",
+      "2": "6.77 0% 0.80 -31%",
+      "0": "",
+      "1": "Net Sales 6.77 0% Profit Before Taxes 0.80 -31%",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Tanzania F09 None None",
+      "2": "None",
+      "0": "None",
+      "1": "Tanzania F09",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "VVoolluummeess ((EEuuss)) 449955 00%% Share of Associates 1.02 26% 449955 00%% 1.02 26%",
+      "2": "449955 00%% 1.02 26%",
+      "0": "",
+      "1": "VVoolluummeess ((EEuuss)) 449955 00%% Share of Associates 1.02 26%",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None Exports F09 None None",
+      "2": "None",
+      "0": "None",
+      "1": "Exports F09",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "None VVoolluummeess ((EEuuss)) 443366 1122%% None",
+      "2": "443366 1122%%",
+      "0": "None",
+      "1": "VVoolluummeess ((EEuuss))",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Highly Restricted & Confidential 25 None",
+      "2": "",
+      "0": "Highly Restricted & Confidential 25",
+      "1": "",
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Our dividend proposal… None None None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "Our dividend proposal…",
+      "1": NaN,
+      "8": "None",
+      "12": "None",
+      "13": "None"
+    },
+    {
+      "item": "> Final dividend proposal of Kes 5.55/share > Final dividend payment of Kes 4.5Bn None None None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "> Final dividend proposal of Kes 5.55/share > Final dividend payment of Kes 4.5Bn",
+      "1": NaN,
+      "8": "None",
+      "12": "None",
+      "13": "None"
+    },
+    {
+      "item": "> Taking full year dividend to Kes 8.05/share, same level as LY > Full year dividend payment of Kes 6.4Bn DPS Growth None None None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "> Taking full year dividend to Kes 8.05/share, same level as LY > Full year dividend payment of Kes 6.4Bn DPS Growth",
+      "1": NaN,
+      "8": "None",
+      "12": "None",
+      "13": "None"
+    },
+    {
+      "item": "9.00 8.00 7.00 6.00 None None None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "9.00 8.00 7.00 6.00",
+      "1": NaN,
+      "8": "None",
+      "12": "None",
+      "13": "None"
+    },
+    {
+      "item": "None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "None",
+      "12": "None",
+      "13": "None"
+    },
+    {
+      "item": "None None None None None None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "None None None None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "erahS 5.00 4.00 / seK 3.00 2.00 None None None None None None None",
+      "2": NaN,
+      "0": "erahS 5.00 4.00 / seK 3.00 2.00",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "None None None None None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "",
+      "12": "",
+      "13": "None"
+    },
+    {
+      "item": "None None None None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "None None None 5 Y CAG R +22 % None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "5",
+      "12": "+22",
+      "13": "%"
+    },
+    {
+      "item": "1.00 - 2003 2004 2005 2006 2007 2008 2009 Highly Restricted & Confidential 26 None None",
+      "2": NaN,
+      "0": "1.00 - 2003 2004 2005 2006 2007 2008 2009 Highly Restricted & Confidential 26",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "None None None",
+      "2": NaN,
+      "0": "None",
+      "1": NaN,
+      "8": "None",
+      "12": "",
+      "13": ""
+    },
+    {
+      "item": "F10 Outlook positive with clear strateggies",
+      "2": NaN,
+      "0": "F10 Outlook positive with clear strateggies",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "> Revenue growth management initiatives",
+      "2": NaN,
+      "0": "> Revenue growth management initiatives",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "> Consolidating our Spirits business and market for growth through engagement with Government and fighting re emergence of illicit",
+      "2": NaN,
+      "0": "> Consolidating our Spirits business and market for growth through engagement with Government and fighting re emergence of illicit",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "> EEffffecttiive managementt off CCOOGGSS pressures (raw materials, utilities & fuel) and containing overheads through streamlined business processes e.g. supply chain, production, distribution and logistics >> IInnccrreeaasseedd eeffffiicciieenncciieess",
+      "2": NaN,
+      "0": "> EEffffecttiive managementt off CCOOGGSS pressures (raw materials, utilities & fuel) and containing overheads through streamlined business processes e.g. supply chain, production, distribution and logistics >> IInnccrreeaasseedd eeffffiicciieenncciieess",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Highly Restricted & Confidential 27",
+      "2": NaN,
+      "0": "Highly Restricted & Confidential 27",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "CClloossiinngg",
+      "2": NaN,
+      "0": "CClloossiinngg",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Highly Restricted & Confidential 28",
+      "2": NaN,
+      "0": "Highly Restricted & Confidential 28",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "QQ && AA",
+      "2": NaN,
+      "0": "QQ && AA",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Highly Restricted & Confidential 29",
+      "2": NaN,
+      "0": "Highly Restricted & Confidential 29",
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "TThhaannkk YYoouu",
+      "2": NaN,
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    },
+    {
+      "item": "Highly Restricted & Confidential None None",
+      "2": NaN,
+      "0": NaN,
+      "1": NaN,
+      "8": NaN,
+      "12": NaN,
+      "13": NaN
+    }
+  ]
+}

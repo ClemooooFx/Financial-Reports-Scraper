@@ -1,0 +1,81 @@
+{
+  "title": "Income Statement in Mn KES. — 2008 2007 Movement",
+  "units": "expense",
+  "pages": [
+    33,
+    35
+  ],
+  "extracted_at": "2025-11-29T06:07:12.485987",
+  "data": [
+    {
+      "item": "None None",
+      "2": "Kshs'M 1 6,089 ( 6,153)",
+      "0": NaN
+    },
+    {
+      "item": "Net Revenue Cost of Sales",
+      "2": "None",
+      "0": NaN
+    },
+    {
+      "item": "Gross profit Other operating income (Expense) Selling and distribution costs Administrative expenses",
+      "2": "9 ,936 8 5 ( 1,110) ( 3,235)",
+      "0": NaN
+    },
+    {
+      "item": "Profit from operations Net finance income Income from associate",
+      "2": "5 ,675 3 23 4 55",
+      "0": NaN
+    },
+    {
+      "item": "Profit before taxation",
+      "2": "6 ,453",
+      "0": NaN
+    },
+    {
+      "item": "Kshs'M 1 2,654 ( 4,536)",
+      "2": NaN,
+      "0": "Kshs'M 1 2,654 ( 4,536)"
+    },
+    {
+      "item": "8,117 1 07 ( 918) ( 2,556)",
+      "2": NaN,
+      "0": "8,117 1 07 ( 918) ( 2,556)"
+    },
+    {
+      "item": "4,750 1 71 3 79",
+      "2": NaN,
+      "0": "4,750 1 71 3 79"
+    },
+    {
+      "item": "5,300",
+      "2": NaN,
+      "0": "5,300"
+    },
+    {
+      "item": "Change % 27% 36%",
+      "2": NaN,
+      "0": "Change % 27% 36%"
+    },
+    {
+      "item": "22% -20% 21% 27%",
+      "2": NaN,
+      "0": "22% -20% 21% 27%"
+    },
+    {
+      "item": "19% 89% 20%",
+      "2": NaN,
+      "0": "19% 89% 20%"
+    },
+    {
+      "item": "22%",
+      "2": NaN,
+      "0": "22%"
+    },
+    {
+      "item": "None",
+      "2": NaN,
+      "0": NaN
+    }
+  ]
+}

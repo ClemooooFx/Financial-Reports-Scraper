@@ -1,0 +1,17 @@
+{
+  "extraction_date": "2025-11-29T06:10:55.657527",
+  "duration_seconds": 224.402179,
+  "batch_number": 49,
+  "batch_size": 20,
+  "force_reprocess": true,
+  "total_pdfs": 20,
+  "successful": 20,
+  "skipped": 0,
+  "failed": 0,
+  "statements_extracted": {
+    "balance_sheet": 5,
+    "income_statement": 12,
+    "cash_flow": 2,
+    "equity_changes": 2
+  }
+}
