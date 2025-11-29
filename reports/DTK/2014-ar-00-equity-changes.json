@@ -1,0 +1,88 @@
+{
+  "title": "BANK STATEMENT OF CHANGES IN EQUITY",
+  "units": "continued",
+  "pages": [
+    38,
+    82
+  ],
+  "extracted_at": "2025-11-29T05:05:20.566279",
+  "data": [
+    {
+      "item": "Share capital",
+      "1": "Share premium",
+      "2": "Other reserves",
+      "3": "Statutory loan loss reserve",
+      "4": "Retained earnings",
+      "5": "Proposed dividend",
+      "6": "Total",
+      "0": NaN,
+      "7": NaN
+    },
+    {
+      "item": "Shs’000",
+      "1": "Shs’000",
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "4": "Shs’000",
+      "5": "Shs’000",
+      "6": "Shs’000",
+      "0": NaN,
+      "7": NaN
+    },
+    {
+      "item": "880,400",
+      "1": "3,856,898",
+      "2": "378,081",
+      "3": "115,291",
+      "4": "9,229,632",
+      "5": "418,190",
+      "6": "14,878,492",
+      "0": NaN,
+      "7": NaN
+    },
+    {
+      "item": "",
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "4": "4,057,897",
+      "5": "-",
+      "6": "4,057,897",
+      "0": NaN,
+      "7": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": NaN,
+      "6": "",
+      "0": "",
+      "7": ""
+    },
+    {
+      "item": "Notes",
+      "1": "Revaluation surplus",
+      "2": "Fair value reserve on equity investments",
+      "3": "Translation reserve",
+      "4": "Other reserves",
+      "5": "Total",
+      "6": NaN,
+      "0": NaN,
+      "7": NaN
+    },
+    {
+      "item": "(i)",
+      "1": "-",
+      "2": "-",
+      "3": "101,384",
+      "4": "-",
+      "5": "101,384",
+      "6": NaN,
+      "0": NaN,
+      "7": NaN
+    }
+  ]
+}

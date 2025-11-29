@@ -1,0 +1,123 @@
+{
+  "title": "with IAS 18 Revenue, are recognised in other comprehensive income and are not subsequently reclassified to income statement.",
+  "units": "continued",
+  "pages": [
+    38,
+    39
+  ],
+  "extracted_at": "2025-11-29T05:04:22.943795",
+  "data": [
+    {
+      "item": "Financial assets Original measurement category IAS 39 New measurement category IFRS 9",
+      "3": "Original carrying value Shs’ 000",
+      "4": "New carrying value Shs’ 000",
+      "0": NaN,
+      "2": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Quoted equity investments Available for sale instruments Financial assets at FVTOCI",
+      "3": "59,928",
+      "4": "59,928",
+      "0": NaN,
+      "2": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Government securities Available for sale Financial assets at amortised cost",
+      "3": "13,068,493",
+      "4": "13,039,373",
+      "0": NaN,
+      "2": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Government securities Held for trading Financial assets at FVTPL",
+      "3": "410,665",
+      "4": "410,665",
+      "0": NaN,
+      "2": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Standard Title Applicable for financial year beginning on/after",
+      "3": NaN,
+      "4": NaN,
+      "0": "Standard",
+      "2": "Applicable for financial year beginning on/after",
+      "1": NaN
+    },
+    {
+      "item": "IAS 1 Presentation of financial statements 1 January 2011",
+      "3": NaN,
+      "4": NaN,
+      "0": "IAS 1",
+      "2": "1 January 2011",
+      "1": NaN
+    },
+    {
+      "item": "IAS 24 Related party disclosures 1 January 2011",
+      "3": NaN,
+      "4": NaN,
+      "0": "IAS 24",
+      "2": "1 January 2011",
+      "1": NaN
+    },
+    {
+      "item": "IFRS 7 Financial Instruments: Disclosures 1 January 2011",
+      "3": NaN,
+      "4": NaN,
+      "0": "IFRS 7",
+      "2": "1 January 2011",
+      "1": NaN
+    },
+    {
+      "item": "IAS 34 Interim financial reporting 1 January 2011",
+      "3": NaN,
+      "4": NaN,
+      "0": "IAS 34",
+      "2": "1 January 2011",
+      "1": NaN
+    },
+    {
+      "item": "Standard/ Interpretation Key Requirements Applicable for financial years beginning on/after",
+      "3": NaN,
+      "4": NaN,
+      "0": "Standard/ Interpretation",
+      "2": "Applicable for financial years beginning on/after",
+      "1": "Key Requirements"
+    },
+    {
+      "item": "Amendment to IAS 1, Presentation of items of other comprehensive income (OCI) The amendment requires entities to separate items presented in OCI into two groups, based on whether or not they may be recycled to income statement in the future. Items that will not be recycled such as revaluation gains on property, plant and equipment will be presented separately from items that may be recycled in the future, such as deferred gains and losses on cash flow hedges. 1-Jul-12",
+      "3": NaN,
+      "4": NaN,
+      "0": "Amendment to IAS 1, Presentation of items of other comprehensive income (OCI)",
+      "2": "1-Jul-12",
+      "1": "The amendment requires entities to separate items presented in OCI into two groups, based on whether or not they may be recycled to income statement in the future. Items that will not be recycled such as revaluation gains on property, plant and equipment will be presented separately from items that may be recycled in the future, such as deferred gains and losses on cash flow hedges."
+    },
+    {
+      "item": "IFRS 10. ‘Consolidated financial statements’ IFRS 10 changes the definition of control so that the same criteria are applied to all entities to determine control. The revised definition of control focuses on the need to have both power and variable returns before control is present. All entities will need to consider the new guidance. The core principle that a consolidated entity presents a parent and its subsidiaries as if they are a single entity remains unchanged, as do the mechanics of consolidation. 1-Jan-13",
+      "3": NaN,
+      "4": NaN,
+      "0": "IFRS 10. ‘Consolidated financial statements’",
+      "2": "1-Jan-13",
+      "1": "IFRS 10 changes the definition of control so that the same criteria are applied to all entities to determine control. The revised definition of control focuses on the need to have both power and variable returns before control is present. All entities will need to consider the new guidance. The core principle that a consolidated entity presents a parent and its subsidiaries as if they are a single entity remains unchanged, as do the mechanics of consolidation."
+    },
+    {
+      "item": "IFRS 12, ‘Disclosure of interests in other entities’ “IFRS 12 sets out the required disclosures for entities reporting under IFRS 10 and IFRS 11 and it replaced the disclosure requirements currently found in IAS 28, ‘Investments in associates’. IFRS 12 requires entities to disclose information that helps financial statement readers to evaluate the nature, risks and financial effects associated with the entity’s interests in subsidiaries, associates, joint arrangements and unconsolidated structured entities. 1-Jan-13",
+      "3": NaN,
+      "4": NaN,
+      "0": "IFRS 12, ‘Disclosure of interests in other entities’",
+      "2": "1-Jan-13",
+      "1": "“IFRS 12 sets out the required disclosures for entities reporting under IFRS 10 and IFRS 11 and it replaced the disclosure requirements currently found in IAS 28, ‘Investments in associates’. IFRS 12 requires entities to disclose information that helps financial statement readers to evaluate the nature, risks and financial effects associated with the entity’s interests in subsidiaries, associates, joint arrangements and unconsolidated structured entities."
+    },
+    {
+      "item": "IFRS 13, ‘Fair value measurement’ IFRS 13 explains how to measure fair value and aims to enhance fair value disclosures; it does not say when to measure fair value or require additional fair value measurements. 1-Jan-13",
+      "3": NaN,
+      "4": NaN,
+      "0": "IFRS 13, ‘Fair value measurement’",
+      "2": "1-Jan-13",
+      "1": "IFRS 13 explains how to measure fair value and aims to enhance fair value disclosures; it does not say when to measure fair value or require additional fair value measurements."
+    }
+  ]
+}

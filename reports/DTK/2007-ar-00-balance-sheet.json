@@ -1,0 +1,137 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "continued",
+  "pages": [
+    11,
+    14
+  ],
+  "extracted_at": "2025-11-29T05:03:47.762400",
+  "data": [
+    {
+      "item": "Board Meetings None None None None None",
+      "1": "Board Meetings",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "5": "None",
+      "6": "None"
+    },
+    {
+      "item": "Name of Director: \u0018\u0018 February \u001800\u0018 \u0018\u0018 May \u001800\u0018 \u0018 September \u001800\u0018 8 October \u001800\u0018 \u0018\u0018 December \u001800\u0018 Total attendance",
+      "1": "\u0018\u0018 February \u001800\u0018",
+      "2": "\u0018\u0018 May \u001800\u0018",
+      "3": "\u0018 September \u001800\u0018",
+      "4": "8 October \u001800\u0018",
+      "5": "\u0018\u0018 December \u001800\u0018",
+      "6": "Total attendance"
+    },
+    {
+      "item": "Mahmood Manji √ √ √ √ √ 5 out of 5",
+      "1": "√",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "5 out of 5"
+    },
+    {
+      "item": "Nasim Devji √ √ √ √ √ 5 out of 5",
+      "1": "√",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "5 out of 5"
+    },
+    {
+      "item": "Amin Merali √ √ √ √ √ 5 out of 5",
+      "1": "√",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "5 out of 5"
+    },
+    {
+      "item": "Jack Kisa √ √ √ √ √ 5 out of 5",
+      "1": "√",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "5 out of 5"
+    },
+    {
+      "item": "Abdul Samji X √ √ √ √ 4 out of 5",
+      "1": "X",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "4 out of 5"
+    },
+    {
+      "item": "Nizar Juma X √ √ √ X 3 out of 5",
+      "1": "X",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "X",
+      "6": "3 out of 5"
+    },
+    {
+      "item": "Mohamood Thobani X √ √ X √ 3 out of 5",
+      "1": "X",
+      "2": "√",
+      "3": "√",
+      "4": "X",
+      "5": "√",
+      "6": "3 out of 5"
+    },
+    {
+      "item": "Karim Kanji √ √ √ √ √ 5 out of 5",
+      "1": "√",
+      "2": "√",
+      "3": "√",
+      "4": "√",
+      "5": "√",
+      "6": "5 out of 5"
+    },
+    {
+      "item": "Kabir Hyderally N/A * N/A * N/A * √ √ 2 out of 2",
+      "1": "N/A *",
+      "2": "N/A *",
+      "3": "N/A *",
+      "4": "√",
+      "5": "√",
+      "6": "2 out of 2"
+    },
+    {
+      "item": "We are glad to be part of Thika.",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "We are now in Malindi. None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}
