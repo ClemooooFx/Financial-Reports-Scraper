@@ -1,0 +1,203 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "kenya",
+  "pages": [
+    51,
+    54,
+    56,
+    73
+  ],
+  "extracted_at": "2025-11-29T01:05:44.578237",
+  "data": [
+    {
+      "item": "(Loss)/gain on disposal of property, plant and equipment",
+      "4": "(7,659)",
+      "7": "(1,422)",
+      "10": "381",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Management fees 53,672",
+      "4": "52,947",
+      "7": "53,672",
+      "10": "52,947",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None None None None",
+      "4": "None",
+      "7": "62,455",
+      "10": "-",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Miscellaneous income*",
+      "4": "157,345",
+      "7": "93,503",
+      "10": "-",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "________",
+      "4": "________",
+      "7": "________",
+      "10": "________",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "53,672",
+      "4": "223,396",
+      "7": "208,208",
+      "10": "53,328",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "======= None ======= None ======= None ======= ======= None",
+      "4": "=======",
+      "7": "=======",
+      "10": "=======",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None *Miscellaneous income mostly relates to marketing support None None None None None None None None None None",
+      "4": "None",
+      "7": "None",
+      "10": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None Services offered in Tanzania by Car & General Trading None None None None None None None None None None",
+      "4": "None",
+      "7": "None",
+      "10": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None Limited. None None None None None None None None None None",
+      "4": "None",
+      "7": "None",
+      "10": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": "",
+      "1": "(47,548)",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": "204,820",
+      "1": "None",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "2,980",
+      "4": "111,500",
+      "7": "-",
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "16,326",
+      "4": "6,433",
+      "7": "(349)",
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Property Valuation technique Significant unobservable inputs Sensitivity",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": "Significant unobservable inputs",
+      "3": "Sensitivity"
+    },
+    {
+      "item": "New Cargen House Income capitalization method. Capitalisation rate, taking into account the capitalisation of rental income potential, nature of the property, and prevailing market condition, of 7.4% (2022: 7.5% to 9 %). A slight increase in the capitalisation rate used would result in a significant decrease in fair value, and vice versa",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": "Capitalisation rate, taking into account the capitalisation of rental income potential, nature of the property, and prevailing market condition, of 7.4% (2022: 7.5% to 9 %).",
+      "3": "A slight increase in the capitalisation rate used would result in a significant decrease in fair value, and vice versa"
+    },
+    {
+      "item": "C.G. Retread Cost method Market prices for undeveloped land, taking into account the differences in location, and individual factors, such as frontage and size, between the comparable and the property, of Shs Shs 315M per acre (2022: Shs 300M - Shs 350M per acre). Warehouse construction costs of Shs 30,140 - Shs 36,000 per square meter (2022: Shs 27,000 - Shs 34,000 per square meter) A slight increase in the market price used would result in a significant increase in fair value, and vice versa A slight increase in the cost of construction used would result in a significant increase in fair value, and vice versa",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": "Market prices for undeveloped land, taking into account the differences in location, and individual factors, such as frontage and size, between the comparable and the property, of Shs Shs 315M per acre (2022: Shs 300M - Shs 350M per acre). Warehouse construction costs of Shs 30,140 - Shs 36,000 per square meter (2022: Shs 27,000 - Shs 34,000 per square meter)",
+      "3": "A slight increase in the market price used would result in a significant increase in fair value, and vice versa A slight increase in the cost of construction used would result in a significant increase in fair value, and vice versa"
+    },
+    {
+      "item": "Shanzu plots Tanzania plot Juba plot Market comparable approach Market prices for undeveloped land, taking into account the differences in location, and individual factors, such as frontage and size, between the comparables and the property, of Shs 50M - Shs 55M weighted average per acre (2022: Shs 50M - Shs 55M weighted average per acre) A slight increase in the market price used would result in a significant increase in fair value, and vice versa",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": NaN,
+      "1": NaN,
+      "2": "Market prices for undeveloped land, taking into account the differences in location, and individual factors, such as frontage and size, between the comparables and the property, of Shs 50M - Shs 55M weighted average per acre (2022: Shs 50M - Shs 55M weighted average per acre)",
+      "3": "A slight increase in the market price used would result in a significant increase in fair value, and vice versa"
+    },
+    {
+      "item": "521,318",
+      "4": NaN,
+      "7": NaN,
+      "10": NaN,
+      "0": NaN,
+      "1": "446,072",
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}
