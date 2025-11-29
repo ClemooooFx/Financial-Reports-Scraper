@@ -179,11 +179,12 @@ jobs:
       - name: Cleanup before next batch
         if: always()
         run: |
-          # Only clean up extracted JSONs, keep PDFs for next batch
-          find reports -name "*-balance-sheet.json" -delete
-          find reports -name "*-income-statement.json" -delete
-          find reports -name "*-cash-flow.json" -delete
-          find reports -name "*-equity-changes.json" -delete
+          # Only clean up extracted CSVs and metadata, keep PDFs for next batch
+          find reports -name "*-balance-sheet.csv" -delete
+          find reports -name "*-income-statement.csv" -delete
+          find reports -name "*-cash-flow.csv" -delete
+          find reports -name "*-equity-changes.csv" -delete
+          find reports -name "*.meta.json" -delete
           find reports -name "extraction_summary*.json" -delete
           echo "Cleaned up extracted JSONs (kept PDFs for next batch)"
           df -h
