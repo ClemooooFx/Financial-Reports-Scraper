@@ -1,0 +1,76 @@
+{
+  "title": "I STATEMENT OF FINANCIAL POSITION",
+  "units": "net",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T08:33:25.911948",
+  "data": [
+    {
+      "item": "UNAUDITED FINANCIAL STATEMENTS AND OTHER DISCLOSURES None None None None None None None None",
+      "3": "None",
+      "6": "None",
+      "11": "None"
+    },
+    {
+      "item": "Bank None Group Consolidated None Bank Group Consolidated",
+      "3": "None",
+      "6": "None",
+      "11": "None"
+    },
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION AS AT 31 MARCH 2020 31.03.2019 31.12.2019 31.03.2019 31.12.2019 III 31.03.2019 3 DISCLOSURES AS AT 31 MARCH 2020 UnAudited (Ksh’000) None 1.12.2019 31.03.2020 31.03.2019 31.12.2019",
+      "3": "31.03.2020",
+      "6": "31.03.2020",
+      "11": "31.03.2020"
+    },
+    {
+      "item": "None UnAudited Audited UnAudited Audited None None None Audited UnAudited UnAudited Audited",
+      "3": "UnAudited",
+      "6": "UnAudited",
+      "11": "UnAudited"
+    },
+    {
+      "item": "None (Ksh’000) (Ksh’000) (Ksh’000) (Ksh’000) None None None (Ksh’000) (Ksh’000) (Ksh’000) (Ksh’000)",
+      "3": "(Ksh’000)",
+      "6": "(Ksh’000)",
+      "11": "(Ksh’000)"
+    },
+    {
+      "item": "None None None None None None None None None",
+      "3": "",
+      "6": "",
+      "11": ""
+    },
+    {
+      "item": "Bank None Group Consolidated None",
+      "3": "None",
+      "6": "None",
+      "11": NaN
+    },
+    {
+      "item": "STATEMENT OF COMPREHENSIVE INCOME FOR THE PERIOD ENDED 31 MARCH 2020 31.03.2019 31.12.2019 31.03.2019 31.12.2019",
+      "3": "31.03.2020",
+      "6": "31.03.2020",
+      "11": NaN
+    },
+    {
+      "item": "None UnAudited Audited Unaudited Audited",
+      "3": "UnAudited",
+      "6": "Unaudited",
+      "11": NaN
+    },
+    {
+      "item": "None (Ksh’000) (Ksh’000) (Ksh’000) (Ksh’000)",
+      "3": "(Ksh’000)",
+      "6": "(Ksh’000)",
+      "11": NaN
+    },
+    {
+      "item": "None None None None None",
+      "3": "",
+      "6": "",
+      "11": NaN
+    }
+  ]
+}

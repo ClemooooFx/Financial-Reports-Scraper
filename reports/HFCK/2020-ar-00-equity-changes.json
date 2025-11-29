@@ -1,0 +1,51 @@
+{
+  "title": "changes in equity and cash flows for the year then ended, together with the separate statement of financial",
+  "units": "isas",
+  "pages": [
+    70,
+    80
+  ],
+  "extracted_at": "2025-11-29T08:33:22.267998",
+  "data": [
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Key audit matter How our audit addressed the key audit matter",
+      "0": "Key audit matter",
+      "1": "How our audit addressed the key audit matter",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Expected credit losses on loans and advances Loans and advances to customers comprise a significant portion of the Group’s total assets. The estimation of expected credit losses (ECL) on loans and advances to customers requires management’s judgment in the assumptions that are applied in the models used to calculate ECL. We evaluated the appropriateness of the methodology applied by management in the estimation of expected credit losses for consistency with IFRS 9.",
+      "0": "Expected credit losses on loans and advances Loans and advances to customers comprise a significant portion of the Group’s total assets. The estimation of expected credit losses (ECL) on loans and advances to customers requires management’s judgment in the assumptions that are applied in the models used to calculate ECL.",
+      "1": "We evaluated the appropriateness of the methodology applied by management in the estimation of expected credit losses for consistency with IFRS 9.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "At end of year",
+      "0": NaN,
+      "1": "1,923,071",
+      "2": "4,343,512",
+      "3": "3,551,370",
+      "4": "9,817,953"
+    }
+  ]
+}
