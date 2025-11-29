@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 92,
+  "table_number": 1,
+  "title": "Financial assets",
+  "rows": 8,
+  "columns": [
+    "Financial services",
+    "Government",
+    "Manufacturing",
+    "Wholesale and\nretail trade",
+    "Transportation and communication",
+    "Agricultural",
+    "Private individuals",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2025-11-29T13:52:52.927927"
+}

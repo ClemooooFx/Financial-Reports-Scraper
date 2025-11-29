@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 40,
+  "table_number": 1,
+  "title": "Date of Tenure",
+  "rows": 11,
+  "columns": [
+    "Director",
+    "Independence",
+    "Age",
+    "Date of\nAppointment",
+    "Tenure\n(years and months)",
+    "Nationality",
+    "Gender"
+  ],
+  "extracted_at": "2025-11-29T13:53:23.598631"
+}
