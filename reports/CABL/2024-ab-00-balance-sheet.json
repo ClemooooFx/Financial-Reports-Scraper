@@ -1,0 +1,35 @@
+{
+  "title": "OVERVIEW OF 2024 PERFORMANCE CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER CONSOLIDATED STATEMENT OF FINANCIAL POSITION — COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2024 AS AT 31 DECEMBER 2024",
+  "units": "tpm",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T00:10:17.193310",
+  "data": [
+    {
+      "item": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2024 2024 2023 KShs‘000 KShs‘000 Revenue 2,566,273 2,524,553 Cost of sales (1,810,390) (1,854,293) Gross profit 755,883 670,260 Other income 12,617 20,717 Factory expenses (159,661) (152,740) Administrative expenses (331,594) (459,413) Selling and distribution expenses (98,352) (98,546) Profit/(loss) before depreciation, impairment and finance costs 178,893 (19,722) Impairment (loss) / writeback on trade receivables and contract assets (29,537) 2,423 Depreciation and amortisation (190,032) (194,385) Results from operating activities (40,676) (211,684) Interest expense (482,952) (337,034) Exchange (losses) / gains (12,801) 93,787 Net finance costs (495,753) (243,247) Loss before income tax (536,429) (454,931) Income tax credit 177,667 153,054 Loss for the year (358,762) (301,877) Other comprehensive income Items that are or may reclassified to profit or loss: Re-measurement gain on retirement benefit plan 1,524 9,864 Deferred tax effect on remeasurement gain (457) (2,959) 1,067 6,905 Foreign currency translation differences on foreign operations (11,297) (47,984) Total other comprehensive income (10,230) (41,079) Total comprehensive income for the year (368,992) (342,956) Loss for the year attributable to: Owners of the company (248,557) (205,621) Non-controlling interest (110,205) (96,256) (358,762) (301,877) Total comprehensive income attributable to: Owners of the company (282,887) (226,109) Non-controlling interest (86,105) (116,847) (368,992) (342,956) Basic and diluted earnings per share KShs ( 0.98 ) KShs ( 0.81)",
+      "1": "None",
+      "2": "None"
+    },
+    {
+      "item": "None",
+      "1": "D 31 DECEMB 2024 KShs‘000 2,566,273 (1,810,390)",
+      "2": "None"
+    },
+    {
+      "item": "CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT 31 DECEMBER 2024 2024 2023 ASSETS KShs‘000 KShs‘000 Non-current assets Property, plant and equipment 1,931,996 2,155,985 Right-of-use assets 1,866,593 2,081,084 Investment properties 219,357 259,216 4,017,946 4,496,285 Current assets Inventories 417,718 441,076 Trade and other receivables 304,382 365,671 Current tax recoverable 2,170 - Cash and cash equivalents 42,720 105,259 766,990 912,006 TOTAL ASSETS 4,784,936 5,408,291 EQUITY AND LIABILITIES Capital and reserves Issued capital 126,563 126,563 Share premium 545 545 Revaluation reserve 2,023,209 2,023,209 Retained earnings (1,709,611) (1,460,785) Foreign currency translation reserve (183,763) (149,702) Total equity attributable to equity holders of the company 256,943 539,830 Non-controlling interest (259,489) (173,384) Total equity 2,546 366,446 Non-current liabilities Bank loans and borrowings 275,460 320,633 Shareholders loan 992,322 867,880 Liability for staff gratuity 44,142 41,042 Deferred tax liability 31,082 262,695 1,343,006 1,492,250 Current liabilities Trade and other payables 1,157,242 1,447,846 Short-term portion of bank loan 2,274,130 2,091,902 Current tax payable 9,080 4,974 Dividends payable 4,024 4,873 3,444,476 3,549,595 TOTAL EQUITY AND LIABILITIES 4,784,936 5,408,291",
+      "1": "None",
+      "2": "None"
+    },
+    {
+      "item": "(482,952) (12,801)",
+      "1": "(337,034) 93,787",
+      "2": NaN
+    },
+    {
+      "item": "CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2024 2024 2023 KShs‘000 KShs‘000 Cash generated from operations 552,402 231,133 Income taxes paid (1,318) (3,649) Cash flows generated from operating activities 551,084 227,484 Cash flows from investing activities Purchase of property, plant and equipment (2,580) (3,913) Net cash used in investing activities (2,580) (3,913) Cash flows from financing activities Repayment of bank loans and borrowings (57,296) (77,019) Interest accrued (428,457) (170,262) Dividends paid (849) (252) Net cash used in financing activities (486,602) (247,533) Net decrease in cash and cash equivalents (61,902) (23,962) Cash and cash equivalents at 1 January 105,259 129,221 Cash and cash equivalents at 31 December 43,357 105,259",
+      "1": "None",
+      "2": "None"
+    }
+  ]
+}
