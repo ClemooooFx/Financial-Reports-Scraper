@@ -1,0 +1,396 @@
+{
+  "title": "Company statement of changes in equity",
+  "units": "millions",
+  "pages": [
+    126,
+    127,
+    128,
+    129,
+    154,
+    155,
+    156,
+    157,
+    158
+  ],
+  "extracted_at": "2025-11-29T10:07:35.308867",
+  "data": [
+    {
+      "item": "For year ended 31 December 2022",
+      "1": "Share capital KShs million",
+      "2": "Share premium KShs million",
+      "3": "Retained earnings KShs million",
+      "4": "Total KShs million",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "1": "3,213",
+      "2": "27,690",
+      "3": "59,481",
+      "4": "90,384",
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Share capital KShs million Share premium KShs million Retained earnings KShs million Total KShs million",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "For year ended 31 December 2021",
+      "5": NaN
+    },
+    {
+      "item": "",
+      "1": "-",
+      "2": "(3,213)",
+      "3": "(3,213)",
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3,213",
+      "1": "27,690",
+      "2": "59,481",
+      "3": "90,384",
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Note 2021 KShs million",
+      "1": NaN,
+      "2": "2022 KShs million",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "2": "49,477",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Description IFRS 9 Classification",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "Group’s credit risk grades",
+      "5": NaN
+    },
+    {
+      "item": "Normal risk Stage 1",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "10",
+      "5": NaN
+    },
+    {
+      "item": "Watch risk Stage 2",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "20",
+      "5": NaN
+    },
+    {
+      "item": "Substandard risk Stage 3",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "30",
+      "5": NaN
+    },
+    {
+      "item": "Doubtful risk None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "40",
+      "5": NaN
+    },
+    {
+      "item": "Loss None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "50",
+      "5": NaN
+    },
+    {
+      "item": "Corporate exposures Retail exposures All exposures",
+      "1": "Retail exposures",
+      "2": "All exposures",
+      "3": NaN,
+      "4": NaN,
+      "0": "Corporate exposures",
+      "5": NaN
+    },
+    {
+      "item": "• Information obtained during periodic review of customer files – e.g. audited financial statements, management accounts, budgets and projections. Examples of areas of particular focus are: gross profit margins, financial leverage ratios, debt service coverage, compliance with covenants, quality of management, senior management changes. • Data from credit reference agencies, press articles, changes in external credit ratings. • Quoted bond and credit default swap (CDS) prices for the borrower where available. • Actual and expected significant changes in the political, regulatory and technological environment of the borrower or in its business activities. • Internally collected data on customer behaviour – e.g. utilisation of credit card facilities. • Affordability metrics. • External data from credit reference agencies, including industry-standard credit scores. • Payment record – this includes overdue status as well as a range of variables about payment ratios. • Utilisation of the granted limit. • Requests for and granting of forbearance. • Existing and forecast changes in business, financial and economic conditions.",
+      "1": "• Internally collected data on customer behaviour – e.g. utilisation of credit card facilities. • Affordability metrics. • External data from credit reference agencies, including industry-standard credit scores.",
+      "2": "• Payment record – this includes overdue status as well as a range of variables about payment ratios. • Utilisation of the granted limit. • Requests for and granting of forbearance. • Existing and forecast changes in business, financial and economic conditions.",
+      "3": NaN,
+      "4": NaN,
+      "0": "• Information obtained during periodic review of customer files – e.g. audited financial statements, management accounts, budgets and projections. Examples of areas of particular focus are: gross profit margins, financial leverage ratios, debt service coverage, compliance with covenants, quality of management, senior management changes. • Data from credit reference agencies, press articles, changes in external credit ratings. • Quoted bond and credit default swap (CDS) prices for the borrower where available. • Actual and expected significant changes in the political, regulatory and technological environment of the borrower or in its business activities.",
+      "5": NaN
+    },
+    {
+      "item": "Risk Factor Description",
+      "1": NaN,
+      "2": "Weight",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Financial Risk Is the assessment of entity’s assets & liabilities structure (i.e. the mix of long- and short-term debt, maturity structure, interest rates, collateralization and other elements), cash flows and P&L in the light of current financing conditions.",
+      "1": NaN,
+      "2": "50%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Company Is the assessment of the size and scope of the rated entity, which often drives its diversification in terms of products, customers and geography",
+      "1": NaN,
+      "2": "10%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Management Is the assessment of the quality and experience of the management team as well as its strategic objectives in light of the sector specifics.",
+      "1": NaN,
+      "2": "10%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Banking Relationship Is the assessment of the current and historical behaviour of the entity’s with bank products",
+      "1": NaN,
+      "2": "20%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Industry Is the assessment of entity’s future market, regulatory environment and industry environment with insights into competition, entry barriers and trends.",
+      "1": NaN,
+      "2": "10%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Staging Internal risk rating Days past due",
+      "1": "12-month weighted-average PD",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Grade 10 AAA to A 0 - 30 days",
+      "1": "0.05%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Default",
+      "1": "100%",
+      "2": NaN,
+      "3": "90 days and above",
+      "4": NaN,
+      "0": "Grade 30 – Grade 50",
+      "5": NaN
+    },
+    {
+      "item": "Staging",
+      "1": "12-month weighted-average PDw Personal loans",
+      "2": "12-month weighted-average PD Mortgage loans",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Grade 10",
+      "1": "5%",
+      "2": "9%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Grade 30 – Grade 50",
+      "1": "100%",
+      "2": "100%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Staging CBK grading Days past due Credit quality",
+      "1": NaN,
+      "2": "Days past due",
+      "3": NaN,
+      "4": NaN,
+      "0": "Staging",
+      "5": NaN
+    },
+    {
+      "item": "Stage 1 Normal Up to date within contractual terms or has less than 30 days arrears Performing",
+      "1": NaN,
+      "2": "Up to date within contractual terms or has less than 30 days arrears",
+      "3": NaN,
+      "4": NaN,
+      "0": "Stage 1",
+      "5": NaN
+    },
+    {
+      "item": "None Watch 31 to 90 days None",
+      "1": NaN,
+      "2": "31 to 90 days",
+      "3": NaN,
+      "4": NaN,
+      "0": "None",
+      "5": NaN
+    },
+    {
+      "item": "Stage 3 Substandard 91 to 180 days In Default",
+      "1": NaN,
+      "2": "91 to 180 days",
+      "3": NaN,
+      "4": NaN,
+      "0": "Stage 3",
+      "5": NaN
+    },
+    {
+      "item": "None Doubtful 181 to 360 days None",
+      "1": NaN,
+      "2": "181 to 360 days",
+      "3": NaN,
+      "4": NaN,
+      "0": "None",
+      "5": NaN
+    },
+    {
+      "item": "None Loss above 360 days None",
+      "1": NaN,
+      "2": "above 360 days",
+      "3": NaN,
+      "4": NaN,
+      "0": "None",
+      "5": NaN
+    },
+    {
+      "item": "Macro-economic factor",
+      "1": "2022",
+      "2": "2023",
+      "3": "2024",
+      "4": "2025",
+      "0": NaN,
+      "5": "2026"
+    },
+    {
+      "item": "Lending rate, %, AVE",
+      "1": "10",
+      "2": "10.36",
+      "3": "10.36",
+      "4": "10",
+      "0": NaN,
+      "5": "9.64"
+    },
+    {
+      "item": "Nominal GDP per capita, *LCU",
+      "1": "236,890.59",
+      "2": "258,323.02",
+      "3": "280,954.71",
+      "4": "305,260.16",
+      "0": NaN,
+      "5": "333,862.84"
+    },
+    {
+      "item": "Goods and services imports, *LCU millions",
+      "1": "2,884,493",
+      "2": "3,106,964",
+      "3": "3,362,216",
+      "4": "3,639,469",
+      "0": NaN,
+      "5": "3,910,355"
+    },
+    {
+      "item": "Upside",
+      "1": "Median/Central",
+      "2": "Downside",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10%",
+      "1": "80%",
+      "2": "10%",
+      "3": NaN,
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None",
+      "1": "Interest rates",
+      "2": NaN,
+      "3": "None",
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5% KShs millions 5% KShs millions",
+      "1": "-5% KShs millions",
+      "2": NaN,
+      "3": "-5% KShs millions",
+      "4": NaN,
+      "0": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Retail portfolio",
+      "1": "145",
+      "2": "(145)",
+      "3": "145",
+      "4": "(145)",
+      "0": NaN,
+      "5": NaN
+    }
+  ]
+}

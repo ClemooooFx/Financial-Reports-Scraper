@@ -1,0 +1,478 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "nav",
+  "pages": [
+    8,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    18,
+    20,
+    22
+  ],
+  "extracted_at": "2025-11-29T10:07:37.458640",
+  "data": [
+    {
+      "item": "Methodology None",
+      "2": "Indicative Equity Value Range (USD m except for P/B multiples)",
+      "4": "None",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None",
+      "2": "Low",
+      "4": "High",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None",
+      "2": "1.49x",
+      "4": "None",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "87",
+      "2": NaN,
+      "4": NaN,
+      "1": "87",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "89",
+      "2": NaN,
+      "4": NaN,
+      "1": "89",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Name",
+      "2": "Number of Shares",
+      "4": NaN,
+      "1": NaN,
+      "3": "Percentage Shareholding",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "2019",
+      "2": "2020",
+      "4": NaN,
+      "1": NaN,
+      "3": "2021",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "84,301 (38,515) (8,889)",
+      "2": "95,065 (41,837) (27,509)",
+      "4": NaN,
+      "1": NaN,
+      "3": "109,323 (47,550) (13,998)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "36,897",
+      "2": "25,719",
+      "4": NaN,
+      "1": NaN,
+      "3": "47,775",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "25,165",
+      "2": "19,604",
+      "4": NaN,
+      "1": NaN,
+      "3": "34,173",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "535,371 169,242 193,959",
+      "2": "595,255 210,784 181,771",
+      "4": NaN,
+      "1": NaN,
+      "3": "675,481 276,292 187,899",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "898,572",
+      "2": "987,810",
+      "4": NaN,
+      "1": NaN,
+      "3": "1,139,672",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "686,583 82,248 129,741",
+      "2": "787,224 58,163 142,423",
+      "4": NaN,
+      "1": NaN,
+      "3": "884,958 83,001 171,713",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "TMB Statement of Financial Position CDF Millions KES Millions",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "31-Dec-18",
+      "2": "31-Dec-19",
+      "4": "31-Dec-20",
+      "1": NaN,
+      "3": NaN,
+      "5": "31-Dec-21",
+      "6": "31-Dec-21"
+    },
+    {
+      "item": "869,311 49,655 420,953 3,408 775 24,063 39,660 15,027 60,206 2,167",
+      "2": "951,255 83,231 526,132 3,258 1,546 50,310 60,838 35,959 59,983 1,812",
+      "4": "1,489,605 16,335 613,719 3,911 799 31,633 69,436 40,430 94,499 1,490",
+      "1": NaN,
+      "3": NaN,
+      "5": "1,845,508 306 814,302 3,179 1,433 63,146 72,535 40,447 99,567 2,303",
+      "6": "104,384 17 46,058 180 81 3,572 4,103 2,288 5,632 130"
+    },
+    {
+      "item": "1,485,225",
+      "2": "1,774,325",
+      "4": "2,361,856",
+      "1": NaN,
+      "3": NaN,
+      "5": "2,942,726",
+      "6": "166,444"
+    },
+    {
+      "item": "63,242 40,823 1,176,624 4,190 3,211 22,251 2,173 - -",
+      "2": "17,512 41,294 - 1,459,561 9,160 2,507 19,907 8,139 22,853 3,549",
+      "4": "18,125 - 2,044,369 9,866 1,807 16,092 9,961 22,753 5,551",
+      "1": NaN,
+      "3": NaN,
+      "5": "10,456 2,617,776 9,136 4,426 24,576 5,002 14,503 6,731",
+      "6": "591 - 148,064 517 250 1,390 283 820 381"
+    },
+    {
+      "item": "1,312,514",
+      "2": "1,584,482",
+      "4": "2,128,524",
+      "1": NaN,
+      "3": NaN,
+      "5": "2,692,607",
+      "6": "152,297"
+    },
+    {
+      "item": "172,711",
+      "2": "189,843",
+      "4": "233,333",
+      "1": NaN,
+      "3": NaN,
+      "5": "250,119",
+      "6": "14,147"
+    },
+    {
+      "item": "19,383 71,392 63,144 18,793",
+      "2": "22,038 90,321 63,512 13,973",
+      "4": "26,181) 121,278 72,462 13,412",
+      "1": NaN,
+      "3": NaN,
+      "5": "27,765 135,253 73,918 13,182",
+      "6": "1,570 7,650 4,181 746"
+    },
+    {
+      "item": "Exchange rates as at 31 December",
+      "2": "2018",
+      "4": "2019",
+      "1": NaN,
+      "3": NaN,
+      "5": "2020",
+      "6": "2021"
+    },
+    {
+      "item": "813",
+      "2": NaN,
+      "4": NaN,
+      "1": "813",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Name* Address Position",
+      "2": NaN,
+      "4": NaN,
+      "1": "Address",
+      "3": "Position",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None P.O. Box 48400-00100 Nairobi Non-executive, Chairman",
+      "2": NaN,
+      "4": NaN,
+      "1": "P.O. Box 48400-00100 Nairobi",
+      "3": "Non-executive, Chairman",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None P.O. Box 48400-00100 Nairobi Non-executive",
+      "2": NaN,
+      "4": NaN,
+      "1": "P.O. Box 48400-00100 Nairobi",
+      "3": "Non-executive",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None P.O. Box 48400-00100 Nairobi Executive, Group CEO",
+      "2": NaN,
+      "4": NaN,
+      "1": "P.O. Box 48400-00100 Nairobi",
+      "3": "Executive, Group CEO",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None P.O. Box 48400-00100 Nairobi Executive, Group CFO",
+      "2": NaN,
+      "4": NaN,
+      "1": "P.O. Box 48400-00100 Nairobi",
+      "3": "Executive, Group CFO",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Name* Number of Shares",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "Percentage Shareholding",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 30,700",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "0.00%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 635,001,947",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "19.76%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Nil",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "0.00%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None 103,800",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "0.00%",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Incorporated in Kenya: None None",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Country of Incorporation",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "Beneficial Ownership (%)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Kenya",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "100",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Incorporated outside Kenya: None None",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Tanzania",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "100",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None South Sudan",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "100",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Burundi",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "100",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Uganda",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "100",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Rwanda",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "87.56",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Associate: None None None",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "None",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Country of Incorporation Beneficial Ownership (%)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "Beneficial Ownership (%)",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None Kenya 45",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": "45",
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "815",
+      "2": NaN,
+      "4": NaN,
+      "1": "815",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "817",
+      "2": NaN,
+      "4": NaN,
+      "1": "817",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "RESOLUTION FOR AGAINST WITHHELD None None None",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "719",
+      "2": NaN,
+      "4": NaN,
+      "1": "719",
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "www.kcbgroup.com",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}
