@@ -1,0 +1,268 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "loss",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T02:31:26.348637",
+  "data": [
+    {
+      "item": "I STATEMENT OF FINANCIAL POSITION GROUP BANK",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "A ASSETS 1 Cash (local and foreign) 2 Balances due from Central Bank Of Kenya 3 Kenya Government and other securities held for dealing purposes 4 Financial Assets at fair value through profit and loss 5.a.a Investment Securities: Held to Maturity - Kenya Government Securities a.b Investment Securities: Held to Maturity - Other Securities b.a Investment Securities: Available for Sale - Kenya Government Securities b.b Investment Securities: Available for Sale - Other Securities 6 Deposits and balances due from local banking institutions 7 Deposits and balances due from banking institutions abroad 8 Tax recoverable 9 Loans and advances to customers (net) 10 Balances due from banking institutions in the group 11 Investments in associates 12 Investments in subsidiary companies 13 Investment in joint ventures 14 Investment in properties 15 Property, plant and equipment 16 Prepaid lease rentals 17 Intangible assets 18 Deferred tax asset 19 Retirement benefit asset 20 Other assets 21 TOTAL ASSETS B LIABILITIES 22 Balances due to Central Bank Of Kenya 23 Customer deposits 24 Deposits and balances due to local banking institutions 25 DepositAs and balances due to banking institutions abroad 26 Other money market deposits 27 Borrowed funds 28 Balances due to banking institutions in the group 29 Tax payable 30 Dividends payable 31 Deferred tax liability 32 Retirement benefit liability 33 Other liabilities 34 TOTAL LIABILITIES C SHAREHOLDERS’ FUNDS 35 Paid up/Assigned capital 36 Share premium/(discount) 37 Revaluation reserve 38 Retained earnings/ Accumulated losses 39 Statutory Loan Loss Reserve None 31 - Dec - 16 KSHS.’000 Audited 8,432,988 17,249,716 147 37,158,762 - 20,675,540 4,082,606 703,530 4,313,773 27,674 236,935,564 31 - Dec - 16 31 - Mar - 16 KSHS.’000 KSHS.’000 Audited (Un-audited) 8,119,618 7,821,957 16,338,102 19,545,749 - 147 148 37,003,530 34,286,737 - - 20,675,540 34,768,272 3,949,256 4,742,767 703,530 5,364,839 4,656,363 1,916,075 - - 236,398,405 213,234,193 352,068 - 755,118 755,118 2,512,920 2,512,920 - - - - 7,817,715 7,704,516 36,352 36,964 1,410,156 1,177,636 1,051,197 609,156 - - 8,217,742 13,877,841 349,997,760 348,354,889 - - 259,471,749 260,532,716 3,402,893 4,679,066 - 1,066,685 - - 19,813,260 19,822,412 - - 1,248,698 1,628,323 - - - - - - 6,015,329 5,972,386 289,951,928 293,701,589 4,889,317 4,889,317 2,889,789 2,889,789 1,256,443 403,407 46,970,978 41,262,564 717,844 717,844 None",
+      "2": "31 - Mar - 17",
+      "4": "31 - Mar - 16",
+      "5": "31 - Mar - 17"
+    },
+    {
+      "item": "None None None None None",
+      "2": "KSHS.’000",
+      "4": "KSHS.’000",
+      "5": "KSHS.’000"
+    },
+    {
+      "item": "None None None None",
+      "2": "-",
+      "4": "-",
+      "5": "-"
+    },
+    {
+      "item": "None None 2,409,297 - - - 8,308,698 36,352 1,713,117 1,067,507 - None None",
+      "2": "2,420,849",
+      "4": "2,186,927",
+      "5": "755,118"
+    },
+    {
+      "item": "None None 8,740,981 None None",
+      "2": "11,278,494",
+      "4": "14,555,001",
+      "5": "10,799,249"
+    },
+    {
+      "item": "None None 351,856,250 None None",
+      "2": "378,462,425",
+      "4": "350,720,175",
+      "5": "376,018,201"
+    },
+    {
+      "item": "None None - 260,153,437 3,411,977 - - 19,813,260 - 1,248,698 - - - 6,109,913 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "None None 290,737,285 None None",
+      "2": "314,850,509",
+      "4": "295,805,028",
+      "5": "312,945,437"
+    },
+    {
+      "item": "None None 4,889,317 2,889,789 1,338,103 48,208,633 736,418 (1,158,031) 3,911,453 498,841 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "40 Other Reserves None (1,088,833) 66,228",
+      "2": "(2,759,798)",
+      "4": "(1,215,801)",
+      "5": "(1,217,348)"
+    },
+    {
+      "item": "41 Proposed dividends 42 Capital grants 43 TOTAL SHAREHOLDERS’ FUNDS 43.1 Non - Controlling Interest 44 TOTAL LIABILITIES & SHAREHOLDERS’ FUNDS None None 3,911,453 3,911,453 498,841 512,698 60,045,832 54,653,300 - - 349,997,760 348,354,889 None",
+      "2": "3,911,453",
+      "4": "3,911,453",
+      "5": "3,911,453"
+    },
+    {
+      "item": "None None 61,314,523 None None",
+      "2": "63,827,452",
+      "4": "55,297,730",
+      "5": "63,072,764"
+    },
+    {
+      "item": "None None (195,558) None None",
+      "2": "(215,536)",
+      "4": "(382,582)",
+      "5": "-"
+    },
+    {
+      "item": "II STATEMENT OF COMPREHENSIVE INCOME GROUP BANK",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "1.0 INTEREST INCOME 1.1 Loans and advances 1.2 Government securities 1.3 Deposits and placements with banking Institutions 1.1 Other Interest Income 1.5 Total Interest Income 2.0 INTEREST EXPENSE 2.1 Customer deposits 2.2 Deposits and placements from banking institutions 2.3 Other Interest Expenses 2.4 Total Interest Expenses 3 NET INTEREST INCOME/(LOSS) 4 NON - INTEREST INCOME 4.1 Fees and commissions on loans and advances 4.2 Other Fees and commissions 4.3 Foreign exchange trading income/ (loss) 4.4 Dividend income 4.5 Other income 4.6 Total Non - interest income 5.0 TOTAL OPERATING INCOME 6.0 OTHER OPERATING EXPENSES 6.1 Loan loss provision 6.2 Staff costs 6.3 Directors’ emoluments 6.4 Rentals charges 6.5 Depreciation charge on property and equipment 6.6 Armortisation charges None 31 - Dec - 16 KSHS.’000 Audited 33,378,181 8,495,221 391,319 - 31 - Dec - 16 31 - Mar - 16 KSHS.’000 KSHS.’000 Audited (Un-audited) 33,261,095 8,294,204 8,478,549 2,126,214 356,476 204,950 - - 42,096,119 10,625,368 11,617,358 3,575,078 117,980 6,819 991,905 281,834 12,727,244 3,863,730 29,368,876 6,761,638 2,330,859 686,664 6,487,220 1,475,247 1,603,807 459,662 73,001 9 1,147,434 534,304 11,642,323 3,155,886 41,011,198 9,917,524 2,594,567 625,000 8,941,049 2,090,002 115,861 7,722 1,363,794 313,521 1,834,722 465,170 447,983 100,636 None",
+      "2": "31 - Mar - 17",
+      "4": "31 - Mar - 16",
+      "5": "31 - Mar - 17"
+    },
+    {
+      "item": "None None 42,264,721 None None",
+      "2": "9,517,597",
+      "4": "10,665,826",
+      "5": "9,480,380"
+    },
+    {
+      "item": "None None 11,658,414 117,980 991,905 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "None None 12,768,300 None None",
+      "2": "2,831,307",
+      "4": "3,873,393",
+      "5": "2,822,928"
+    },
+    {
+      "item": "None None 29,496,421 2,330,859 7,456,650 1,804,344 73,001 1,109,655 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "None None 12,774,510 None None",
+      "2": "3,388,598",
+      "4": "3,463,750",
+      "5": "3,101,214"
+    },
+    {
+      "item": "None None 42,270,931 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "None None 2,599,671 625,000 9,399,704 2,180,180 163,742 19,127 1,462,440 335,280 1,936,699 473,493 486,117 103,442 None None",
+      "2": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "6.7 Other operating expenses 6.8 Total other operating expenses 7 Profit/(Loss) before tax and exceptional items 8 Exceptional items - Early Retirement Costs 8 Exceptional items - Share of profit of associate 9 Profit/(Loss) before tax 10 Current tax 11 Deferred tax 12 Profit/(loss) after tax and exceptional items 13.0 OTHER COMPREHENSIVE INCOME: 13.1 Gains/(Losses) from translating the financial statements of foreign operations 13.2 Fair value changes in available - for - sale financial assets 13.3 Revaluation Surplus on property, Plant and Equipment 13.4 Share of other comprehensive income of associates 13.5 Income tax relating to components of other comprehensive income 14 OTHER COMPREHENSIVE INCOME NET OF TAX 15 TOTAL COMPREHENSIVE INCOME Basic Earnings per share Diluted Earnings per share Dividend per share None 31 - Dec - 16 KSHS.’000 Audited 8,592,834 31 - Mar - 16 KSHS.’000 (Un-audited) 1,499,208 31 - Dec - 16 31 - Mar - 16 KSHS.’000 KSHS.’000 Audited (Un-audited) 7,689,080 1,413,049 22,987,056 5,015,100 18,024,143 4,902,424 (3,738) - - - 18,020,405 4,902,424 5,511,732 1,470,727 (542,891) - 13,051,564 3,431,697 - - 754,035 1,909,096 1,227,694 - - - (368,308) - 1,613,421 1,909,096 14,664,986 5,340,793 2.67 0.70 2.22 0.70 0.80 - None",
+      "2": "31 - Mar - 17",
+      "4": NaN,
+      "5": "31 - Mar - 17"
+    },
+    {
+      "item": "None None None None None None",
+      "2": "KSHS.’000",
+      "4": NaN,
+      "5": "KSHS.’000"
+    },
+    {
+      "item": "None None 24,641,207 5,235,730 None None",
+      "2": "5,576,350",
+      "4": NaN,
+      "5": "5,359,873"
+    },
+    {
+      "item": "None None 17,629,724 (3,738) 97,546 5,020,452 - (80,294) None None",
+      "2": "4,498,538",
+      "4": NaN,
+      "5": "4,398,793"
+    },
+    {
+      "item": "None None 17,723,532 4,940,159 None None",
+      "2": "4,510,091",
+      "4": NaN,
+      "5": "4,398,793"
+    },
+    {
+      "item": "None None 5,595,665 (548,342) 1,505,146 - None None",
+      "2": "1,282,237",
+      "4": NaN,
+      "5": "1,238,727"
+    },
+    {
+      "item": "None None 12,676,210 3,435,012 None None",
+      "2": "3,227,854",
+      "4": NaN,
+      "5": "3,160,066"
+    },
+    {
+      "item": "None None 1,859,238 708,015 - 1,909,096 None None",
+      "2": "",
+      "4": NaN,
+      "5": ""
+    },
+    {
+      "item": "None None 1,227,694 None None",
+      "2": "-",
+      "4": NaN,
+      "5": "-"
+    },
+    {
+      "item": "None None 7,776 None None",
+      "2": "-",
+      "4": NaN,
+      "5": "-"
+    },
+    {
+      "item": "None None (368,308) None None",
+      "2": "-",
+      "4": NaN,
+      "5": "-"
+    },
+    {
+      "item": "None None 1,909,096 None None",
+      "2": "",
+      "4": NaN,
+      "5": ""
+    },
+    {
+      "item": "None None 3,434,415 None None None",
+      "2": "(131,715)",
+      "4": NaN,
+      "5": "(128,515)"
+    },
+    {
+      "item": "None None 16,110,625 5,344,108 None None",
+      "2": "3,096,140",
+      "4": NaN,
+      "5": "3,031,551"
+    },
+    {
+      "item": "None None 2.64 2.20 0.80 0.70 0.70 - None None",
+      "2": "",
+      "4": NaN,
+      "5": ""
+    },
+    {
+      "item": "III OTHER DISCLOSURES GROUP BANK",
+      "2": "",
+      "4": NaN,
+      "5": ""
+    },
+    {
+      "item": "1 NON PERFORMING LOANS AND ADVANCES a) Gross non - performing loans and advances Less b) Interest in suspense c) Total Non - performing loans and advances (a - b) Less d) Loan loss provisions e) Net Non performing loans (c - d) f) Discounted Value of SecuritiWes g) Net NPLs Exposure (e - f) 2 Insider loans and advances a) Directors, shareholders and associates b) Employees c) Total insider loans, advances and other facilities 3 Off - Balance Sheet Items a) Letters of credit,guarantees, acceptances b) Forwards, swaps and options c) Other contingent liabilities d) Total contingent liabilities Capital strength a) Core capital b) Minimum Statutory Capital c) Excess/( deficiency) d) Supplementary capital e) Total capital f) Total risk weighted assets g) Core capital/total deposit liabilities h) Minimum Statutory Ratio i) Excess/( deficiency) j) Core capital/total risk weighted assets k) Minimum Statutory Ratio l) Excess/( deficiency)(j - k) m) Total capital/total risk weighted assets n) Minimum Statutory Ratio o) Excess/( deficiency)(m - n) 5 Liquidity a) Liquidity Ratio b) Minimum Statutory Ratio c) Excess/ (deficiency)(a - b) None 31 - Dec - 16 KSHS.’000 Audited 11,274,174 1,128,934 10,145,240 3,868,538 6,276,702 6,276,702 31 - Mar - 16 KSHS.’000 (Un-audited) 8,581,586 - 1,250,339 7,331,247 - 3,113,946 4,217,301 4,217,301 31 - Dec - 16 31 - Mar - 16 KSHS.’000 KSHS.’000 Audited (Un-audited) 11,273,048 8,581,586 1,128,934 1,250,339 10,144,114 7,331,247 3,867,412 3,113,946 6,276,702 4,217,301 6,276,702 4,217,301 - - 1,320,278 299,836 7,681,221 6,634,835 9,001,499 6,934,671 12,465,919 12,748,534 6,913,880 15,475,855 - - 19,379,799 28,224,389 51,924,808 44,956,442 1,000,000 1,000,000 50,924,808 43,956,442 20,845,215 19,141,109 72,770,022 64,097,551 319,614,654 303,957,229 20.0% 16.9% 10.5% 10.5% 9.5% 6.4% 16.2% 14.8% 10.5% 10.5% 5.7% 4.3% 22.8% 21.1% 14.5% 14.5% 8.3% 6.6% 33.2% 38.5% 20.0% 20.0% 13.2% 18.5% None",
+      "2": "31 - Mar - 17",
+      "4": NaN,
+      "5": "31 - Mar - 17"
+    },
+    {
+      "item": "None None - 1,320,278 7,681,221 - 299,836 6,634,835 None None",
+      "2": "-",
+      "4": NaN,
+      "5": "-"
+    },
+    {
+      "item": "None None 9,001,499 12,465,919 6,913,880 - 6,934,671 12,748,534 15,475,855 - None None",
+      "2": "9,779,291",
+      "4": NaN,
+      "5": "9,779,291"
+    },
+    {
+      "item": "None None 19,379,799 28,224,389 51,382,064 46,881,244 1,000,000 1,000,000 50,382,064 45,881,244 20,880,527 19,141,109 72,262,591 66,022,352 318,532,396 304,952,392 19.7% 17.5% 10.5% 10.5% 9.2% 7.0% 16.1% 15.4% 10.5% 10.5% 5.6% 4.9% 22.7% 21.7% 14.5% 14.5% 8.2% 7.2% 33.7% 39.0% 20.0% 20.0% 13.7% 19.0% None None None",
+      "2": "24,069,428",
+      "4": NaN,
+      "5": "24,069,428"
+    }
+  ]
+}
