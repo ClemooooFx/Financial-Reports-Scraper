@@ -1,0 +1,164 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "loss",
+  "pages": [
+    2
+  ],
+  "extracted_at": "2025-11-29T10:12:48.812186",
+  "data": [
+    {
+      "item": "KCB GROUP PLC UN-AUDITED FINANCIAL STATEMENTS AND OTHER DISCLOSURES FOR THE PERIOD ENDED 30 SEPTEMBER 2023",
+      "0": "",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "8": NaN,
+      "12": NaN,
+      "16": NaN,
+      "17": NaN
+    },
+    {
+      "item": "None None",
+      "0": "",
+      "2": NaN,
+      "3": NaN,
+      "7": NaN,
+      "8": NaN,
+      "12": NaN,
+      "16": NaN,
+      "17": NaN
+    },
+    {
+      "item": "None None None None None None None None None None None None None None None",
+      "0": NaN,
+      "2": "KCB KENYA BANK",
+      "3": "None",
+      "7": "NATIONAL BANK OF KENYA",
+      "8": "None",
+      "12": "KCB GROUP PLC COMPANY",
+      "16": "None",
+      "17": "KCB GROUP PLC CONSOLIDATED"
+    },
+    {
+      "item": "None None 31-Mar-23 Kshs 000 Un-audited 31-Dec-22 Kshs 000 Audited 30-Sep-22 Kshs 000 Un-audited 31-Mar-23 Kshs 000 Un-audited 31-Dec-22 Kshs 000 Audited 30-Sep-22 Kshs 000 Un-audited 30-Jun-23 Kshs 000 Un-audited 31-Mar-23 Kshs 000 Un-audited 31-Dec-22 Kshs 000 Audited 30-Jun-23 Kshs 000 Un-audited 31-Mar-23 Kshs 000 Un-audited 31-Dec-22 Kshs 000 Audited 30-Sep-22 Kshs 000 Un-audited",
+      "0": NaN,
+      "2": "30-Sep-23 Kshs 000 Un-audited",
+      "3": "30-Jun-23 Kshs 000 Un-audited",
+      "7": "30-Sep-23 Kshs 000 Un-audited",
+      "8": "30-Jun-23 Kshs 000 Un-audited",
+      "12": "30-Sep-23 Kshs 000 Un-audited",
+      "16": "30-Sep-22 Kshs 000 Un-audited",
+      "17": "30-Sep-23 Kshs 000 Un-audited"
+    },
+    {
+      "item": "6 OTHER OPERATING EXPENSES",
+      "0": NaN,
+      "2": "",
+      "3": "",
+      "7": "",
+      "8": "",
+      "12": "",
+      "16": "",
+      "17": ""
+    },
+    {
+      "item": "None None None None None None None None - - - 454,305 266,776 1,210,780 26,988 11,850 78,244 - - - 8,791 4,383 15,693 1,019 506 2,026 375,695 193,710 840,816 None None None None None None",
+      "0": NaN,
+      "2": "11,413,474",
+      "3": "7,944,163 3,319,686 8,560,331 5,481,222 9,062,461 5,126,629 18,518,101 13,263,814 245,340 145,992 433,849 430,629 101,230 87,385 185,795 133,980 994,308 529,009 2,169,789 1,625,207 834,307 379,975 1,517,741 1,134,646 6,612,395 3,551,461 12,453,787 8,998,767",
+      "7": "1,468,376",
+      "8": "976,657 407,394 2,003,475 870,907 3,197,872 1,303,881 4,694,743 3,551,230 14,291 7,680 35,038 23,403 89,334 45,063 123,551 147,320 276,531 138,332 589,774 461,801 92,378 50,273 285,536 235,087 4,637,317 647,433 2,783,626 1,996,695",
+      "12": "-",
+      "16": "-",
+      "17": "15,848,572"
+    },
+    {
+      "item": "None None None None None None None None 866,798 477,225 2,147,559 None None None None None None",
+      "0": NaN,
+      "2": "39,121,871",
+      "3": "25,794,204 13,140,137 43,839,393 31,068,265",
+      "7": "12,073,682",
+      "8": "9,284,380 2,600,056 10,515,743 7,286,443",
+      "12": "1,340,691",
+      "16": "1,387,261",
+      "17": "76,667,748"
+    },
+    {
+      "item": "None None None None None None None None 471,366 (111,360) 32,121,795 None None None None None None",
+      "0": NaN,
+      "2": "32,474,404",
+      "3": "19,175,149 9,212,877 48,910,949 37,084,146",
+      "7": "(3,776,675)",
+      "8": "(3,840,623) 122,687 847,630 1,080,754",
+      "12": "506,297",
+      "16": "5,382,180",
+      "17": "40,594,108"
+    },
+    {
+      "item": "None None None None None None None None - - - None None None None None None",
+      "0": NaN,
+      "2": "-",
+      "3": "- - - -",
+      "7": "-",
+      "8": "- - - -",
+      "12": "-",
+      "16": "-",
+      "17": "-"
+    },
+    {
+      "item": "None None None None None None None None (19,809) - (34,419) (4,166) - 116,872 None None None None None None",
+      "0": NaN,
+      "2": "(6,035,412)",
+      "3": "(8,179,832) (3,726,665) (14,684,118) (10,533,591) 2,937,446 962,967 509,282 (258,974)",
+      "7": "(915,491)",
+      "8": "(924,585) (128,030) (553,222) (305,352) 921,649 106,475 425,371 31,661",
+      "12": "(19,809)",
+      "16": "(14,273)",
+      "17": "(9,859,783)"
+    },
+    {
+      "item": "None None None None None None None None 447,391 (111,360) 32,204,248 None None None None None None",
+      "0": NaN,
+      "2": "23,982,107",
+      "3": "13,932,763 6,449,179 34,736,113 26,291,581",
+      "7": "(3,051,748)",
+      "8": "(3,843,559) 101,132 719,779 807,063",
+      "12": "482,322",
+      "16": "5,421,330",
+      "17": "30,721,310"
+    },
+    {
+      "item": "None None None None None None None None - - - - - - - - - - - - - - - None None None None None None",
+      "0": NaN,
+      "2": "",
+      "3": "- - - - (2,322,393) (1,212,340) (4,281,932) (4,363,799) - - (218,000) - - - - - 696,718 363,702 1,349,980 1,309,140",
+      "7": "",
+      "8": "- - - - (545,382) (218,819) (1,134,300) (1,286,398) - - - - - - - - 163,614 65,646 340,290 385,919",
+      "12": "",
+      "16": "",
+      "17": ""
+    },
+    {
+      "item": "None None None None None None None None 0.28 (0.14) 10.02 None None None None None None",
+      "0": NaN,
+      "2": "0.59",
+      "3": "0.52 0.48 0.64 0.65",
+      "7": "(0.32)",
+      "8": "(0.61) 0.03 0.06 0.08",
+      "12": "0.20",
+      "16": "2.25",
+      "17": "12.75"
+    },
+    {
+      "item": "None None None None None None None None None None None None None None",
+      "0": NaN,
+      "2": "-",
+      "3": "- - 0.58 0.06",
+      "7": "-",
+      "8": "- - - -",
+      "12": "",
+      "16": "",
+      "17": "-"
+    }
+  ]
+}
