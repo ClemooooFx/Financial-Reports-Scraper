@@ -1,0 +1,29 @@
+{
+  "title": "Group Balance Sheet",
+  "units": "kesbn",
+  "pages": [
+    19,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "extracted_at": "2025-11-29T08:54:41.641832",
+  "data": [
+    {
+      "item": "Key Ratios",
+      "1": "HY 2024",
+      "2": "FY 2023",
+      "3": "HY 2023",
+      "4": "HY 2022"
+    },
+    {
+      "item": "KeyRatios",
+      "1": "HY 2024",
+      "2": "FY 2023",
+      "3": "HY 2023",
+      "4": "HY 2022"
+    }
+  ]
+}
