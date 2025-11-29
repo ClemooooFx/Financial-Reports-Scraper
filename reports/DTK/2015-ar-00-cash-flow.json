@@ -1,0 +1,658 @@
+{
+  "title": "STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2015 37",
+  "units": "continued",
+  "pages": [
+    41,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "extracted_at": "2025-11-29T05:16:54.192482",
+  "data": [
+    {
+      "item": "DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS",
+      "1": "STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2015 37 Group Bank 2015 2014 2015 2014 Notes Shs’000 Shs’000 Shs’000 Shs’000 Cash flows (used in)/from operating activities interest receipts 25,919,313 20,034,467 17,847,128 14,042,357 interest payments (9,618,526) (7,274,656) (6,302,151) (5,069,207) Net fee and commission receipts 2,773,883 2,318,089 1,417,709 1,214,171 Other income received 1,938,708 1,465,167 1,105,884 844,470 Recoveries from loans previously written off 17 27,897 19,879 21,191 14,407 Payments to employees and suppliers (7,031,506) (6,107,063) (4,057,079) (3,569,796) income tax paid (3,273,623) (2,655,689) (2,489,753) (1,997,139) Cash flows from operating activities before changes in operating assets and liabilities 10,736,146 7,800,194 7,542,929 5,479,263 Changes in operating assets and liabilities: - cash reserve requirement 3,540,248 (2,359,678) 4,998,096 (803,132) - Government securities (11,942,940) (10,621,096) (11,585,272) (4,715,473) - loans and advances to customers (40,504,840) (32,354,776) (33,129,451) (19,201,587) - Balances due from subsidiary companies - - 75,113 81,166 - customer deposits 31,625,351 37,551,985 24,141,052 16,734,921 - other assets (459,844) (172,041) (448,092) (28,072) - other liabilities 1,911,761 220,066 2,659,083 (79,501) Net cash (used in)/from operating activities (5,094,118) 64,654 (5,746,542) (2,532,415) Cash flows used in investing activities Purchase of property and equipment 22 (1,226,345) (1,210,649) (623,020) (612,910) Purchase of intangible assets - software costs 21 (241,149) (178,241) (189,542) (102,559) Purchase of shares in associate/subsidiary (8,441) - (1,097,214) - Proceeds from sale of property and equipment 47,132 13,030 44,616 10,459 Dividend received - - 33,301 36,816 Net cash used in investing activities (1,428,803) (1,375,860) (1,831,859) (668,194) Cash flows from financing activities Proceeds from borrowings 12,865,300 6,999,370 12,865,300 4,966,500 Repayment of borrowings (867,278) (540,154) (850,332) (530,026) Finance costs (459,844) (178,091) (450,026) (165,267) Net proceeds from rights issue 322,982 3,525,909 - 3,525,909 Dividends paid to equity holders of the bank 13 (581,064) (462,210) (581,064) (462,210) Dividends paid to non controlling interests (23,824) (25,085) - - Net cash from financing activities 11,256,272 9,319,739 10,983,878 7,334,906 Net increase in cash and cash equivalents 4,733,351 8,008,533 3,405,477 4,134,297 Cash and cash equivalents at start of year 17,777,150 9,569,963 7,997,001 3,862,704 Translation difference (592,014) 198,654 - - 17,185,136 9,768,617 7,997,001 3,862,704 Cash and cash equivalents at end of year 36 21,918,487 17,777,150 11,402,478 7,997,001 The notes on pages 38 to 91 are an integral part of these financial statements DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2015",
+      "1": "2014",
+      "2": "2015",
+      "3": "2014",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Shs’000",
+      "1": "Shs’000",
+      "2": "Shs’000",
+      "3": "Shs’000",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "25,919,313",
+      "1": "20,034,467",
+      "2": "17,847,128",
+      "3": "14,042,357",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(9,618,526)",
+      "1": "(7,274,656)",
+      "2": "(6,302,151)",
+      "3": "(5,069,207)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2,773,883",
+      "1": "2,318,089",
+      "2": "1,417,709",
+      "3": "1,214,171",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,938,708",
+      "1": "1,465,167",
+      "2": "1,105,884",
+      "3": "844,470",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "27,897",
+      "1": "19,879",
+      "2": "21,191",
+      "3": "14,407",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(7,031,506)",
+      "1": "(6,107,063)",
+      "2": "(4,057,079)",
+      "3": "(3,569,796)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(3,273,623)",
+      "1": "(2,655,689)",
+      "2": "(2,489,753)",
+      "3": "(1,997,139)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "10,736,146",
+      "1": "7,800,194",
+      "2": "7,542,929",
+      "3": "5,479,263",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "3,540,248",
+      "1": "(2,359,678)",
+      "2": "4,998,096",
+      "3": "(803,132)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(11,942,940)",
+      "1": "(10,621,096)",
+      "2": "(11,585,272)",
+      "3": "(4,715,473)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(40,504,840)",
+      "1": "(32,354,776)",
+      "2": "(33,129,451)",
+      "3": "(19,201,587)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "",
+      "1": "-",
+      "2": "75,113",
+      "3": "81,166",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "31,625,351",
+      "1": "37,551,985",
+      "2": "24,141,052",
+      "3": "16,734,921",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(459,844)",
+      "1": "(172,041)",
+      "2": "(448,092)",
+      "3": "(28,072)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,911,761",
+      "1": "220,066",
+      "2": "2,659,083",
+      "3": "(79,501)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(5,094,118)",
+      "1": "64,654",
+      "2": "(5,746,542)",
+      "3": "(2,532,415)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,226,345)",
+      "1": "(1,210,649)",
+      "2": "(623,020)",
+      "3": "(612,910)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(241,149)",
+      "1": "(178,241)",
+      "2": "(189,542)",
+      "3": "(102,559)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(8,441)",
+      "1": "-",
+      "2": "(1,097,214)",
+      "3": "-",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "47,132",
+      "1": "13,030",
+      "2": "44,616",
+      "3": "10,459",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(1,428,803)",
+      "1": "(1,375,860)",
+      "2": "(1,831,859)",
+      "3": "(668,194)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "12,865,300",
+      "1": "6,999,370",
+      "2": "12,865,300",
+      "3": "4,966,500",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(867,278)",
+      "1": "(540,154)",
+      "2": "(850,332)",
+      "3": "(530,026)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "322,982",
+      "1": "3,525,909",
+      "2": "-",
+      "3": "3,525,909",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(581,064)",
+      "1": "(462,210)",
+      "2": "(581,064)",
+      "3": "(462,210)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(23,824)",
+      "1": "(25,085)",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "11,256,272",
+      "1": "9,319,739",
+      "2": "10,983,878",
+      "3": "7,334,906",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "4,733,351",
+      "1": "8,008,533",
+      "2": "3,405,477",
+      "3": "4,134,297",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "17,777,150",
+      "1": "9,569,963",
+      "2": "7,997,001",
+      "3": "3,862,704",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(592,014)",
+      "1": "198,654",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "17,185,136",
+      "1": "9,768,617",
+      "2": "7,997,001",
+      "3": "3,862,704",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "21,918,487",
+      "1": "17,777,150",
+      "2": "11,402,478",
+      "3": "7,997,001",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "In Shs",
+      "1": "In US$",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "7.71%",
+      "1": "2.89%",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "0.63%",
+      "1": "0.96%",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "In GBP",
+      "1": "In Shs",
+      "2": NaN,
+      "3": "In US$",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "3.14%",
+      "1": "6.57%",
+      "2": NaN,
+      "3": "2.87%",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2.45%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "0": "2.45%",
+      "4": NaN
+    },
+    {
+      "item": "26,350,152",
+      "1": "15,909,805",
+      "2": "14,578,145",
+      "3": "7,757,832",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(6,042,748)",
+      "1": "(9,481,554)",
+      "2": "-",
+      "3": "(4,998,096)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "10,017,481",
+      "1": "13,701,450",
+      "2": "4,973,737",
+      "3": "7,413,484",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(8,406,398)",
+      "1": "(2,392,571)",
+      "2": "(8,149,404)",
+      "3": "(2,176,219)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "16,498",
+      "1": "13,524",
+      "2": "16,164",
+      "3": "13,086",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "317,626",
+      "1": "19,234",
+      "2": "119",
+      "3": "6,151",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(315,593)",
+      "1": "(16,240)",
+      "2": "(3,052)",
+      "3": "(3,073)",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(2,571)",
+      "1": "(20)",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "15,960",
+      "1": "16,498",
+      "2": "13,231",
+      "3": "16,164",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "22,417",
+      "1": "2,667",
+      "2": "1,876",
+      "3": "1,811",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "149,291",
+      "1": "83,268",
+      "2": "100,889",
+      "3": "55,994",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "198,071",
+      "1": "66,884",
+      "2": "234,738",
+      "3": "44,895",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "(2,932)",
+      "1": "(861)",
+      "2": "-",
+      "3": "-",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "344,430",
+      "1": "149,291",
+      "2": "335,627",
+      "3": "100,889",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "30,362",
+      "1": "12,144",
+      "2": "22,701",
+      "3": "9,885",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "3,523,047",
+      "1": "2,945,997",
+      "2": "3,046,544",
+      "3": "2,525,535",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,193,080",
+      "1": "644,169",
+      "2": "988,122",
+      "3": "485,234",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "262,228",
+      "1": "386,520",
+      "2": "253,063",
+      "3": "353,236",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "358,337",
+      "1": "275,049",
+      "2": "311,477",
+      "3": "220,645",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "8,494,469",
+      "1": "7,061,319",
+      "2": "4,726,756",
+      "3": NaN,
+      "0": NaN,
+      "4": "3,509,960"
+    },
+    {
+      "item": "247,003",
+      "1": "192,509",
+      "2": "204,708",
+      "3": NaN,
+      "0": NaN,
+      "4": "192,509"
+    },
+    {
+      "item": "350,252",
+      "1": "531,809",
+      "2": "245,652",
+      "3": NaN,
+      "0": NaN,
+      "4": "388,700"
+    },
+    {
+      "item": "632,685",
+      "1": "608,608",
+      "2": "401,692",
+      "3": NaN,
+      "0": NaN,
+      "4": "355,599"
+    },
+    {
+      "item": "20,681",
+      "1": "23,479",
+      "2": "13,332",
+      "3": NaN,
+      "0": NaN,
+      "4": "11,747"
+    },
+    {
+      "item": "653,366",
+      "1": "632,087",
+      "2": "415,024",
+      "3": NaN,
+      "0": NaN,
+      "4": "367,346"
+    },
+    {
+      "item": "9,568",
+      "1": "9,289",
+      "2": "5,100",
+      "3": NaN,
+      "0": NaN,
+      "4": "4,779"
+    },
+    {
+      "item": "99,903",
+      "1": "79,837",
+      "2": "54,749",
+      "3": NaN,
+      "0": NaN,
+      "4": "46,189"
+    },
+    {
+      "item": "109,471",
+      "1": "89,126",
+      "2": "59,849",
+      "3": NaN,
+      "0": NaN,
+      "4": "50,968"
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "0": "",
+      "4": NaN
+    },
+    {
+      "item": "92 NOTES ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS I/We (in block letters) ……………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… being a member/members of DIAMOND TRUST BANK KENYA LIMITED hereby appoint ……………………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… or failing him/her …………………………………………………………………………………………………………………… of P.O. Box ……………………………………………………………..…………………………………………………………… as my/our proxy, to vote for me/us on my/our behalf at the Annual General Meeting of the Company to be held at the Crystal Ballroom, Laico Regency Hotel, Nairobi, on Thursday, 26th May 2016 at 11:00 a.m., and at any adjournment thereof. Dated this …………………………… day of ……………………………….. 2016 Signature: ……………………………………………….. Important Notes If you are unable to attend this meeting personally, this Proxy Form should be completed and returned to The Company Secretary, Diamond Trust Bank Kenya Limited, P.O. Box 61711, City Square 00200, Nairobi, so as to reach him not later than 48 hours before the time appointed for holding the meeting or any adjournment thereof. The person appointed as proxy need not be a shareholder of the Company. In the case of a member being a corporation, the Proxy Form must be under the Common Seal or under the hand of an officer or Attorney duly authorised in writing. DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS",
+      "1": NaN,
+      "2": "I/We (in block letters) ……………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… being a member/members of DIAMOND TRUST BANK KENYA LIMITED hereby appoint ……………………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… or failing him/her …………………………………………………………………………………………………………………… of P.O. Box ……………………………………………………………..…………………………………………………………… as my/our proxy, to vote for me/us on my/our behalf at the Annual General Meeting of the Company to be held at the Crystal Ballroom, Laico Regency Hotel, Nairobi, on Thursday, 26th May 2016 at 11:00 a.m., and at any adjournment thereof. Dated this …………………………… day of ……………………………….. 2016 Signature: ……………………………………………….. Important Notes If you are unable to attend this meeting personally, this Proxy Form should be completed and returned to The Company Secretary, Diamond Trust Bank Kenya Limited, P.O. Box 61711, City Square 00200, Nairobi, so as to reach him not later than 48 hours before the time appointed for holding the meeting or any adjournment thereof. The person appointed as proxy need not be a shareholder of the Company. In the case of a member being a corporation, the Proxy Form must be under the Common Seal or under the hand of an officer or Attorney duly authorised in writing. DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS",
+      "3": NaN,
+      "0": "92 NOTES ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________ DDIIAAMMOONNDD TTRRUUSSTT BBAANNKK KKEENNYYAA LLIIMMIITTEEDD || 22001155 AANNNNUUAALL RREEPPOORRTT && FFIINNAANNCCIIAALL SSTTAATTEEMMEENNTTSS",
+      "4": NaN
+    },
+    {
+      "item": "DDDIIIAAAMMMOOONNNDDD TTTRRRUUUSSSTTT BBBAAANNNKKK KKKEEENNNYYYAAA LLLIIIMMMIIITTTEEEDDD ||| 222000111555 AAANNNNNNUUUAAALLL RRREEEPPPOOORRRTTT &&& FFFIIINNNAAANNNCCCIIIAAALLL SSSTTTAAATTTEEEMMMEEENNNTTTSSS PROXY FORM 93 I/We (in block letters) ……………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… being a member/members of DIAMOND TRUST BANK KENYA LIMITED hereby appoint ……………………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… or failing him/her …………………………………………………………………………………………………………………… of P.O. Box ……………………………………………………………..…………………………………………………………… as my/our proxy, to vote for me/us on my/our behalf at the Annual General Meeting of the Company to be held at the Crystal Ballroom, Laico Regency Hotel, Nairobi, on Thursday, 26th May 2016 at 11:00 a.m., and at any adjournment thereof. Dated this …………………………… day of ……………………………….. 2016 Signature: ……………………………………………….. Important Notes If you are unable to attend this meeting personally, this Proxy Form should be completed and returned to The Company Secretary, Diamond Trust Bank Kenya Limited, P.O. Box 61711, City Square 00200, Nairobi, so as to reach him not later than 48 hours before the time appointed for holding the meeting or any adjournment thereof. The person appointed as proxy need not be a shareholder of the Company. In the case of a member being a corporation, the Proxy Form must be under the Common Seal or under the hand of an officer or Attorney duly authorised in writing. DDDIIIAAAMMMOOONNNDDD TTTRRRUUUSSSTTT BBBAAANNNKKK KKKEEENNNYYYAAA LLLIIIMMMIIITTTEEEDDD ||| 222000111555 AAANNNNNNUUUAAALLL RRREEEPPPOOORRRTTT &&& FFFIIINNNAAANNNCCCIIIAAALLL SSSTTTAAATTTEEEMMMEEENNNTTTSSS",
+      "1": NaN,
+      "2": "PROXY FORM 93 I/We (in block letters) ……………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… being a member/members of DIAMOND TRUST BANK KENYA LIMITED hereby appoint ……………………………………………………………………………………………………………………… of P.O. Box ………………………………………………………………………………………………………………………… or failing him/her …………………………………………………………………………………………………………………… of P.O. Box ……………………………………………………………..…………………………………………………………… as my/our proxy, to vote for me/us on my/our behalf at the Annual General Meeting of the Company to be held at the Crystal Ballroom, Laico Regency Hotel, Nairobi, on Thursday, 26th May 2016 at 11:00 a.m., and at any adjournment thereof. Dated this …………………………… day of ……………………………….. 2016 Signature: ……………………………………………….. Important Notes If you are unable to attend this meeting personally, this Proxy Form should be completed and returned to The Company Secretary, Diamond Trust Bank Kenya Limited, P.O. Box 61711, City Square 00200, Nairobi, so as to reach him not later than 48 hours before the time appointed for holding the meeting or any adjournment thereof. The person appointed as proxy need not be a shareholder of the Company. In the case of a member being a corporation, the Proxy Form must be under the Common Seal or under the hand of an officer or Attorney duly authorised in writing. DDDIIIAAAMMMOOONNNDDD TTTRRRUUUSSSTTT BBBAAANNNKKK KKKEEENNNYYYAAA LLLIIIMMMIIITTTEEEDDD ||| 222000111555 AAANNNNNNUUUAAALLL RRREEEPPPOOORRRTTT &&& FFFIIINNNAAANNNCCCIIIAAALLL SSSTTTAAATTTEEEMMMEEENNNTTTSSS",
+      "3": NaN,
+      "0": "DDDIIIAAAMMMOOONNNDDD TTTRRRUUUSSSTTT BBBAAANNNKKK KKKEEENNNYYYAAA LLLIIIMMMIIITTTEEEDDD ||| 222000111555 AAANNNNNNUUUAAALLL RRREEEPPPOOORRRTTT &&& FFFIIINNNAAANNNCCCIIIAAALLL SSSTTTAAATTTEEEMMMEEENNNTTTSSS",
+      "4": NaN
+    },
+    {
+      "item": "None",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "94 FOLD HERE AFFIX POSTAGE STAMP HERE The Company Secretary Diamond Trust Bank Kenya Limited P.O. Box 61711, City Square 00200 Nairobi, Kenya FOLD HERE DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "1": "94 FOLD HERE AFFIX POSTAGE STAMP HERE The Company Secretary Diamond Trust Bank Kenya Limited P.O. Box 61711, City Square 00200 Nairobi, Kenya FOLD HERE DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "FOLD HERE AFFIX POSTAGE STAMP HERE The Company Secretary Diamond Trust Bank Kenya Limited P.O. Box 61711, City Square 00200 Nairobi, Kenya FOLD HERE DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS None",
+      "1": "FOLD HERE AFFIX POSTAGE STAMP HERE The Company Secretary Diamond Trust Bank Kenya Limited P.O. Box 61711, City Square 00200 Nairobi, Kenya FOLD HERE DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "2": NaN,
+      "3": NaN,
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "1": NaN,
+      "2": NaN,
+      "3": "DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "0": NaN,
+      "4": NaN
+    },
+    {
+      "item": "96",
+      "1": "96",
+      "2": NaN,
+      "3": NaN,
+      "0": "",
+      "4": NaN
+    },
+    {
+      "item": "Achieve More None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "0": "Achieve More",
+      "4": NaN
+    },
+    {
+      "item": "+254 -20- 284 9888/ +254 719 031 888 | +254 732 121 888 www.dtbafrica.com contactcentre@dtbafrica.com @DTBduo DTB Duo DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS None",
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "0": "+254 -20- 284 9888/ +254 719 031 888 | +254 732 121 888 www.dtbafrica.com contactcentre@dtbafrica.com @DTBduo DTB Duo DIAMOND TRUST BANK KENYA LIMITED | 2015 ANNUAL REPORT & FINANCIAL STATEMENTS",
+      "4": NaN
+    }
+  ]
+}
