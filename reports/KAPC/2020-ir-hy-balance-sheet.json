@@ -1,0 +1,30 @@
+{
+  "title": "STATEMENT OF COMPREHENSIVE INCOME STATEMENT OF FINANCIAL POSITION — 31.09.2019 31.09.2018 30.09.2019 31.03.2019",
+  "units": "decrease",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T09:34:00.334059",
+  "data": [
+    {
+      "item": "None",
+      "0": "KAPCHORUA TEA KENYA PLC UNAUDITED RESULTS FOR THE 6 MONTHS ENDED 30TH SEPTEMBER 2019 Website: www.williamsontea.com"
+    },
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION 30.09.2019 31.03.2019 Kshs'000 Kshs'000 ASSETS Non - current assets Property , Plant and Equipment 8 76,563 9 19,374 Prepaid Operating Lease Rentals 1 9,830 1 9,845 Intangible Assets 2 86 5 01 Investments 7 18 7 17 Biological Assets 2 22,469 2 20,347 1,119,866 1,160,784 Current Assets Unharvested Green leaf 1 0,532 8 95 Inventories 2 72,520 1 95,099 Trade and other receivables 1 29,890 1 38,751 Due from related companies 7 ,024 3 ,761 Tax Recoverable 1 ,582 4 8,785 Fixed Deposits 3 87,257 3 73,561 Cash Balance 1 13 1 11,537 808,918 872,389 Total Assets 1,928,784 2,033,173 EQUITY AND LIABILITIES Capital and reserves Share Capital 39,120 39,120 Revaluation reserves 2,517,566 251,758 Revenue Reserves 1,083,529 1,176,836 Shareholders' funds 3,640,215 1,467,714 Non - current Liabilities Deferred Taxation 243,705 241,285 Provision for service gratuity 127,517 130,845 371,222 372,130 Current Liabilities Trade and other payables 142,551 152,319 Due to related companies 14,363 39,486 Corporate tax payable - - Dividends Payable 1,403 1,524 Bank Balance 24,839 183,156 193,329 Total equity and liabilities 4,194,593 2,033,173",
+      "0": "STATEMENT OF COMPREHENSIVE INCOME 31.09.2019 31.09.2018 Kshs'000 Kshs'000 Turnover 388,221 724,020 Loss from operations before tax (41,632) (44,463) increase/(decrease) in fair value of biological assets 3,056 (57,949) Finance (cost)/income 17,049 (6,844) Loss before taxation (21,527) (109,256) Tax Credit 6,458 32,777 Loss for the year (15,069) (76,479) Comprising: Loss arising from operating activities (17,208) (35,915) profit/(loss) arising from changes in fair value of biological assets 2,139 (40,564) (15,069) (76,479) Issued Shares of Kshs 5 each 7,824,000 7,824,000 (Loss)/earnings per share (Kshs) (1.93) (9.77) -"
+    },
+    {
+      "item": "STATEMENT OF CASH FLOWS 30.09.2019 30.09.2018 Operating activities Kshs'000 Kshs'000 Cash generated from operations 151,622 371,518 Interest received 31,343 2,060 Interest paid 282 (859) Tax Paid (32,872) (108,410) 150,375 264,309 Investing activities Purchase of plant and equipment (52,492) (37,935) Purchase of intangible assets (148) Proceeds from disposal of Plant and E q u i p m e n t - - Dividends received 4 Expenditure on biological assets (4,605) (911) (57,241) (38,846) Financing activities Dividends paid (98,027) - (98,027) - Increase/(decrease) in cash and cash equivalents (4,893) 225,463 Movement in cash and cash equivalents At 1 April 367,424 141,961 Increase / (decrease) (4,893) 225,463 At 30th September 362,531 367,424",
+      "0": "COMMENTARY ON THE RESULTS With our crops on average 15% below last year, we may have expected prices to rise to compensate for some of the crop loss. Aside from a brief period, this has not materialised as enormous carry over of unsold stock from other tea producers negated a prolonged dry weather spike in prices. Therefore, the double problem of lower crops, lower prices and weak market forces - too much supply and insufficient demand has resulted in the results provided for the past 6 months. By general trade consensus, our efforts to improve our own quality have been successful but our attempts to persuade buyers to benchmark our farms at a superior price level remains work in progress. If a buyer's job is to procure the maximum amount of tea at the cheapest possible price, it is not a challenge to achieve this in the current market. However, we continue to strive to position our teas in the higher customer category. PROSPECTS We do not envisage much change going forward and it is unlikely we will make up our crop deficits in the months to March 2020 or that prices will rise. A regrettably gloomy but unfortunately realistic picture. G K MASAKI COMPANY SECRETARY"
+    },
+    {
+      "item": "Revenue Reserves",
+      "0": "Revenue Reserves"
+    },
+    {
+      "item": "Biological Assets gains/(losses) Other Total Kshs'000 Kshs'000 Kshs'000 519,693 830,976 1,350,669 ( 40,564) (35,915) (76,479) - (78,240) (78,240) -",
+      "0": "Biological Assets gains/(losses) Other Total Kshs'000 Kshs'000 Kshs'000 519,693 830,976 1,350,669 ( 40,564) (35,915) (76,479) - (78,240) (78,240) -"
+    }
+  ]
+}
