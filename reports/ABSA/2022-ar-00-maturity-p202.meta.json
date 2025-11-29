@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 202,
+  "table_number": 2,
+  "title": "maturity",
+  "rows": 3,
+  "columns": [
+    "Notional amount",
+    "On demand",
+    "Within 1 year",
+    "More than 5 years"
+  ],
+  "extracted_at": "2025-11-29T13:59:22.402532"
+}
