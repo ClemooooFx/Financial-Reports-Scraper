@@ -1,0 +1,355 @@
+{
+  "title": "STATEMENT OF FINANCIAL POSITION — 31 March 2019 31 March 2018",
+  "units": "loss",
+  "pages": [
+    1,
+    2
+  ],
+  "extracted_at": "2025-11-29T06:36:57.317466",
+  "data": [
+    {
+      "item": "STATEMENT OF COMPREHENSIVE INCOME None None None None None None None",
+      "3": "None",
+      "7": "None",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "3": "31 March 2019",
+      "7": "31 March 2018",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "None Kshs'000",
+      "3": "Kshs'000",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "None None None None None None None",
+      "3": "",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Revenue None None None None None None",
+      "3": "179,615",
+      "7": "83,696",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Fair value (loss)/gain on biological assets 7,566",
+      "3": "(3,212)",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Cost of production None None None None None None",
+      "3": "(136,318)",
+      "7": "(112,809)",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Gross profit None None None None None None",
+      "3": "40,085",
+      "7": "(21,547)",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Net operating costs (30,311)",
+      "3": "(38,357)",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Profit before taxation None None None None None None",
+      "3": "1,728",
+      "7": "(51,858)",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Tax Credit / (charge) None None None None None None",
+      "3": "919",
+      "7": "(10,669)",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Profit / (loss) for the period None None None None None None",
+      "3": "2,647",
+      "7": "(62,527)",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Other comprehensive income, net of tax 25,823",
+      "3": "25,823",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Total comprehensive profit / (loss) for the year (36,704)",
+      "3": "28,470",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Basic and Diluted earnings per share (1.94)",
+      "3": "0.08",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION None None None None None None None",
+      "3": "None",
+      "7": "None",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "31 March 2018",
+      "3": "31 March 2019",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "EQUITY",
+      "3": "",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Share capital None None None None None None",
+      "3": "40,196",
+      "7": "40,196",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Revaluation reserve 626,867",
+      "3": "645,080",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Retained earnings None None None None None None",
+      "3": "161,642",
+      "7": "149,102",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Non-current liabilities None None None None None None",
+      "3": "74,942",
+      "7": "76,176",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Current liabilities 13,554",
+      "3": "20,464",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Total equity and liabilities 905,895",
+      "3": "942,324",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "REPRESENTED BY:-",
+      "3": "",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Non-current assets 786,967",
+      "3": "799,434",
+      "7": "",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Current assets None None None None None None",
+      "3": "142,890",
+      "7": "118,928",
+      "6": NaN,
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "None None None None None None None None None None",
+      "3": "Share capital",
+      "7": NaN,
+      "6": "Revaluation surplus",
+      "9": "Retained earnings",
+      "12": "Total"
+    },
+    {
+      "item": "Kshs'000 Kshs'000 Kshs'000 Kshs'000",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": "",
+      "12": ""
+    },
+    {
+      "item": "At 1 April 2018 None None None None None None None None None None",
+      "3": "40,196",
+      "7": NaN,
+      "6": "626,867",
+      "9": "149,102",
+      "12": "816,165"
+    },
+    {
+      "item": "Total comprehensive income for the year 25,823 2,647 28,470",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": "",
+      "12": ""
+    },
+    {
+      "item": "Transfer of excess depreciation None None None None None None None None None None",
+      "3": "-",
+      "7": NaN,
+      "6": "(7,610)",
+      "9": "7,610",
+      "12": "-"
+    },
+    {
+      "item": "Deferred tax on transfer of excess None None None None None None None None",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": "",
+      "12": ""
+    },
+    {
+      "item": "None depreciation None 2,283 2,283",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": "",
+      "12": ""
+    },
+    {
+      "item": "At 31 March 2019 None None None None None None None None None None",
+      "3": "40,196",
+      "7": NaN,
+      "6": "645,080",
+      "9": "161,642",
+      "12": "846,918"
+    },
+    {
+      "item": "Kshs'000 Kshs'000",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Net cash generated from/(utilised in) operating activities None None None None None None",
+      "3": "30,279",
+      "7": NaN,
+      "6": "(286)",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Net cash used in investing activities (834)",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Net cash used in financing activities None None None None None None",
+      "3": "(1,067)",
+      "7": NaN,
+      "6": "-",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Net increase / (decrease ) in cash and cash equivalents 28,378 (286)",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Cash and cash equivalents at the beginning of the year None None None None None None",
+      "3": "272",
+      "7": NaN,
+      "6": "400",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Effect of exchange rate changes on cash and cash equivalents 1,195 158",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": NaN,
+      "12": NaN
+    },
+    {
+      "item": "Cash and cash equivalents at the end of the year 29,845 272",
+      "3": "",
+      "7": NaN,
+      "6": "",
+      "9": NaN,
+      "12": NaN
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "STATEMENT OF CASH FLOWS 31 March 2023 31 March 2022",
+  "units": "503",
+  "pages": [
+    2
+  ],
+  "extracted_at": "2025-11-29T06:37:18.237462",
+  "data": [
+    {
+      "item": "Statement of Changes in Equity None None None None None None None None None None None None",
+      "9": "None",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None Share capital None None Revaluation surplus None None None Total None None",
+      "9": "Retained earnings",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None Kshs'000 None None Kshs'000 None None None Kshs'000 None None",
+      "9": "Kshs'000",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At 1 April 2022 40,196 1,003,639 129,145 1,172,980",
+      "9": "",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Profit for the year None None None None None None None 10,884 None None",
+      "9": "10,884",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Other comprehensive None None (3,093) None None None (3,596) None None",
+      "9": "(503)",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None income for the year None None None None None None None (503) None None None",
+      "9": "None",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Transfer of excess depreciation None None None None (8,858) None None None None None",
+      "9": "8,858",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At 31 March 2023 40,196 991,688 148,384 1,180,268",
+      "9": "",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "None None None None None None None None None",
+      "9": "",
+      "3": NaN,
+      "6": NaN
+    },
+    {
+      "item": "STATEMENT OF CASH FLOWS None None None None",
+      "9": NaN,
+      "3": "31 March 2023",
+      "6": "31 March 2022"
+    },
+    {
+      "item": "Kshs'000",
+      "9": NaN,
+      "3": "",
+      "6": "Kshs'000"
+    },
+    {
+      "item": "Net cash generated from operating activities None None None None",
+      "9": NaN,
+      "3": "10,438",
+      "6": "8,908"
+    },
+    {
+      "item": "Net cash used in investing activities (5,405)",
+      "9": NaN,
+      "3": "",
+      "6": "-"
+    },
+    {
+      "item": "Net cash (used in) / generated from financing activities None None None None",
+      "9": NaN,
+      "3": "(5,766)",
+      "6": "919"
+    },
+    {
+      "item": "Net (decrease) /increase in cash and cash equivalents (733)",
+      "9": NaN,
+      "3": "",
+      "6": "9,827"
+    },
+    {
+      "item": "Cash and cash equivalents at the beginning of the year None None None None",
+      "9": NaN,
+      "3": "9,677",
+      "6": "1,256"
+    },
+    {
+      "item": "Effect of exchange rate changes on cash and cash equivalents (382)",
+      "9": NaN,
+      "3": "",
+      "6": "(1,406)"
+    },
+    {
+      "item": "None None None None",
+      "9": NaN,
+      "3": "",
+      "6": ""
+    },
+    {
+      "item": "Cash and cash equivalents at the end of the year 8,562",
+      "9": NaN,
+      "3": "",
+      "6": "9,677"
+    }
+  ]
+}

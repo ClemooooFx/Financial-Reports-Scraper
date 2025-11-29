@@ -1,0 +1,166 @@
+{
+  "title": "STATEMENT OF FINANCIAL POSITION — 31 March 2023 31 March 2022",
+  "units": "charge",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T06:37:18.235912",
+  "data": [
+    {
+      "item": "STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME None None None None None None None",
+      "3": "None",
+      "8": "None",
+      "7": NaN
+    },
+    {
+      "item": "31 March 2023 None",
+      "3": "",
+      "8": "31 March 2022",
+      "7": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "3": "Kshs'000",
+      "8": "Kshs'000",
+      "7": NaN
+    },
+    {
+      "item": "Revenue 234,296",
+      "3": "",
+      "8": "142,234",
+      "7": NaN
+    },
+    {
+      "item": "Fair value gain on biological assets None None None None None None",
+      "3": "14,290",
+      "8": "9,685",
+      "7": NaN
+    },
+    {
+      "item": "Cost of production (182,777)",
+      "3": "",
+      "8": "(101,913)",
+      "7": NaN
+    },
+    {
+      "item": "Gross profit 65,809",
+      "3": "",
+      "8": "50,006",
+      "7": NaN
+    },
+    {
+      "item": "Net operating costs None None None None None None",
+      "3": "(54,534)",
+      "8": "(40,309)",
+      "7": NaN
+    },
+    {
+      "item": "Profit before taxation 11,275",
+      "3": "",
+      "8": "9,697",
+      "7": NaN
+    },
+    {
+      "item": "Tax (charge)/Credit (391)",
+      "3": "",
+      "8": "(163)",
+      "7": NaN
+    },
+    {
+      "item": "Profit for the year 10,884",
+      "3": "",
+      "8": "9,534",
+      "7": NaN
+    },
+    {
+      "item": "Other comprehensive (loss)/income None None None None None None",
+      "3": "(3,596)",
+      "8": "153,758",
+      "7": NaN
+    },
+    {
+      "item": "Total comprehensive income for the year None None None None None None",
+      "3": "7,288",
+      "8": "163,292",
+      "7": NaN
+    },
+    {
+      "item": "Basic and diluted earnings per share None None None None None None",
+      "3": "0.35",
+      "8": "0.33",
+      "7": NaN
+    },
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION None None None None None None None",
+      "3": "None",
+      "8": NaN,
+      "7": "None"
+    },
+    {
+      "item": "31 March 2023 None 31 March 2022",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "EQUITY None",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "Share capital None None None None None None",
+      "3": "40,196",
+      "8": NaN,
+      "7": "40,196"
+    },
+    {
+      "item": "Revaluation reserve 991,688 1,003,639",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "Retained earnings None None None None None None",
+      "3": "148,384",
+      "8": NaN,
+      "7": "129,145"
+    },
+    {
+      "item": "Non-current liabilities None None None None None None",
+      "3": "213,942",
+      "8": NaN,
+      "7": "97,315"
+    },
+    {
+      "item": "Current liabilities 27,084 25,726",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "Total equity and liabilities 1,421,294 1,296,021",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "REPRESENTED BY:-",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "Non-current assets 1,258,038 1,153,985",
+      "3": "",
+      "8": NaN,
+      "7": ""
+    },
+    {
+      "item": "Current assets None None None None None None",
+      "3": "163,256",
+      "8": NaN,
+      "7": "142,036"
+    }
+  ]
+}

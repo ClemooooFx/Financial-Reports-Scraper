@@ -1,0 +1,22 @@
+{
+  "title": "Statement of Financial Position — 30 Sep. 2021 30 Sep. 2020",
+  "units": "942",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T06:37:17.814184",
+  "data": [
+    {
+      "item": "Statement of Profit or Loss and Other Comprehensive Income",
+      "0": ""
+    },
+    {
+      "item": "None None",
+      "0": "30 Sep. 2021 30 Sep. 2020 Kshs'000 Kshs'000 Revenue 57,230 67,013 Fair value gain on biological assets 4,564 4,395 Cost of production (48,369) (47,144) Gross profit 13,425 24,264 Administration costs (11,935) (14,097) Profit before taxation 1,490 10,167 Tax charge (1,865) (942) (Loss)/profit for the period (375) 9,225 Total comprehensive (loss)/ income for the year (375) 9,225 Basic and Diluted earnings per share (0.01) 0.29"
+    },
+    {
+      "item": "Statement of Financial Position",
+      "0": ""
+    }
+  ]
+}

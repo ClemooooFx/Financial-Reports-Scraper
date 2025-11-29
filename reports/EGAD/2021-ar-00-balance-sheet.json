@@ -1,0 +1,297 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "loss",
+  "pages": [
+    4,
+    16,
+    20,
+    23,
+    24,
+    57,
+    58,
+    59
+  ],
+  "extracted_at": "2025-11-29T06:37:12.518961",
+  "data": [
+    {
+      "item": "2021",
+      "0": "2021",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "KShs’000",
+      "0": "KShs’000",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "4,660",
+      "0": "4,660",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "(2,910)",
+      "0": "(2,910)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,750",
+      "0": "1,750",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Key audit matter How the matter was addressed in the audit",
+      "0": "Key audit matter",
+      "1": "How the matter was addressed in the audit",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Valuation of biological assets and bearer plants",
+      "0": "Valuation of biological assets and bearer plants",
+      "1": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "As at 31 March 2021, the carrying amounts of biological assets and bearer plants were KShs 91 million and KShs 100 million, respectively. As described further in note 14, the measurement of biological assets is complex as it involves a high degree of subjectivity due to the assumptions and judgements used in determining the yields and market prices of coffee berries in future using the discounted cash flows method. Bearer plants have been classified as property, plant and equipment in accordance with International Accounting Standard (IAS) 16 Property, Plant and Equipment. As further disclosed in note 2(h) and 3 to the financial statements, the measurement of bearer plants involves significant judgment in estimating when the bearer plants will mature in order to determine their useful lives and capitalise the costs for purposes of depreciating them. Due to the judgement involved as described above, we considered this to be a key audit matter. Our audit procedures included understanding management’s processes for measuring bearer plants and biological assets and evaluating compliance with IAS 16 Property, Plant and Equipment and IAS 41 Agriculture. We assessed whether the assumptions and the methodology applied in the determination of the fair value of biological assets were reasonable and adequately supported. We evaluated the method used to determine maturity level and the depreciation methodology used to depreciate the capitalised costs of the bearer plants. We also assessed the adequacy of the company’s disclosures in respect of bearer plants and biological assets.",
+      "0": "As at 31 March 2021, the carrying amounts of biological assets and bearer plants were KShs 91 million and KShs 100 million, respectively. As described further in note 14, the measurement of biological assets is complex as it involves a high degree of subjectivity due to the assumptions and judgements used in determining the yields and market prices of coffee berries in future using the discounted cash flows method. Bearer plants have been classified as property, plant and equipment in accordance with International Accounting Standard (IAS) 16 Property, Plant and Equipment. As further disclosed in note 2(h) and 3 to the financial statements, the measurement of bearer plants involves significant judgment in estimating when the bearer plants will mature in order to determine their useful lives and capitalise the costs for purposes of depreciating them. Due to the judgement involved as described above, we considered this to be a key audit matter.",
+      "1": "Our audit procedures included understanding management’s processes for measuring bearer plants and biological assets and evaluating compliance with IAS 16 Property, Plant and Equipment and IAS 41 Agriculture. We assessed whether the assumptions and the methodology applied in the determination of the fair value of biological assets were reasonable and adequately supported. We evaluated the method used to determine maturity level and the depreciation methodology used to depreciate the capitalised costs of the bearer plants. We also assessed the adequacy of the company’s disclosures in respect of bearer plants and biological assets.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Valuation of land and buildings and plant and machinery",
+      "0": "Valuation of land and buildings and plant and machinery",
+      "1": "",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Land and buildings, and plant and machinery comprise 81% of the total assets of the company as at 31 March 2021. The assets are measured at fair value, which involves the use of assumptions and estimates. The revaluation of land carried out on 31 December 2020 resulted in a revaluation gain of KShs 163 million. Buildings, plant and machinery were also revalued during the year resulting in revaluation gain of KShs 17 million. The fair value of land was determined by using comparable sales method of valuation whereby the attributes of the property are compared to those of other similar properties in the market. The valuation of buildings, plant and machinery was based on market comparable basis or depreciation replacement method where information for market comparable method was not available. These methodologies are further explained in notes 2(h), 3 and 13 to the financial statements, Due to the significant assumptions made and the estimation involved, we considered this to be a key audit matter. We also considered the disclosures in the financial statements to be significant to the users’ understanding of the valuation of land and buildings and plant and machinery. We evaluated the objectivity, independence and expertise of the external appraisal firms engaged to perform the valuation. We evaluated the appropriateness of the information and assumptions used in the valuations. We also assessed whether the valuation methodologies and assumptions adopted in determining the carrying amount of the land and buildings, and plant and machinery were in accordance with International Financial Reporting Standards. We evaluated whether the determined fair values were in line with the market values for similar assets in similar locations. We assessed the adequacy of the company’s disclosures in respect of the assumptions used in the valuations as set out in note 13 to the financial statements.",
+      "0": "Land and buildings, and plant and machinery comprise 81% of the total assets of the company as at 31 March 2021. The assets are measured at fair value, which involves the use of assumptions and estimates. The revaluation of land carried out on 31 December 2020 resulted in a revaluation gain of KShs 163 million. Buildings, plant and machinery were also revalued during the year resulting in revaluation gain of KShs 17 million. The fair value of land was determined by using comparable sales method of valuation whereby the attributes of the property are compared to those of other similar properties in the market. The valuation of buildings, plant and machinery was based on market comparable basis or depreciation replacement method where information for market comparable method was not available. These methodologies are further explained in notes 2(h), 3 and 13 to the financial statements, Due to the significant assumptions made and the estimation involved, we considered this to be a key audit matter. We also considered the disclosures in the financial statements to be significant to the users’ understanding of the valuation of land and buildings and plant and machinery.",
+      "1": "We evaluated the objectivity, independence and expertise of the external appraisal firms engaged to perform the valuation. We evaluated the appropriateness of the information and assumptions used in the valuations. We also assessed whether the valuation methodologies and assumptions adopted in determining the carrying amount of the land and buildings, and plant and machinery were in accordance with International Financial Reporting Standards. We evaluated whether the determined fair values were in line with the market values for similar assets in similar locations. We assessed the adequacy of the company’s disclosures in respect of the assumptions used in the valuations as set out in note 13 to the financial statements.",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,003,081",
+      "0": "1,003,081",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "214",
+      "0": "214",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,003,295",
+      "0": "1,003,295",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "90,714",
+      "0": "90,714",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,106",
+      "0": "1,106",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,433",
+      "0": "1,433",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "17,417",
+      "0": "17,417",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,272",
+      "0": "1,272",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,256",
+      "0": "1,256",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "113,198",
+      "0": "113,198",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,116,493",
+      "0": "1,116,493",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "40,196",
+      "0": "40,196",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "857,585",
+      "0": "857,585",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "111,907",
+      "0": "111,907",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,009,688",
+      "0": "1,009,688",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "75,873",
+      "0": "75,873",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "10,244",
+      "0": "10,244",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "402",
+      "0": "402",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "86,519",
+      "0": "86,519",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "2,206",
+      "0": "2,206",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "14,760",
+      "0": "14,760",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "3,320",
+      "0": "3,320",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "20,286",
+      "0": "20,286",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "New standards or amendments Definition of a Business (Amendments to IFRS 3) Interest Rate Benchmark Reform (Amendments to IFRS 9, IAS 39 and IFRS 7) Definition of Material (Amendments to IAS 1 and IAS 8) Amendments to References to Conceptual Framework in IFRS Standards",
+      "0": NaN,
+      "1": "Effective for annual period beginning on or after January 1 2020 January 1 2020 January 1 2020 January 1 2020",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "New standards or amendments COVID-19-Related Rent Concessions (Amendments to IFRS 16) Interest Rate Benchmark Reform – Phase 2 – Amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16 Covid-19-Related Rent Concessions beyond 30 June 2021 – Amendment to IFRS 16 Reference to the Conceptual Framework (Amendments to IFRS 3) Property, Plant and Equipment: Proceeds before Intended Use (Amendments to IAS 16) Onerous Contracts Cost of Fulfilling a Contract (Amendments to IAS 37) AIP IFRS 1 First-time Adoption of International Financial Reporting Standards – Sub- sidiary as a first-time adopter AIP IFRS 9 Financial Instruments – Fees in the ’10 per cent’ test for derecognition of financial liabilities AIP IAS 41 Agriculture – Taxation in fair value measurements IFRS 17 Insurance Contracts Classification of liabilities as current or non-current (Amendments to IAS 1) Definition of Accounting Estimates - Amendments to IAS 8 Disclosure of Accounting Policies - Amendments to IAS 1 and IFRS Practice State- ment 2 Deferred Tax related to Assets and Liabilities arising from a Single Transaction – Amendments to IAS 12 Sale or Contribution of Assets between an Investor and its Associate or Company (Amendments to IFRS 10 and IAS 28)",
+      "0": NaN,
+      "1": "Effective for annual period beginning on or after June 1 2020 January 1 2021 April 1 2021 January 1 2022 January 1 2022 January 1 2022 January 1 2022 January 1 2022 January 1 2022 January 1 2023 January 1 2023 January 1 2023 January 1 2023 January 1 2023 To be determined",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,237",
+      "0": "1,237",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "1,465",
+      "0": "1,465",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "618",
+      "0": "618",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "LEVEL 3",
+      "0": NaN,
+      "1": NaN,
+      "2": "",
+      "3": ""
+    },
+    {
+      "item": "Freehold land Buildings Plant and machinery Biological assets Valuation technique Market Comparable Approach Depreciated replace- ment cost Depreciated replace- ment cost for plant and machinery Discounted cash flow method",
+      "0": NaN,
+      "1": NaN,
+      "2": "Significant unobservable inputs Price per acre Location and type of soil in the area Costs to construct a replica of the building at current costs Capital expenditure for a model plant Details in Note 14",
+      "3": "Range (weighted average) KShs 7.5 million per acre - - - Details in Note 14"
+    }
+  ]
+}
