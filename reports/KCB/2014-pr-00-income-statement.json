@@ -1,0 +1,76 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS (KSHS. MN.)",
+  "units": "996",
+  "pages": [
+    15
+  ],
+  "extracted_at": "2025-11-29T09:47:23.673173",
+  "data": [
+    {
+      "item": "",
+      "1": "ACTUAL DEC 2014",
+      "2": "ACTUAL DEC 2013",
+      "3": "Y-o-Y % Change"
+    },
+    {
+      "item": "Net interest income",
+      "1": "35,949",
+      "2": "32,984",
+      "3": "9%"
+    },
+    {
+      "item": "Foreign exchange income",
+      "1": "4,150",
+      "2": "3,710",
+      "3": "12%"
+    },
+    {
+      "item": "Gross fees and commissions",
+      "1": "12,739",
+      "2": "10,501",
+      "3": "21%"
+    },
+    {
+      "item": "Other income",
+      "1": "2,541",
+      "2": "1,005",
+      "3": ">100%"
+    },
+    {
+      "item": "Total operating income",
+      "1": "55,379",
+      "2": "48,201",
+      "3": "15%"
+    },
+    {
+      "item": "Total operating expenses",
+      "1": "(28,504)",
+      "2": "(27,081)",
+      "3": "5%"
+    },
+    {
+      "item": "Net provisions for bad debts",
+      "1": "(3,088)",
+      "2": "(996)",
+      "3": ">100%"
+    },
+    {
+      "item": "Profit before tax",
+      "1": "23,787",
+      "2": "20,124",
+      "3": "18%"
+    },
+    {
+      "item": "Tax",
+      "1": "(6,939)",
+      "2": "(5,782)",
+      "3": "20%"
+    },
+    {
+      "item": "Profit after tax",
+      "1": "16,848",
+      "2": "14,342",
+      "3": "17%"
+    }
+  ]
+}

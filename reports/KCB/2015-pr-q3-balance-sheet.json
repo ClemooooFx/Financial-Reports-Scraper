@@ -1,0 +1,307 @@
+{
+  "title": "Balance Sheet Summary",
+  "units": "millions",
+  "pages": [
+    18,
+    19,
+    20,
+    21
+  ],
+  "extracted_at": "2025-11-29T09:48:00.339323",
+  "data": [
+    {
+      "item": "Balance Sheet Summary KShs Millions Actual Actual % Y-O-Y Sep -15 Sep-14 Change Asset Portfolio Cash and balances with Central Bank 34,178 26,451 29% Balances with other institutions 97,124 41,069 136% Investments in Government securities 99,214 95,149 4% Investment securities 845 1,952 (57%) Net loans and advances 347,650 264,296 32% Fixed assets 11,022 9,949 11% Other assets 17,219 12,700 36% Total Assets 607,252 451,566 34% 18",
+      "0": "Balance Sheet Summary KShs Millions Actual Actual % Y-O-Y Sep -15 Sep-14 Change Asset Portfolio Cash and balances with Central Bank 34,178 26,451 29% Balances with other institutions 97,124 41,069 136% Investments in Government securities 99,214 95,149 4% Investment securities 845 1,952 (57%) Net loans and advances 347,650 264,296 32% Fixed assets 11,022 9,949 11% Other assets 17,219 12,700 36% Total Assets 607,252 451,566 34% 18",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "KShs Millions None None",
+      "0": NaN,
+      "2": "Actual",
+      "3": "Actual",
+      "4": "% Y-O-Y Change"
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "2": "Sep -15",
+      "3": "Sep-14",
+      "4": "Change"
+    },
+    {
+      "item": "As set Portfolio",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "C ash and balances with Central Bank",
+      "0": NaN,
+      "2": "34,178",
+      "3": "26,451",
+      "4": "29%"
+    },
+    {
+      "item": "B alances with other institutions",
+      "0": NaN,
+      "2": "97,124",
+      "3": "41,069",
+      "4": "136%"
+    },
+    {
+      "item": "In vestments in Government securities",
+      "0": NaN,
+      "2": "99,214",
+      "3": "95,149",
+      "4": "4%"
+    },
+    {
+      "item": "In vestment securities",
+      "0": NaN,
+      "2": "845",
+      "3": "1,952",
+      "4": "(57%)"
+    },
+    {
+      "item": "N et loans and advances",
+      "0": NaN,
+      "2": "347,650",
+      "3": "264,296",
+      "4": "32%"
+    },
+    {
+      "item": "Fi xed assets",
+      "0": NaN,
+      "2": "11,022",
+      "3": "9,949",
+      "4": "11%"
+    },
+    {
+      "item": "O ther assets",
+      "0": NaN,
+      "2": "17,219",
+      "3": "12,700",
+      "4": "36%"
+    },
+    {
+      "item": "T otal Assets",
+      "0": NaN,
+      "2": "607,252",
+      "3": "451,566",
+      "4": "34%"
+    },
+    {
+      "item": "None 18 None",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "Balance Sheet Summary Actual Actual % Y-O-Y KShs Millions Sep -15 Sep-14 Change Funding Portfolio Customer Deposits 471,055 350,104 35% Balances due to other banks 19,145 9,319 105% Other liabilities 12,715 8,007 59% Long-term debt 22,507 13,159 71% Total Liabilities 525,423 380,588 38% Share capital 3,025 3,025 0% Reserves and premium 78,804 67,953 16% Shareholders’ Equity 81,829 70,978 15% Total Liabilities and Equity 607,252 451,566 34% 19",
+      "0": "Balance Sheet Summary Actual Actual % Y-O-Y KShs Millions Sep -15 Sep-14 Change Funding Portfolio Customer Deposits 471,055 350,104 35% Balances due to other banks 19,145 9,319 105% Other liabilities 12,715 8,007 59% Long-term debt 22,507 13,159 71% Total Liabilities 525,423 380,588 38% Share capital 3,025 3,025 0% Reserves and premium 78,804 67,953 16% Shareholders’ Equity 81,829 70,978 15% Total Liabilities and Equity 607,252 451,566 34% 19",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "F unding Portfolio",
+      "0": NaN,
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "item": "C ustomer Deposits",
+      "0": NaN,
+      "2": "471,055",
+      "3": "350,104",
+      "4": "35%"
+    },
+    {
+      "item": "B alances due to other banks",
+      "0": NaN,
+      "2": "19,145",
+      "3": "9,319",
+      "4": "105%"
+    },
+    {
+      "item": "O ther liabilities",
+      "0": NaN,
+      "2": "12,715",
+      "3": "8,007",
+      "4": "59%"
+    },
+    {
+      "item": "L ong-term debt",
+      "0": NaN,
+      "2": "22,507",
+      "3": "13,159",
+      "4": "71%"
+    },
+    {
+      "item": "To tal Liabilities",
+      "0": NaN,
+      "2": "525,423",
+      "3": "380,588",
+      "4": "38%"
+    },
+    {
+      "item": "S hare capital",
+      "0": NaN,
+      "2": "3,025",
+      "3": "3,025",
+      "4": "0%"
+    },
+    {
+      "item": "R eserves and premium",
+      "0": NaN,
+      "2": "78,804",
+      "3": "67,953",
+      "4": "16%"
+    },
+    {
+      "item": "S hareholders’ Equity",
+      "0": NaN,
+      "2": "81,829",
+      "3": "70,978",
+      "4": "15%"
+    },
+    {
+      "item": "To tal Liabilities and Equity",
+      "0": NaN,
+      "2": "607,252",
+      "3": "451,566",
+      "4": "34%"
+    },
+    {
+      "item": "None 19 None",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "10% Growth in Profitability driven by NFI and Subsidiaries ACTUAL ACTUAL Y-o-Y % KShs Millions Sep -15 Sep -14 Change Interest Income 39,664 34,231 16% Interest Expense 11,305 8,404 35% Net interest income 28,359 25,827 10% Foreign exchange income 2,927 3,212 (9%) Fees and commissions 10,324 9,080 14% Other income 4,083 4,638 (12%) Total operating income 45,692 42,758 7% Loan loss provision 3,852 4,444 (13%) Staff costs 11,120 10,455 6% Other operating expenses 11,325 10,161 11% Total Cost 26,297 25,060 5% Profit before tax 19,395 17,698 10% Tax (5,819) (5,309) 10% Profit after tax 13,577 12,388 10% 20",
+      "0": "10% Growth in Profitability driven by NFI and Subsidiaries ACTUAL ACTUAL Y-o-Y % KShs Millions Sep -15 Sep -14 Change Interest Income 39,664 34,231 16% Interest Expense 11,305 8,404 35% Net interest income 28,359 25,827 10% Foreign exchange income 2,927 3,212 (9%) Fees and commissions 10,324 9,080 14% Other income 4,083 4,638 (12%) Total operating income 45,692 42,758 7% Loan loss provision 3,852 4,444 (13%) Staff costs 11,120 10,455 6% Other operating expenses 11,325 10,161 11% Total Cost 26,297 25,060 5% Profit before tax 19,395 17,698 10% Tax (5,819) (5,309) 10% Profit after tax 13,577 12,388 10% 20",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Int erest Income",
+      "0": NaN,
+      "2": "39,664",
+      "3": "34,231",
+      "4": "16%"
+    },
+    {
+      "item": "Int erest Expense",
+      "0": NaN,
+      "2": "11,305",
+      "3": "8,404",
+      "4": "35%"
+    },
+    {
+      "item": "Ne t interest income",
+      "0": NaN,
+      "2": "28,359",
+      "3": "25,827",
+      "4": "10%"
+    },
+    {
+      "item": "Fo reign exchange income",
+      "0": NaN,
+      "2": "2,927",
+      "3": "3,212",
+      "4": "(9%)"
+    },
+    {
+      "item": "Fe es and commissions",
+      "0": NaN,
+      "2": "10,324",
+      "3": "9,080",
+      "4": "14%"
+    },
+    {
+      "item": "Ot her income",
+      "0": NaN,
+      "2": "4,083",
+      "3": "4,638",
+      "4": "(12%)"
+    },
+    {
+      "item": "To tal operating income",
+      "0": NaN,
+      "2": "45,692",
+      "3": "42,758",
+      "4": "7%"
+    },
+    {
+      "item": "Lo an loss provision",
+      "0": NaN,
+      "2": "3,852",
+      "3": "4,444",
+      "4": "(13%)"
+    },
+    {
+      "item": "St aff costs",
+      "0": NaN,
+      "2": "11,120",
+      "3": "10,455",
+      "4": "6%"
+    },
+    {
+      "item": "Ot her operating expenses",
+      "0": NaN,
+      "2": "11,325",
+      "3": "10,161",
+      "4": "11%"
+    },
+    {
+      "item": "To tal Cost",
+      "0": NaN,
+      "2": "26,297",
+      "3": "25,060",
+      "4": "5%"
+    },
+    {
+      "item": "Pr ofit before tax",
+      "0": NaN,
+      "2": "19,395",
+      "3": "17,698",
+      "4": "10%"
+    },
+    {
+      "item": "Ta x",
+      "0": NaN,
+      "2": "(5,819)",
+      "3": "(5,309)",
+      "4": "10%"
+    },
+    {
+      "item": "Pr ofit after tax",
+      "0": NaN,
+      "2": "13,577",
+      "3": "12,388",
+      "4": "10%"
+    },
+    {
+      "item": "None 20 None",
+      "0": NaN,
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "Overview of Key Financial Ratios 3Q14 FY14 1H15 3Q15 Outlook 4.0% 3.8% 3.5% Return on Average Assets 3.3% 3.5% 25.2% 24.2% 24.0% Return on Average Equity 23.3% 24.0% 48.3% 50.2% 48.6% Cost to Income 49.1% 48.5% 6.7% 6.3% 7.3% Gross NPL to Gross Loans 6.9% 6.2% 69.4% 65.2% 71.8% NPL Coverage 80.0% 80.0% 18.5% 16.8% 28.8% Debt to Equity 27.5% 27.5% 39.5% 38.0% 36.7% Non funded income to total income 37.9% 40.0% 24.7% 24.1% 25.1% Staff costs to total income 24.3% 24.0% 3.2% 3.2% 2.9% Cost of funds 3.3% 3.3-3.5% 9.5% 9.7% 8.5% Net Interest Margin 8.0% 9.0% 1.6% 1.8% 1.7% Cost of risk 1.6% 1.6% 75% 75% 72% Loan to Deposit Ratio 74% 72% 17% 25% 32% Growth of Net Loans and Advances 32% 25% 16% 23% 26% Growth of Customer Deposits 35% 30% 17% 18% 13% Growth of Profit before tax 10% 14% 21",
+      "0": "Overview of Key Financial Ratios 3Q14 FY14 1H15 3Q15 Outlook 4.0% 3.8% 3.5% Return on Average Assets 3.3% 3.5% 25.2% 24.2% 24.0% Return on Average Equity 23.3% 24.0% 48.3% 50.2% 48.6% Cost to Income 49.1% 48.5% 6.7% 6.3% 7.3% Gross NPL to Gross Loans 6.9% 6.2% 69.4% 65.2% 71.8% NPL Coverage 80.0% 80.0% 18.5% 16.8% 28.8% Debt to Equity 27.5% 27.5% 39.5% 38.0% 36.7% Non funded income to total income 37.9% 40.0% 24.7% 24.1% 25.1% Staff costs to total income 24.3% 24.0% 3.2% 3.2% 2.9% Cost of funds 3.3% 3.3-3.5% 9.5% 9.7% 8.5% Net Interest Margin 8.0% 9.0% 1.6% 1.8% 1.7% Cost of risk 1.6% 1.6% 75% 75% 72% Loan to Deposit Ratio 74% 72% 17% 25% 32% Growth of Net Loans and Advances 32% 25% 16% 23% 26% Growth of Customer Deposits 35% 30% 17% 18% 13% Growth of Profit before tax 10% 14% 21",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    }
+  ]
+}
