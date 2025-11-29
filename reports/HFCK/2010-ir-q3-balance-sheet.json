@@ -1,0 +1,80 @@
+{
+  "title": "I. STATEMENT OF FINANCIAL POSITION GROUP COMPANY",
+  "units": "net",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T08:15:36.316623",
+  "data": [
+    {
+      "item": "I. STATEMENT OF FINANCIAL POSITION GROUP COMPANY",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "5": "None",
+      "6": "None",
+      "7": "None",
+      "8": "None",
+      "9": "None",
+      "10": "None",
+      "11": "None",
+      "4": NaN
+    },
+    {
+      "item": "None None",
+      "1": "30.09.2009",
+      "2": "31.12.2009",
+      "3": "31.03.2010",
+      "5": "30.06.2010",
+      "6": "30.09.2010",
+      "7": "30.09.2009",
+      "8": "31.12.2009",
+      "9": "31.03.2010",
+      "10": "30.06.2010",
+      "11": "30.09.2010",
+      "4": NaN
+    },
+    {
+      "item": "II. STATEMENT OF COMPREHENSIVE INCOME GROUP COMPANY",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "5": "None",
+      "6": "None",
+      "7": "None",
+      "8": "None",
+      "9": "None",
+      "10": "None",
+      "11": NaN,
+      "4": "None"
+    },
+    {
+      "item": "None",
+      "1": "30.09.2009",
+      "2": "31.12.2009",
+      "3": "31.03.2010",
+      "5": "30.09.2010",
+      "6": "30.09.2009",
+      "7": "31.12.2009",
+      "8": "31.03.2010",
+      "9": "30.06.2010",
+      "10": "30.09.2010",
+      "11": NaN,
+      "4": "30.06.2010"
+    },
+    {
+      "item": "III. DISCLOSURES GROUP COMPANY",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "5": "None",
+      "6": "None",
+      "7": "None",
+      "8": "None",
+      "9": "None",
+      "10": "None",
+      "11": NaN,
+      "4": "None"
+    }
+  ]
+}

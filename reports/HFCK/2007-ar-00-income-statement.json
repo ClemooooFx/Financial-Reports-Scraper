@@ -1,0 +1,96 @@
+{
+  "title": "CONSOLIDATED INCOME STATEMENT — FOR THE YEAR ENDED 31 DECEMBER 2007",
+  "units": "b",
+  "pages": [
+    26,
+    31,
+    55
+  ],
+  "extracted_at": "2025-11-29T08:15:05.201997",
+  "data": [
+    {
+      "item": "None None",
+      "1": "980,589 (297,128)",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "NET INTEREST INCOME 674,315",
+      "1": "683,461",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "NET INTEREST INCOME AFTER IMPAIRMENT LOSSES ON MORTGAGE ADVANCES 570,031",
+      "1": "608,669",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "PROFIT BEFORE TAXATION 6 141,236",
+      "1": "113,397",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "NET PROFIT AFTER TAX 101,049",
+      "1": "73,508",
+      "0": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "25",
+      "1": NaN,
+      "0": "25",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "30",
+      "1": NaN,
+      "0": "30",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Carrying amount",
+      "1": "1,404,783",
+      "0": NaN,
+      "2": "1,984,710",
+      "3": "-"
+    },
+    {
+      "item": "Carrying amount 896,754",
+      "1": "6,341,277",
+      "0": NaN,
+      "2": "4,360,639",
+      "3": "478,590"
+    },
+    {
+      "item": "2,132,782 13,736,066",
+      "1": NaN,
+      "0": "2,132,782 13,736,066",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "15,868,848",
+      "1": NaN,
+      "0": "15,868,848",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "54",
+      "1": NaN,
+      "0": "54",
+      "2": NaN,
+      "3": NaN
+    }
+  ]
+}

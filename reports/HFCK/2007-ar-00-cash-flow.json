@@ -1,0 +1,46 @@
+{
+  "title": "CONSOLIDATED CASH FLOW STATEMENT — FOR THE YEAR ENDED 31 DECEMBER 2007",
+  "units": "a",
+  "pages": [
+    29,
+    51
+  ],
+  "extracted_at": "2025-11-29T08:15:05.203856",
+  "data": [
+    {
+      "item": "None None",
+      "1": "(24,580) (53,775) - - (3,271)",
+      "0": NaN
+    },
+    {
+      "item": "Net cash flow from investing activities (25,596)",
+      "1": "(57,046)",
+      "0": NaN
+    },
+    {
+      "item": "28",
+      "1": NaN,
+      "0": "28"
+    },
+    {
+      "item": "Net cash flows from operating activities before tax (486,127)",
+      "1": "8,803",
+      "0": NaN
+    },
+    {
+      "item": "116,604 1,344,578 -",
+      "1": NaN,
+      "0": "116,604 1,344,578 -"
+    },
+    {
+      "item": "1,461,182",
+      "1": NaN,
+      "0": "1,461,182"
+    },
+    {
+      "item": "50",
+      "1": NaN,
+      "0": "50"
+    }
+  ]
+}
