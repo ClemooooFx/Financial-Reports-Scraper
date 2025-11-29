@@ -1,0 +1,801 @@
+{
+  "title": "Statement of comprehensive income Statement of Financial Position — Kshs. m FY2011 FY2010 Change Kshs. m FY2011 FY2010",
+  "units": "291",
+  "pages": [
+    17,
+    18,
+    20,
+    22,
+    23,
+    32,
+    37,
+    46,
+    47,
+    55,
+    56,
+    64
+  ],
+  "extracted_at": "2025-11-29T04:25:23.434885",
+  "data": [
+    {
+      "item": "Kshs. m",
+      "1": "FY2011",
+      "2": "FY2010",
+      "3": "Change",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Income",
+      "1": "1,695",
+      "2": "1,121",
+      "3": "51%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Expenses",
+      "1": "(291)",
+      "2": "(199)",
+      "3": "46%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Finance costs",
+      "1": "(155)",
+      "2": "(47)",
+      "3": "-230%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profit before tax",
+      "1": "1,249",
+      "2": "875",
+      "3": "43%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Tax",
+      "1": "(2)",
+      "2": "13",
+      "3": "(115)%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Profit after tax",
+      "1": "1,247",
+      "2": "888",
+      "3": "40%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "OCI",
+      "1": "2,148",
+      "2": "2,409",
+      "3": "-11%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Compr. Income",
+      "1": "3,395",
+      "2": "3,297",
+      "3": "3%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Assets",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Assets",
+      "1": "15,003",
+      "2": "9,840",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital & Liabilities",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Debt",
+      "1": "1,988",
+      "2": "-",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Other liabilities",
+      "1": "463",
+      "2": "683",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Capital & Reserves",
+      "1": "12,552",
+      "2": "9,157",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "",
+      "1": "15,003",
+      "2": "9,840",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "NAV per Share (Kes)",
+      "1": "20.75",
+      "2": "15.14",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "EVISNEHERPMOC FO TNEMETATS EMOCNI Kshs.m",
+      "1": NaN,
+      "2": NaN,
+      "3": "PE",
+      "4": "QPE",
+      "5": "R&I",
+      "6": "Total",
+      "0": NaN
+    },
+    {
+      "item": "None Portfolio income",
+      "1": NaN,
+      "2": NaN,
+      "3": "554",
+      "4": "185",
+      "5": "5",
+      "6": "744",
+      "0": NaN
+    },
+    {
+      "item": "None Unrealised gains",
+      "1": NaN,
+      "2": NaN,
+      "3": "1,880",
+      "4": "221",
+      "5": "999",
+      "6": "3,099",
+      "0": NaN
+    },
+    {
+      "item": "None Gross Return",
+      "1": NaN,
+      "2": NaN,
+      "3": "2,434",
+      "4": "405",
+      "5": "1,004",
+      "6": "3,843",
+      "0": NaN
+    },
+    {
+      "item": "None Costs",
+      "1": NaN,
+      "2": NaN,
+      "3": "(166)",
+      "4": "(85)",
+      "5": "(197)",
+      "6": "(448)",
+      "0": NaN
+    },
+    {
+      "item": "None Total Return",
+      "1": NaN,
+      "2": NaN,
+      "3": "2,268",
+      "4": "320",
+      "5": "807",
+      "6": "3,395",
+      "0": NaN
+    },
+    {
+      "item": "LAICNANIF NOITISOP FO TNEMETATS Kshs.m PE QPE RE&I Total",
+      "1": "Kshs.m",
+      "2": "PE",
+      "3": "QPE",
+      "4": "RE&I",
+      "5": "Total",
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Investment Property 3,520 3,520 Private Equity 7,572 7,572 Quoted Equity 3,425 2,422 Bonds 515 515 None None None None",
+      "1": "Investment Property 3,520 3,520 Private Equity 7,572 7,572 Quoted Equity 3,425 2,422 Bonds 515 515",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "5": "None",
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Portfolio Value 7,572 3,940 3,520 15,031",
+      "1": "Portfolio Value",
+      "2": "7,572",
+      "3": "3,940",
+      "4": "3,520",
+      "5": "15,031",
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Net Assets 90 4 (587) 491 Debt - - (1,988) (1,988) None None None None",
+      "1": "Net Assets 90 4 (587) 491 Debt - - (1,988) (1,988)",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "5": "None",
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "None Net Asset Value 7,662 3,944 946 12,552",
+      "1": "Net Asset Value",
+      "2": "7,662",
+      "3": "3,944",
+      "4": "946",
+      "5": "12,552",
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kes. m",
+      "1": "FY2011",
+      "2": "FY2010",
+      "3": "Change",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share of Assoc. earnings",
+      "1": "487",
+      "2": "290",
+      "3": "68%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total compr. Income",
+      "1": "1,703",
+      "2": "1,540",
+      "3": "11%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "EPS",
+      "1": "3.79",
+      "2": "1.81",
+      "3": "",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Portfolio value",
+      "1": "11,966",
+      "2": "7,709",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Other Assets",
+      "1": "335",
+      "2": "547",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kes m",
+      "1": "Company",
+      "2": "Adjustment",
+      "3": "Group",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Investment Income",
+      "1": "1,685",
+      "2": "",
+      "3": "1,685",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Dividend income from Associates",
+      "1": "",
+      "2": "(354)",
+      "3": "(354)",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share of Associate profits",
+      "1": "",
+      "2": "487",
+      "3": "487",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Other comprehensive income",
+      "1": "2,158",
+      "2": "",
+      "3": "2,158",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Associate fair value movement",
+      "1": "",
+      "2": "(1,990)",
+      "3": "(1,990)",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share of associate equity movement",
+      "1": "",
+      "2": "165",
+      "3": "165",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Comprehensive Income",
+      "1": "3,395",
+      "2": "1,692",
+      "3": "1,703",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Portfolio Value",
+      "1": "14,463",
+      "2": "",
+      "3": "14,463",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share of Associates book value",
+      "1": "",
+      "2": "3,377",
+      "3": "3,377",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Fair Value of Associates",
+      "1": "",
+      "2": "(6,231)",
+      "3": "(6,231)",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net assets",
+      "1": "77",
+      "2": "",
+      "3": "77",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Borrowings",
+      "1": "(1,988)",
+      "2": "",
+      "3": "(1,988)",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Dividend receivable from Associates",
+      "1": "",
+      "2": "(139)",
+      "3": "(139)",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net Asset Value",
+      "1": "12,552",
+      "2": "(1,301)",
+      "3": "9,559",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "• Create an investment grade asset that is low risk and generates income and capital appreciation; • Regional diversification • Long term focus (sustainability); • Exit primarily via sale of financial instruments; • Branded and vibrant destinations; • Phased development; • Well located, well designed and well managed developments; • Project Sponsor as “lead developer”; • Branded and vibrant destinations; • Mixed uses",
+      "1": "• Well located, well designed and well managed developments; • Project Sponsor as “lead developer”; • Branded and vibrant destinations; • Mixed uses",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "• Create an investment grade asset that is low risk and generates income and capital appreciation; • Regional diversification • Long term focus (sustainability); • Exit primarily via sale of financial instruments; • Branded and vibrant destinations; • Phased development;"
+    },
+    {
+      "item": "• Exit primarily via direct land/property sales; • Short term focus; • No emotional connection with end-users; • Bulk development; • Uncontrolled development; • Project Sponsor with no development capital at risk; • Development “short cuts”;",
+      "1": "• Uncontrolled development; • Project Sponsor with no development capital at risk; • Development “short cuts”;",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "• Exit primarily via direct land/property sales; • Short term focus; • No emotional connection with end-users; • Bulk development;"
+    },
+    {
+      "item": "Project Company Year Acquired None Description None",
+      "1": NaN,
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Uhuru Heights Limited None • 0.6 acre undeveloped property located along Uhuru Highway, between Laico Regency and Utalii House; • Currently managed as a public parking facility;",
+      "1": NaN,
+      "2": "1987/1988",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Runda Closeburn Limited None • 100 acres located in Nairobi’s most sought after address and within the Gigiri diplomatic complex;",
+      "1": NaN,
+      "2": "2010/2011",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Pearl Marina Estates Limited None • 300 acres located on the Garuga peninsula, off the Entebbe-Kampala highway;",
+      "1": NaN,
+      "2": "2010/2011",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Runda Closeburn Limited • Negotiated an attractive entry price; • Successfully completed a difficult acquisition; • Construction of Northern By-Pass complete;",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Pearl Marina Estates Limited • Negotiated an attractive entry price; • Successfully completed a difficult acquisition; • Consolidated ownership of three contiguous properties; • Increased interest in the peninsula driven by growing UN presence in Entebbe;",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Uhuru Heights Limited • Revaluation of asset previously held at cost;",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Runda Closeburn Limited",
+      "1": NaN,
+      "2": "• Complete the master plan vision (convert bare land into high value destination); • Satisfy conditions for change of user; • Identify and engage target market for phase 1; • Begin development of phase 1 (possibly a diplomatic hub);",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Pearl Marina Estates Limited",
+      "1": NaN,
+      "2": "• Complete the master plan vision; • Identify and engage target market for phase 1 • Begin development of phase 1",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Local Demand Linked to GDP Low Import Substitution Competitive Advantage Pricing Power Regulatory Stability",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Portfolio Companies",
+      "1": "% Holding",
+      "2": "% PE Portfolio",
+      "3": "% Total Portfolio",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Nairobi Bottlers",
+      "1": "27.6%",
+      "2": "33.3%",
+      "3": "19.5%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Mt. Kenya Bottlers",
+      "1": "27.8%",
+      "2": "6.8%",
+      "3": "4.0%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Rift Valley Bottlers",
+      "1": "44.0%",
+      "2": "6.5%",
+      "3": "3.8%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kisii Bottlers",
+      "1": "26.4%",
+      "2": "1.8%",
+      "3": "1.1%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "KWAL Holdings",
+      "1": "26.7%",
+      "2": "3.3%",
+      "3": "1.9%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "UAP Holdings",
+      "1": "24.2%",
+      "2": "15.0%",
+      "3": "8.8%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Aon Minet",
+      "1": "21.5%",
+      "2": "6.95",
+      "3": "4.0%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "K-Rep Bank",
+      "1": "1.7%",
+      "2": "0.3%",
+      "3": "0.2%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "CDSC Fund",
+      "1": "10.0%",
+      "2": "0.1%",
+      "3": "0.1%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "General Motors",
+      "1": "17.8%",
+      "2": "18.3%",
+      "3": "10.7%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Longhorn Pub.",
+      "1": "35.0%",
+      "2": "3.7%",
+      "3": "2.2%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "NAS Air. Services",
+      "1": "9.1%",
+      "2": "3.0%",
+      "3": "1.8%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Helios II",
+      "1": "1.7%",
+      "2": "1.1%",
+      "3": "0.4%",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "31 March",
+      "1": "2011",
+      "2": "2010",
+      "3": "2009",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Pre-discount",
+      "1": "10.43x",
+      "2": "9.94x",
+      "3": "6.94x",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Post-discount",
+      "1": "7.30x",
+      "2": "6.96x",
+      "3": "4.86x",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    }
+  ]
+}

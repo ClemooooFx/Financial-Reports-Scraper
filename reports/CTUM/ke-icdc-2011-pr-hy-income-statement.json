@@ -1,0 +1,458 @@
+{
+  "title": "Statement of Comprehensive Income",
+  "units": "196",
+  "pages": [
+    14,
+    26,
+    27,
+    30,
+    34,
+    37,
+    39,
+    41,
+    44
+  ],
+  "extracted_at": "2025-11-29T04:25:24.669094",
+  "data": [
+    {
+      "item": "Kshs. „m",
+      "1": "Company",
+      "2": "None",
+      "3": "None",
+      "4": "Group",
+      "5": "None",
+      "6": "None",
+      "0": NaN
+    },
+    {
+      "item": "None",
+      "1": "Sept ’10",
+      "2": "Sept’09",
+      "3": "Var %",
+      "4": "Sept ’10",
+      "5": "Sept’09",
+      "6": "Var %",
+      "0": NaN
+    },
+    {
+      "item": "Income",
+      "1": "956",
+      "2": "183",
+      "3": "422%",
+      "4": "705",
+      "5": "64",
+      "6": "909%",
+      "0": NaN
+    },
+    {
+      "item": "Expenses",
+      "1": "(196)",
+      "2": "(103)",
+      "3": "-90%",
+      "4": "(140)",
+      "5": "(103)",
+      "6": "359%",
+      "0": NaN
+    },
+    {
+      "item": "Share of Associate earnings",
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "4": "361",
+      "5": "154",
+      "6": "1344%",
+      "0": NaN
+    },
+    {
+      "item": "Profit Before Tax",
+      "1": "760",
+      "2": "80",
+      "3": "850%",
+      "4": "926",
+      "5": "114",
+      "6": "712%",
+      "0": NaN
+    },
+    {
+      "item": "Tax",
+      "1": "8",
+      "2": "(1)",
+      "3": "700%",
+      "4": "(81)",
+      "5": "(40)",
+      "6": "102",
+      "0": NaN
+    },
+    {
+      "item": "Profit After Tax",
+      "1": "768",
+      "2": "79",
+      "3": "872%",
+      "4": "845",
+      "5": "73",
+      "6": "1057%",
+      "0": NaN
+    },
+    {
+      "item": "Other Compr. Income",
+      "1": "618",
+      "2": "241",
+      "3": "156%",
+      "4": "123",
+      "5": "229",
+      "6": "(46%)",
+      "0": NaN
+    },
+    {
+      "item": "Total Compr. Income",
+      "1": "1,386",
+      "2": "320",
+      "3": "333%",
+      "4": "968",
+      "5": "303",
+      "6": "219%",
+      "0": NaN
+    },
+    {
+      "item": "EPS",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "1.40",
+      "5": "0.13",
+      "6": "127%",
+      "0": NaN
+    },
+    {
+      "item": "Kshs. m",
+      "1": "PE",
+      "2": "QPE",
+      "3": "RE&I",
+      "4": "TOTAL",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Dividends Receivable",
+      "1": "256",
+      "2": "77",
+      "3": "-",
+      "4": "333",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Interest receivable",
+      "1": "-",
+      "2": "29",
+      "3": "59",
+      "4": "88",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Rent income",
+      "1": "-",
+      "2": "-",
+      "3": "2",
+      "4": "2",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Realised gain on disposal of investment",
+      "1": "",
+      "2": "(9)",
+      "3": "",
+      "4": "(9)",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Unrealised value movements",
+      "1": "706",
+      "2": "450",
+      "3": "-",
+      "4": "1,156",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Other income",
+      "1": "4",
+      "2": "-",
+      "3": "-",
+      "4": "4",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Gross Return",
+      "1": "966",
+      "2": "547",
+      "3": "61",
+      "4": "1,574",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Portfolio costs",
+      "1": "(68)",
+      "2": "(53)",
+      "3": "(75)",
+      "4": "(196)",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Net return",
+      "1": "98",
+      "2": "494",
+      "3": "(14)",
+      "4": "1,378",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Return",
+      "1": "902",
+      "2": "497",
+      "3": "(13)",
+      "4": "1,386",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Gain on disposal of investment",
+      "1": "-",
+      "2": "480",
+      "3": "-",
+      "4": "480",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Share of Associates Earnings",
+      "1": "361",
+      "2": "-",
+      "3": "-",
+      "4": "361",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Other Comprehensive Income",
+      "1": "207",
+      "2": "(84)",
+      "3": "-",
+      "4": "123",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Total Comprehensive Income",
+      "1": "486",
+      "2": "496",
+      "3": "(14)",
+      "4": "968",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Weighed Average EBIT Multiple",
+      "1": "Sep 30, 2010",
+      "2": "Mar 31, 2010",
+      "3": "Mar 31, 2009",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Before liquidity discount",
+      "1": "9.94x",
+      "2": "9.94x",
+      "3": "6.94x",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "After liquidity discount",
+      "1": "6.96x",
+      "2": "6.96x",
+      "3": "4.86x",
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Portfolio Composition Geographic exposure",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Consideration None RCL None PMEL",
+      "1": NaN,
+      "2": "RCL",
+      "3": NaN,
+      "4": "PMEL",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Market Opportunity • Prime location in a diplomatic cluster • Congestion in the Nairobi CBD area; • Scarcity of sizeable serviced land; • Demand for property in the area; • Serious congestion and sprawl in the Kampala metro area; • Growing presence of expatriate community; • Proximity to Entebbe Airport;",
+      "1": NaN,
+      "2": "• Prime location in a diplomatic cluster • Congestion in the Nairobi CBD area; • Scarcity of sizeable serviced land; • Demand for property in the area;",
+      "3": NaN,
+      "4": "• Serious congestion and sprawl in the Kampala metro area; • Growing presence of expatriate community; • Proximity to Entebbe Airport;",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Approach • Competitive concept design process; • PRINCE2 project management; • Mixed use development (commercial, residential, retail, hospitality, etc.) • Phased development to start within 12 months; • Competitive concept design process; • PRINCE2 project management; • Mixed use development (commercial, residential, retail, etc) • Phased development to start within 12 months;",
+      "1": NaN,
+      "2": "• Competitive concept design process; • PRINCE2 project management; • Mixed use development (commercial, residential, retail, hospitality, etc.) • Phased development to start within 12 months;",
+      "3": NaN,
+      "4": "• Competitive concept design process; • PRINCE2 project management; • Mixed use development (commercial, residential, retail, etc) • Phased development to start within 12 months;",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Funding Options • Acquisition of land fully funded; • Sale of shares in RCL to investors; • Debt financing at project level; • Third party funds; • Partnership with developers; • Acquisition of land fully funded; • Sale of shares in PMEL to investors; • Debt financing at project level; • Third party funds; • Partnership with developers;",
+      "1": NaN,
+      "2": "• Acquisition of land fully funded; • Sale of shares in RCL to investors; • Debt financing at project level; • Third party funds; • Partnership with developers;",
+      "3": NaN,
+      "4": "• Acquisition of land fully funded; • Sale of shares in PMEL to investors; • Debt financing at project level; • Third party funds; • Partnership with developers;",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Benefits • Easier to optimize development program; • Value uplift from phasing development; • No restrictions on development options; • Easier to optimize development program; • Phased development enables value uplift; • No restrictions on development options;",
+      "1": NaN,
+      "2": "• Easier to optimize development program; • Value uplift from phasing development; • No restrictions on development options;",
+      "3": NaN,
+      "4": "• Easier to optimize development program; • Phased development enables value uplift; • No restrictions on development options;",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Exit Options • Sale of leases to developers; • Sale of shares in RCL to financial investors; • Sale of leases to developers; • Sale of shares in PMEL to financial investors;",
+      "1": NaN,
+      "2": "• Sale of leases to developers; • Sale of shares in RCL to financial investors;",
+      "3": NaN,
+      "4": "• Sale of leases to developers; • Sale of shares in PMEL to financial investors;",
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Plot # Status",
+      "1": "Acreage",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "13 & 27 (shaded) Acquired",
+      "1": "90.86",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "6(N), 12 & 5 Acquired",
+      "1": "206.28",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Strategic Objective Progress",
+      "1": "Progress",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "Strategic Objective"
+    },
+    {
+      "item": "1. Scale up assets under Management • Target to grow assets under management to Kshs 30 Billion by 2014 • As at September 2010 ahead of March 2011 target.",
+      "1": "• Target to grow assets under management to Kshs 30 Billion by 2014 • As at September 2010 ahead of March 2011 target.",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "1. Scale up assets under Management"
+    },
+    {
+      "item": "2. Deliver Market beating returns • On track to beat the market in 2011",
+      "1": "• On track to beat the market in 2011",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "2. Deliver Market beating returns"
+    },
+    {
+      "item": "3. Geographical diversification • Increased investment activity outside Kenya • In the process of cross listing in Uganda",
+      "1": "• Increased investment activity outside Kenya • In the process of cross listing in Uganda",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "3. Geographical diversification"
+    },
+    {
+      "item": "4. Manage costs • Maintained the total costs to asset ratio at below 2.5%",
+      "1": "• Maintained the total costs to asset ratio at below 2.5%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN,
+      "0": "4. Manage costs"
+    }
+  ]
+}

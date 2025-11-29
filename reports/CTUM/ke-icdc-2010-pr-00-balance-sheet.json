@@ -1,0 +1,334 @@
+{
+  "title": "Statement of financial position",
+  "units": "nav",
+  "pages": [
+    34,
+    35,
+    39,
+    40,
+    41
+  ],
+  "extracted_at": "2025-11-29T04:24:59.462306",
+  "data": [
+    {
+      "item": "Company Group",
+      "0": "",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Income Statement",
+      "0": "Income Statement",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Dividend income from Associates P X",
+      "0": "Dividend income from Associates",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Share of Associate profits X P",
+      "0": "Share of Associate profits",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Other Comprehensive Income",
+      "0": "Other Comprehensive Income",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Fair value movement in Associates P X",
+      "0": "Fair value movement in Associates",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Share of Associate equity movement X P",
+      "0": "Share of Associate equity movement",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Statement of financial position",
+      "0": "Statement of financial position",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Associates held at fair value P X",
+      "0": "Associates held at fair value",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Associates held at book value (NAV) X P",
+      "0": "Associates held at book value (NAV)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "850",
+      "0": "850",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "938",
+      "0": "938",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "1,251",
+      "0": "1,251",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2,081",
+      "0": "2,081",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "4,240",
+      "0": "4,240",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "2,949",
+      "0": "2,949",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "KES M",
+      "0": NaN,
+      "1": "Company",
+      "2": "Adjustment",
+      "3": "Group",
+      "4": NaN
+    },
+    {
+      "item": "Portfolio Value",
+      "0": NaN,
+      "1": "9,360",
+      "2": "",
+      "3": "9,360",
+      "4": NaN
+    },
+    {
+      "item": "Share of Associates book value",
+      "0": NaN,
+      "1": "",
+      "2": "2,949",
+      "3": "2,949",
+      "4": NaN
+    },
+    {
+      "item": "Fair Value of Associates",
+      "0": NaN,
+      "1": "",
+      "2": "(4,240)",
+      "3": "(4,240)",
+      "4": NaN
+    },
+    {
+      "item": "Net liabilities",
+      "0": NaN,
+      "1": "(203)",
+      "2": "",
+      "3": "(203)",
+      "4": NaN
+    },
+    {
+      "item": "Dividend receivable from Associates",
+      "0": NaN,
+      "1": "",
+      "2": "(10)",
+      "3": "(10)",
+      "4": NaN
+    },
+    {
+      "item": "Net Asset Value",
+      "0": NaN,
+      "1": "9,157",
+      "2": "(1,301)",
+      "3": "7,856",
+      "4": NaN
+    },
+    {
+      "item": "Return (Statement of comprehensive income) None",
+      "0": NaN,
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Total Return (KES M) Total Comprehensive Income (TCI)",
+      "0": NaN,
+      "1": "3,297",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Return on Opening Equity TCI divided by Opening NAV",
+      "0": NaN,
+      "1": "56.3%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Cost to portfolio ratio Costs divided by Closing Portfolio Value",
+      "0": NaN,
+      "1": "2.1%",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Statement of Financial Position",
+      "0": NaN,
+      "1": "None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Portfolio Value Equity investments + deposits",
+      "0": NaN,
+      "1": "9,360",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Net Asset Value (NAV) Portfolio value – net liabilities",
+      "0": NaN,
+      "1": "9,157",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "NAV per Share (Kshs.) NAV divided by Centum’s issued share",
+      "0": NaN,
+      "1": "16.65",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Investment activity (KES M)",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "Investments",
+      "0": NaN,
+      "1": "80",
+      "2": "1,141",
+      "3": "-",
+      "4": "1,221"
+    },
+    {
+      "item": "Realization proceeds",
+      "0": NaN,
+      "1": "265",
+      "2": "1,083",
+      "3": "-",
+      "4": "1,348"
+    },
+    {
+      "item": "Return Analysis",
+      "0": NaN,
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "item": "Total Return",
+      "0": NaN,
+      "1": "2,168",
+      "2": "1,141",
+      "3": "(11)",
+      "4": "3,297"
+    },
+    {
+      "item": "Return on Opening Equity",
+      "0": NaN,
+      "1": "61.1%",
+      "2": "50.1%",
+      "3": "(32%)",
+      "4": "56.3%"
+    },
+    {
+      "item": "Balance sheet",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "Net Asset Value (NAV)",
+      "0": NaN,
+      "1": "5,372",
+      "2": "3,749",
+      "3": "36",
+      "4": "9,157"
+    },
+    {
+      "item": "NAV per Share",
+      "0": NaN,
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "16.65"
+    }
+  ]
+}

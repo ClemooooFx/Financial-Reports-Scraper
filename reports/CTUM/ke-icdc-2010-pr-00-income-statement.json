@@ -1,0 +1,70 @@
+{
+  "title": "Statement of Comprehensive Income",
+  "units": "150",
+  "pages": [
+    38
+  ],
+  "extracted_at": "2025-11-29T04:24:59.463446",
+  "data": [
+    {
+      "item": "KES M",
+      "1": "Company",
+      "2": "Adjustment",
+      "3": "Group"
+    },
+    {
+      "item": "Investment Income",
+      "1": "1,121",
+      "2": "",
+      "3": "1,121"
+    },
+    {
+      "item": "Dividend income from Associates",
+      "1": "",
+      "2": "(150)",
+      "3": "(150)"
+    },
+    {
+      "item": "Share of Associate profits",
+      "1": "",
+      "2": "290",
+      "3": "290"
+    },
+    {
+      "item": "Costs",
+      "1": "(246)",
+      "2": "",
+      "3": "(246)"
+    },
+    {
+      "item": "Profit After Tax",
+      "1": "888",
+      "2": "",
+      "3": "1,027"
+    },
+    {
+      "item": "Other comprehensive income",
+      "1": "2,409",
+      "2": "",
+      "3": "2,409"
+    },
+    {
+      "item": "Associate fair value movement",
+      "1": "",
+      "2": "(1,867)",
+      "3": "(1,867)"
+    },
+    {
+      "item": "Share of associate equity movement",
+      "1": "",
+      "2": "(30)",
+      "3": "(30)"
+    },
+    {
+      "item": "Total Comprehensive Income",
+      "1": "3,297",
+      "2": "1,757",
+      "3": "1,540"
+    }
+  ]
+}

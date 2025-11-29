@@ -1,0 +1,356 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "chairman",
+  "pages": [
+    16,
+    53,
+    58
+  ],
+  "extracted_at": "2025-11-29T04:24:26.218000",
+  "data": [
+    {
+      "item": "*ICDCI **PNK tnemtsevnI eettimmoC eettimmoC tiduA",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Non-executive Chairman • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Executive Managing Director • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Non-executive Chairman Investment Committee • • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Independent non-executive Chairman Nominations &Governance Committee • • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Non-executive Chairman Audit Committee • • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Independent non-executive • • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Independent non-executive • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Non-executive • • •",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "P P A P P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "P P P P P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "P A P P P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "A A A A P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "A P P P P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "P P A A A",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "P",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Name",
+      "1": "Number of Shares",
+      "2": "% Holding",
+      "3": "Number of Shares",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Industrial and Commercial Development Corporation",
+      "1": "12,930,413",
+      "2": "24%",
+      "3": "12,930,413",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Christopher J Kirubi",
+      "1": "9,555,872",
+      "2": "17%",
+      "3": "9,415,872",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Stanbic Nominees Kenya Ltd A/C R48701",
+      "1": "4,767,459",
+      "2": "9%",
+      "3": "280,448",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kiruma International Co Ltd",
+      "1": "3,217,909",
+      "2": "6%",
+      "3": "3,056,130",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "International House Ltd",
+      "1": "2,759,560",
+      "2": "5%",
+      "3": "3,007,560",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "UAP Provincial Insurance Co Ltd",
+      "1": "846,000",
+      "2": "2%",
+      "3": "5,038,305",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Old Mutual Insurance Co Ltd",
+      "1": "593,513",
+      "2": "1%",
+      "3": "593,513",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Barclays (Kenya) Nominees Ltd A/C 1256",
+      "1": "588,048",
+      "2": "1%",
+      "3": "-",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Barclays (Kenya) Nominees Ltd A/C 1853",
+      "1": "576,165",
+      "2": "1%",
+      "3": "1,078,029",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "Kenya Commercial Bank Nominees Ltd A/C 769G",
+      "1": "309,404",
+      "2": "1%",
+      "3": "309,404",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "TOTAL",
+      "1": "36,144,343",
+      "2": "67%",
+      "3": "35,709,674",
+      "4": NaN,
+      "0": NaN
+    },
+    {
+      "item": "No.of Shareholders",
+      "1": "No.of Shares held",
+      "2": "% Holding",
+      "3": "No.of Shareholders",
+      "4": "No.of Shares held",
+      "0": NaN
+    },
+    {
+      "item": "12,516",
+      "1": "3,978,971",
+      "2": "7%",
+      "3": "13,640",
+      "4": "4,438,508",
+      "0": NaN
+    },
+    {
+      "item": "2,011",
+      "1": "3,945,674",
+      "2": "7%",
+      "3": "2,294",
+      "4": "4,530,945",
+      "0": NaN
+    },
+    {
+      "item": "206",
+      "1": "1,449,484",
+      "2": "3%",
+      "3": "249",
+      "4": "1,752,627",
+      "0": NaN
+    },
+    {
+      "item": "109",
+      "1": "2,373,923",
+      "2": "4%",
+      "3": "132",
+      "4": "2,818,373",
+      "0": NaN
+    },
+    {
+      "item": "21",
+      "1": "43,247,131",
+      "2": "79%",
+      "3": "15",
+      "4": "41,454,730",
+      "0": NaN
+    },
+    {
+      "item": "14,851",
+      "1": "54,995,183",
+      "2": "100%",
+      "3": "16,330",
+      "4": "54,995,183",
+      "0": NaN
+    },
+    {
+      "item": "99.00",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "99.00"
+    },
+    {
+      "item": "67.00",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "67.00"
+    },
+    {
+      "item": "2,650,382",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "2,650,382"
+    },
+    {
+      "item": "202",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "202"
+    },
+    {
+      "item": "5%",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "5%"
+    },
+    {
+      "item": "54,995,183",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "54,995,183"
+    },
+    {
+      "item": "KWANZAKUNJAHAPA FOLD1",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "KWANZAKUNJAHAPA FOLD1"
+    },
+    {
+      "item": "nyehisa wa ke na kupiga kura akapuuza fomu za mashart matatu te yaliyo katika ti moja, isa mkuu a ya wenyehisa kuwakilishwa, enyehisa wengine",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "0": "nyehisa wa ke na kupiga kura akapuuza fomu za mashart matatu te yaliyo katika ti moja, isa mkuu a ya wenyehisa kuwakilishwa, enyehisa wengine"
+    }
+  ]
+}

@@ -1,0 +1,1349 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "nav",
+  "pages": [
+    4,
+    14,
+    15,
+    18,
+    19,
+    20,
+    27,
+    30,
+    32,
+    34,
+    40,
+    42,
+    43,
+    44,
+    47,
+    49,
+    50,
+    52,
+    54,
+    55,
+    58,
+    59,
+    97,
+    98,
+    110,
+    112
+  ],
+  "extracted_at": "2025-11-29T04:25:37.309716",
+  "data": [
+    {
+      "item": "Centum has a stake in four of the six Coca Cola bottling plants in Kenya namely;",
+      "0": "Centum has a stake in four of the six Coca Cola bottling plants in Kenya namely;",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Nairobi Bottlers, Mount Kenya Bottlers, Kisii Bottlers and Rift Valley Bottlers. Note 19, Pg 96",
+      "0": "Nairobi Bottlers, Mount Kenya Bottlers, Kisii Bottlers and Rift Valley Bottlers. Note 19, Pg 96",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None None None None None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None None None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None None",
+      "0": "18.9 20.6",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None 18.9 None",
+      "0": "None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None 20.6",
+      "0": "None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 13.8 19.55",
+      "0": "",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "13.8 None None",
+      "0": "None",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "8.9",
+      "0": NaN,
+      "1": "8.9",
+      "2": NaN
+    },
+    {
+      "item": "Longhorn Kenya Ltd. is a leading regional publisher of educational and general readership books. Longhorn ranks second in market share for both primary and secondary level textbooks. It has subsidiaries in Uganda and Tanzania and is also exploring",
+      "0": "Longhorn Kenya Ltd. is a leading regional publisher of educational and general readership books. Longhorn ranks second in market share for both primary and secondary level textbooks. It has subsidiaries in Uganda and Tanzania and is also exploring",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "opportunities in other African countries such as South Sudan, Rwanda and Zambia. Note 19, Pg 96",
+      "0": "opportunities in other African countries such as South Sudan, Rwanda and Zambia. Note 19, Pg 96",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Ukuaji wa raslimali ya mwenyehisa",
+      "0": "Ukuaji wa raslimali ya mwenyehisa",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4300 16 14 4073 3887 13.7 4100 )inoiliB( 12 12.6 3900 Kshs 7.8 Billion 10 9.2 3700 shsK 02 ESN 8 3500 3367 3300 6 5.9 3100 4 2900 2 2805 2700 0 2500 2009 2010 2011 2012 NAV NSE 20",
+      "0": "4300 16 14 4073 3887 13.7 4100 )inoiliB( 12 12.6 3900 Kshs 7.8 Billion 10 9.2 3700 shsK 02 ESN 8 3500 3367 3300 6 5.9 3100 4 2900 2 2805 2700 0 2500 2009 2010 2011 2012 NAV NSE 20",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Aina ya uwekezaji Jinsi tulitambua mapato kwenye taarifa yamapato Jinsi tulitambua rasilimali Kwenye taarifa inayoonyesha hali ya rasilmali",
+      "0": "Aina ya uwekezaji",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Kampuni tanzu (tunamiliki zaidi ya asilimia 51) Tunatambua misururu yote ya mapato Tunatambua rasilimali zake zote",
+      "0": "Kampuni tanzu (tunamiliki zaidi ya asilimia 51)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Shirika(tunamiliki zaidi yaasilimia 20 lakini chini ya asilimia 51) Mgao wa mapato Mgao wa rasilimali ya shirika hilo",
+      "0": "Shirika(tunamiliki zaidi yaasilimia 20 lakini chini ya asilimia 51)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Uwekezaji mengine(tunamiliki chini ya asilimia 20) Mgao wa faida Thamani ya hisa",
+      "0": "Uwekezaji mengine(tunamiliki chini ya asilimia 20)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Miradi ya nyumba na ujenzi Fedha ambazo zingepatikana kama miradi ingeuzwa Thamani halisi kulingana na wakadiriaji wa nje",
+      "0": "Miradi ya nyumba na ujenzi",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Dividend Income 404 510 456",
+      "0": "Dividend Income 404 510 456",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Interest Income 52 78 6",
+      "0": "Interest Income 52 78 6",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Other Income 52 25 33",
+      "0": "Other Income 52 25 33",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Realised gains 84 131 88",
+      "0": "Realised gains 84 131 88",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Unrealised gains 859 3,099 2,948",
+      "0": "Unrealised gains 859 3,099 2,948",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross Return 1,451 3,843 3,531",
+      "0": "Gross Return 1,451 3,843 3,531",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Finance Costs (50) (155) (47)",
+      "0": "Finance Costs (50) (155) (47)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio costs (268) (293) (199)",
+      "0": "Portfolio costs (268) (293) (199)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "total Return 1,133 3,395 3,297",
+      "0": "total Return 1,133 3,395 3,297",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross return 12% 42% 60%",
+      "0": "Gross return 12% 42% 60%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "total return 9% 37% 56%",
+      "0": "total return 9% 37% 56%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio costs 227 291 199",
+      "0": "Portfolio costs 227 291 199",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Closing portfolio value 14,694 14,486 9,360",
+      "0": "Closing portfolio value 14,694 14,486 9,360",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "cost efficiency 1.5% 2.0% 2.1%",
+      "0": "cost efficiency 1.5% 2.0% 2.1%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio value 14,694 14,487 9,015",
+      "0": "Portfolio value 14,694 14,487 9,015",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Net assets (19) 53 142",
+      "0": "Net assets (19) 53 142",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Debt (1,000) (1,988) -",
+      "0": "Debt (1,000) (1,988) -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Shareholder s’ funds (NAV) 13,685 12,552 9,157",
+      "0": "Shareholder s’ funds (NAV) 13,685 12,552 9,157",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gearing 7.3% 15.8% -",
+      "0": "Gearing 7.3% 15.8% -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "nAv per share (Kshs.) 20.57 18.86 13.76",
+      "0": "nAv per share (Kshs.) 20.57 18.86 13.76",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio income 375 554 429",
+      "0": "Portfolio income 375 554 429",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Unrealized gains 992 1,880 1,886",
+      "0": "Unrealized gains 992 1,880 1,886",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross return 1,367 2,434 2,315",
+      "0": "Gross return 1,367 2,434 2,315",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Total return 1,245 2,268 2,168",
+      "0": "Total return 1,245 2,268 2,168",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross return (%) 18% 43% 65%",
+      "0": "Gross return (%) 18% 43% 65%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "total return (%) 16% 40% 61%",
+      "0": "total return (%) 16% 40% 61%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Closing portfolio value 8,609 7,662 5,491",
+      "0": "Closing portfolio value 8,609 7,662 5,491",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Porfolio Income 209 183 150",
+      "0": "Porfolio Income 209 183 150",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Unrealized value movements (153) 221 1,062",
+      "0": "Unrealized value movements (153) 221 1,062",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross Return 56 404 1,212",
+      "0": "Gross Return 56 404 1,212",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Finance costs (50) -- (17)",
+      "0": "Finance costs (50) -- (17)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio costs (54) (84) (64)",
+      "0": "Portfolio costs (54) (84) (64)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Total return (48) 320 1,131",
+      "0": "Total return (48) 320 1,131",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross Return 1.4% 11.5% 53.2%",
+      "0": "Gross Return 1.4% 11.5% 53.2%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "total return (1.7%) 9.1% 50.1%",
+      "0": "total return (1.7%) 9.1% 50.1%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Closing portfolio value 2,474 3,940 3,847",
+      "0": "Closing portfolio value 2,474 3,940 3,847",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio Income 9 5 4",
+      "0": "Portfolio Income 9 5 4",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Unrealised Value Movements 20 999 -",
+      "0": "Unrealised Value Movements 20 999 -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross Return 29 1,004 4",
+      "0": "Gross Return 29 1,004 4",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Finance Costs 0 (155 ) 1",
+      "0": "Finance Costs 0 (155 ) 1",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Portfolio Costs (75 ) (42 ) (15 )",
+      "0": "Portfolio Costs (75 ) (42 ) (15 )",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Total Return (46 ) 807 (11 )",
+      "0": "Total Return (46 ) 807 (11 )",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gross Return 3.1% 2,777% 11.90%",
+      "0": "Gross Return 3.1% 2,777% 11.90%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "total Return (4.90% ) 2,234% (31.90% )",
+      "0": "total Return (4.90% ) 2,234% (31.90% )",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Closing Portfolio Value 3,993 2,951 36",
+      "0": "Closing Portfolio Value 3,993 2,951 36",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Board of Directors: • Approves company policies and procedures; • Sets the tone and influences the risk management culture within the Company; • Approves major decisions affecting the company’s investment portfolio and its risk profile or exposure.",
+      "0": "Board of Directors: • Approves company policies and procedures; • Sets the tone and influences the risk management culture within the Company; • Approves major decisions affecting the company’s investment portfolio and its risk profile or exposure.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "The Audit and Risk • Advises the Board on the effectiveness of policies and procedures for risk assessment and risk Committee management; • Reviews the Company’s approach to risk management and recommends changes or improvements to key elements of its processes and procedures; • Provides a statement to the Board annually indicating how the company has complied with good corporate governance and laid down risk management policies.",
+      "0": "The Audit and Risk • Advises the Board on the effectiveness of policies and procedures for risk assessment and risk Committee management; • Reviews the Company’s approach to risk management and recommends changes or improvements to key elements of its processes and procedures; • Provides a statement to the Board annually indicating how the company has complied with good corporate governance and laid down risk management policies.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Investment • Oversight over the implementation of the investment strategy. Committee",
+      "0": "Investment • Oversight over the implementation of the investment strategy. Committee",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Internal Audit • Assists the audit and risk committee in ensuring that internal processes and procedures are (Out sourced): adequate and complied with.",
+      "0": "Internal Audit • Assists the audit and risk committee in ensuring that internal processes and procedures are (Out sourced): adequate and complied with.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Management: • Implements the Board’s risk management policy; • Ensures that the major risks associated with significant proposals/prospects have been properly considered and can be appropriately managed within the policy framework set by the Board; • Identifies and evaluates key risks that threaten achievement of the company’s objectives; • Assists the audit and risk committee in ensuring that internal processes and procedures are adequate and complied with. • Identifies strategies to manage such risks, including identification of appropriate risk owners, and monitors the satisfactory operation of the risk management strategy; • Communicates the company risk management policy and risk related information to all staff, subsidiary organizations and external partners.",
+      "0": "Management: • Implements the Board’s risk management policy; • Ensures that the major risks associated with significant proposals/prospects have been properly considered and can be appropriately managed within the policy framework set by the Board; • Identifies and evaluates key risks that threaten achievement of the company’s objectives; • Assists the audit and risk committee in ensuring that internal processes and procedures are adequate and complied with. • Identifies strategies to manage such risks, including identification of appropriate risk owners, and monitors the satisfactory operation of the risk management strategy; • Communicates the company risk management policy and risk related information to all staff, subsidiary organizations and external partners.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Investment Risks risks that relate to: CeO’s statement Investment activities are: • Specific asset investment • Guided by an approved strategy; decisions; Page 20-27 • Implemented under a tested investment • subsequent performance of the approach; investments; Financial statements • executed through a rigorous process and • Investment concentration approved by the Investment Committee across business line portfolios; Page 51-103 of the BOD; and • Valuations and exits. • Audited for compliance to set policies by Financial risk the Audit Committee of the BOD and an disclosures outsourced Internal Auditor. risks Company is able to attract and develop investment professionals. Page 71-78",
+      "0": "Investment Risks risks that relate to: CeO’s statement Investment activities are: • Specific asset investment • Guided by an approved strategy; decisions; Page 20-27 • Implemented under a tested investment • subsequent performance of the approach; investments; Financial statements • executed through a rigorous process and • Investment concentration approved by the Investment Committee across business line portfolios; Page 51-103 of the BOD; and • Valuations and exits. • Audited for compliance to set policies by Financial risk the Audit Committee of the BOD and an disclosures outsourced Internal Auditor. risks Company is able to attract and develop investment professionals. Page 71-78",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Liquidity/Funding risks that relate to: Financial risk disclosures • Available credit facilities; Risks • The company will miss out on • Available for sale investments that can attractive investment opportunities Page 71-78 be quickly converted to cash; due to lack of funding; • Asset matching for known/expected • The company will experience liabilities. difficulties in meeting its financial commitments.",
+      "0": "Liquidity/Funding risks that relate to: Financial risk disclosures • Available credit facilities; Risks • The company will miss out on • Available for sale investments that can attractive investment opportunities Page 71-78 be quickly converted to cash; due to lack of funding; • Asset matching for known/expected • The company will experience liabilities. difficulties in meeting its financial commitments.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Treasury and risks arising from Financial review • Credit risk exposure is managed on an Funding risk. • uncertainty in market prices and (statement of Financial asset-specific basis by individual invest- rates; Position) ment managers • An inability to raise adequate • regular Board reviews of the company’s funds to meet investment needs Page 56 financial resources or meet obligations as they fall • regular reviews of liquidity, gearing, net due, or; Notes debt and large currency exposures • Inappropriate capital structure Page 63-103",
+      "0": "Treasury and risks arising from Financial review • Credit risk exposure is managed on an Funding risk. • uncertainty in market prices and (statement of Financial asset-specific basis by individual invest- rates; Position) ment managers • An inability to raise adequate • regular Board reviews of the company’s funds to meet investment needs Page 56 financial resources or meet obligations as they fall • regular reviews of liquidity, gearing, net due, or; Notes debt and large currency exposures • Inappropriate capital structure Page 63-103",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Operational Risks risks that arise from failed internal Corporate governance • Independent internal audit function; controls, people and systems. These statement • Approved operational procedures; include: • Framework of Core values; • Failure to meet ethical and Page 44-48 • A code of conduct. governance principles; Financial risk disclosures • Information technology failures; • Fraud and security breaches. Page 71-78",
+      "0": "Operational Risks risks that arise from failed internal Corporate governance • Independent internal audit function; controls, people and systems. These statement • Approved operational procedures; include: • Framework of Core values; • Failure to meet ethical and Page 44-48 • A code of conduct. governance principles; Financial risk disclosures • Information technology failures; • Fraud and security breaches. Page 71-78",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "external Risks Centum acknowledges existence and Chairman’s statement & • Diversified investment portfolio; accepts the following external risks: CeO’s review • Tested investment approach; • Changes in economic and political • Insurance; environment; Page 10-27 • Due diligence when entering new mar- • Changes in legislation, taxation, kets or business areas. regulation; • Business continuity planning; • Changes in policies and trends • Best practice business operations. on expropriation of property, trade sanctions, social impacts, repatriation of funds e.t.c; • Competitive rivalry; • Natural Disasters.",
+      "0": "external Risks Centum acknowledges existence and Chairman’s statement & • Diversified investment portfolio; accepts the following external risks: CeO’s review • Tested investment approach; • Changes in economic and political • Insurance; environment; Page 10-27 • Due diligence when entering new mar- • Changes in legislation, taxation, kets or business areas. regulation; • Business continuity planning; • Changes in policies and trends • Best practice business operations. on expropriation of property, trade sanctions, social impacts, repatriation of funds e.t.c; • Competitive rivalry; • Natural Disasters.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "strategic risks risks arising from the analysis, Chairman’s statement, • Periodic strategic reviews design and implementation of the CeO’s review & • regular monitoring of key risks by Company’s business model, and key Business review Group risk Committee and the Board decisions on the investment levels • Monitoring of a range of key and capital allocations Page 10-41 performance indicators, forecasts and periodic updates of plans and underlying assumptions • Disciplined management of key strategic projects",
+      "0": "strategic risks risks arising from the analysis, Chairman’s statement, • Periodic strategic reviews design and implementation of the CeO’s review & • regular monitoring of key risks by Company’s business model, and key Business review Group risk Committee and the Board decisions on the investment levels • Monitoring of a range of key and capital allocations Page 10-41 performance indicators, forecasts and periodic updates of plans and underlying assumptions • Disciplined management of key strategic projects",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "We have invested through SIA(K) Holdings that acquired NAS Airport Services Limited (NAS). NAS provides meals and handling services to airlines at the Jomo Kenyatta International Airport and the Mombasa International Airport. NAS is the",
+      "0": "We have invested through SIA(K) Holdings that acquired NAS Airport Services Limited (NAS). NAS provides meals and handling services to airlines at the Jomo Kenyatta International Airport and the Mombasa International Airport. NAS is the",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "only operator offering these services and therefore has a clear leadership of its market. Note 19, Pg 96",
+      "0": "only operator offering these services and therefore has a clear leadership of its market. Note 19, Pg 96",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Centum 21.5% 17.8% 26.4% 23.9% 27.8% 44.0% 24.2%",
+      "0": "Centum 21.5% 17.8% 26.4% 23.9% 27.8% 44.0% 24.2%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "ICDC 20.0% 20.0% 72.7% 45.1% 19.0% 29.3% -",
+      "0": "ICDC 20.0% 20.0% 72.7% 45.1% 19.0% 29.3% -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "C. J. Kirubi - 16.8%",
+      "0": "C. J. Kirubi - 16.8%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "J N Muguiyi - 10.5%",
+      "0": "J N Muguiyi - 10.5%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1. James Ngatia Muguiyi Chairman of the BOD 6/6 - - -",
+      "0": "1. James Ngatia Muguiyi Chairman of the BOD 6/6 - - -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2. James Mwirigi Mworia CeO 6/6 - - 5/5 2/2",
+      "0": "2. James Mwirigi Mworia CeO 6/6 - - 5/5 2/2",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3. Peter Kimurwa Chairman of NGC 4/6 - - 4/5 -",
+      "0": "3. Peter Kimurwa Chairman of NGC 4/6 - - 4/5 -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4. Margaret Martha Byama Member 4/6 3/5 1/1 - -",
+      "0": "4. Margaret Martha Byama Member 4/6 3/5 1/1 - -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5. Christopher John Kirubi Chairman of IC 5/6 - 1/1 5/5 2/2",
+      "0": "5. Christopher John Kirubi Chairman of IC 5/6 - 1/1 5/5 2/2",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "6. Henry Chege Njoroge Chairman of BC 6/6 5/5 - - 2/2",
+      "0": "6. Henry Chege Njoroge Chairman of BC 6/6 5/5 - - 2/2",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7. Imtiaz Khan Chairman of ArC 5/6 4/5 - 5/5 -",
+      "0": "7. Imtiaz Khan Chairman of ArC 5/6 4/5 - 5/5 -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "8. robert Kenneth Bunyi Member 6/6 5/5 - 5/5 -",
+      "0": "8. robert Kenneth Bunyi Member 6/6 5/5 - 5/5 -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "9. Maina Mwangi Member 6/6 - 1/1 4/5 2/2",
+      "0": "9. Maina Mwangi Member 6/6 - 1/1 4/5 2/2",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "fy2011/2012",
+      "0": "fy2011/2012",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "no. of shares % Holding",
+      "0": "no. of shares % Holding",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "156,457,997 23.51%",
+      "0": "156,457,997 23.51%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "115,507,826 17.36%",
+      "0": "115,507,826 17.36%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "32,102,282 4.82%",
+      "0": "32,102,282 4.82%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "36,737,182 5.52%",
+      "0": "36,737,182 5.52%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "11,135,313 1.67%",
+      "0": "11,135,313 1.67%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "9,900,000 1.49%",
+      "0": "9,900,000 1.49%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,222,190 0.78%",
+      "0": "5,222,190 0.78%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4,942,945 0.74%",
+      "0": "4,942,945 0.74%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "4,472,521 0.67%",
+      "0": "4,472,521 0.67%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,750,000 0.41%",
+      "0": "2,750,000 0.41%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "379,228,256 56.99%",
+      "0": "379,228,256 56.99%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "286,213,458 43.01%",
+      "0": "286,213,458 43.01%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "665,441,714 100.00%",
+      "0": "665,441,714 100.00%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "fy 2011/2012",
+      "0": "fy 2011/2012",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "no of % shares Holding",
+      "0": "no of % shares Holding",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "346,096 0.05%",
+      "0": "346,096 0.05%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "124,294 0.02%",
+      "0": "124,294 0.02%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "- -",
+      "0": "- -",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "110,028 0.02%",
+      "0": "110,028 0.02%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "242 0.00%",
+      "0": "242 0.00%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "272,546,483 40.96%",
+      "0": "272,546,483 40.96%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "392,895,231 59.04%",
+      "0": "392,895,231 59.04%",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "no of shares % no shares %",
+      "0": NaN,
+      "1": "None",
+      "2": NaN
+    },
+    {
+      "item": "2,325,090 0.35% 11,103 29.64%",
+      "0": NaN,
+      "1": "2,165,313 0.36% 10,556 28.25%",
+      "2": NaN
+    },
+    {
+      "item": "38,441,020 5.78% 18,860 50.36%",
+      "0": NaN,
+      "1": "37,516,876 6.20% 19,521 52.24%",
+      "2": NaN
+    },
+    {
+      "item": "24,237,841 3.64% 3,402 9.08%",
+      "0": NaN,
+      "1": "23,339,521 3.86% 3,388 9.07%",
+      "2": NaN
+    },
+    {
+      "item": "91,504,172 13.75% 3,708 9.90%",
+      "0": NaN,
+      "1": "85,386,720 14.11% 3,582 9.59%",
+      "2": NaN
+    },
+    {
+      "item": "88,730,145 13.33% 342 0.91%",
+      "0": NaN,
+      "1": "72,934,733 12.06% 287 0.77%",
+      "2": NaN
+    },
+    {
+      "item": "420,203,446 63.15% 39 0.10%",
+      "0": NaN,
+      "1": "383,603,850 63.41% 36 0.10%",
+      "2": NaN
+    },
+    {
+      "item": "665,441,714 100% 37,454 100%",
+      "0": NaN,
+      "1": "604,947,013 100% 37,370 100%",
+      "2": NaN
+    },
+    {
+      "item": "October 2011 Africa Young Business Leader of the Year 2011 All Africa Business Leader Award",
+      "0": "October 2011 Africa Young Business Leader of the Year 2011 All Africa Business Leader Award",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "March 2011 Overall Champions of Governance, 1st Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "0": "March 2011 Overall Champions of Governance, 1st Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Finance and Investment Category, 2nd Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "0": "Finance and Investment Category, 2nd Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "March 2010 Industrial, Commercial and Services, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "March 2010 Industrial, Commercial and Services, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Overall Champions of Governance, 2nd Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "0": "Overall Champions of Governance, 2nd Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Finance and Investment Category, 1st Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "0": "Finance and Investment Category, 1st Runners Up – COG Awards Institute of Certified Public Secretaries Kenya (ICPSK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "March 2009 Industrial, Commercial and Services, Winner – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "March 2009 Industrial, Commercial and Services, Winner – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "March 2008 Corporate Governance, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "March 2008 Corporate Governance, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "June 2007 Industrial, Commercial and Services, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "June 2007 Industrial, Commercial and Services, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "June 2006 Listed Category, Winner – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "June 2006 Listed Category, Winner – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "June 2005 Overall Winner, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "June 2005 Overall Winner, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Listed Category, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "0": "Listed Category, 1st Runners Up – FiRE Awards Institute of Certified Public Accountants Kenya (ICPAK)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "GM East Africa (GM) markets and sells Chevrolet, Opel and Isuzu vehicles and parts. It locally assembles the Isuzu and Chevrolet vehicles. Majority of GM’s sales are domestic. GM also exports to neighboring countries in the COMESA region: Uganda, Tanzania, Rwanda, Burundi, Zambia, Zimbabwe, Mozambique and Ethiopia.GM East Africa has",
+      "0": "GM East Africa (GM) markets and sells Chevrolet, Opel and Isuzu vehicles and parts. It locally assembles the Isuzu and Chevrolet vehicles. Majority of GM’s sales are domestic. GM also exports to neighboring countries in the COMESA region: Uganda, Tanzania, Rwanda, Burundi, Zambia, Zimbabwe, Mozambique and Ethiopia.GM East Africa has",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "over 30 years experience in local assembly and service. Note 19, Pg 96",
+      "0": "over 30 years experience in local assembly and service. Note 19, Pg 96",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,366,675",
+      "0": "1,366,675",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(177,270)",
+      "0": "(177,270)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,189,405",
+      "0": "1,189,405",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,358,734",
+      "0": "1,358,734",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(179,777)",
+      "0": "(179,777)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,178,957",
+      "0": "1,178,957",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3,992,754",
+      "0": "3,992,754",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "26,467",
+      "0": "26,467",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,926",
+      "0": "1,926",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3,614,550",
+      "0": "3,614,550",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,427,206",
+      "0": "1,427,206",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,666,309",
+      "0": "1,666,309",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "480,000",
+      "0": "480,000",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "36,079",
+      "0": "36,079",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "322,410",
+      "0": "322,410",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "11,567,701",
+      "0": "11,567,701",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "332,721",
+      "0": "332,721",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "589,753",
+      "0": "589,753",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,736,198",
+      "0": "1,736,198",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7,382,570",
+      "0": "7,382,570",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "10,041,242",
+      "0": "10,041,242",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,000,000",
+      "0": "1,000,000",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "355,956",
+      "0": "355,956",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "34,437",
+      "0": "34,437",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,114",
+      "0": "5,114",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "130,952",
+      "0": "130,952",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,526,459",
+      "0": "1,526,459",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,150",
+      "0": "5,150",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,784,954",
+      "0": "1,784,954",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "7,128,721",
+      "0": "7,128,721",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,289,540",
+      "0": "1,289,540",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3,104,780",
+      "0": "3,104,780",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "155,344",
+      "0": "155,344",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "317,340",
+      "0": "317,340",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "15,721,428",
+      "0": "15,721,428",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "8,792,989",
+      "0": "8,792,989",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3,970,001",
+      "0": "3,970,001",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "13,685,464",
+      "0": "13,685,464",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "134,078",
+      "0": "134,078",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "862,303",
+      "0": "862,303",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "5,146",
+      "0": "5,146",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "2,035,964",
+      "0": "2,035,964",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,753,506",
+      "0": "1,753,506",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "18,191",
+      "0": "18,191",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(362)",
+      "0": "(362)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "13,619",
+      "0": "13,619",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "3,377,305",
+      "0": NaN,
+      "1": "2,948,585",
+      "2": "6,230,521"
+    },
+    {
+      "item": "594,037",
+      "0": NaN,
+      "1": "486,934",
+      "2": "-"
+    },
+    {
+      "item": "(91,117)",
+      "0": NaN,
+      "1": "165,053",
+      "2": "-"
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "-",
+      "2": "882,934"
+    },
+    {
+      "item": "(280,941)",
+      "0": NaN,
+      "1": "(223,267)",
+      "2": "-"
+    },
+    {
+      "item": "15,266",
+      "0": NaN,
+      "1": "-",
+      "2": "15,266"
+    },
+    {
+      "item": "237,245",
+      "0": NaN,
+      "1": "428,720",
+      "2": "898,200"
+    },
+    {
+      "item": "21.50",
+      "0": "21.50",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "26.43",
+      "0": "26.43",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "27.80",
+      "0": "27.80",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "27.62",
+      "0": "27.62",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "43.99",
+      "0": "43.99",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "24.23",
+      "0": "24.23",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "23.89",
+      "0": "23.89",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "35.00",
+      "0": "35.00",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "29.00",
+      "0": "29.00",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "30,709,119",
+      "0": "30,709,119",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(17,276,117)",
+      "0": "(17,276,117)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "13,433,002",
+      "0": "13,433,002",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "26,565,307",
+      "0": "26,565,307",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,633,250",
+      "0": "1,633,250",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "765,187",
+      "0": "765,187",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "1,338,664",
+      "0": "1,338,664",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "85,240",
+      "0": "85,240",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "(111,295)",
+      "0": "(111,295)",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "114,597",
+      "0": "114,597",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "88,542",
+      "0": "88,542",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "earnings per Share The portion of the company’s distributable profits allocated to each issued share. This is calculated by dividing (epS) profit after tax by the number of issued shares.",
+      "0": "earnings per Share The portion of the company’s distributable profits allocated to each issued share. This is calculated by dividing (epS) profit after tax by the number of issued shares.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Gearing (%) The level of the company’s debt (net of cash or cash equivalents) compared to total assets. Its calculated as a percentage of borrowing to total assets as at the year end.",
+      "0": "Gearing (%) The level of the company’s debt (net of cash or cash equivalents) compared to total assets. Its calculated as a percentage of borrowing to total assets as at the year end.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "cost efficiency The ratio of the total costs to the closing portfolio value. This is expressed as a percentage of total operating and administrative costs to portfolio value.",
+      "0": "cost efficiency The ratio of the total costs to the closing portfolio value. This is expressed as a percentage of total operating and administrative costs to portfolio value.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "net Asset value The value of an entity’s assets less the value of its liabilities on a per issued share basis. This is also known as book (nAv) per Share(Ksh) value. Its calculated by dividing the book value with the number of issued shares.",
+      "0": "net Asset value The value of an entity’s assets less the value of its liabilities on a per issued share basis. This is also known as book (nAv) per Share(Ksh) value. Its calculated by dividing the book value with the number of issued shares.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Return on equity (%) The measure of return on the opening shareholders funds. This is calculated by dividing total comprehensive income by the opening NAV.",
+      "0": "Return on equity (%) The measure of return on the opening shareholders funds. This is calculated by dividing total comprehensive income by the opening NAV.",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "price to nAv Ratio Is used to compare the stock market value of an entity with its NAV. The ratio is calculated by dividing the current closing price of the stock by the NAV per share",
+      "0": "price to nAv Ratio Is used to compare the stock market value of an entity with its NAV. The ratio is calculated by dividing the current closing price of the stock by the NAV per share",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "UAP is one of the leading insurance companies in East Africa. The company transacts all classes of general insurance in addition to Marine, Life, Pensions and Healthcare products. UAP is now the second",
+      "0": "UAP is one of the leading insurance companies in East Africa. The company transacts all classes of general insurance in addition to Marine, Life, Pensions and Healthcare products. UAP is now the second",
+      "1": NaN,
+      "2": NaN
+    },
+    {
+      "item": "largest insurer in Uganda and the first foreign underwriter in Southern Sudan. Note 19, Pg 96",
+      "0": "largest insurer in Uganda and the first foreign underwriter in Southern Sudan. Note 19, Pg 96",
+      "1": NaN,
+      "2": NaN
+    }
+  ]
+}

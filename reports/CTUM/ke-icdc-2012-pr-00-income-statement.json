@@ -1,0 +1,80 @@
+{
+  "title": "Statement of Comprehensive Income — For the year ended 31 March 2012",
+  "units": "270",
+  "pages": [
+    32
+  ],
+  "extracted_at": "2025-11-29T04:25:42.001482",
+  "data": [
+    {
+      "item": "Statement of Comprehensive Income For the year ended 31 March 2012 Group Company Kes. m 2012 2011 2012 2011 Portfolio Income 1,273 2,261 764 1,685 Portfolio costs (270) (299) (227) (291) Finance costs (230) (155) (50) (155) Share of Associate Company Profit 594 487 - - Profit before tax 1,367 2,294 487 1,239 Profit after tax 1,190 2,292 446 1,237 Other comprehensive income (708) (589) 687 2,158 Total Comprehensive income 482 1,703 1,133 3,395 32",
+      "1": "Statement of Comprehensive Income For the year ended 31 March 2012 Group Company Kes. m 2012 2011 2012 2011 Portfolio Income 1,273 2,261 764 1,685 Portfolio costs (270) (299) (227) (291) Finance costs (230) (155) (50) (155) Share of Associate Company Profit 594 487 - - Profit before tax 1,367 2,294 487 1,239 Profit after tax 1,190 2,292 446 1,237 Other comprehensive income (708) (589) 687 2,158 Total Comprehensive income 482 1,703 1,133 3,395 32",
+      "2": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kes. m",
+      "1": "2012",
+      "2": "2011",
+      "4": "2012",
+      "5": "2011"
+    },
+    {
+      "item": "Portfolio Income",
+      "1": "1,273",
+      "2": "2,261",
+      "4": "764",
+      "5": "1,685"
+    },
+    {
+      "item": "Portfolio costs",
+      "1": "(270)",
+      "2": "(299)",
+      "4": "(227)",
+      "5": "(291)"
+    },
+    {
+      "item": "Finance costs",
+      "1": "(230)",
+      "2": "(155)",
+      "4": "(50)",
+      "5": "(155)"
+    },
+    {
+      "item": "Share of Associate Company Profit",
+      "1": "594",
+      "2": "487",
+      "4": "-",
+      "5": "-"
+    },
+    {
+      "item": "Profit before tax",
+      "1": "1,367",
+      "2": "2,294",
+      "4": "487",
+      "5": "1,239"
+    },
+    {
+      "item": "Profit after tax",
+      "1": "1,190",
+      "2": "2,292",
+      "4": "446",
+      "5": "1,237"
+    },
+    {
+      "item": "Other comprehensive income",
+      "1": "(708)",
+      "2": "(589)",
+      "4": "687",
+      "5": "2,158"
+    },
+    {
+      "item": "Total Comprehensive income",
+      "1": "482",
+      "2": "1,703",
+      "4": "1,133",
+      "5": "3,395"
+    }
+  ]
+}
