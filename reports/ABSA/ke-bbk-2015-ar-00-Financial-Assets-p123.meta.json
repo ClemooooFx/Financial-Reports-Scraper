@@ -1,0 +1,13 @@
+{
+  "source_pdf": "ke-bbk-2015-ar-00.pdf",
+  "page": 123,
+  "table_number": 2,
+  "title": "Financial Assets",
+  "rows": 1,
+  "columns": [
+    "Category of asset/liability",
+    "Valuation technique applied",
+    "Significant observable inputs"
+  ],
+  "extracted_at": "2025-11-29T14:12:30.303747"
+}
