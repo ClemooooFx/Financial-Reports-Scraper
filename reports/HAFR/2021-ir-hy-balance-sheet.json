@@ -1,0 +1,40 @@
+{
+  "title": "Unaudited Consolidated Statement of Financial Position",
+  "units": "0",
+  "pages": [
+    2
+  ],
+  "extracted_at": "2025-11-29T08:08:09.992839",
+  "data": [
+    {
+      "item": "Unaudited Consolidated Statement of Financial Position None",
+      "3": "None",
+      "1": NaN
+    },
+    {
+      "item": "None None",
+      "3": "31ST DEC",
+      "1": NaN
+    },
+    {
+      "item": "None None 405,255,320 None",
+      "3": "None",
+      "1": NaN
+    },
+    {
+      "item": "None None None None",
+      "3": "405,255,320",
+      "1": NaN
+    },
+    {
+      "item": "",
+      "3": NaN,
+      "1": "30TH JUNE"
+    },
+    {
+      "item": "405,255,320 None",
+      "3": NaN,
+      "1": "None"
+    }
+  ]
+}
