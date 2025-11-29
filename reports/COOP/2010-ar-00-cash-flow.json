@@ -1,0 +1,34 @@
+{
+  "title": "Statement of Cash Flows",
+  "units": null,
+  "pages": [
+    59
+  ],
+  "extracted_at": "2025-11-29T01:58:26.101661",
+  "data": [
+    {
+      "item": "Buildings 2.5%",
+      "0": "Buildings 2.5%"
+    },
+    {
+      "item": "Fixtures 12.5%",
+      "0": "Fixtures 12.5%"
+    },
+    {
+      "item": "Furniture and equipment 20.0%",
+      "0": "Furniture and equipment 20.0%"
+    },
+    {
+      "item": "Motor vehicles 20.0%",
+      "0": "Motor vehicles 20.0%"
+    },
+    {
+      "item": "Office machinery 20.0%",
+      "0": "Office machinery 20.0%"
+    },
+    {
+      "item": "Computers 20.0%",
+      "0": "Computers 20.0%"
+    }
+  ]
+}

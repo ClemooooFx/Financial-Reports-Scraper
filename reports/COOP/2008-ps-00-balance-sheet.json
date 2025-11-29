@@ -1,0 +1,72 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "continued",
+  "pages": [
+    28,
+    29,
+    32
+  ],
+  "extracted_at": "2025-11-29T01:57:17.321216",
+  "data": [
+    {
+      "item": "Description Number of Shares",
+      "2": "% shareholding",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Co-opholdings Co-operative Society Limited * 2,254,592,500 ordinary shares of par value Kshs.1 each",
+      "2": "76.8%",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None 680,535,100 ordinary shares of par value Kshs.1 each",
+      "2": "None",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Total 2,935,127,600 ordinary shares of par value Kshs.1 each",
+      "2": "100%",
+      "1": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Shareholder None",
+      "2": "None",
+      "1": "Pre Offer",
+      "3": "Post Offer"
+    },
+    {
+      "item": "None %",
+      "2": "%",
+      "1": "Number",
+      "3": "Number"
+    },
+    {
+      "item": "None None",
+      "2": "76.8%",
+      "1": "2,254,592,500",
+      "3": "2,254,592,500"
+    },
+    {
+      "item": "Existing Individual Shareholders 18.7%",
+      "2": "23.2%",
+      "1": "680,535,100",
+      "3": "680,535,100"
+    },
+    {
+      "item": "TOTAL 100.0%",
+      "2": "100.0%",
+      "1": "2,935,127,600",
+      "3": "3,636,427,600"
+    },
+    {
+      "item": "Year Dividend (%) based on par value",
+      "2": NaN,
+      "1": "Dividend (%) based on par value",
+      "3": NaN
+    }
+  ]
+}

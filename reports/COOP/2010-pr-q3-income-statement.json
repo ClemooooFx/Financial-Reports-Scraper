@@ -1,0 +1,144 @@
+{
+  "title": "Income Statement",
+  "units": "net",
+  "pages": [
+    4,
+    14
+  ],
+  "extracted_at": "2025-11-29T01:59:11.061980",
+  "data": [
+    {
+      "item": "Income Statement (%) KES Billions Sept 30, 10 Sept 30, 09 Change Net Interest 6.37 4.90 30% Income Fees and 5.17 3.33 55% Commissions Total Income 11.54 8.23 40% Loan Loss 0.60 0.57 7% Provisions Operating 6.56 4.81 36% Expenses Profit Before Tax 4.38 2.85 54% 3.73 2.13 75% Profit After Tax None None",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "0": NaN
+    },
+    {
+      "item": "None KES Billions None",
+      "2": "Sept 30, 10",
+      "3": "Sept 30, 09",
+      "4": "(%) Change",
+      "0": NaN
+    },
+    {
+      "item": "None Net Interest Income",
+      "2": "6.37",
+      "3": "4.90",
+      "4": "30%",
+      "0": NaN
+    },
+    {
+      "item": "None Fees and Commissions",
+      "2": "5.17",
+      "3": "3.33",
+      "4": "55%",
+      "0": NaN
+    },
+    {
+      "item": "None Total Income",
+      "2": "11.54",
+      "3": "8.23",
+      "4": "40%",
+      "0": NaN
+    },
+    {
+      "item": "None Loan Loss Provisions",
+      "2": "0.60",
+      "3": "0.57",
+      "4": "7%",
+      "0": NaN
+    },
+    {
+      "item": "None Operating Expenses",
+      "2": "6.56",
+      "3": "4.81",
+      "4": "36%",
+      "0": NaN
+    },
+    {
+      "item": "None Profit Before Tax",
+      "2": "4.38",
+      "3": "2.85",
+      "4": "54%",
+      "0": NaN
+    },
+    {
+      "item": "None Profit After Tax",
+      "2": "3.73",
+      "3": "2.13",
+      "4": "75%",
+      "0": NaN
+    },
+    {
+      "item": "ASSET BOOK KSh million %",
+      "2": "%",
+      "3": NaN,
+      "4": NaN,
+      "0": "ASSET BOOK"
+    },
+    {
+      "item": "Corporate 18,416.00 22.9% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Corporate 18,416.00 22.9%"
+    },
+    {
+      "item": "Mortgage 819.70 1.0% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Mortgage 819.70 1.0%"
+    },
+    {
+      "item": "MCU 2,275.50 2.8% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "MCU 2,275.50 2.8%"
+    },
+    {
+      "item": "SME 3,154.20 3.9% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "SME 3,154.20 3.9%"
+    },
+    {
+      "item": "Asset Finance 2,584.67 3.2% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Asset Finance 2,584.67 3.2%"
+    },
+    {
+      "item": "Personal 30,896.87 38.4% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Personal 30,896.87 38.4%"
+    },
+    {
+      "item": "Agri-business 4,538.60 5.6% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Agri-business 4,538.60 5.6%"
+    },
+    {
+      "item": "Sacco Banking Loans 17,835.50 22.2% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Sacco Banking Loans 17,835.50 22.2%"
+    },
+    {
+      "item": "Total (Net) 80,521.05 100% None None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN,
+      "0": "Total (Net) 80,521.05 100%"
+    }
+  ]
+}

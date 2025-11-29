@@ -1,0 +1,58 @@
+{
+  "title": "Statement of Financial Position",
+  "units": null,
+  "pages": [
+    19
+  ],
+  "extracted_at": "2025-11-29T01:58:01.650513",
+  "data": [
+    {
+      "item": "Category",
+      "1": "No. of shareholders",
+      "2": "No. of Shares",
+      "3": "%"
+    },
+    {
+      "item": "Kenyan Individual Investors",
+      "1": "112,774",
+      "2": "939,112,300",
+      "3": "26.9"
+    },
+    {
+      "item": "Kenyan Institutional Investors",
+      "1": "3,196",
+      "2": "2,552,051,600",
+      "3": "73.1"
+    },
+    {
+      "item": "East African Individual Investors",
+      "1": "27",
+      "2": "275,300",
+      "3": "0.0"
+    },
+    {
+      "item": "East African Institutional Investors",
+      "1": "4",
+      "2": "6,000",
+      "3": "0.0"
+    },
+    {
+      "item": "Foreign Individual Investors",
+      "1": "66",
+      "2": "921,700",
+      "3": "0.0"
+    },
+    {
+      "item": "Foreign Institutional Investors",
+      "1": "1",
+      "2": "3,000",
+      "3": "0.0"
+    },
+    {
+      "item": "Total",
+      "1": "116,068",
+      "2": "3,492,369,900",
+      "3": "100.0"
+    }
+  ]
+}
