@@ -1,0 +1,174 @@
+{
+  "title": "Company Cash Flow Statement",
+  "units": "equity",
+  "pages": [
+    36,
+    37,
+    38
+  ],
+  "extracted_at": "2025-11-29T04:07:31.756415",
+  "data": [
+    {
+      "item": "",
+      "1": "6 months to",
+      "2": "6 months to",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "KShs. Millions",
+      "1": "Sep 2021",
+      "2": "Sep 2020",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash generated from operating activities",
+      "1": "776",
+      "2": "3,908",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash used in investing activities",
+      "1": "(1,008)",
+      "2": "(934)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "Net cash generated from financing activities",
+      "1": "(255)",
+      "2": "(3,611)",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At start of period",
+      "1": "(149)",
+      "2": "1,875",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "At end of period",
+      "1": "(635)",
+      "2": "1,238",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    },
+    {
+      "item": "KES Million",
+      "1": "FY '17",
+      "2": "FY '18",
+      "3": "FY'19",
+      "4": "FY'20",
+      "5": "FY'21",
+      "6": "HY'22"
+    },
+    {
+      "item": "Short Term debt",
+      "1": "(982)",
+      "2": "(3,482)",
+      "3": "(108)",
+      "4": "(7,486)",
+      "5": "(4,122)",
+      "6": "(4,040)"
+    },
+    {
+      "item": "Long Term debt",
+      "1": "(13,674)",
+      "2": "(11,360)",
+      "3": "(16,036)",
+      "4": "-",
+      "5": "-",
+      "6": "-"
+    },
+    {
+      "item": "Total debt",
+      "1": "(14,656)",
+      "2": "(14,842)",
+      "3": "(16,144)",
+      "4": "(7,486)",
+      "5": "(4,122)",
+      "6": "(4,040)"
+    },
+    {
+      "item": "Cash and Cash Equivalents",
+      "1": "2,447",
+      "2": "1,078",
+      "3": "253",
+      "4": "2,912",
+      "5": "867",
+      "6": "298"
+    },
+    {
+      "item": "Marketable Securities",
+      "1": "3,133",
+      "2": "3,566",
+      "3": "3,781",
+      "4": "6,053",
+      "5": "6,668",
+      "6": "7,592"
+    },
+    {
+      "item": "Net (debt) / Cash Position",
+      "1": "(9,076)",
+      "2": "(10,198)",
+      "3": "(12,110)",
+      "4": "1,479",
+      "5": "3,413",
+      "6": "3,850"
+    },
+    {
+      "item": "Equity",
+      "1": "44,808",
+      "2": "48,686",
+      "3": "52,600",
+      "4": "47,439",
+      "5": "41,822",
+      "6": "41,319"
+    },
+    {
+      "item": "Net debt to Equity",
+      "1": "20%",
+      "2": "21%",
+      "3": "23%",
+      "4": "Nil",
+      "5": "Nil",
+      "6": "Nil"
+    },
+    {
+      "item": "Long Term debt to Equity",
+      "1": "31%",
+      "2": "23%",
+      "3": "30%",
+      "4": "Nil",
+      "5": "Nil",
+      "6": "Nil"
+    },
+    {
+      "item": "Consolidated Financial Statements For purposes of compliance with the Company’s Act requirements",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "6": NaN
+    }
+  ]
+}

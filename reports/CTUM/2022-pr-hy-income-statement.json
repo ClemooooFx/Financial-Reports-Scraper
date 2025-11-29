@@ -1,0 +1,180 @@
+{
+  "title": "Consolidated Income Statement",
+  "units": "loss",
+  "pages": [
+    39
+  ],
+  "extracted_at": "2025-11-29T04:07:31.754516",
+  "data": [
+    {
+      "item": "KES. ‘000 Sep ’20",
+      "1": "Sep ‘21",
+      "2": NaN
+    },
+    {
+      "item": "Trading business:",
+      "1": "",
+      "2": NaN
+    },
+    {
+      "item": "None None",
+      "1": "1,237,652",
+      "2": NaN
+    },
+    {
+      "item": "Direct and other operating costs (453,067)",
+      "1": "(982,322)",
+      "2": NaN
+    },
+    {
+      "item": "Financial services:",
+      "1": "",
+      "2": NaN
+    },
+    {
+      "item": "Funding and other costs (1,833,909)",
+      "1": "(2,359,673)",
+      "2": NaN
+    },
+    {
+      "item": "Real Estate",
+      "1": "",
+      "2": NaN
+    },
+    {
+      "item": "Funding and other costs (305,850)",
+      "1": "(442,139)",
+      "2": NaN
+    },
+    {
+      "item": "Two Rivers Development",
+      "1": "",
+      "2": NaN
+    },
+    {
+      "item": "Funding and other costs (978,347)",
+      "1": "(816,845)",
+      "2": NaN
+    },
+    {
+      "item": "Investment operations:",
+      "1": "",
+      "2": NaN
+    },
+    {
+      "item": "Operating and Administrative costs (354,561)",
+      "1": "(401,019)",
+      "2": NaN
+    },
+    {
+      "item": "KES '000",
+      "1": "Sep 2021",
+      "2": "Sep 2020"
+    },
+    {
+      "item": "Real Estate:",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Residential unit sales",
+      "1": "1,113,902",
+      "2": ""
+    },
+    {
+      "item": "Commissions",
+      "1": "(6,131)",
+      "2": ""
+    },
+    {
+      "item": "Cost of Sales",
+      "1": "(963,633)",
+      "2": ""
+    },
+    {
+      "item": "Gross profit",
+      "1": "144,138",
+      "2": ""
+    },
+    {
+      "item": "Revenue from sale of development rights",
+      "1": "172,171",
+      "2": ""
+    },
+    {
+      "item": "Cost of acquisition and development",
+      "1": "(6,112)",
+      "2": ""
+    },
+    {
+      "item": "Cash profit on sale of development rights",
+      "1": "166,059",
+      "2": ""
+    },
+    {
+      "item": "Less: previously recognized revaluations",
+      "1": "(103,451)",
+      "2": ""
+    },
+    {
+      "item": "Net incremental gain on sale of development rights",
+      "1": "62,608",
+      "2": ""
+    },
+    {
+      "item": "Other income",
+      "1": "93,586",
+      "2": "26,075"
+    },
+    {
+      "item": "Operating and administrative expenses",
+      "1": "(217,943)",
+      "2": "(148,327)"
+    },
+    {
+      "item": "Finance costs",
+      "1": "(224,196)",
+      "2": "(157,523)"
+    },
+    {
+      "item": "Loss from real estate operations",
+      "1": "(141,807)",
+      "2": "(279,775)"
+    },
+    {
+      "item": "Profit/(loss) from investment operations",
+      "1": "43,189",
+      "2": "(479,242)"
+    },
+    {
+      "item": "Impairment provision on assets",
+      "1": "(721,407)",
+      "2": NaN
+    },
+    {
+      "item": "Loss for the year",
+      "1": "(662,107)",
+      "2": "(1,981,725)"
+    },
+    {
+      "item": "None",
+      "1": "418,486",
+      "2": "267,700"
+    },
+    {
+      "item": "Total comprehensive loss",
+      "1": "(243,621)",
+      "2": "(1,714,025)"
+    },
+    {
+      "item": "Attributable to:",
+      "1": "",
+      "2": ""
+    },
+    {
+      "item": "Non-controlling interest",
+      "1": "(66,979)",
+      "2": "(592,285)"
+    }
+  ]
+}

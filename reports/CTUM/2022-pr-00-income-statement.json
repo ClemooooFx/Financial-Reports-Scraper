@@ -1,0 +1,151 @@
+{
+  "title": "Consolidated Income Statement — Summary (Kes Mn) Mar 2022 Mar 2021 %Δ Kes Mn Mar 2022 Mar 2021 %Δ",
+  "units": "loss",
+  "pages": [
+    48,
+    49
+  ],
+  "extracted_at": "2025-11-29T04:07:28.884779",
+  "data": [
+    {
+      "item": "Summary (Kes Mn) %Δ",
+      "1": "Mar 2022",
+      "2": "Mar 2021",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Kes Mn %Δ",
+      "1": "Mar 2022",
+      "2": "Mar 2021",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Consolidated Profit/ (Loss)",
+      "1": "(1,641,884)",
+      "2": "(2,332,210)",
+      "3": "30%",
+      "4": NaN
+    },
+    {
+      "item": "Loss from Two Rivers Development group",
+      "1": "(1,985,831)",
+      "2": "(1,859,280)",
+      "3": "(7%)",
+      "4": NaN
+    },
+    {
+      "item": "Total comprehensive income/(loss) for the year",
+      "1": "142,052",
+      "2": "(1,454,470)",
+      "3": "110%",
+      "4": NaN
+    },
+    {
+      "item": "Earnings Per Share-Basic",
+      "1": "(1.10)",
+      "2": "(0.93)",
+      "3": "",
+      "4": NaN
+    },
+    {
+      "item": "(Loss) from investment operations",
+      "1": "(547,975)",
+      "2": "(1,149,055)",
+      "3": "52%",
+      "4": NaN
+    },
+    {
+      "item": "Profit/(loss) from trading businesses",
+      "1": "73,215",
+      "2": "(529,034)",
+      "3": "114%",
+      "4": NaN
+    },
+    {
+      "item": "Profit from financial services",
+      "1": "691,657",
+      "2": "329,858",
+      "3": "110%",
+      "4": NaN
+    },
+    {
+      "item": "Profit from real estate investments",
+      "1": "127,049",
+      "2": "875,300",
+      "3": "(85%)",
+      "4": NaN
+    },
+    {
+      "item": "48",
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": NaN
+    },
+    {
+      "item": "Consolidated performance analysis",
+      "1": "FY2022",
+      "2": NaN,
+      "3": "FY2021",
+      "4": ""
+    },
+    {
+      "item": "",
+      "1": "Kshs'000",
+      "2": NaN,
+      "3": "Kshs'000",
+      "4": "%Δ"
+    },
+    {
+      "item": "Profit from trading business",
+      "1": "73,215",
+      "2": NaN,
+      "3": "(529,034)",
+      "4": "114%"
+    },
+    {
+      "item": "Profit from real estate operations",
+      "1": "127,049",
+      "2": NaN,
+      "3": "875,300",
+      "4": "(85%)"
+    },
+    {
+      "item": "Operating profit from financial services",
+      "1": "691,657",
+      "2": NaN,
+      "3": "329,858",
+      "4": "110%"
+    },
+    {
+      "item": "Operating loss from investment operations",
+      "1": "(547,975)",
+      "2": NaN,
+      "3": "(1,149,055)",
+      "4": "52%"
+    },
+    {
+      "item": "Profit before tax (excl. TRDL)",
+      "1": "343,946",
+      "2": NaN,
+      "3": "(472,931)",
+      "4": "173%"
+    },
+    {
+      "item": "Loss from Two Rivers investment operations",
+      "1": "(1,985,831)",
+      "2": NaN,
+      "3": "(1,859,280)",
+      "4": "(7%)"
+    },
+    {
+      "item": "Group loss before tax",
+      "1": "(1,641,885)",
+      "2": NaN,
+      "3": "(2,332,211)",
+      "4": "30%"
+    }
+  ]
+}

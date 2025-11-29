@@ -1,0 +1,53 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "kenya",
+  "pages": [
+    4,
+    26
+  ],
+  "extracted_at": "2025-11-29T04:12:04.226309",
+  "data": [
+    {
+      "item": "None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "- I-- - - - I-- - - - r- - - - - r- - - r- - - - - r- - None None None None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "- I-- - I-- - r- - r- - - - - - - - - - r- - r- - - - -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None None",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "- - I-- - - - - r- - - r- - - - r- - - r- - - - -",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "None",
+      "1": "None",
+      "2": "None",
+      "3": "FY2003/04 Number of Shares %holding"
+    },
+    {
+      "item": "TOTAL",
+      "1": "35,709,674",
+      "2": "64.93%",
+      "3": "35,578,224"
+    }
+  ]
+}
