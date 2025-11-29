@@ -1,0 +1,202 @@
+{
+  "title": "Unaudited Consolidated Statement of Profit or Loss and Other Comprehensive Income — For the six months ended 30th June 2018:",
+  "units": "gain",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T09:20:37.842911",
+  "data": [
+    {
+      "item": "Unaudited Consolidated Statement of Profit or Loss and Other Comprehensive Income None None None None",
+      "4": "None",
+      "7": "None",
+      "10": ""
+    },
+    {
+      "item": "For the six months ended 30th June 2018: None None None None",
+      "4": "None",
+      "7": "None",
+      "10": ""
+    },
+    {
+      "item": "None None None None None None None None",
+      "4": "None",
+      "7": "None",
+      "10": "None"
+    },
+    {
+      "item": "",
+      "4": "Jun-18",
+      "7": "Jun-17",
+      "10": "Dec-17"
+    },
+    {
+      "item": "",
+      "4": "KShs'000",
+      "7": "KShs'000",
+      "10": "KShs'000"
+    },
+    {
+      "item": "Gross earned premium",
+      "4": "14,191,236",
+      "7": "15,600,726",
+      "10": "28,328,848"
+    },
+    {
+      "item": "Outward reinsurance",
+      "4": "(5,311,719)",
+      "7": "(5,408,010)",
+      "10": "(9,134,984)"
+    },
+    {
+      "item": "Net earned premium",
+      "4": "8,879,517",
+      "7": "10,192,716",
+      "10": "19,193,864"
+    },
+    {
+      "item": "Claims and policy holder's benefits payable",
+      "4": "(9,840,372)",
+      "7": "(10,381,180)",
+      "10": "(19,653,897)"
+    },
+    {
+      "item": "Commission paid",
+      "4": "(1,705,678)",
+      "7": "(1,736,179)",
+      "10": "(3,400,893)"
+    },
+    {
+      "item": "Commission earned",
+      "4": "1,002,245",
+      "7": "1,068,387",
+      "10": "1,803,453"
+    },
+    {
+      "item": "Management expenses",
+      "4": "(2,114,244)",
+      "7": "(2,076,358)",
+      "10": "(4,240,091)"
+    },
+    {
+      "item": "Net fair value gain through profit or loss",
+      "4": "1,425,777",
+      "7": "1,297,633",
+      "10": "2,700,471"
+    },
+    {
+      "item": "Investment Income",
+      "4": "4,303,896",
+      "7": "3,396,164",
+      "10": "7,575,360"
+    },
+    {
+      "item": "Operating profit",
+      "4": "1,951,141",
+      "7": "1,761,183",
+      "10": "3,978,267"
+    },
+    {
+      "item": "Share of results of associates",
+      "4": "470,596",
+      "7": "578,772",
+      "10": "1,182,702"
+    },
+    {
+      "item": "Group profit before income tax",
+      "4": "2,421,737",
+      "7": "2,339,955",
+      "10": "5,160,969"
+    },
+    {
+      "item": "Income tax expense",
+      "4": "(562,126)",
+      "7": "(463,797)",
+      "10": "(930,660)"
+    },
+    {
+      "item": "Net profit",
+      "4": "1,859,611",
+      "7": "1,876,158",
+      "10": "4,230,309"
+    },
+    {
+      "item": "Other Comprehensive Income None None",
+      "4": "",
+      "7": "",
+      "10": ""
+    },
+    {
+      "item": "Change in fair value of financial assets at fair value through (9,913) None 131,989 None 292,898 None",
+      "4": "(9,913)",
+      "7": "131,989",
+      "10": "292,898"
+    },
+    {
+      "item": "None other comprehensive income None None None None None None None",
+      "4": "None",
+      "7": "None",
+      "10": "None"
+    },
+    {
+      "item": "Net translation loss/(gain)",
+      "4": "(678,373)",
+      "7": "170,890",
+      "10": "(468)"
+    },
+    {
+      "item": "Associate share of other comprehensive income",
+      "4": "-",
+      "7": "-",
+      "10": "47,219"
+    },
+    {
+      "item": "Deferred income tax relating to other comprehensive income",
+      "4": "2,974",
+      "7": "549",
+      "10": "(87,589)"
+    },
+    {
+      "item": "Total other comprehensive income",
+      "4": "(685,312)",
+      "7": "303,428",
+      "10": "252,060"
+    },
+    {
+      "item": "Total comprehensive income",
+      "4": "1,174,299",
+      "7": "2,179,586",
+      "10": "4,482,369"
+    },
+    {
+      "item": "Non-controlling interest",
+      "4": "91,443",
+      "7": "201,417",
+      "10": "309,706"
+    },
+    {
+      "item": "Profit attributable to shareholders",
+      "4": "1,082,856",
+      "7": "1,978,169",
+      "10": "4,172,663"
+    },
+    {
+      "item": "Earnings per share (KShs)-basic and diluted",
+      "4": "23.38",
+      "7": "23.68",
+      "10": "54.26"
+    },
+    {
+      "item": "Dividends:",
+      "4": "",
+      "7": "",
+      "10": ""
+    },
+    {
+      "item": "Dividend proposed",
+      "4": "72,473",
+      "7": "72,473",
+      "10": "579,784"
+    }
+  ]
+}

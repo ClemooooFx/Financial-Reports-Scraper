@@ -1,0 +1,220 @@
+{
+  "title": "Unaudited Consolidated Statement of Profit or Loss and Other Comprehensive Income — For the six months ended 30 June 2020",
+  "units": "loss",
+  "pages": [
+    2
+  ],
+  "extracted_at": "2025-11-29T09:21:21.464080",
+  "data": [
+    {
+      "item": "Unaudited Consolidated Statement of Profit or Loss and Other Comprehensive Income None None None None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "For the six months ended 30 June 2020 None None None None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "None None None None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Gross earned premium None None None None",
+      "3": "15,518,621",
+      "4": "15,654,443",
+      "5": "29,119,931"
+    },
+    {
+      "item": "Reinsurance None None None None",
+      "3": "(5,368,637)",
+      "4": "(6,088,415)",
+      "5": "(9,630,273)"
+    },
+    {
+      "item": "Net earned premium None None None None",
+      "3": "10,149,984",
+      "4": "9,566,028",
+      "5": "19,489,658"
+    },
+    {
+      "item": "None None None 19,489,658 None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Claims and policy holder's benefits payable None None",
+      "3": "(8,611,781)",
+      "4": "(9,005,821)",
+      "5": ""
+    },
+    {
+      "item": "None None None (19,726,931) None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Commission paid None None None None",
+      "3": "(1,894,964)",
+      "4": "(1,936,444)",
+      "5": "(3,637,104)"
+    },
+    {
+      "item": "Commission earned None None None None",
+      "3": "1,099,033",
+      "4": "1,316,364",
+      "5": "2,281,181"
+    },
+    {
+      "item": "Management expenses None None None None",
+      "3": "(2,470,542)",
+      "4": "(2,388,332)",
+      "5": "(5,446,599)"
+    },
+    {
+      "item": "Net fair value (loss)/ gain through profit or loss None None None None",
+      "3": "(1,173,908)",
+      "4": "(728,987)",
+      "5": "1,031,682"
+    },
+    {
+      "item": "Investment Income None None None None",
+      "3": "4,976,430",
+      "4": "4,796,342",
+      "5": "10,026,814"
+    },
+    {
+      "item": "Operating profit None None None None",
+      "3": "2,074,252",
+      "4": "1,619,150",
+      "5": "4,018,701"
+    },
+    {
+      "item": "Share of results of associates None None None None",
+      "3": "302,536",
+      "4": "648,249",
+      "5": "988,521"
+    },
+    {
+      "item": "Group profit before income tax None None None None",
+      "3": "2,376,788",
+      "4": "2,267,399",
+      "5": "5,007,222"
+    },
+    {
+      "item": "Income tax expense None None None None",
+      "3": "(546,313)",
+      "4": "(435,986)",
+      "5": "(989,535)"
+    },
+    {
+      "item": "Net profit None None None None",
+      "3": "1,830,475",
+      "4": "1,831,413",
+      "5": "4,017,687"
+    },
+    {
+      "item": "Non-controlling interest None None None None",
+      "3": "240,454",
+      "4": "257,623",
+      "5": "461,219"
+    },
+    {
+      "item": "Profit attributable to shareholders None None None None",
+      "3": "1,590,021",
+      "4": "1,573,790",
+      "5": "3,556,468"
+    },
+    {
+      "item": "Other Comprehensive Income None None None None",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "Change in fair value of financial assets at fair value through other comprehensive income None None None None",
+      "3": "(347,607)",
+      "4": "(294,799)",
+      "5": "(373,867)"
+    },
+    {
+      "item": "Net translation gain None None None None",
+      "3": "303,012",
+      "4": "138,104",
+      "5": "52,639"
+    },
+    {
+      "item": "Associate share of other comprehensive income None None None None",
+      "3": "(17,117)",
+      "4": "-",
+      "5": "104,807"
+    },
+    {
+      "item": "None Associate share of other comprehensive income None None None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Deferred income tax relating to other comprehensive None None",
+      "3": "648",
+      "4": "9,186",
+      "5": "101,889"
+    },
+    {
+      "item": "None income None None None",
+      "3": "None",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Total other comprehensive income None None None None",
+      "3": "(61,064)",
+      "4": "(147,509)",
+      "5": "(114,532)"
+    },
+    {
+      "item": "Total comprehensive income None None None None",
+      "3": "1,769,411",
+      "4": "1,683,904",
+      "5": "3,903,155"
+    },
+    {
+      "item": "Earnings per share (Kes)-basic and diluted None None None None",
+      "3": "21.94",
+      "4": "21.72",
+      "5": "49.10"
+    },
+    {
+      "item": "Dividends: None None None None",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "item": "Dividend proposed None None None None",
+      "3": "72,473",
+      "4": "72,473",
+      "5": "579,784"
+    },
+    {
+      "item": "Change in fair value of financial assets at fair value",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "through other comprehensive income",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}
