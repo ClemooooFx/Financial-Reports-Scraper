@@ -1,0 +1,206 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "continued",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T09:01:36.913673",
+  "data": [
+    {
+      "item": "STATEMENT OF FINANCIAL POSITION AUDITED DEC 2015 (KSHS’000)",
+      "2": "AUDITED DEC 2016 (KSHS’000)"
+    },
+    {
+      "item": "A. ASSETS 01. Cash (both Local & Foreign) 02. Balances due from central banks 03. Kenya Government and other securities held for dealing purposes 04. Financial Assets at fair value through profit and loss 05. Investment Securities: a) Held to Maturity: a. Kenya Government securities b. Other securities b) Available for sale: a. Kenya Government securities b. Other securities 06. Deposits and balances due from local banking institutions 07. Deposits and balances due from banking institutions abroad 08. Tax recoverable 09. Loans and advances to customers (net) 10. Balances due from banking institutions in the group 11. Investments in associates 12. Investments in subsidiary companies 13. Investments in joint ventures 14. Investment properties 15. Property and equipment 16. Prepaid lease rentals 17. Intangible assets 18. Deferred tax asset 19. Retirement benefit asset 20. Other assets 82,420 761,051 621,895 1,298 4,218,785 4,218,785 - - - - 315,813 168,672 5,898 9,327,951 - - - - - 203,704 35,368 20,186 - - 47,020",
+      "2": ""
+    },
+    {
+      "item": "None None",
+      "2": "88,230"
+    },
+    {
+      "item": "21. TOTAL ASSETS 15,810,061",
+      "2": "16,247,276"
+    },
+    {
+      "item": "B. LIABILITIES 22. Balances due to central banks 23. Customer deposits 24. Deposits and balances due to local banking institutions 25. Deposits and balances due to foreign banking institutions 26. Other money market deposits 27. Borrowed funds 28. Balances due to banking institutions in the group 29. Tax payable 30. Dividends payable 31. Deferred tax liability 32. Retirement benefit liability 33. Other liabilities - 12,801,838 3,099 4,078 - - - - - 36,279 - 130,250",
+      "2": ""
+    },
+    {
+      "item": "34. TOTAL LIABILITIES 12,975,544",
+      "2": "13,185,817"
+    },
+    {
+      "item": "C. SHAREHOLDERS' FUNDS 35. Paid up/Assigned capital 36. Share premium/(discount) 37. Revaluation reserves 38. Retained earnings/Accumulated losses 39. Statutory loan loss reserves 40. Other reserves 41. Proposed dividends 42. Capital grants 1,150,000 - - 1,565,012 119,505 - - -",
+      "2": ""
+    },
+    {
+      "item": "43. TOTAL SHAREHOLDERS' FUNDS 2,834,517",
+      "2": ""
+    },
+    {
+      "item": "44. Minority interest TOTAL LIABILITIES AND SHAREHOLDERS' 45. FUNDS - 15,810,061",
+      "2": "- 16,247,276"
+    },
+    {
+      "item": "STATEMENT OF COMPREHENSIVE INCOME AUDITED DEC 2015 (KSHS’000)",
+      "2": "AUDITED DEC 2016 (KSHS’000)"
+    },
+    {
+      "item": "01. INTEREST INCOME 1.1 Loans and advances 1.2 Government securities 1.3 Deposits and placements with banking institutions 1.4 Other interest income 1,346,636 490,806 14,060 1,758",
+      "2": ""
+    },
+    {
+      "item": "1.5 Total interest income 1,853,260",
+      "2": "1,972,658"
+    },
+    {
+      "item": "02. INTEREST EXPENSES 2.1 Customer deposits 2.2 Deposits and placements from banking institutions 2.3 Other Interest Expenses 1,014,665 5,465 -",
+      "2": ""
+    },
+    {
+      "item": "2.4 Total interest expenses 1,020,130",
+      "2": "992,726"
+    },
+    {
+      "item": "03. NET INTEREST INCOME/LOSS 833,130",
+      "2": "979,932"
+    },
+    {
+      "item": "04. NON INTEREST INCOME 4.1 Fees and commissions on loans and advances 4.2 Other fees and commissions 4.3 Foreign exchange trading income(loss) 4.4 Dividend income 4.5 Other income 94,007 43,299 24,634 10 (24,720)",
+      "2": ""
+    },
+    {
+      "item": "4.6 Total Non-Interest Income 137,230",
+      "2": "156,838"
+    },
+    {
+      "item": "05. TOTAL OPERATING INCOME 970,360",
+      "2": "1,136,770"
+    },
+    {
+      "item": "06. OTHER OPERATING EXPENSES 6.1 Loan loss provision 6.2 Staff costs 6.3 Directors' emoluments 6.4 Rentals charges 6.5 Depreciation charge on property and equipment 6.6 Amortisation charges 6.7 Other operating expenses 18,344 267,977 28,655 25,886 19,727 4,002 126,963",
+      "2": ""
+    },
+    {
+      "item": "6.8 Total operating expenses 491,554",
+      "2": "554,594"
+    },
+    {
+      "item": "STATEMENT OF COMPREHENSIVE INCOME (continued) AUDITED DEC 2015 (KSHS’000",
+      "2": "AUDITED DEC 2016 (KSHS’000)"
+    },
+    {
+      "item": "07. PROFIT/(LOSS) BEFORE TAX AND EXCEPTIONAL ITEMS 08. EXCEPTIONAL ITEMS 478,806 -",
+      "2": "582,176"
+    },
+    {
+      "item": "09. PROFIT/(LOSS) AFTER EXCEPTIONAL ITEMS 10. Current tax 11. Deferred tax 478,806 16,484 9,883",
+      "2": "582,176"
+    },
+    {
+      "item": "12. PROFIT/(LOSS) AFTER TAX AND EXCEPTIONAL ITEMS 452,439",
+      "2": "491,442"
+    },
+    {
+      "item": "13. Minority interest",
+      "2": "-"
+    },
+    {
+      "item": "14. PROFIT/(LOSS) AFTER TAX AND EXCEPTIONAL ITEMS AND MINORITY INTEREST 452,439",
+      "2": "491,442"
+    },
+    {
+      "item": "15. OTHER COMPREHENSIVE INCOME 15.1 Gains/(Losses) from translating the financial statements of foreign operations 15.2 Fair value changes in available for sale financial assets 15.3 Revaluation surplus on property,plant and equipment 15.4 Share of other comprehensive income of associates 15.5 Income tax relating to components of other comprehensive income - - - - -",
+      "2": ""
+    },
+    {
+      "item": "16. OTHER COMPREHENSIVE INCOME FOR THE YEAR NET OF TAX",
+      "2": "-"
+    },
+    {
+      "item": "17. TOTAL COMPREHENSIVE INCOME FOR THE YEAR 452,439",
+      "2": "491,442"
+    },
+    {
+      "item": "OTHER DISCLOSURES None",
+      "2": "None"
+    },
+    {
+      "item": "1. NON-PERFORMING LOANS AND ADVANCES a) Gross Non-performing Loans and advances Less b) Interest in suspense c) Total Non-Performing Loans and advances (a-b) 184,718 3,524 181,194",
+      "2": ""
+    },
+    {
+      "item": "Less d) Loan loss provisions 57,919",
+      "2": ""
+    },
+    {
+      "item": "e) Net Non-Performing Loans (c-d) 123,275",
+      "2": "100,339"
+    },
+    {
+      "item": "f) Discounted value of securities 123,275",
+      "2": "100,339"
+    },
+    {
+      "item": "g) Net NPLs Exposure (e-f)",
+      "2": "-"
+    },
+    {
+      "item": "2. INSIDER LOANS AND ADVANCES a) Directors, shareholders and associates b) Employees 815,490 47,153",
+      "2": ""
+    },
+    {
+      "item": "c) Total Insider Loans and advances and Other Facilities 862,643",
+      "2": "629,853"
+    },
+    {
+      "item": "3. OFF-BALANCE SHEET ITEMS a) Letters of credit, guarantees, acceptances b) Forwards, swaps and options c) Other contingent liabilities 3,235,114 - -",
+      "2": ""
+    },
+    {
+      "item": "d) Total contingent liabilities 3,235,114",
+      "2": "2,524,725"
+    },
+    {
+      "item": "4. CAPITAL STRENGTH a) Core capital b) Minimum statutory capital 2,715,012 1,000,000",
+      "2": ""
+    },
+    {
+      "item": "c) Excess/(Deficiency) (a-b) d) Supplementary capital 1,715,012 119,505",
+      "2": "1,938,210"
+    },
+    {
+      "item": "e) Total capital (a+d) 2,834,517",
+      "2": "3,061,459"
+    },
+    {
+      "item": "f) Total risk weighted assets g) Core capital/total deposit liabilities h) Minimum statutory ratio 11,781,243 21.20% 8.00%",
+      "2": "11,916,255"
+    },
+    {
+      "item": "i) Excess/(Deficiency) (g-h) 13.20%",
+      "2": "14.70%"
+    },
+    {
+      "item": "j) Core capital/total risk weighted assets 23.00%",
+      "2": "24.70%"
+    },
+    {
+      "item": "k) Minimum statutory ratio l) Excess/(Deficiency) (j-k) m) Total capital/total risk weighted assets 10.50% 12.50% 24.10%",
+      "2": "10.50% 14.20%"
+    },
+    {
+      "item": "n) Minimum statutory ratio o) Excess/(Deficiency) (m-n) 14.50% 9.60%",
+      "2": "14.50% 11.20%"
+    },
+    {
+      "item": "5. LIQUIDITY a) Liquidity ratio b) Minimum statutory ratio 45.70% 20.00%",
+      "2": ""
+    },
+    {
+      "item": "c) Excess/(Deficiency) (a-b) 25.70%",
+      "2": "30.00%"
+    }
+  ]
+}

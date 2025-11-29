@@ -1,0 +1,817 @@
+{
+  "title": "Statement of Profit or Loss",
+  "units": "t",
+  "pages": [
+    13,
+    16,
+    17,
+    19,
+    27,
+    28,
+    61
+  ],
+  "extracted_at": "2025-11-29T09:01:29.138904",
+  "data": [
+    {
+      "item": "2015 KShs’000",
+      "0": "2015 KShs’000",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "8,747,752",
+      "0": "8,747,752",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "(2,715,109)",
+      "0": "(2,715,109)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "6,032,643",
+      "0": "6,032,643",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "eettimmoC & noitanimoN noitarenumeR draoB rotceriD evitucexE-noN tnednepednI noitercsid srotceriD )yraterceS( etanretlA( rotceriD roineS eht OEC ta tnednepednI evitucexE-noN ro/& RH fo tnemeganaM evitucexE RH reganaM )yraterceS rebmem DE fo :seetivnI OEC daeH eht 2 1 A fo • • • • • • yllaunnA evitucexe-non draoB srebmem wen tnempoleved laudividni tnemeganaM eht srotceriD & ,draoB emehcS ecnadiug draoB fo rof rof gninnalp tnemeganaM rof smargorp dliub draoB evorpmi roineS gninnalp fo noitaulave laudividnI OEC & seicilop noitarenumer fo sevitcejbo POSE rof etisiuqer eetsurT tnemssessA stnemeriuqer srotcerid noisseccuS yek noitcudn dna srebmem ot smargorp dna ssenevitceffe dna noisseccus ecnamrofreP fo DE eht cigetarts OEC seicilop edivorp emehcS draoB draoB fo slliks & dna dna teS DE teS dna ot I • • • • • • •",
+      "0": NaN,
+      "2": "noitercsid srotceriD )yraterceS( etanretlA( rotceriD roineS eht OEC ta tnednepednI evitucexE-noN ro/& RH fo tnemeganaM evitucexE RH reganaM )yraterceS rebmem DE fo :seetivnI OEC daeH eht 2 1 A fo • • • • • •",
+      "4": "evitucexe-non draoB srebmem wen tnempoleved laudividni tnemeganaM eht srotceriD & ,draoB emehcS ecnadiug draoB fo rof rof gninnalp tnemeganaM rof smargorp dliub draoB evorpmi roineS gninnalp fo noitaulave laudividnI OEC & seicilop noitarenumer fo sevitcejbo POSE rof etisiuqer eetsurT tnemssessA stnemeriuqer srotcerid noisseccuS yek noitcudn dna srebmem ot smargorp dna ssenevitceffe dna noisseccus ecnamrofreP fo DE eht cigetarts OEC seicilop edivorp emehcS draoB draoB fo slliks & dna dna teS DE teS dna ot I • • • • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "eettimmoC erahS srefsnarT draoB evitucexE-noN rotceriD srotceriD ro/& rotceriD yraterceS roineS eht DE evitucexE-noN ta eht evitucexE ynapmoC )yraterceS( fo rebmem tnemeganaM fo noitercsid :seetivnI OEC OEC 2 1 A • • • • • ylretrauQ snoitacilppa dna hcus evorppa gnisira eussi ,setacfiitreC eb redloherahs eht doog serahs fo sthgir ot ,laeS wen teem noitartsiger dna tnemtolla fo fo yna airetirc tcejer refsnart ecnadiug / sunob erahS ynapmoC sredloherahs yna taht erusnE s’draoB gnidnats / evorppA eht evorppa srefsnart erahs a fo eht rednu ot deussi eviG ngiS rof yna tuo • • • •",
+      "0": NaN,
+      "2": "srotceriD ro/& rotceriD yraterceS roineS eht DE evitucexE-noN ta eht evitucexE ynapmoC )yraterceS( fo rebmem tnemeganaM fo noitercsid :seetivnI OEC OEC 2 1 A • • • • •",
+      "4": "snoitacilppa dna hcus evorppa gnisira eussi ,setacfiitreC eb redloherahs eht doog serahs fo sthgir ot ,laeS wen teem noitartsiger dna tnemtolla fo fo yna airetirc tcejer refsnart ecnadiug / sunob erahS ynapmoC sredloherahs yna taht erusnE s’draoB gnidnats / evorppA eht evorppa srefsnart erahs a fo eht rednu ot deussi eviG ngiS rof yna tuo • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "tnemerucorP eettimmoC draoB rotceriD evitucexE-noN tnednepednI noitercsid reganaM etanretlA( ssenisuB srotceriD rotceriD )yraterceS( roineS eht OEC lareneG ecnaniF ,daeH tnednepednI evitucexE-noN ta ro/& evitucexE fo tnemeganaM lanoisiviD troppuS tnatsissA ecnaniF reganaM )yraterceS :seetivnI rebmem DE OEC eht 2 1 A fo • • • • • • • ylraey-flaH morf evitucexE ytirohtua s’rotceriD eht tnemerucorp ycnatlusnoc eht timil slasoporp evorppa yciloP redisnoc evoba ytirohtua latipac evoba detageled yfitar evitucexE /stnemeerga seitrap dna tnemerucorP dna / stnemngissa tnemerucorP dna detegdubnu erutidnepxe tnacfiingis slasoporp detageled detageleD s’rotceriD weiveR weiveR detaler weiveR eht stimil teV fo • • • •",
+      "0": NaN,
+      "2": "noitercsid reganaM etanretlA( ssenisuB srotceriD rotceriD )yraterceS( roineS eht OEC lareneG ecnaniF ,daeH tnednepednI evitucexE-noN ta ro/& evitucexE fo tnemeganaM lanoisiviD troppuS tnatsissA ecnaniF reganaM )yraterceS :seetivnI rebmem DE OEC eht 2 1 A fo • • • • • • •",
+      "4": "morf evitucexE ytirohtua s’rotceriD eht tnemerucorp ycnatlusnoc eht timil slasoporp evorppa yciloP redisnoc evoba ytirohtua latipac evoba detageled yfitar evitucexE /stnemeerga seitrap dna tnemerucorP dna / stnemngissa tnemerucorP dna detegdubnu erutidnepxe tnacfiingis slasoporp detageled detageleD s’rotceriD weiveR weiveR detaler weiveR eht stimil teV fo • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "tiderC eettimmoC draoB rotceriD evitucexE-noN tnednepednI )OEC( srotceriD rotceriD )yraterceS( etanretlA( ro/& recffiO rotceriD roineS eht DE tnednepednI evitucexE-noN evitucexE–non evitucexE tiderC tiderC ta eht evitucexE fo tnemeganaM fo )yraterceS rebmem noitercsid reganaM fo :seetivnI feihC daeH OEC 3 1 1 A • • • • • • • ylretrauQ nopu ksir snoitacilppa stimil CMRC lla tiderC knaB laitnedurP nehw tcapmi htiw ycilop yranoitercsid weiver tnednepedni CMRC yb erutuf eht ecnailpmoc dna gnidnel gnidnel ,rotinom lliw ta dna sa naol taht dna tnemeganam tcA sweiver etairporppa ot senilediuG weiveR redisnoC dnoyeb detnarg weiveR ,tceriD stcepsa tneserp erusnE gniknaB tcudnoC naol • • • • • •",
+      "0": NaN,
+      "2": ")OEC( srotceriD rotceriD )yraterceS( etanretlA( ro/& recffiO rotceriD roineS eht DE tnednepednI evitucexE-noN evitucexE–non evitucexE tiderC tiderC ta eht evitucexE fo tnemeganaM fo )yraterceS rebmem noitercsid reganaM fo :seetivnI feihC daeH OEC 3 1 1 A • • • • • • •",
+      "4": "nopu ksir snoitacilppa stimil CMRC lla tiderC knaB laitnedurP nehw tcapmi htiw ycilop yranoitercsid weiver tnednepedni CMRC yb erutuf eht ecnailpmoc dna gnidnel gnidnel ,rotinom lliw ta dna sa naol taht dna tnemeganam tcA sweiver etairporppa ot senilediuG weiveR redisnoC dnoyeb detnarg weiveR ,tceriD stcepsa tneserp erusnE gniknaB tcudnoC naol • • • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ksiR eettimmoC draoB rotceriD evitucexE-noN tnednepednI )OEC( ecnailpmoC srotceriD )DE( recffiO etanretlA( ro/& rotceriD roineS eht DE tnednepednI evitucexE-noN evitucexE & ksiR ksiR fo ta tnemeganaM eht fo evitucexE )yraterceS( )yraterceS rebmem noitercsid reganaM fo :seetivnI feihC daeH OEC 3 A • • • • • • ylretrauQ dna etairporppa cigetarts ni krowemarf devorppa hcaorppa ytiunitnoc erusopxe tuoba ssecorP ,detalumrof ksiR dna deweiver desoporp ssenerawa detnemelpmi ,seicilop tnemeganaM eht sa rotinom eht ssenisub dna tnemeganam sessecorp no noitagitim taht erusnE ,weiveR etarebiled erusnE si gninnalp dna detset yllacidoirep fo weiveR serudecorp fo weiveR sevitaitini gnitaerC knaB stimil eht era ksir ksiR eht • • • • • •",
+      "0": NaN,
+      "2": ")OEC( ecnailpmoC srotceriD )DE( recffiO etanretlA( ro/& rotceriD roineS eht DE tnednepednI evitucexE-noN evitucexE & ksiR ksiR fo ta tnemeganaM eht fo evitucexE )yraterceS( )yraterceS rebmem noitercsid reganaM fo :seetivnI feihC daeH OEC 3 A • • • • • •",
+      "4": "dna etairporppa cigetarts ni krowemarf devorppa hcaorppa ytiunitnoc erusopxe tuoba ssecorP ,detalumrof ksiR dna deweiver desoporp ssenerawa detnemelpmi ,seicilop tnemeganaM eht sa rotinom eht ssenisub dna tnemeganam sessecorp no noitagitim taht erusnE ,weiveR etarebiled erusnE si gninnalp dna detset yllacidoirep fo weiveR serudecorp fo weiveR sevitaitini gnitaerC knaB stimil eht era ksir ksiR eht • • • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "tiduA eettimmoC draoB rotceriD evitucexE-noN tnednepednI tiduA ro/& ;srotceriD lanretnI tiduA )yraterceS roineS eht DE rotceriD evitucexE-noN lanretnI fo ta eht tnednepednI daeH fo tnemeganaM fo )yraterceS( etanretlA( evitucexE rebmem noitercsid fo :seetivnI puorG daeH OEC OEC 3 A • • • • • • ylretrauQ tidua srotiduA KBC fo niereht tneicffie etanidro-oc tnemhsilbatse dna noitatnemelpmi lanretni dna lanretni eviecer erutcurts lanretxE tiduA ,tropeR snoitadnemmocer ,etauqeda evitceffe fo dna lanretnI tnemtrapeD dna ycauqeda noitcepsnI erusnE noitcnuf weiveR slortnoC weiveR neewteb weiveR erusne na dna dna fo • • • •",
+      "0": NaN,
+      "2": "tiduA ro/& ;srotceriD lanretnI tiduA )yraterceS roineS eht DE rotceriD evitucexE-noN lanretnI fo ta eht tnednepednI daeH fo tnemeganaM fo )yraterceS( etanretlA( evitucexE rebmem noitercsid fo :seetivnI puorG daeH OEC OEC 3 A • • • • • •",
+      "4": "tidua srotiduA KBC fo niereht tneicffie etanidro-oc tnemhsilbatse dna noitatnemelpmi lanretni dna lanretni eviecer erutcurts lanretxE tiduA ,tropeR snoitadnemmocer ,etauqeda evitceffe fo dna lanretnI tnemtrapeD dna ycauqeda noitcepsnI erusnE noitcnuf weiveR slortnoC weiveR neewteb weiveR erusne na dna dna fo • • • •",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "namriahC srebmeM gnidulcnI( )namriahC sgniteeM ycneuqerF fo snoitcnuF niaM",
+      "0": NaN,
+      "2": "srebmeM gnidulcnI( )namriahC",
+      "4": "snoitcnuF niaM",
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "eettimmoC gnireetS TI )OEC( recffiO evitucexE feihC lartneC s’OEC stcejorP ssenisuB ssenisuB TCI – reganaM reganaM reganaM reganaM ,daeH ,daeH tnempoleveD gnitekraM )yraterceS( noisiviD noisiviD troppuS lareneG lareneG lareneG lareneG ecffiO ,OEC • • • • • • ylretrauQ dna lacigolonhcet eganam dna TCI cigetartS eht TI fo erutcetihcra ,sessecorp TCI stcejorp fo eganam tnempoleved dna eganam esu TCI dna mumitpo eht ssessa tnedneped-TCI dna eht noitamrofni enimreted TCI noitasinagro spihsnoitaler dna secruoser stnemtsevni pu warD nalP ediuG noitcerid enfieD ,yfitned sksir enfieD erusnE TI I • • • • • •",
+      "0": NaN,
+      "2": "lartneC s’OEC stcejorP ssenisuB ssenisuB TCI – reganaM reganaM reganaM reganaM ,daeH ,daeH tnempoleveD gnitekraM )yraterceS( noisiviD noisiviD troppuS lareneG lareneG lareneG lareneG ecffiO ,OEC • • • • • •",
+      "4": "dna lacigolonhcet eganam dna TCI cigetartS eht TI fo erutcetihcra ,sessecorp TCI stcejorp fo eganam tnempoleved dna eganam esu TCI dna mumitpo eht ssessa tnedneped-TCI dna eht noitamrofni enimreted TCI noitasinagro spihsnoitaler dna secruoser stnemtsevni pu warD nalP ediuG noitcerid enfieD ,yfitned sksir enfieD erusnE TI I • • • • • •",
+      "1": ")OEC( recffiO evitucexE feihC",
+      "3": "ylretrauQ",
+      "5": NaN
+    },
+    {
+      "item": "secruoseR eettimmoC namuH rotceriD evitucexE ssenisuB ssenisuB reganaM RH reganaM ,daeH ,daeH lareneG tnempoleveD )yraterceS( ,OEC noisiviD noisiviD troppuS lareneG roineS ,DE • • • ylhtnoM rewopnaM dna srettam suoirav erusne evitcudorp snoitaler snoisiced noitarenumer yrtsudni sniamer gnitcartta dna s’knaB seussi RH rotinom fo tnempoleved ot sevitaitini ffats s’knaB ekat dna knaB no noitatnemelpmi fo yranilpicsid llarevo ni tnelat draoB dna ecnanetniam yhtlaeh dna ffats ecnamrofrep eht evititepmoc fo siv-à-siv erusne gniniater weiveR eraflew weiveR weiveR weiveR etadpU ffats dna nalP no ot • • • • •",
+      "0": NaN,
+      "2": "ssenisuB ssenisuB reganaM RH reganaM ,daeH ,daeH lareneG tnempoleveD )yraterceS( ,OEC noisiviD noisiviD troppuS lareneG roineS ,DE • • •",
+      "4": "rewopnaM dna srettam suoirav erusne evitcudorp snoitaler snoisiced noitarenumer yrtsudni sniamer gnitcartta dna s’knaB seussi RH rotinom fo tnempoleved ot sevitaitini ffats s’knaB ekat dna knaB no noitatnemelpmi fo yranilpicsid llarevo ni tnelat draoB dna ecnanetniam yhtlaeh dna ffats ecnamrofrep eht evititepmoc fo siv-à-siv erusne gniniater weiveR eraflew weiveR weiveR weiveR etadpU ffats dna nalP no ot • • • • •",
+      "1": "rotceriD evitucexE",
+      "3": "ylhtnoM",
+      "5": NaN
+    },
+    {
+      "item": "eettimmoC tnemeganaM ksiR tiderC rotceriD evitucexE reganaM ssenisuB reganaM ksiR yrevoceR reganaM lareneG )yraterceS( ,daeH lareneG tnempoleveD tbeD lanoisiviD tnatsissA ,OEC lareneG tiderC :seetivnI roineS – daeH ,DE • • • ylthgintroF tiderC slasoporP KBC wen yciloP no draoB dna dna evorppa stcudorp pu-wollof srettam yciloP tnemeganaM tiderC yciloP ot troper eettimmoC sAPN dna detaler-tiderc desab-tessa dna tiderC noitcnaS htiw senilediuG redisnoC ylralugeR weiveR lortnoC enil tiderC ksiR teS ni • • • • • •",
+      "0": NaN,
+      "2": "reganaM ssenisuB reganaM ksiR yrevoceR reganaM lareneG )yraterceS( ,daeH lareneG tnempoleveD tbeD lanoisiviD tnatsissA ,OEC lareneG tiderC :seetivnI roineS – daeH ,DE • • •",
+      "4": "tiderC slasoporP KBC wen yciloP no draoB dna dna evorppa stcudorp pu-wollof srettam yciloP tnemeganaM tiderC yciloP ot troper eettimmoC sAPN dna detaler-tiderc desab-tessa dna tiderC noitcnaS htiw senilediuG redisnoC ylralugeR weiveR lortnoC enil tiderC ksiR teS ni • • • • • •",
+      "1": "rotceriD evitucexE",
+      "3": "ylthgintroF",
+      "5": NaN
+    },
+    {
+      "item": "seitilibaiL eettimmoC & stessA rotceriD evitucexE reganaM yrusaerT ssenisuB,daeH ssenisuB reganaM ksiR lareneG reganaM reganaM ,daeH lareneG tnempoleveD )yraterceS( tnatsissA ,OEC noisiviD noisiviD troppuS ecnaniF lareneG lareneG roineS ,DE • • • • • ylhtnoM detsujda tnemeganam tnemeganam tnemeganam rof mret tnemtsevni tnemeganam knaB ksir gnol ksiR eht fo eht dna ksiR etaR tnemeganam paG ksiR ksiR gninimreteD fo noitazimixam revo ytraP stnemeltteS tnemeganam ytidiuqiL tseretn ytirutaM ycnerruC latipaC seigetarts snruter retnuoC I • • • • • • •",
+      "0": NaN,
+      "2": "reganaM yrusaerT ssenisuB,daeH ssenisuB reganaM ksiR lareneG reganaM reganaM ,daeH lareneG tnempoleveD )yraterceS( tnatsissA ,OEC noisiviD noisiviD troppuS ecnaniF lareneG lareneG roineS ,DE • • • • •",
+      "4": "detsujda tnemeganam tnemeganam tnemeganam rof mret tnemtsevni tnemeganam knaB ksir gnol ksiR eht fo eht dna ksiR etaR tnemeganam paG ksiR ksiR gninimreteD fo noitazimixam revo ytraP stnemeltteS tnemeganam ytidiuqiL tseretn ytirutaM ycnerruC latipaC seigetarts snruter retnuoC I • • • • • • •",
+      "1": "rotceriD evitucexE",
+      "3": "ylhtnoM",
+      "5": NaN
+    },
+    {
+      "item": "eettimmoC evitucexE rotceriD evitucexE yrusaerT stcejorP s’OEC ssenisuB ssenisuB lareneG ksiR – tiduA reganaM reganaM reganaM reganaM )yraterceS( roineS ,daeH ,daeH tnempoleveD lanretnI ,OEC reganaM noisiviD noisiviD troppuS lareneG lareneG lareneG lareneG :seetivnI ecffiO – daeH ,DE • • • • • • shtnom 2 yreve ecnO noitatnemelpmi tnarraw laiceps ssenisub kramhcneb dna ecnamrofrep taht rehto rof seettimmoc fo sevitaitini etalumrof seigetarts gnissucsid snoitavonni dna ycneicffie yek eganam dna dna weiveR laicnanfi s’knaB ssenisub seussi weiveR segnahc ycilop tnemeganam ssergorp weiveR dna stcejorp ycilop fo sutats dna weiveR gnitekram rof mroftalP fo weiver ecnahne ecnamrofrep dna yfitned retsasid weiveR ssenderaperp ytiunitnoc dna sksir ot I • • • • • • •",
+      "0": NaN,
+      "2": "yrusaerT stcejorP s’OEC ssenisuB ssenisuB lareneG ksiR – tiduA reganaM reganaM reganaM reganaM )yraterceS( roineS ,daeH ,daeH tnempoleveD lanretnI ,OEC reganaM noisiviD noisiviD troppuS lareneG lareneG lareneG lareneG :seetivnI ecffiO – daeH ,DE • • • • • •",
+      "4": "noitatnemelpmi tnarraw laiceps ssenisub kramhcneb dna ecnamrofrep taht rehto rof seettimmoc fo sevitaitini etalumrof seigetarts gnissucsid snoitavonni dna ycneicffie yek eganam dna dna weiveR laicnanfi s’knaB ssenisub seussi weiveR segnahc ycilop tnemeganam ssergorp weiveR dna stcejorp ycilop fo sutats dna weiveR gnitekram rof mroftalP fo weiver ecnahne ecnamrofrep dna yfitned retsasid weiveR ssenderaperp ytiunitnoc dna sksir ot I • • • • • • •",
+      "1": "rotceriD evitucexE",
+      "3": "shtnom 2 yreve ecnO",
+      "5": NaN
+    },
+    {
+      "item": "ygetartS eettimmoC ssenisuB )DE( rotceriD evitucexE ssenisuB ssenisuB reganaM )yraterceS( ,daeH ,daeH lareneG tnempoleveD ,OEC noisiviD noisiviD troppuS roineS ,DE • • ylretrauQ gnidulcni noitatnemelpmi cigetarts cigetartS ygetartS ni /muidem dnemmocer snoitcerroc etaroproC sevitcejbo no etaulave stegrat ,ssecorP fo noitceriD ediw-knab ssergorp tcerid gnittes noitaulave ,noitalumrof dna maerts-dim mret dna sevitcejbO yllacidoireP ecnamrofrep dna gninnalP cigetartS yb etaulavE cigetartS weiveR erusnE daeL sucof trohs dna • • • • •",
+      "0": NaN,
+      "2": "ssenisuB ssenisuB reganaM )yraterceS( ,daeH ,daeH lareneG tnempoleveD ,OEC noisiviD noisiviD troppuS roineS ,DE • •",
+      "4": "gnidulcni noitatnemelpmi cigetarts cigetartS ygetartS ni /muidem dnemmocer snoitcerroc etaroproC sevitcejbo no etaulave stegrat ,ssecorP fo noitceriD ediw-knab ssergorp tcerid gnittes noitaulave ,noitalumrof dna maerts-dim mret dna sevitcejbO yllacidoireP ecnamrofrep dna gninnalP cigetartS yb etaulavE cigetartS weiveR erusnE daeL sucof trohs dna • • • • •",
+      "1": ")DE( rotceriD evitucexE",
+      "3": "ylretrauQ",
+      "5": NaN
+    },
+    {
+      "item": "namriahC srebmeM sgniteem ycneuqerF fo snoitcnuf niaM",
+      "0": NaN,
+      "2": "srebmeM",
+      "4": "snoitcnuf niaM",
+      "1": "namriahC",
+      "3": "sgniteem ycneuqerF fo",
+      "5": NaN
+    },
+    {
+      "item": "Name of Director 20 March 2015 19 June 2015 22 September 2015 8 December 2015",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "Total Board Meetings attended in 2015"
+    },
+    {
+      "item": "S B R Shah (Chairman) √ √ √ √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "100%"
+    },
+    {
+      "item": "Michael J Karanja ** √ X",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "-"
+    },
+    {
+      "item": "Eric M Kimani Sarit S Raja Shah √ √ √ √ X",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "75%"
+    },
+    {
+      "item": "None None √ √ X",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "75%"
+    },
+    {
+      "item": "Sachit Shah √ √ √ √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "100%"
+    },
+    {
+      "item": "Paul C M Kibati √ √ √ √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "100%"
+    },
+    {
+      "item": "M Soundararajan √ √ X √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "75%"
+    },
+    {
+      "item": "Arun S Mathur √ √ √ √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "100%"
+    },
+    {
+      "item": "A N Koigi*** √ √ √",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": "100%"
+    },
+    {
+      "item": "( 203,404)",
+      "0": "( 203,404)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 185,617)",
+      "0": "( 185,617)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "61,021",
+      "0": "61,021",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 328,000)",
+      "0": "( 328,000)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,704,643",
+      "0": "5,704,643",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,899,936",
+      "0": "5,899,936",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "132,707",
+      "0": "132,707",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,655,408",
+      "0": "5,655,408",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "49,235",
+      "0": "49,235",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "204.85",
+      "0": "204.85",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "17,971,129",
+      "0": "17,971,129",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 7,909,855)",
+      "0": "( 7,909,855)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,061,274",
+      "0": "10,061,274",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,798,458",
+      "0": "1,798,458",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 92,597)",
+      "0": "( 92,597)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,705,861",
+      "0": "1,705,861",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "11,767,135",
+      "0": "11,767,135",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,294,996",
+      "0": "1,294,996",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "21,118",
+      "0": "21,118",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,316,114",
+      "0": "1,316,114",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "13,083,249",
+      "0": "13,083,249",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 2,102,169)",
+      "0": "( 2,102,169)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 454,835)",
+      "0": "( 454,835)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 1,299,902)",
+      "0": "( 1,299,902)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 306,324)",
+      "0": "( 306,324)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 4,163,230)",
+      "0": "( 4,163,230)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "8,920,019",
+      "0": "8,920,019",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 553,130)",
+      "0": "( 553,130)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "8,366,889",
+      "0": "8,366,889",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 2,555,761)",
+      "0": "( 2,555,761)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,811,128",
+      "0": "5,811,128",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "( 142,383)",
+      "0": "( 142,383)",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,668,745",
+      "0": "5,668,745",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "201.76",
+      "0": "201.76",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Asset Type",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "Percentage",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Buildings",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "2",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Leasehold improvements",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "10 - 12½ or over the period of lease if shorter than 8 years",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Computer equipment and computer software",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "20 - 33⅓",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Furniture, fittings and fixtures",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "10 - 12½",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Motor vehicles",
+      "0": NaN,
+      "2": NaN,
+      "4": NaN,
+      "1": "20 - 25",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "New standard or amendments Effective for annual periods beginning on or after",
+      "0": "New standard or amendments",
+      "2": NaN,
+      "4": NaN,
+      "1": "Effective for annual periods beginning on or after",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28) 1 January 2016",
+      "0": "• Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Accounting for Acquisitions of Interests in Joint Operations (Amendments to IFRS 11) 1 January 2016",
+      "0": "• Accounting for Acquisitions of Interests in Joint Operations (Amendments to IFRS 11)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Amendments to IAS 41 - Bearer Plants (Amendments to IAS 16 and IAS 41) 1 January 2016",
+      "0": "• Amendments to IAS 41 - Bearer Plants (Amendments to IAS 16 and IAS 41)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Amendments to IAS 16 and IAS 38 – Clarification of Acceptable Methods of Depreciation and Amortisation 1 January 2016",
+      "0": "• Amendments to IAS 16 and IAS 38 – Clarification of Acceptable Methods of Depreciation and Amortisation",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Equity Method in Separate Financial Statements (Amendments to IAS 27) 1 January 2016",
+      "0": "• Equity Method in Separate Financial Statements (Amendments to IAS 27)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• IFRS 14 Regulatory Deferral Accounts 1 January 2016",
+      "0": "• IFRS 14 Regulatory Deferral Accounts",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28) 1 January 2016",
+      "0": "• Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• Disclosure Initiative (Amendments to IAS 1) 1 January 2016",
+      "0": "• Disclosure Initiative (Amendments to IAS 1)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2016",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• IFRS 15 Revenue from Contracts with Customers 1 January 2018",
+      "0": "• IFRS 15 Revenue from Contracts with Customers",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2018",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• IFRS 9 Financial Instruments (2014) 1 January 2018",
+      "0": "• IFRS 9 Financial Instruments (2014)",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2018",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "• IFRS 16 Leases 1 January 2019",
+      "0": "• IFRS 16 Leases",
+      "2": NaN,
+      "4": NaN,
+      "1": "1 January 2019",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "909,768",
+      "0": "909,768",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "557,145",
+      "0": "557,145",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "328,424",
+      "0": "328,424",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,223,689",
+      "0": "1,223,689",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "408,122",
+      "0": "408,122",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,960,235",
+      "0": "1,960,235",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "83,824",
+      "0": "83,824",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "408,558",
+      "0": "408,558",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "492,382",
+      "0": "492,382",
+      "2": NaN,
+      "4": NaN,
+      "1": NaN,
+      "3": NaN,
+      "5": NaN
+    }
+  ]
+}
