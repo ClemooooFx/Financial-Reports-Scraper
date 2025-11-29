@@ -1,0 +1,82 @@
+{
+  "title": "STATEMENT OF FINANCIAL POSITION — AS AT 30 JUNE 2021 COMPANY GROUP",
+  "units": "fvtpl",
+  "pages": [
+    3
+  ],
+  "extracted_at": "2025-11-29T08:46:43.269551",
+  "data": [
+    {
+      "item": "AS AT 30 JUNE 2021",
+      "1": "COMPANY",
+      "2": "None",
+      "3": "None"
+    },
+    {
+      "item": "None",
+      "1": "UNAUDITED 30-Jun 2021 KShs '000'",
+      "2": "AUDITED 31-Dec 2020 KShs '000'",
+      "3": "UNAUDITED 30-Jun 2020 KShs '000'"
+    },
+    {
+      "item": "ASSETS Cash and balances with central banks Items in the course of collection Loans and advances to banks Loans and advances to customers Financial assets at fair value through profit or loss (FVTPL) Financial assets measured at fair value through other comprehensive income (FVOCI ) Other financial assets at amortised cost Held for sale assets Investment in Joint Venture Investment in subsidiaries Property and equipment Intangible assets - Goodwill Intangible assets - Software Tax recoverable Deferred tax asset Due from group companies Other assets TOTAL ASSETS LIABILITIES AND SHAREHOLDERS’ EQUITY Liabilities Deposits from banks Items in course of collection Deposits from customers Tax payable Due to group companies Other liabilities Long term debt Subordinated debt Shareholders’ equity Share capital Share premium Retained earnings Revaluation reserve Fair value reserve Translation reserve Statutory credit risk reserve Defined benefit reserve Equity attributable to owners of the company Non-controlling interest TOTAL SHAREHOLDERS’ EQUITY TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY",
+      "1": "- - - - - 28,175 - - 2,515,591 30,308,402 - - - 6,177 - 1,202,305 22,930",
+      "2": "- - - - - 28,392 - - 2,515,591 26,151,882 - - - 4,369 - 446,059 4,124",
+      "3": "- - - - - 27,609 - - 2,515,591 25,662,294 - - - - - 51,254 4,897"
+    },
+    {
+      "item": "GROUP",
+      "1": "None",
+      "2": "None",
+      "3": NaN
+    },
+    {
+      "item": "UNAUDITED 30-Jun 2021 KShs '000'",
+      "1": "AUDITED 31-Dec 2020 KShs '000'",
+      "2": "UNAUDITED 30-Jun 2020 KShs '000'",
+      "3": NaN
+    },
+    {
+      "item": "21,527,156 792,827 17,016,490 204,457,979 13,611,659 49,117,805 40,818,128 1,225,219 4,852,001 - 12,496,611 3,138,244 2,651,294 962,238 5,640,267 - 4,263,283",
+      "1": "19,403,419 622,994 18,335,440 187,391,266 11,869,403 42,477,252 47,364,625 1,057,056 5,177,219 - 12,121,588 3,155,449 2,436,493 133,588 4,211,504 - 2,342,497",
+      "2": "19,067,868 629,579 35,245,604 184,564,775 16,871,845 17,994,515 37,371,893 5,068,398 - 10,807,554 3,149,099 2,298,405 1,492,656 3,025,708 - 3,052,013",
+      "3": NaN
+    },
+    {
+      "item": "382,571,201",
+      "1": "358,099,793",
+      "2": "340,639,912",
+      "3": NaN
+    },
+    {
+      "item": "8,669,921 897,149 276,755,255 534,774 - 6,999,665 9,103,953 9,525,134",
+      "1": "6,762,835 261,363 262,681,402 155,863 - 5,402,428 10,317,827 4,454,936",
+      "2": "9,465,958 748,740 252,483,719 495,445 - 5,399,898 5,357,614 4,618,893",
+      "3": NaN
+    },
+    {
+      "item": "312,485,851",
+      "1": "290,036,654",
+      "2": "278,570,267",
+      "3": NaN
+    },
+    {
+      "item": "1,653,621 17,561,629 40,361,241 929,217 (199,935) (1,847,990) 7,550,766 (138,561)",
+      "1": "826,811 18,390,507 39,610,553 929,217 (36,599) (1,260,493) 5,867,908 (138,561)",
+      "2": "826,811 18,390,507 33,399,587 864,746 (240,929) (1,451,556) 7,056,021 (129,476)",
+      "3": NaN
+    },
+    {
+      "item": "65,869,988 4,215,362",
+      "1": "64,189,343 3,873,796",
+      "2": "58,715,711 3,353,934",
+      "3": NaN
+    },
+    {
+      "item": "70,085,350",
+      "1": "68,063,139",
+      "2": "62,069,645",
+      "3": NaN
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "580",
+  "pages": [
+    11,
+    12,
+    13,
+    25
+  ],
+  "extracted_at": "2025-11-29T08:46:49.771315",
+  "data": [
+    {
+      "item": "Statementof Comprehensive Income YTD Jun-20 YTD June-21 Kshs Mn Jun 21 vs Jun 20 Comments",
+      "2": "YTD Jun-20",
+      "3": "YTD June-21 Kshs Mn",
+      "4": "Jun 21 vs Jun 20",
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "None None Kshs Mn None Y-Y %",
+      "2": "Kshs Mn",
+      "3": "None",
+      "4": "Y-Y %",
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Total Operating Income",
+      "2": "11,132",
+      "3": "12,809",
+      "4": "15%",
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Profit beforeLoan Loss Provisions",
+      "2": "6,108",
+      "3": "6,654",
+      "4": "9%",
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Profit before Share of JV",
+      "2": "5,077",
+      "3": "5,602",
+      "4": "10%",
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "ProfitBefore Tax",
+      "2": "4,497",
+      "3": "5,870 31%",
+      "4": NaN,
+      "5": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Statement of Financial Position Jun-20 Dec-20 Jun-21 Kshs Mn Jun 21 vs Jun 20 Comments",
+      "2": "Jun-20",
+      "3": "Dec-20",
+      "4": "Jun-21 Kshs Mn",
+      "5": "Jun 21 vs Jun 20",
+      "1": NaN
+    },
+    {
+      "item": "None None Kshs Mn Kshs Mn None Y-Y %",
+      "2": "Kshs Mn",
+      "3": "Kshs Mn",
+      "4": "None",
+      "5": "Y-Y %",
+      "1": NaN
+    },
+    {
+      "item": "Total Assets",
+      "2": "340,640",
+      "3": "358,100",
+      "4": "382,571",
+      "5": "12%",
+      "1": NaN
+    },
+    {
+      "item": "Total Liabilities",
+      "2": "278,570",
+      "3": "290,037",
+      "4": "312,486",
+      "5": "12%",
+      "1": NaN
+    },
+    {
+      "item": "Liquidity",
+      "2": "51%",
+      "3": "48%",
+      "4": NaN,
+      "5": NaN,
+      "1": "47%"
+    },
+    {
+      "item": "Net NPA",
+      "2": "4.2%",
+      "3": "3.7%",
+      "4": NaN,
+      "5": NaN,
+      "1": "4.4%"
+    },
+    {
+      "item": "Return on Equity",
+      "2": "12%",
+      "3": "12%",
+      "4": NaN,
+      "5": NaN,
+      "1": "11%"
+    },
+    {
+      "item": "Capital Adequacy Ratio",
+      "2": "19%",
+      "3": "16%",
+      "4": NaN,
+      "5": NaN,
+      "1": "16%"
+    },
+    {
+      "item": "Cost of Risk",
+      "2": "1.2%",
+      "3": "1.0%",
+      "4": NaN,
+      "5": NaN,
+      "1": "1.1%"
+    },
+    {
+      "item": "None None",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN,
+      "1": NaN
+    }
+  ]
+}

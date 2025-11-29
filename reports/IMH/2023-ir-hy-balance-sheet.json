@@ -1,0 +1,451 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "fvtpl",
+  "pages": [
+    1
+  ],
+  "extracted_at": "2025-11-29T08:48:08.649398",
+  "data": [
+    {
+      "item": "S TATE MENT OF FINANCIAL POSITION",
+      "1": "UNAUDITED AUDITED UNAUDITED UNAUDITED UNAUDITED AUDITED UNAUDITED UNAUDITED JUN 2022 DEC 2022 MAR 2023 JUN 2023 JUN 2022 DEC 2022 MAR 2023 JUN 2023 (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000)",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "None",
+      "1": "None",
+      "2": "UNAUDITED JUN 2023 (KSHS'000)",
+      "3": "None",
+      "4": "UNAUDITED JUN 2023 (KSHS'000)"
+    },
+    {
+      "item": "A ASSETS 01. Cash (both local and foreign) 02. Balances due from central banks 03. Kenya Government and other securities held for dealing purposes 04. Financial Assets at fair value through profit or loss (FVTPL) 05. Investment Securities: a) Held at amortised cost: a. Kenya Government securities b. Other securities b) Fair value through other comprehensive income (FVOCI): a. Kenya Government securities b. Other securities 06. Deposits and balances due from local banking institutions 07. Deposits and balances due from banking institutions abroad 08. Tax recoverable 09. Loans and advances to customers (net) 10. Balances due from banking institutions in the Group 11. Investment in associates 12. Investment in subsidiary companies 13. Investment in joint ventures 14. Investment properties 15. Property and equipment 16. Prepaid lease rentals 17. Intangible assets 18. Deferred tax asset 19. Retirement benefit asset 20. Other assets",
+      "1": "380,290 864,255 963,591 - - - - - - - - - - - - - - - - - - - - - - - - 934,881 925,055 899,428 - - - - - - - - - 11,670 7,695 7,695 - - - - - - - - - 30,885,121 31,336,158 31,417,876 2,515,591 2,515,591 2,515,591 - - - - - - - - - - - - - - - - - - 587,034 80,927 6,305,634",
+      "2": "3,164,230 - - - - - - - - 904,351 - - - 9,855 - - - 32,297,365 2,515,591 - - - - - - 29,939",
+      "3": "4,751,464 5,186,177 6,182,717 20,193,076 17,632,125 21,538,423 - - - 15,036,750 16,402,892 14,830,626 - - - - - - 34,819,286 22,655,837 27,262,928 16,862,911 21,062,484 29,901,367 - - - 47,281,667 45,465,083 45,477,336 7,403,447 7,526,065 8,052,322 1,399,968 3,211,983 794,751 23,190,268 18,255,199 19,382,523 244,732 236,823 - 231,069,562 238,590,143 257,714,954 - - - - - - - - - 5,240,396 5,570,240 6,020,576 - - - 12,759,955 12,514,594 12,648,820 - - - 6,737,707 6,885,544 6,919,726 5,925,024 8,678,146 8,845,643 - - - 6,748,967 6,726,311 7,033,022",
+      "4": "7,011,069 19,602,956 - 15,479,224 - - 30,819,966 26,521,320 - 45,072,083 8,232,238 7,281,304 29,484,460 646,200 269,742,737 - - - 6,206,996 - 12,928,919 - 7,014,726 9,068,764 - 8,384,888"
+    },
+    {
+      "item": "21. TOTAL ASSETS",
+      "1": "35,314,587 35,729,681 42,109,815",
+      "2": "38,921,331",
+      "3": "439,665,180 436,599,646 472,605,734",
+      "4": "503,497,850"
+    },
+    {
+      "item": "B LIABILITIES 22. Balances due to central banks 23. Customer deposits 24. Deposits and balances due to local banking institutions 25. Deposits and balances due to foreign banking institutions 26. Other money market deposits 27. Borrowed funds 28. Balances due to banking institutions in the Group 29. Tax payable 30. Dividends payable 31. Deferred tax liability 32. Retirement benefit liability 33. Other liabilities",
+      "1": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1,514,611 91,448 117,026",
+      "2": "- - - - - - - - - - - 189,162",
+      "3": "- - - 313,178,863 312,335,932 324,673,528 10,095,327 6,803,763 15,284,983 18,139,263 11,349,566 15,123,348 - - - 19,314,781 16,794,713 17,366,007 - - - - - 361,501 - - - - - - - - - 7,486,420 7,666,084 15,340,925",
+      "4": "- 356,757,997 15,145,179 20,171,535 - 18,719,632 - - - - - 8,593,897"
+    },
+    {
+      "item": "34 TOTAL LIABILITIES",
+      "1": "1,514,611 91,448 117,026",
+      "2": "189,162",
+      "3": "368,214,654 354,950,058 388,150,292",
+      "4": "419,388,240"
+    },
+    {
+      "item": "C SHAREHOLDERS' EQUITY 35. Paid up/Assigned share capital 36. Share premium/(discount) 37. Revaluation reserves - (Buildings) 38. Retained earnings/(Accumulated losses) 39. Statutory loan loss reserves 40. Other reserves 41. Proposed dividends 42. Translation reserve",
+      "1": "1,653,621 1,653,621 1,653,621 17,561,629 17,561,629 17,561,629 - - - 14,615,985 16,464,597 22,827,617 - - - (31,259) (41,614) (50,078) - - - - - -",
+      "2": "1,653,621 17,561,629 - 19,578,813 - (61,894) - -",
+      "3": "1,653,621 1,653,621 1,653,621 17,561,629 17,561,629 17,561,629 1,036,048 1,154,325 1,154,325 45,131,788 53,674,183 55,494,878 9,030,875 6,993,268 7,634,273 (6,412,677) (3,873,628) (4,821,523) - - - (1,477,767) (645,903) 275,026",
+      "4": "1,653,621 17,561,629 1,155,473 51,155,383 10,315,988 (4,951,713) - 1,287,758"
+    },
+    {
+      "item": "43. TOTAL SHAREHOLDERS' EQUITY 44. Non controlling interest",
+      "1": "33,799,976 35,638,233 41,992,789 - - -",
+      "2": "38,732,169 -",
+      "3": "66,523,517 76,517,495 78,952,229 4,927,009 5,132,093 5,503,213",
+      "4": "78,178,139 5,931,471"
+    },
+    {
+      "item": "45. TOTAL LIABILITIES & SHAREHOLDERS' EQUITY",
+      "1": "35,314,587 35,729,681 42,109,815",
+      "2": "38,921,331",
+      "3": "439,665,180 436,599,646 472,605,734",
+      "4": "503,497,850"
+    },
+    {
+      "item": "STAT EMENT OF COMPREHENSIVE INCOME",
+      "1": "UNAUDITED AUDITED UNAUDITED UNAUDITED UNAUDITED AUDITED UNAUDITED UNAUDITED JUN 2022 DEC 2022 MAR 2023 JUN 2023 JUN 2022 DEC 2022 MAR 2023 JUN 2023 (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000)",
+      "2": "None",
+      "3": "None",
+      "4": "None"
+    },
+    {
+      "item": "01. INTEREST INCOME 1.1 Loans and advances 1.2 Government securities 1.3 Deposits and placements with banking institutions 1.4 Other interest income",
+      "1": "- - - 26,602 86,040 29,082 29,938 33,356 4,567 - - -",
+      "2": "- 58,487 22,958 -",
+      "3": "12,047,073 26,259,209 7,243,212 5,218,771 10,477,135 2,662,519 167,390 569,978 258,297 22,159 44,875 11,290",
+      "4": "15,199,723 5,485,727 604,602 22,844"
+    },
+    {
+      "item": "I.5 Total interest income",
+      "1": "56,540 119,396 33,649",
+      "2": "81,445",
+      "3": "17,455,393 37,351,197 10,175,318",
+      "4": "21,312,896"
+    },
+    {
+      "item": "02. INTEREST EXPENSE 2.1 Customer deposits 2.2 Deposits and placements from banking institutions 2.3 Other interest expenses",
+      "1": "- - - - - - - - -",
+      "2": "- - -",
+      "3": "5,589,410 11,597,717 3,305,999 733,106 1,430,228 448,228 611,527 1,378,731 329,615",
+      "4": "7,283,622 1,028,676 785,769"
+    },
+    {
+      "item": "2.4 Total interest expense",
+      "1": "- - -",
+      "2": "-",
+      "3": "6,934,043 14,406,676 4,083,842",
+      "4": "9,098,067"
+    },
+    {
+      "item": "03. NET INTEREST INCOME/(LOSS)",
+      "1": "56,540 119,396 33,649",
+      "2": "81,445",
+      "3": "10,521,350 22,944,521 6,091,476",
+      "4": "12,214,829"
+    },
+    {
+      "item": "04. OTHER OPERATING INCOME 4.1 Fees and commissions on loans and advances 4.2 Other fees and commissions 4.3 Foreign exchange trading income/(loss) 4.4 Dividend income 4.5 Other income",
+      "1": "- - - - - - - - - 4,262,682 6,073,676 6,300,000 215 10,768 45,085",
+      "2": "- - - 6,691,995 92,526",
+      "3": "999,406 2,185,691 576,553 1,870,563 3,700,780 1,011,093 1,908,064 5,042,627 1,442,404 - - - 279,802 1,794,453 455,095",
+      "4": "1,145,815 2,068,889 2,917,695 - 783,218"
+    },
+    {
+      "item": "4.6 Total non-interest income",
+      "1": "4,262,897 6,084,444 6,345,085",
+      "2": "6,784,521",
+      "3": "5,057,835 12,723,551 3,485,145",
+      "4": "6,915,617"
+    },
+    {
+      "item": "05. TOTAL OPERATING INCOME",
+      "1": "4,319,437 6,203,840 6,378,734",
+      "2": "6,865,966",
+      "3": "15,579,185 35,668,072 9,576,621",
+      "4": "19,130,446"
+    },
+    {
+      "item": "06. OTHER OPERATING EXPENSES 6.1 Loan loss provisions 6.2 Staff costs 6.3 Directors' emoluments 6.4 Rentals charges 6.5 Depreciation charge on property and equipment 6.6 Amortisation charges 6.7 Other operating expenses",
+      "1": "- - - - - - 7,133 13,779 3,114 - - - - - - - - - 18,272 40,342 12,600",
+      "2": "- - 7,595 - - - 23,404",
+      "3": "1,309,276 5,245,020 1,641,854 3,014,453 6,472,873 1,581,810 52,511 114,322 28,581 336,245 716,283 193,942 750,587 1,597,298 432,717 396,807 873,728 258,675 2,737,101 6,318,366 1,894,523",
+      "4": "3,201,481 3,488,646 57,161 408,981 832,475 535,326 4,018,857"
+    },
+    {
+      "item": "6.8 Total other Operating Expenses",
+      "1": "25,405 54,121 15,714",
+      "2": "30,999",
+      "3": "8,596,979 21,337,890 6,032,101",
+      "4": "12,542,927"
+    },
+    {
+      "item": "07. PROFIT/(LOSS) BEFORE TAX AND EXCEPTIONAL ITEMS",
+      "1": "4,294,032 6,149,719 6,363,020",
+      "2": "6,834,967",
+      "3": "6,982,206 14,330,182 3,544,520",
+      "4": "6,587,519"
+    },
+    {
+      "item": "08. Share of profit of Joint Venture",
+      "1": "- - -",
+      "2": "-",
+      "3": "205,681 662,150 201,361",
+      "4": "450,519"
+    },
+    {
+      "item": "09. PROFIT/(LOSS ) AFTER EXCEPTIONAL ITEMS 10. Current Tax 11. Deferred Tax",
+      "1": "4,294,032 6,149,719 6,363,020 - (7,075) - - - -",
+      "2": "6,834,967 (103) -",
+      "3": "7,187,887 14,992,332 3,745,881 (2,262,187) (4,642,909) (1,089,306) - 1,234,275 -",
+      "4": "7,038,038 (2,004,346) -"
+    },
+    {
+      "item": "12. PROFIT/(LOSS ) AFTER TAX AND EXCEPTIONAL ITEMS",
+      "1": "4,294,032 6,142,644 6,363,020",
+      "2": "6,834,864",
+      "3": "4,925,700 11,583,698 2,656,575",
+      "4": "5,033,692"
+    },
+    {
+      "item": "13. Non controlling interest",
+      "1": "- - -",
+      "2": "-",
+      "3": "(244,450) (390,209) (116,801)",
+      "4": "(260,763)"
+    },
+    {
+      "item": "14. PROFIT/(LOSS ) AFTER TAX , EXCEPTIONAL ITEMS AND NON CONTROLLING INTEREST",
+      "1": "4,294,032 6,142,644 6,363,020",
+      "2": "6,834,864",
+      "3": "4,681,250 11,193,489 2,539,774",
+      "4": "4,772,929"
+    },
+    {
+      "item": "15. OTHER COMPREHENSIVE INCOME 15.1 Gains/(Losses) from translating the financial statements of foreign operations 15.2 Fair value changes in financial assets at FVOCI 15.3 Statutory loan loss reserve 15.4 Fair value changes on employee benefits 15.5 Income tax relating to components of other comprehensive income",
+      "1": "- - - (30,746) (41,101) (8,464) - - - - - - - - -",
+      "2": "- (20,280) - - -",
+      "3": "494,131 1,365,147 1,088,108 (5,555,076) (3,007,013) (948,524) - - - - (20,526) - - 120,230 -",
+      "4": "2,199,535 (1,107,117) - 2 1,148"
+    },
+    {
+      "item": "16. OTHER COMPREHENSIVE INCOME FOR THE YEAR NET OF TAX",
+      "1": "(30,746) (41,101) (8,464)",
+      "2": "(20,280)",
+      "3": "(5,060,945) (1,542,162) 139,584",
+      "4": "1,093,568"
+    },
+    {
+      "item": "17. TOTAL COMPREHENSIVE INCOME FOR THE YEAR",
+      "1": "4,263,286 6,101,543 6,354,556",
+      "2": "6,814,584",
+      "3": "(379,695) 9,651,327 2,679,358",
+      "4": "5,866,497"
+    },
+    {
+      "item": "18. EARNING PER SHARE - DILUTE & BASIC (KSHS)",
+      "1": "2.60 3.71 3.85",
+      "2": "4.13",
+      "3": "2.83 6.77 1.54",
+      "4": "2.89"
+    },
+    {
+      "item": "19. DIVIDEND PER SHARE - PROPOSED (KSHS)",
+      "1": "- 2.25 -",
+      "2": "-",
+      "3": "- 2.25 -",
+      "4": "-"
+    },
+    {
+      "item": "OTH ER DISCLOSURES",
+      "1": "UNAUDITED AUDITED UNAUDITED UNAUDITED JUN 2022 DEC 2022 MAR 2023 JUN 2023 (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000)",
+      "2": "None",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "01. NON - PERFORMING LOANS AND ADVANCES a) Gross Non- performing loans and advances Less b) Interest in suspense",
+      "1": "23,280,334 24,966,154 29,313,795 4,281,661 4,268,439 4,739,802",
+      "2": "36,672,884 3,962,530",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "c) Total Non- performing loans and advances (a-b) Less d) Loan loss provisions",
+      "1": "18,998,673 20,697,715 24,573,993 13,771,484 13,690,454 14,537,147",
+      "2": "32,710,354 14,309,674",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "e) Net Non Performing Loans(c-d)",
+      "1": "5,227,189 7,007,261 10,036,846",
+      "2": "18,400,680",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "f) Discounted value of securities",
+      "1": "5,227,189 7,007,261 10,036,846",
+      "2": "18,400,680",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "g) Net NPLs exposure (e-f)",
+      "1": "- - -",
+      "2": "-",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "02. INSIDER LOANS AND ADVANCES a) Directors, shareholders and associates b) Employees",
+      "1": "2,791,867 2,876,868 3,351,747 2,684,224 2,788,888 3,031,075",
+      "2": "3,938,344 2,909,351",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "c) Total Insider Loans and Advances",
+      "1": "5,476,091 5,665,756 6,382,822",
+      "2": "6,847,695",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "03. OFF- BALANCE SHEET ITEMS a) Letters of credit, guarantees, acceptances b) Forwards, swaps and options c) Other contingent liabilities",
+      "1": "79,102,758 72,390,417 73,932,620 24,768,654 42,105,420 42,647,237 5,591,570 4,949,387 5,722,102",
+      "2": "91,569,086 38,319,552 6,362,077",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "d) Total Contingent liabilities",
+      "1": "109,462,982 119,445,224 122,301,959",
+      "2": "136,250,715",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "04. CAPITAL STRENGTH a) Core capital b) Minimum statutory capital",
+      "1": "62,443,413 70,667,086 71,407,516 1,000,000 1,000,000 1,000,000",
+      "2": "67,095,189 1,000,000",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "c) Excess/ (deficiency) d) Supplementary capital",
+      "1": "61,443,413 69,667,086 70,407,516 19,811,492 18,313,434 19,556,971",
+      "2": "66,095,189 23,219,081",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "e) Total capital (a+d)",
+      "1": "82,254,905 88,980,520 90,964,487",
+      "2": "90,314,270",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "f) Total risk weighted assets g) Core capital/Total deposit liabilities h) Minimum statutory ratio",
+      "1": "415,112,474 433,713,270 456,746,121 19.94% 22.63% 21.99% 8.00% 8.00% 8.00%",
+      "2": "480,794,225 18.81% 8.00%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "i) Excess /(Deficiency) (g-h)",
+      "1": "11.94% 14.63% 13.99%",
+      "2": "10.81%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "j) Core capital/Total risk weighted assets k) Minimum statutory ratio",
+      "1": "15.04% 16.29% 15.63% 10.50% 10.50% 10.50%",
+      "2": "13.96% 10.50%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "l) Excess /(Deficiency) (j-k)",
+      "1": "4.54% 5.79% 5.13%",
+      "2": "3.46%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "m) Total capital/Total risk weighted assets n) Minimum statutory ratio",
+      "1": "19.82% 20.52% 19.92% 14.50% 14.50% 14.50%",
+      "2": "18.78% 14.50%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "o) Excess /(Deficiency) (m-n)",
+      "1": "5.32% 6.02% 5.42%",
+      "2": "4.28%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "05. LIQUIDITY",
+      "1": "",
+      "2": "",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "a) Liquidity ratio",
+      "1": "48.81% 46.13% 46.18%",
+      "2": "46.72%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "b) Minimum statutory ratio",
+      "1": "20.00% 20.00% 20.00%",
+      "2": "20.00%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "c) Excess /(Deficiency) (a-b)",
+      "1": "28.81% 26.13% 26.18%",
+      "2": "26.72%",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "SUMMARY OF CONSOLIDATED STATEMENT OF CASH FLOWS",
+      "1": "None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "",
+      "1": "UNAUDITED AUDITED JUN 2022 DEC 2022 (KSHS'000) (KSHS'000)",
+      "2": "UNAUDITED JUN 2023 (KSHS'000)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Net cash (used in)/ from operating activities Cash flows used in investing activities Net cash used in financing activities",
+      "1": "(252,016) 2,943,827 (739,151) (1,814,953) (2,216,474) (1,600,044)",
+      "2": "3,355,780 (1,019,325) (2,129,136)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Net (decrease)/ increase in cash and cash equivalents Cash and cash equivalents at beginning of period",
+      "1": "(3,207,641) (471,170) 10,661,714 10,661,714",
+      "2": "207,319 10,190,544",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "Cash and cash equivalents at end of period",
+      "1": "7,454,073 10,190,544",
+      "2": "10,397,863",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "SUMMARY OF CONSOLIDATED STATEMENT OF CHANGES IN EQUITY None None",
+      "1": "None",
+      "2": "None",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "NON SHARE SHARE RETAINED OTHER CONTROLLING CAPITAL PREMIUM EARNINGS RESERVES INTEREST TOTAL (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) None",
+      "1": "NON SHARE SHARE RETAINED OTHER CONTROLLING CAPITAL PREMIUM EARNINGS RESERVES INTEREST TOTAL (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000) (KSHS'000)",
+      "2": "None",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None None TOTAL (KSHS'000)",
+      "1": "None",
+      "2": "TOTAL (KSHS'000)",
+      "3": NaN,
+      "4": NaN
+    },
+    {
+      "item": "None None 74,048,077 (135,245) (2,462,306) 71,450,526",
+      "1": "None",
+      "2": "74,048,077 (135,245) (2,462,306) 71,450,526",
+      "3": NaN,
+      "4": NaN
+    }
+  ]
+}
