@@ -1,0 +1,92 @@
+{
+  "title": "Consolidated statement of financial position 24",
+  "units": "kenya",
+  "pages": [
+    8,
+    9,
+    31,
+    32,
+    79
+  ],
+  "extracted_at": "2025-11-29T00:53:22.646561",
+  "data": [
+    {
+      "item": "None None",
+      "2": NaN,
+      "3": NaN,
+      "1": NaN
+    },
+    {
+      "item": "None",
+      "2": NaN,
+      "3": NaN,
+      "1": NaN
+    },
+    {
+      "item": "Items existing as at 1 October 2018 that are subject to impairment provision of IFRS 9 Credit risk attributes at 1 October 2018",
+      "2": "Cumulative additional allowance recognized on 1 October 2018",
+      "3": "Cumulative additional allowance recognized on 1 October 2018",
+      "1": NaN
+    },
+    {
+      "item": "Trade receivables For trade receivables, the Group applied the simplified approach to providing for expected credit losses prescribed by IFRS 9, which requires the use of the lifetime expected loss provision for all trade receivables.",
+      "2": "288,030",
+      "3": "1,742",
+      "1": NaN
+    },
+    {
+      "item": "",
+      "2": "Group Sh’000",
+      "3": "Company Sh’000",
+      "1": NaN
+    },
+    {
+      "item": "Bank balances All bank balances are assessed to have low credit risk at each reporting date as they are held with reputable international banking institutions.",
+      "2": "NIL",
+      "3": "NIL",
+      "1": NaN
+    },
+    {
+      "item": "Deferred tax on Day 1 adjustment",
+      "2": "(86,409)",
+      "3": "(522)",
+      "1": NaN
+    },
+    {
+      "item": "Day 1 adjustment net of deferred tax",
+      "2": "201,621",
+      "3": "1,220",
+      "1": NaN
+    },
+    {
+      "item": "Category Description Basis for recognizing expected credit losses",
+      "2": "Basis for recognizing expected credit losses",
+      "3": NaN,
+      "1": "Description"
+    },
+    {
+      "item": "Performing The counterparty has a low risk of default and does not have any past-due amounts 12-month ECL",
+      "2": "12-month ECL",
+      "3": NaN,
+      "1": "The counterparty has a low risk of default and does not have any past-due amounts"
+    },
+    {
+      "item": "Doubtful Amount is >90 days past due or there has been a significant increase in credit risk since initial recognition. Lifetime ECL–not credit- Impaired",
+      "2": "Lifetime ECL–not credit- Impaired",
+      "3": NaN,
+      "1": "Amount is >90 days past due or there has been a significant increase in credit risk since initial recognition."
+    },
+    {
+      "item": "In default Amount is >120 days past due or there is evidence indicating the asset is credit-impaired. Lifetime ECL – credit-Impaired",
+      "2": "Lifetime ECL – credit-Impaired",
+      "3": NaN,
+      "1": "Amount is >120 days past due or there is evidence indicating the asset is credit-impaired."
+    },
+    {
+      "item": "Write-off There is evidence indicating that the debtor is in severe financial difficulty and the company has no realistic prospect of recovery. Amount is written off",
+      "2": "Amount is written off",
+      "3": NaN,
+      "1": "There is evidence indicating that the debtor is in severe financial difficulty and the company has no realistic prospect of recovery."
+    }
+  ]
+}
