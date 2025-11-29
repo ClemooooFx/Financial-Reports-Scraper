@@ -1,0 +1,599 @@
+{
+  "title": "Consolidated Statement of Financial Position 76",
+  "units": "kenya",
+  "pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    76,
+    77,
+    78,
+    79,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    92,
+    94,
+    95,
+    96,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130
+  ],
+  "extracted_at": "2025-11-29T10:46:58.361322",
+  "data": [
+    {
+      "item": "None 3 None",
+      "1": "3",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None",
+      "1": "None",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 4 None",
+      "1": "4",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None None None None",
+      "1": NaN,
+      "0": "",
+      "2": NaN
+    },
+    {
+      "item": "None None 2015 12,016 2016 12,687 2017 13,680 2018 14,206 2019 15,531 None None",
+      "1": NaN,
+      "0": "2015 13,060 2016 13,244 2017 14,827 2018 14,838 2019 17,521",
+      "2": NaN
+    },
+    {
+      "item": "None",
+      "1": NaN,
+      "0": "",
+      "2": NaN
+    },
+    {
+      "item": "None None None None",
+      "1": NaN,
+      "0": "None",
+      "2": NaN
+    },
+    {
+      "item": "None None 2015 21,933 2016 24,133 2017 27,205 2018 28,373 2019 31,951 None None",
+      "1": NaN,
+      "0": "2015 35,954 2016 38,494 2017 42,733 2018 44,371 2019 50,363",
+      "2": NaN
+    },
+    {
+      "item": "None None None",
+      "1": NaN,
+      "0": "None",
+      "2": NaN
+    },
+    {
+      "item": "None None 2015 1,319 2016 1,832 2017 1,709 2018 2,020 2019 2,043 None None",
+      "1": NaN,
+      "0": "2015 3,041 2016 3,079 2017 3,165 2018 3,386 2019 3,715",
+      "2": NaN
+    },
+    {
+      "item": "INVESTMENT MIX",
+      "1": NaN,
+      "0": "",
+      "2": NaN
+    },
+    {
+      "item": "None 5 None",
+      "1": "5",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 6 None",
+      "1": "6",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 7 None",
+      "1": "7",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 8 None",
+      "1": "8",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 9 None",
+      "1": "9",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 10 None",
+      "1": "10",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 11 None",
+      "1": "11",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 12 None",
+      "1": "12",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 13 None",
+      "1": "13",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 14 None",
+      "1": "14",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 15 None",
+      "1": "15",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 16 None",
+      "1": "16",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 17 None",
+      "1": "17",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 18 None",
+      "1": "18",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 19 None",
+      "1": "19",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 20 None",
+      "1": "20",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 21 None",
+      "1": "21",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 22 None",
+      "1": "22",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 23 None",
+      "1": "23",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 24 None",
+      "1": "24",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 25 None",
+      "1": "25",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 26 None",
+      "1": "26",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 27 None",
+      "1": "27",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 28 None",
+      "1": "28",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 29 None",
+      "1": "29",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 30 None",
+      "1": "30",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 31 None",
+      "1": "31",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 32 None",
+      "1": "32",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 33 None",
+      "1": "33",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "RESERVATION GROUP TOTAL COST KSHS",
+      "1": NaN,
+      "0": "NO.",
+      "2": "VALUE"
+    },
+    {
+      "item": "Youth 159,990,229.51",
+      "1": NaN,
+      "0": "1",
+      "2": "10,614,481.91"
+    },
+    {
+      "item": "PWD None",
+      "1": NaN,
+      "0": "2",
+      "2": "4,378,910.00"
+    },
+    {
+      "item": "Women None",
+      "1": NaN,
+      "0": "3",
+      "2": "144,996,837.60"
+    },
+    {
+      "item": "None 34 None",
+      "1": "34",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 35 None",
+      "1": "35",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 36 None",
+      "1": "36",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "Regulator Mandate Areas of Engagement",
+      "1": "Mandate",
+      "0": "Regulator",
+      "2": "Areas of Engagement"
+    },
+    {
+      "item": "Insurance Regulatory Authority (IRA) The IRA is mandated to regulate, supervise and develop the insurance industry in Kenya. Quarterly Returns, Inspection of operations and Investments.",
+      "1": "The IRA is mandated to regulate, supervise and develop the insurance industry in Kenya.",
+      "0": "Insurance Regulatory Authority (IRA)",
+      "2": "Quarterly Returns, Inspection of operations and Investments."
+    },
+    {
+      "item": "Capital Markets Authority (CMA) The CMA is a regulating body charged with the responsibility of supervising, licensing and monitoring the activities of listed companies licensed under the Capital Markets Act. Corporate Governance.",
+      "1": "The CMA is a regulating body charged with the responsibility of supervising, licensing and monitoring the activities of listed companies licensed under the Capital Markets Act.",
+      "0": "Capital Markets Authority (CMA)",
+      "2": "Corporate Governance."
+    },
+    {
+      "item": "Kenya Revenue Authority (KRA) The KRA is charged with the responsibility of collecting revenue on behalf of the Government of Kenya. Taxation.",
+      "1": "The KRA is charged with the responsibility of collecting revenue on behalf of the Government of Kenya.",
+      "0": "Kenya Revenue Authority (KRA)",
+      "2": "Taxation."
+    },
+    {
+      "item": "National Environment Management NEMA is the government agency tasked with management of the environment and environmental policy of the country. Environmental Impact.",
+      "1": "NEMA is the government agency tasked with management of the environment and environmental policy of the country.",
+      "0": "National Environment Management",
+      "2": "Environmental Impact."
+    },
+    {
+      "item": "None 37 None",
+      "1": "37",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 38 None",
+      "1": "38",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 39 None",
+      "1": "39",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 40 None",
+      "1": "40",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 41 None",
+      "1": "41",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 42 None",
+      "1": "42",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 43 None",
+      "1": "43",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 44 None",
+      "1": "44",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 45 None",
+      "1": "45",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 46 None",
+      "1": "46",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 47 None",
+      "1": "47",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 48 None",
+      "1": "48",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 49 None",
+      "1": "49",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 50 None",
+      "1": "50",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 76 None",
+      "1": "76",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 77 None",
+      "1": "77",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "87 None None",
+      "1": NaN,
+      "0": "87",
+      "2": NaN
+    },
+    {
+      "item": "97 None None",
+      "1": NaN,
+      "0": "97",
+      "2": NaN
+    },
+    {
+      "item": "None 82 None",
+      "1": "82",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 83 None",
+      "1": "83",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 84 None",
+      "1": "84",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 85 None",
+      "1": "85",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 86 None",
+      "1": "86",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 87 None",
+      "1": "87",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 92 None",
+      "1": "92",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 94 None",
+      "1": "94",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 95 None",
+      "1": "95",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None 96 None",
+      "1": "96",
+      "0": NaN,
+      "2": NaN
+    },
+    {
+      "item": "None None 9",
+      "1": "None",
+      "0": NaN,
+      "2": "9"
+    },
+    {
+      "item": "1 None None",
+      "1": "None",
+      "0": "1",
+      "2": NaN
+    },
+    {
+      "item": "None None 1",
+      "1": "None",
+      "0": NaN,
+      "2": "1"
+    },
+    {
+      "item": "None None 3",
+      "1": "None",
+      "0": NaN,
+      "2": "3"
+    },
+    {
+      "item": "None None 5",
+      "1": "None",
+      "0": NaN,
+      "2": "5"
+    },
+    {
+      "item": "None None 7",
+      "1": "None",
+      "0": NaN,
+      "2": "7"
+    }
+  ]
+}

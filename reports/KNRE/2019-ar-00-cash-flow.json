@@ -1,0 +1,566 @@
+{
+  "title": "CONSOLIDATED STATEMENT OF CASH FLOWS — FOR THE YEAR ENDED 31 DECEMBER 2019",
+  "units": "c",
+  "pages": [
+    80,
+    81,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151
+  ],
+  "extracted_at": "2025-11-29T10:46:58.372275",
+  "data": [
+    {
+      "item": "None 80 None",
+      "1": "80",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None",
+      "1": "None",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 81 None",
+      "1": "81",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 13 None",
+      "1": "13",
+      "2": "None",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None 3",
+      "1": "None",
+      "2": "3",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 34 None",
+      "1": "34",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1 None None",
+      "1": "None",
+      "2": NaN,
+      "0": "1",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "GROUP",
+      "1": "",
+      "2": "",
+      "0": NaN,
+      "3": "",
+      "5": NaN
+    },
+    {
+      "item": "YEAR 2019",
+      "1": "Gross",
+      "2": "Reinsurance",
+      "0": NaN,
+      "3": "Net",
+      "5": NaN
+    },
+    {
+      "item": "",
+      "1": "KShs’000",
+      "2": "KShs’000",
+      "0": NaN,
+      "3": "KShs’000",
+      "5": NaN
+    },
+    {
+      "item": "As at 1 January 2019",
+      "1": "6,785,111",
+      "2": "(782,165)",
+      "0": NaN,
+      "3": "6,002,946",
+      "5": NaN
+    },
+    {
+      "item": "Movement",
+      "1": "(183,269)",
+      "2": "385,506",
+      "0": NaN,
+      "3": "202,327",
+      "5": NaN
+    },
+    {
+      "item": "As at 31 December 2019",
+      "1": "6,601,842",
+      "2": "(396,659)",
+      "0": NaN,
+      "3": "6,205,183",
+      "5": NaN
+    },
+    {
+      "item": "YEAR 2018",
+      "1": "",
+      "2": "",
+      "0": NaN,
+      "3": "",
+      "5": NaN
+    },
+    {
+      "item": "As at 1 January 2018",
+      "1": "5,980,320",
+      "2": "(288,804)",
+      "0": NaN,
+      "3": "5,691,516",
+      "5": NaN
+    },
+    {
+      "item": "As at 31 December 2018",
+      "1": "6,785,111",
+      "2": "(782,165)",
+      "0": NaN,
+      "3": "6,002,946",
+      "5": NaN
+    },
+    {
+      "item": "COMPANY",
+      "1": "",
+      "2": "",
+      "0": NaN,
+      "3": "",
+      "5": NaN
+    },
+    {
+      "item": "As at 1 Jan 2019",
+      "1": "6,245,803",
+      "2": "(691,963)",
+      "0": NaN,
+      "3": "5,553,840",
+      "5": NaN
+    },
+    {
+      "item": "As at 31 Dec 2019",
+      "1": "6,058,529",
+      "2": "(351,638)",
+      "0": NaN,
+      "3": "5,706,891",
+      "5": NaN
+    },
+    {
+      "item": "As at 1 Jan 2018",
+      "1": "5,554,703",
+      "2": "(288,804)",
+      "0": NaN,
+      "3": "5,265,899",
+      "5": NaN
+    },
+    {
+      "item": "As at 31 Dec 2018",
+      "1": "6,245,803",
+      "2": "(691,963)",
+      "0": NaN,
+      "3": "5,553,840",
+      "5": NaN
+    },
+    {
+      "item": "None 135 None",
+      "1": "135",
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 36 None",
+      "1": "36",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None 7",
+      "1": "None",
+      "2": "7",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 38 None",
+      "1": "38",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None 9",
+      "1": "None",
+      "2": "9",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 40 None",
+      "1": "40",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 14 None",
+      "1": "14",
+      "2": "None",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None 1",
+      "1": "None",
+      "2": "1",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "24 None None",
+      "1": NaN,
+      "2": "None",
+      "0": "24",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "34 None None",
+      "1": NaN,
+      "2": "None",
+      "0": "34",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "RESOLUTION FOR AGAINST WITHHELD",
+      "1": NaN,
+      "2": NaN,
+      "0": "RESOLUTION",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Approval of the Report and Financial Statements for the Year ended 31 December, 2019",
+      "1": NaN,
+      "2": NaN,
+      "0": "Approval of the Report and Financial Statements for the Year ended 31 December, 2019",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "To approve a dividend of 0.10 per share",
+      "1": NaN,
+      "2": NaN,
+      "0": "To approve a dividend of 0.10 per share",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Election of Directors: To elect the following candidates:",
+      "1": NaN,
+      "2": NaN,
+      "0": "Election of Directors: To elect the following candidates:",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1.",
+      "1": NaN,
+      "2": NaN,
+      "0": "1.",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2.",
+      "1": NaN,
+      "2": NaN,
+      "0": "2.",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3.",
+      "1": NaN,
+      "2": NaN,
+      "0": "3.",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "To approve directors’ Remuneration Report",
+      "1": NaN,
+      "2": NaN,
+      "0": "To approve directors’ Remuneration Report",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "To authorize directors to fix auditor’s remuneration",
+      "1": NaN,
+      "2": NaN,
+      "0": "To authorize directors to fix auditor’s remuneration",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "To authorize directors to appoint members of audit committee",
+      "1": NaN,
+      "2": NaN,
+      "0": "To authorize directors to appoint members of audit committee",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "SPECIAL BUSINESS; None None None",
+      "1": NaN,
+      "2": NaN,
+      "0": "SPECIAL BUSINESS;",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "To amend Articles of Association to provide for holding electronic shareholders’ meetings",
+      "1": NaN,
+      "2": NaN,
+      "0": "To amend Articles of Association to provide for holding electronic shareholders’ meetings",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "kenyare@kenyare.co.ke kenyare.co.ke KENYA RE 1 None Kenya Reinsurance kenya_re FINANCIAL YEAR ENDED 31 DEC 2019 kenyare@kenyare.co.ke kenyare.co.ke Kenya Reinsurance kenya_re",
+      "1": NaN,
+      "2": "44",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None e 1 None None None None",
+      "1": NaN,
+      "2": "None",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Please tick ONE of the boxes below and return to Image Registrars at P.O. Box 9287- 00100 Nairobi,5th floor, Absa Towers (formerly Barclays Plaza), Loita Street: Approval of Registration",
+      "1": NaN,
+      "2": NaN,
+      "0": "Please tick ONE of the boxes below and return to Image Registrars at P.O. Box 9287- 00100 Nairobi,5th floor, Absa Towers (formerly Barclays Plaza), Loita Street: Approval of Registration",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "I/WE approve to register to participate in the virtual Annual General Meeting to be held on Friday 9th October 2020.",
+      "1": NaN,
+      "2": NaN,
+      "0": "I/WE approve to register to participate in the virtual Annual General Meeting to be held on Friday 9th October 2020.",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Consent for use of the Mobile Number provided",
+      "1": NaN,
+      "2": NaN,
+      "0": "Consent for use of the Mobile Number provided",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "I/WE would give my/our consent for the use of the mobile number provided for purposes of voting at the AGM",
+      "1": NaN,
+      "2": NaN,
+      "0": "I/WE would give my/our consent for the use of the mobile number provided for purposes of voting at the AGM",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "kenyare@kenyare.co.ke kenyare.co.ke Kenya Reinsurance kenya_re kenyare@kenyare.co.ke kenyare.co. KENYA RE None ke 14 Kenya Reinsurance kenya_re FINANCIAL YEAR ENDED 31 DEC 2019",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": "5"
+    },
+    {
+      "item": "None None None o. None None",
+      "1": NaN,
+      "2": NaN,
+      "0": NaN,
+      "3": NaN,
+      "5": "None"
+    },
+    {
+      "item": "MAAZIMIO KWA DHIDI YA ILIYOZUILIWA",
+      "1": NaN,
+      "2": NaN,
+      "0": "MAAZIMIO",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kuikubali Ripoti na Taarifa za Kifedha za Mwaka Ulimal- izikia tarehe 31 Desemba, 2019",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kuikubali Ripoti na Taarifa za Kifedha za Mwaka Ulimal- izikia tarehe 31 Desemba, 2019",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kukubali mgao wa 0.10 kwa kila hisa",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kukubali mgao wa 0.10 kwa kila hisa",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Uchaguzi wa Wakurugenzi wakuu: Kuchagua wagombea- ji wafuatao:",
+      "1": NaN,
+      "2": NaN,
+      "0": "Uchaguzi wa Wakurugenzi wakuu: Kuchagua wagombea- ji wafuatao:",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kuikubali Ripoti ya Malipo ya Wakurugenzi Wakuu",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kuikubali Ripoti ya Malipo ya Wakurugenzi Wakuu",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kuidhinisha wakurugenzi kuandaa malipo ya wakuru- genzi wakuu",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kuidhinisha wakurugenzi kuandaa malipo ya wakuru- genzi wakuu",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kuidhinisha wakurugenzi wakuu kuwateua wanachama wa kamati ya ukaguzi wa kifedha",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kuidhinisha wakurugenzi wakuu kuwateua wanachama wa kamati ya ukaguzi wa kifedha",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "SHUGHULI MAALUM; None None None",
+      "1": NaN,
+      "2": NaN,
+      "0": "SHUGHULI MAALUM;",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kurekebisha Vifungu vya Kishirika ili kutoa fursa ya ku- endesha mikutano ya wenyehisa kwa njia ya kielektroniki",
+      "1": NaN,
+      "2": NaN,
+      "0": "Kurekebisha Vifungu vya Kishirika ili kutoa fursa ya ku- endesha mikutano ya wenyehisa kwa njia ya kielektroniki",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Tafadhali teua kisanduku KIMOJA hapa chini na urejeshe kwa Rejistra wa Taswira kati- ka S.L.P 9287-00100 Nairobi, orofa ya 5, Jumba la Absa (lililokuwa Jumba la Barclays), Barabara ya Loita: Uhalalishaji wa Usajili",
+      "1": NaN,
+      "2": NaN,
+      "0": "Tafadhali teua kisanduku KIMOJA hapa chini na urejeshe kwa Rejistra wa Taswira kati- ka S.L.P 9287-00100 Nairobi, orofa ya 5, Jumba la Absa (lililokuwa Jumba la Barclays), Barabara ya Loita: Uhalalishaji wa Usajili",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MIMI/SISI tunahalalisha kujisajili ili kushiriki katika Mikutano ya Kila Mwaka mtandaoni unaoratibiwa kufanyika siku ya Ijumaa tarehe 9 Oktoba 2020.",
+      "1": NaN,
+      "2": NaN,
+      "0": "MIMI/SISI tunahalalisha kujisajili ili kushiriki katika Mikutano ya Kila Mwaka mtandaoni unaoratibiwa kufanyika siku ya Ijumaa tarehe 9 Oktoba 2020.",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Idhini ya kutumia Nambari ya Simu ya Mkononi iliyotolewa",
+      "1": NaN,
+      "2": NaN,
+      "0": "Idhini ya kutumia Nambari ya Simu ya Mkononi iliyotolewa",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MIMI/SISI tungependa kutoa idhini yangu/yetu kwa matumizi ya nambari ya simu iliy- otolewa kwa madhumuni ya kupiga kura katika mkutano wa AGM",
+      "1": NaN,
+      "2": NaN,
+      "0": "MIMI/SISI tungependa kutoa idhini yangu/yetu kwa matumizi ya nambari ya simu iliy- otolewa kwa madhumuni ya kupiga kura katika mkutano wa AGM",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 48 None",
+      "1": "48",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 50 None",
+      "1": "50",
+      "2": NaN,
+      "0": "None",
+      "3": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None 15 None",
+      "1": "15",
+      "2": "None",
+      "0": NaN,
+      "3": NaN,
+      "5": NaN
+    }
+  ]
+}
