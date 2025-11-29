@@ -1,0 +1,1222 @@
+{
+  "title": "Statement of Financial Position",
+  "units": "mrs",
+  "pages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    18,
+    19,
+    20,
+    25,
+    26,
+    34,
+    35,
+    116,
+    117,
+    120
+  ],
+  "extracted_at": "2025-11-29T02:12:18.654940",
+  "data": [
+    {
+      "item": "The Board of Directors",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "The Board",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ng Kenya and the Region",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "ng Kenya and the Region panies ance Agency Limited)",
+      "0": "ng Kenya and the Region panies ance Agency Limited)",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Board of Directors of the Co-operative Bank of South Sudan Limited",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Board of Dire of South Sud",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "13",
+      "0": "13",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Board of Management Board of Management of Co-operative Bank of Kenya Limited",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Board of Man Board of Managemen",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2009",
+      "0": NaN,
+      "1": "2010",
+      "2": "2011",
+      "3": "2012",
+      "4": "2013",
+      "5": NaN
+    },
+    {
+      "item": "KShs million",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": "None",
+      "4": "None",
+      "5": NaN
+    },
+    {
+      "item": "13,194",
+      "0": NaN,
+      "1": "20,775",
+      "2": "21,616",
+      "3": "31,100",
+      "4": "30,754",
+      "5": NaN
+    },
+    {
+      "item": "66,620",
+      "0": NaN,
+      "1": "90,965",
+      "2": "114,101",
+      "3": "123,824",
+      "4": "145,735",
+      "5": NaN
+    },
+    {
+      "item": "(4,346)",
+      "0": NaN,
+      "1": "(4,346)",
+      "2": "(4,692)",
+      "3": "(4,736)",
+      "4": "(4,521)",
+      "5": NaN
+    },
+    {
+      "item": "26,498",
+      "0": NaN,
+      "1": "34,391",
+      "2": "22,237",
+      "3": "33,391",
+      "4": "41,055",
+      "5": NaN
+    },
+    {
+      "item": "6,192",
+      "0": NaN,
+      "1": "6,943",
+      "2": "9,336",
+      "3": "11,133",
+      "4": "13,102",
+      "5": NaN
+    },
+    {
+      "item": "2,420",
+      "0": NaN,
+      "1": "5,611",
+      "2": "5,714",
+      "3": "5,876",
+      "4": "9,217",
+      "5": NaN
+    },
+    {
+      "item": "110,678",
+      "0": NaN,
+      "1": "154,339",
+      "2": "168,312",
+      "3": "200,588",
+      "4": "231,215",
+      "5": NaN
+    },
+    {
+      "item": "92,529",
+      "0": NaN,
+      "1": "129,226",
+      "2": "144,514",
+      "3": "163,149",
+      "4": "180,887",
+      "5": NaN
+    },
+    {
+      "item": "209",
+      "0": NaN,
+      "1": "139",
+      "2": "234",
+      "3": "4,572",
+      "4": "10,252",
+      "5": NaN
+    },
+    {
+      "item": "1,648",
+      "0": NaN,
+      "1": "4,379",
+      "2": "2,613",
+      "3": "3,500",
+      "4": "3,492",
+      "5": NaN
+    },
+    {
+      "item": "95,022",
+      "0": NaN,
+      "1": "134,359",
+      "2": "147,360",
+      "3": "171,221",
+      "4": "194,631",
+      "5": NaN
+    },
+    {
+      "item": "15,656",
+      "0": NaN,
+      "1": "19,980",
+      "2": "20,951",
+      "3": "29,367",
+      "4": "36,584",
+      "5": NaN
+    },
+    {
+      "item": "7,054",
+      "0": NaN,
+      "1": "9,503",
+      "2": "11,885",
+      "3": "13,581",
+      "4": "15,869",
+      "5": NaN
+    },
+    {
+      "item": "4,664",
+      "0": NaN,
+      "1": "6,168",
+      "2": "6,451",
+      "3": "10,200",
+      "4": "12,021",
+      "5": NaN
+    },
+    {
+      "item": "(7,354)",
+      "0": NaN,
+      "1": "(9,231)",
+      "2": "11,417",
+      "3": "13,171",
+      "4": "16,605",
+      "5": NaN
+    },
+    {
+      "item": "(628)",
+      "0": NaN,
+      "1": "(799)",
+      "2": "710",
+      "3": "999",
+      "4": "778",
+      "5": NaN
+    },
+    {
+      "item": "",
+      "0": NaN,
+      "1": "130",
+      "2": "158",
+      "3": "374",
+      "4": "365",
+      "5": NaN
+    },
+    {
+      "item": "3,736",
+      "0": NaN,
+      "1": "5,771",
+      "2": "6,366",
+      "3": "9,984",
+      "4": "10,872",
+      "5": NaN
+    },
+    {
+      "item": "2,968",
+      "0": NaN,
+      "1": "4,580",
+      "2": "5,366",
+      "3": "7,724",
+      "4": "9,108",
+      "5": NaN
+    },
+    {
+      "item": "0.85",
+      "0": NaN,
+      "1": "1.31",
+      "2": "1.54",
+      "3": "1.84",
+      "4": "2.20",
+      "5": NaN
+    },
+    {
+      "item": "0.20",
+      "0": NaN,
+      "1": "0.40",
+      "2": "0.40",
+      "3": "0.50",
+      "4": "0.50",
+      "5": NaN
+    },
+    {
+      "item": "20%",
+      "0": NaN,
+      "1": "25%",
+      "2": "26%",
+      "3": "31%",
+      "4": "30%",
+      "5": NaN
+    },
+    {
+      "item": "3.1%",
+      "0": NaN,
+      "1": "3.5%",
+      "2": "3.3%",
+      "3": "4.2%",
+      "4": "4.5%",
+      "5": NaN
+    },
+    {
+      "item": "68%",
+      "0": NaN,
+      "1": "64%",
+      "2": "66%",
+      "3": "60%",
+      "4": "62%",
+      "5": NaN
+    },
+    {
+      "item": "25%",
+      "0": NaN,
+      "1": "22%",
+      "2": "27%",
+      "3": "39%",
+      "4": "27%",
+      "5": NaN
+    },
+    {
+      "item": "15%",
+      "0": NaN,
+      "1": "13%",
+      "2": "12%",
+      "3": "15%",
+      "4": "16%",
+      "5": NaN
+    },
+    {
+      "item": "7%",
+      "0": NaN,
+      "1": "5%",
+      "2": "5%",
+      "3": "4%",
+      "4": "3%",
+      "5": NaN
+    },
+    {
+      "item": "66%",
+      "0": NaN,
+      "1": "89%",
+      "2": "90%",
+      "3": "76%",
+      "4": "74%",
+      "5": NaN
+    },
+    {
+      "item": "27%",
+      "0": NaN,
+      "1": "21%",
+      "2": "22%",
+      "3": "16%",
+      "4": "12%",
+      "5": NaN
+    },
+    {
+      "item": "72%",
+      "0": NaN,
+      "1": "70%",
+      "2": "79%",
+      "3": "76%",
+      "4": "76%",
+      "5": NaN
+    },
+    {
+      "item": "0.2%",
+      "0": NaN,
+      "1": "0.1%",
+      "2": "0.2%",
+      "3": "2.8%",
+      "4": "5.7%",
+      "5": NaN
+    },
+    {
+      "item": "0.3%",
+      "0": NaN,
+      "1": "0.2%",
+      "2": "0.2%",
+      "3": "3.7%",
+      "4": "7.0%",
+      "5": NaN
+    },
+    {
+      "item": "PROGRAM Partnership TARGET",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "KFW German Development Bank Horticulture",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "EADD Bill & Melinda Gates Foundation Dairy sector",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "IFAD International Finance for Agriculture Development Small scale horticulture.",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Vuna Kilimo Biashara Government of Kenya Cereals and horticulture",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "MDG/SOROs Bill & Melinda Gates Foundation Small scale dairy farmers.",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "AFD French Agency for Development Renewable energy and Energy Efficiency",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "FEMO We-Effect formerly Swedish Co-operative Centre MBOs and CBOs",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "FSEYK We-Effect formerly Swedish Co-operative Centre Out of school youths",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "STABEX Government of Kenya and EU Coffee Sector",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Year 2013",
+      "0": NaN,
+      "1": "%",
+      "2": "Year 2012",
+      "3": "%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4,177",
+      "0": NaN,
+      "1": "",
+      "2": "3,367",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "2,384",
+      "0": NaN,
+      "1": "57%",
+      "2": "1,859",
+      "3": "55%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,793",
+      "0": NaN,
+      "1": "43%",
+      "2": "1508",
+      "3": "45%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "3394",
+      "0": NaN,
+      "1": "",
+      "2": "2,680",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,972",
+      "0": NaN,
+      "1": "58%",
+      "2": "1,516",
+      "3": "57%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,422",
+      "0": NaN,
+      "1": "42%",
+      "2": "1,164",
+      "3": "43%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "73",
+      "0": NaN,
+      "1": "",
+      "2": "65",
+      "3": "",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "48",
+      "0": NaN,
+      "1": "66%",
+      "2": "43",
+      "3": "66%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "25",
+      "0": NaN,
+      "1": "34%",
+      "2": "22",
+      "3": "43%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4.85",
+      "0": NaN,
+      "1": "-",
+      "2": "5.50",
+      "3": "-",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "4.34",
+      "0": NaN,
+      "1": "-",
+      "2": "5.1",
+      "3": "-",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5.5",
+      "0": NaN,
+      "1": "-",
+      "2": "6.0",
+      "3": "-",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "256",
+      "0": NaN,
+      "1": "-",
+      "2": "397",
+      "3": "-",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "134",
+      "0": NaN,
+      "1": "52%",
+      "2": "222",
+      "3": "56%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "122",
+      "0": NaN,
+      "1": "48%",
+      "2": "175",
+      "3": "44%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Co-operative Bank Group",
+      "0": NaN,
+      "1": "None",
+      "2": "None",
+      "3": "Board Sub-committees",
+      "4": "None",
+      "5": "None"
+    },
+    {
+      "item": "Co-operative Bank of Kenya Ltd",
+      "0": NaN,
+      "1": "Co-op Consultancy & Insurance Agency Ltd",
+      "2": "Co-optrust Investment Services Ltd",
+      "3": "Audit Committee",
+      "4": "Staff and Nomination Committee",
+      "5": "Risk and Finance Committee"
+    },
+    {
+      "item": "6",
+      "0": NaN,
+      "1": "6",
+      "2": "6",
+      "3": "4",
+      "4": "3",
+      "5": "3"
+    },
+    {
+      "item": "3",
+      "0": NaN,
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "4": "2",
+      "5": "-"
+    },
+    {
+      "item": "2",
+      "0": NaN,
+      "1": "-",
+      "2": "-",
+      "3": "-",
+      "4": "1",
+      "5": "-"
+    },
+    {
+      "item": "NAME",
+      "0": NaN,
+      "1": "No. of shares",
+      "2": "%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Co-op Holdings Co-operative Society Limited",
+      "0": NaN,
+      "1": "2,705,511,000",
+      "2": "64.56",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Dr. Gideon Maina Muriuki",
+      "0": NaN,
+      "1": "87,728,700",
+      "2": "2.09",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kenya Commercial Bank Nominees Limited A/C 771A",
+      "0": NaN,
+      "1": "26,539,800",
+      "2": "0.63",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "NIC Custodial Services A/C 077",
+      "0": NaN,
+      "1": "22,290,760",
+      "2": "0.53",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees Non-Resident Ac 9057",
+      "0": NaN,
+      "1": "22,259,200",
+      "2": "0.53",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees A/C 9389",
+      "0": NaN,
+      "1": "17,548,220",
+      "2": "0.42",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Standard Chartered Nominees A/C 9230",
+      "0": NaN,
+      "1": "16,579,260",
+      "2": "0.40",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CFC Stanbic Nominees Ltd A/C Nr1030682",
+      "0": NaN,
+      "1": "16,441,224",
+      "2": "0.39",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "CFC Stanbic Nominees Ltd A/C R57601",
+      "0": NaN,
+      "1": "15,000,080",
+      "2": "0.36",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Co-operative Bank Co-operative Savings & Credit Society Ltd",
+      "0": NaN,
+      "1": "13,946,000",
+      "2": "0.33",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "TOTAL",
+      "0": NaN,
+      "1": "2,943,844,244",
+      "2": "70.24",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Harambee Cooperative Savings & Credit Society Ltd",
+      "0": "1",
+      "1": NaN,
+      "2": "103,469,880",
+      "3": "3.82",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Afya Co-operative Savings & Credit Society Ltd",
+      "0": "2",
+      "1": NaN,
+      "2": "79,568,280",
+      "3": "2.94",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Masaku Teachers Coop Savings & Credit Society Ltd",
+      "0": "3",
+      "1": NaN,
+      "2": "78,377,880",
+      "3": "2.90",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Telepost Co-operative Savings & Credit Society Ltd",
+      "0": "4",
+      "1": NaN,
+      "2": "77,824,560",
+      "3": "2.88",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kipsigis Teachers Co-op Savings & Credit Society Ltd",
+      "0": "5",
+      "1": NaN,
+      "2": "72,496,800",
+      "3": "2.68",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "H & M Co-operative Savings & Credit Society Ltd",
+      "0": "6",
+      "1": NaN,
+      "2": "69,462,480",
+      "3": "2.57",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kenya Police Sacco Society Ltd",
+      "0": "7",
+      "1": NaN,
+      "2": "67,247,040",
+      "3": "2.49",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "K-Unity Savings and Credit Co-operative Society Ltd",
+      "0": "8",
+      "1": NaN,
+      "2": "61,690,440",
+      "3": "2.28",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Co-operative Bank Co-op Savings & Credit Society Ltd",
+      "0": "9",
+      "1": NaN,
+      "2": "53,656,080",
+      "3": "1.98",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Nawiri Savings and Credit Co-operative Society Ltd",
+      "0": "10",
+      "1": NaN,
+      "2": "49,609,440",
+      "3": "1.83",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "DIRECTOR",
+      "0": NaN,
+      "1": "No. of shares",
+      "2": "%",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "S.C. Muchiri, EBS – Chairman",
+      "0": NaN,
+      "1": "5,360,000",
+      "2": "0.13",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Julius M Riungu – Vice Chairman",
+      "0": NaN,
+      "1": "6,132,000",
+      "2": "0.15",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Dr. G. M. Muriuki, MBS – Managing Director",
+      "0": NaN,
+      "1": "87,728,700",
+      "2": "2.09",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "M. Malonza",
+      "0": NaN,
+      "1": "4,000,000",
+      "2": "0.10",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "S. Odhiambo (Mrs)",
+      "0": NaN,
+      "1": "2,117,160",
+      "2": "0.05",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "P.K. Githendu",
+      "0": NaN,
+      "1": "128,440",
+      "2": "0.00",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "G. Mburia",
+      "0": NaN,
+      "1": "4,000,000",
+      "2": "0.10",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "E. K. Mbogo",
+      "0": NaN,
+      "1": "3,502,680",
+      "2": "0.08",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Dr. J. Kahunyo",
+      "0": NaN,
+      "1": "2,516,000",
+      "2": "0.06",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "J. Sitienei",
+      "0": NaN,
+      "1": "4,873,600",
+      "2": "0.12",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "C. Kabira",
+      "0": NaN,
+      "1": "4,908,120",
+      "2": "0.12",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "P. M. Musyimi, HSC – Ag. Commissioner of Co-operative Development",
+      "0": NaN,
+      "1": "NIL",
+      "2": "0.00",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "R. L. Kimanthi",
+      "0": NaN,
+      "1": "500,000",
+      "2": "0.01",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "G.J.S. Wakasyaka, Rtd Major",
+      "0": NaN,
+      "1": "1,660,000",
+      "2": "0.04",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "W. Ongoro",
+      "0": NaN,
+      "1": "1,286,260",
+      "2": "0.03",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "D. Kibera",
+      "0": NaN,
+      "1": "NIL",
+      "2": "0.00",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "R. Simani (Mrs)",
+      "0": NaN,
+      "1": "NIL",
+      "2": "0.00",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "W. J. Mwambia – Representing PS National Treasury",
+      "0": NaN,
+      "1": "NIL",
+      "2": "0.00",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "R. Githaiga (Mrs) – Company Secretary",
+      "0": NaN,
+      "1": "1,844,640",
+      "2": "0.04",
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Category",
+      "0": NaN,
+      "1": "No. of shareholders",
+      "2": "No. of shares",
+      "3": "%",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1-500 shares",
+      "0": NaN,
+      "1": "8,033",
+      "2": "1,699,416",
+      "3": "0.04",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "501-5,000 shares",
+      "0": NaN,
+      "1": "43,263",
+      "2": "78,188,286",
+      "3": "1.86",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "5,001-10,000 shares",
+      "0": NaN,
+      "1": "32,594",
+      "2": "201,254,765",
+      "3": "4.8",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "10,001-100,000 shares",
+      "0": NaN,
+      "1": "14,535",
+      "2": "268,426,040",
+      "3": "6.41",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "100,001-1,000,000 shares",
+      "0": NaN,
+      "1": "652",
+      "2": "176,865,960",
+      "3": "4.22",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "1,000,001 shares and over",
+      "0": NaN,
+      "1": "183",
+      "2": "3,464,408,831",
+      "3": "82.67",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kenyan individual investors",
+      "0": NaN,
+      "1": "96,977",
+      "2": "814,264,481",
+      "3": "19.43",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Kenyan institutional investors",
+      "0": NaN,
+      "1": "2,164",
+      "2": "3,254,344,071",
+      "3": "77.65",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "East African individual investors",
+      "0": NaN,
+      "1": "1",
+      "2": "2,000",
+      "3": "NIL",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "East African institutional investors",
+      "0": NaN,
+      "1": "NIL",
+      "2": "NIL",
+      "3": "NIL",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Foreign individual investors",
+      "0": NaN,
+      "1": "75",
+      "2": "837,360",
+      "3": "0.02",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Foreign institutional investors",
+      "0": NaN,
+      "1": "43",
+      "2": "121,395,386",
+      "3": "2.90",
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Notes to the Consolidated Financial Statements",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None None",
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "None",
+      "0": NaN,
+      "1": "",
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    },
+    {
+      "item": "Contents Notice of Annual General Meeting NOTICE IS HEREBY GIVEN that the sixth Annual General Meeting of THE CO-OPERATIVE BANK OF KENYA LIMITED will be held at the Bomas of Kenya Nairobi on Friday, 30th May 2014 at 11.00 a.m. for the transaction of the following business:- AGENDA 1. To read the notice convening the meeting and determine if a quorum is present. 2. To receive and consider, and, if approved adopt the Audited Financial Statements of the Company for the financial year ended 31st December 2013 together with the Directors’ and Auditors’ report thereon. 3. To approve and declare a first and final dividend of Kshs. 0.50 per share in respect of the year ended 31st December 2013, to be paid to the shareholders on the register at the close of business on 29th May 2014. 4. To elect Directors: i) Mr. Stanley C. Muchiri, Mr. Julius Riungu and Mr. Wilfred Ongoro being directors appointed under Article 104A of the Company’s Articles under which the majority and strategic shareholder of the Company, - Co-opholdings Co-operative Society Limited nominates to the Board of the Company seven (7) directors, are retiring by rotation and being eligible offer themselves for re-election in accordance with Article 100 of the Company’s Articles of Association. Co-opholdings Co-operative Society Limited has already nominated them for re-election. ii) Mr. Benedict Simiyu, being a director appointed under Article 104A of the Company’s Articles, to replace Major (Rtd.) Gabriel Wakasyaka who did not offer himself for re-election as a Director of Co-opholdings Co-operative Society Limited. 5. To authorize the Board to fix the Directors’ remuneration. 6. To re-appoint Ernst and Young, Auditors of the Company, having expressed their willingness to continue in office and to authorize the directors to fix their remuneration. SPECIAL BUSINESS 7. To consider a bonus share issue of one (1) for every six (6) shares held and if approved then pass the following Ordinary Resolution:- “ That subject to the approval of the Capital Markets Authority and the Nairobi Securities Exchange the sum of Kshs. 698,473,000 being part of the money now standing to the credit of the share premium reserves of the Company be capitalized and that the same be applied in making payment in full at par for 698,473,000 ordinary shares of Kshs. 1/- each in the capital of the Company. Such shares to be distributed as fully paid among the persons who are registered as holders of the ordinary shares in the capital of the Company at the close of business on 13th June 2014 at the rate of one (1) new fully paid ordinary share for every six (6) ordinary shares held by such holders respectively and that such shares shall rank pari passu for all purposes and in all respects with the existing shares in the share capital of the Company and the Board of Directors be and are hereby also authorized generally to do and effect all acts and things required to give effect to this Resolution”. ANY OTHER BUSINESS 8. To transact any other business, which may be properly transacted at an Annual General Meeting. Dated at Nairobi this 30th day of April 2014 By order of the Board, ROSEMARY MAJALA GITHAIGA (Mrs) COMPANY SECRETARY NB: In accordance with section 136 (2) of the Companies Act (Cap 486, Laws of Kenya) every member entitled to attend and vote at this meeting is entitled to appoint a proxy to attend and vote on his behalf and the proxy need not be a member of the Company. In accordance with Article 56A and 133 of the Company’s Articles of Association the Annual report and Financial statements of the Company are available on our website www.co-opbank.co.ke and an abridged version of the financial statements has been published in the daily newspapers. 120",
+      "0": "Contents Notice of Annual General Meeting NOTICE IS HEREBY GIVEN that the sixth Annual General Meeting of THE CO-OPERATIVE BANK OF KENYA LIMITED will be held at the Bomas of Kenya Nairobi on Friday, 30th May 2014 at 11.00 a.m. for the transaction of the following business:- AGENDA 1. To read the notice convening the meeting and determine if a quorum is present. 2. To receive and consider, and, if approved adopt the Audited Financial Statements of the Company for the financial year ended 31st December 2013 together with the Directors’ and Auditors’ report thereon. 3. To approve and declare a first and final dividend of Kshs. 0.50 per share in respect of the year ended 31st December 2013, to be paid to the shareholders on the register at the close of business on 29th May 2014. 4. To elect Directors: i) Mr. Stanley C. Muchiri, Mr. Julius Riungu and Mr. Wilfred Ongoro being directors appointed under Article 104A of the Company’s Articles under which the majority and strategic shareholder of the Company, - Co-opholdings Co-operative Society Limited nominates to the Board of the Company seven (7) directors, are retiring by rotation and being eligible offer themselves for re-election in accordance with Article 100 of the Company’s Articles of Association. Co-opholdings Co-operative Society Limited has already nominated them for re-election. ii) Mr. Benedict Simiyu, being a director appointed under Article 104A of the Company’s Articles, to replace Major (Rtd.) Gabriel Wakasyaka who did not offer himself for re-election as a Director of Co-opholdings Co-operative Society Limited. 5. To authorize the Board to fix the Directors’ remuneration. 6. To re-appoint Ernst and Young, Auditors of the Company, having expressed their willingness to continue in office and to authorize the directors to fix their remuneration. SPECIAL BUSINESS 7. To consider a bonus share issue of one (1) for every six (6) shares held and if approved then pass the following Ordinary Resolution:- “ That subject to the approval of the Capital Markets Authority and the Nairobi Securities Exchange the sum of Kshs. 698,473,000 being part of the money now standing to the credit of the share premium reserves of the Company be capitalized and that the same be applied in making payment in full at par for 698,473,000 ordinary shares of Kshs. 1/- each in the capital of the Company. Such shares to be distributed as fully paid among the persons who are registered as holders of the ordinary shares in the capital of the Company at the close of business on 13th June 2014 at the rate of one (1) new fully paid ordinary share for every six (6) ordinary shares held by such holders respectively and that such shares shall rank pari passu for all purposes and in all respects with the existing shares in the share capital of the Company and the Board of Directors be and are hereby also authorized generally to do and effect all acts and things required to give effect to this Resolution”. ANY OTHER BUSINESS 8. To transact any other business, which may be properly transacted at an Annual General Meeting. Dated at Nairobi this 30th day of April 2014 By order of the Board, ROSEMARY MAJALA GITHAIGA (Mrs) COMPANY SECRETARY NB: In accordance with section 136 (2) of the Companies Act (Cap 486, Laws of Kenya) every member entitled to attend and vote at this meeting is entitled to appoint a proxy to attend and vote on his behalf and the proxy need not be a member of the Company. In accordance with Article 56A and 133 of the Company’s Articles of Association the Annual report and Financial statements of the Company are available on our website www.co-opbank.co.ke and an abridged version of the financial statements has been published in the daily newspapers. 120",
+      "1": NaN,
+      "2": NaN,
+      "3": NaN,
+      "4": NaN,
+      "5": NaN
+    }
+  ]
+}

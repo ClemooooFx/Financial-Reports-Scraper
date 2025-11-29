@@ -1,0 +1,82 @@
+{
+  "title": "Income Statement",
+  "units": "eps",
+  "pages": [
+    4
+  ],
+  "extracted_at": "2025-11-29T02:11:37.406709",
+  "data": [
+    {
+      "item": "KES Billions None",
+      "1": "Dec 31, 12",
+      "2": "Dec 31, 11",
+      "3": "(%) Change"
+    },
+    {
+      "item": "Interest Income",
+      "1": "24.63",
+      "2": "16.39",
+      "3": "50%"
+    },
+    {
+      "item": "Interest Expenses",
+      "1": "8.68",
+      "2": "4.50",
+      "3": "93%"
+    },
+    {
+      "item": "Net Interest Income",
+      "1": "15.95",
+      "2": "11.89",
+      "3": "34%"
+    },
+    {
+      "item": "Fees and Commissions",
+      "1": "6.5",
+      "2": "5.44",
+      "3": "19%"
+    },
+    {
+      "item": "FOREX Income",
+      "1": "1.30",
+      "2": "1.01",
+      "3": "29%"
+    },
+    {
+      "item": "Total Income",
+      "1": "23.76",
+      "2": "18.34",
+      "3": "30%"
+    },
+    {
+      "item": "Loan Loss Provisions",
+      "1": "1.0",
+      "2": "0.71",
+      "3": "11%"
+    },
+    {
+      "item": "Operating Expenses",
+      "1": "14.2",
+      "2": "12.13",
+      "3": "17%"
+    },
+    {
+      "item": "Profit Before Tax",
+      "1": "9.97",
+      "2": "6.36",
+      "3": "57%"
+    },
+    {
+      "item": "Profit After Tax",
+      "1": "7.71",
+      "2": "5.36",
+      "3": "44%"
+    },
+    {
+      "item": "Earnings Per Share (EPS)",
+      "1": "1.84",
+      "2": "1.53",
+      "3": "17%"
+    }
+  ]
+}
