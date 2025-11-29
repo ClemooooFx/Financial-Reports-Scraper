@@ -1,0 +1,46 @@
+{
+  "title": "Consolidated Income Statement",
+  "units": "474",
+  "pages": [
+    40
+  ],
+  "extracted_at": "2025-11-29T04:51:47.134608",
+  "data": [
+    {
+      "item": "KShs. millions %Δ",
+      "1": "HY 20",
+      "2": "HY 19",
+      "3": NaN
+    },
+    {
+      "item": "Gross profit",
+      "1": "1,617",
+      "2": "1,704",
+      "3": "(5%)"
+    },
+    {
+      "item": "Trading profit",
+      "1": "254",
+      "2": "390",
+      "3": "(35%)"
+    },
+    {
+      "item": "Operating profit from financial services",
+      "1": "8",
+      "2": "(92)",
+      "3": "109%"
+    },
+    {
+      "item": "Profit before tax",
+      "1": "7,716",
+      "2": "2,392",
+      "3": "223%"
+    },
+    {
+      "item": "Profit for the year",
+      "1": "6,791",
+      "2": "2,080",
+      "3": "226%"
+    }
+  ]
+}

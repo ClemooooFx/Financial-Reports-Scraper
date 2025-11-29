@@ -1,0 +1,36 @@
+{
+  "title": "For the purposes of the statement of cash flows, cash and cash equivalents comprise the following:",
+  "units": "continued",
+  "pages": [
+    180,
+    181
+  ],
+  "extracted_at": "2025-11-29T04:51:27.386120",
+  "data": [
+    {
+      "item": "None",
+      "0": "Group",
+      "2": "None"
+    },
+    {
+      "item": "",
+      "0": "2019",
+      "2": "2018"
+    },
+    {
+      "item": "5,393,271",
+      "0": NaN,
+      "2": "6,022,022"
+    },
+    {
+      "item": "(108,398)",
+      "0": NaN,
+      "2": "(1,947,576)"
+    },
+    {
+      "item": "5,284,873",
+      "0": NaN,
+      "2": "4,074,446"
+    }
+  ]
+}

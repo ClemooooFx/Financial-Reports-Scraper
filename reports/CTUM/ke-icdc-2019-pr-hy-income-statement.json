@@ -1,0 +1,84 @@
+{
+  "title": "Consolidated Income Statement",
+  "units": "519",
+  "pages": [
+    34,
+    35,
+    36
+  ],
+  "extracted_at": "2025-11-29T04:51:37.076493",
+  "data": [
+    {
+      "item": "Consolidated Income Statement KES millions Sep-18 Sep-17 Change (%) Sales 4,818 4,772 1% Cost of sales (3,114) (3,024) -3% Gross profit 1,704 1,748 -3% Operating and administrative expenses (1,314) (1,199) -10% Trading profit 390 549 -29% Financial services: - Income from provision of financial services 1,608 1,586 1% - Interest expenses (519) (405) -28% - Net impairment of loans and advances (192) (261) 26% - Operating and administrative expenses (988) (1,030) 4% Operating profit from financial services (92) (111) 18% Investment operations: Investment income 4,055 2,203 84% Realised gains on disposal of investments 20 11 72% Project and development management fees 39 28 39% Operating and administrative expenses (684) (525) -30% Finance costs (1,230) (557) -121% Share of profits of associates and jv after tax (105) 568 -118% Profit before tax 2,392 2,167 10% Income tax expense (312) (535) 42% Profit for the year 2,080 1,631 27% 34",
+      "1": "Consolidated Income Statement KES millions Sep-18 Sep-17 Change (%) Sales 4,818 4,772 1% Cost of sales (3,114) (3,024) -3% Gross profit 1,704 1,748 -3% Operating and administrative expenses (1,314) (1,199) -10% Trading profit 390 549 -29% Financial services: - Income from provision of financial services 1,608 1,586 1% - Interest expenses (519) (405) -28% - Net impairment of loans and advances (192) (261) 26% - Operating and administrative expenses (988) (1,030) 4% Operating profit from financial services (92) (111) 18% Investment operations: Investment income 4,055 2,203 84% Realised gains on disposal of investments 20 11 72% Project and development management fees 39 28 39% Operating and administrative expenses (684) (525) -30% Finance costs (1,230) (557) -121% Share of profits of associates and jv after tax (105) 568 -118% Profit before tax 2,392 2,167 10% Income tax expense (312) (535) 42% Profit for the year 2,080 1,631 27% 34",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "KES millions Change (%)",
+      "1": "Sep-18",
+      "2": "Sep-17",
+      "3": NaN
+    },
+    {
+      "item": "Gross profit",
+      "1": "1,704",
+      "2": "1,748",
+      "3": "-3%"
+    },
+    {
+      "item": "Trading profit",
+      "1": "390",
+      "2": "549",
+      "3": "-29%"
+    },
+    {
+      "item": "Operating profit from financial services",
+      "1": "(92)",
+      "2": "(111)",
+      "3": "18%"
+    },
+    {
+      "item": "Profit before tax",
+      "1": "2,392",
+      "2": "2,167",
+      "3": "10%"
+    },
+    {
+      "item": "None",
+      "1": "None",
+      "2": "None",
+      "3": "42%"
+    },
+    {
+      "item": "Profit for the year",
+      "1": "2,080",
+      "2": "1,631",
+      "3": "27%"
+    },
+    {
+      "item": "Group Financial Performance Trading Subsidiaries KES millions Sep-18 Sep-17 Change (%) • Robust revenue performance in publishing Sales: and Real Estate utility companies - Beverage business 3,423 4,044 -15% - Publishing business 1,058 535 98% • Lower volumes in the beverage business in - Agribusiness 23 28 -18% the first half of the year, which experienced - Electricity and water sales 314 165 90% Total revenue 4,818 4,772 1% heavy rains Cost of sales: - Beverage business 2,274 2,619 13% - Publishing business 539 248 -117% - Agribusiness 30 14 -114% - Electricity and water sales 271 143 -89% Gross margins: - Beverage business 34% 35% - Publishing business 49% 54% 35",
+      "1": "Group Financial Performance Trading Subsidiaries KES millions Sep-18 Sep-17 Change (%) • Robust revenue performance in publishing Sales: and Real Estate utility companies - Beverage business 3,423 4,044 -15% - Publishing business 1,058 535 98% • Lower volumes in the beverage business in - Agribusiness 23 28 -18% the first half of the year, which experienced - Electricity and water sales 314 165 90% Total revenue 4,818 4,772 1% heavy rains Cost of sales: - Beverage business 2,274 2,619 13% - Publishing business 539 248 -117% - Agribusiness 30 14 -114% - Electricity and water sales 271 143 -89% Gross margins: - Beverage business 34% 35% - Publishing business 49% 54% 35",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Total revenue",
+      "1": "4,818",
+      "2": "4,772",
+      "3": "1%"
+    },
+    {
+      "item": "Group Financial Performance Financial Services KES millions Sep-18 Sep-17 Change (%) • Trade finance balances have grown by 700% Sidian Bank Limited: over the last 12 months - Interest income 941 924 2% • Growth in non-funded income speaks to the - Fees, forex and other income 514 307 68% success of this strategic re-orientation of Total income 1,456 1,230 18% the Bank Interest expense (519) (405) -28% Provisions (192) (261) 26% • 15% growth in both total assets and customer deposits over the last six months Asset management business: - Fund management income 106 293 -64% • A decrease in asset management business - Interest income 7 29 -75% due to the sale of GenAfrica Total income 113 322 -65% Leasing business - Lease rentals 40 34 19% 36",
+      "1": "Group Financial Performance Financial Services KES millions Sep-18 Sep-17 Change (%) • Trade finance balances have grown by 700% Sidian Bank Limited: over the last 12 months - Interest income 941 924 2% • Growth in non-funded income speaks to the - Fees, forex and other income 514 307 68% success of this strategic re-orientation of Total income 1,456 1,230 18% the Bank Interest expense (519) (405) -28% Provisions (192) (261) 26% • 15% growth in both total assets and customer deposits over the last six months Asset management business: - Fund management income 106 293 -64% • A decrease in asset management business - Interest income 7 29 -75% due to the sale of GenAfrica Total income 113 322 -65% Leasing business - Lease rentals 40 34 19% 36",
+      "2": NaN,
+      "3": NaN
+    },
+    {
+      "item": "Total income",
+      "1": "1,456",
+      "2": "1,230",
+      "3": "18%"
+    }
+  ]
+}
