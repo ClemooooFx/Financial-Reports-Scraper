@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 8,
+  "table_number": 2,
+  "title": "Meetings",
+  "rows": 3,
+  "columns": [
+    "Column",
+    "Column",
+    "Meetings\nEligible to\nAttend",
+    "Meetings\nAttended"
+  ],
+  "extracted_at": "2026-01-15T07:22:10.600916"
+}
