@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 173,
+  "table_number": 1,
+  "title": "Shelter Afrique 28 December 31 January",
+  "rows": 8,
+  "columns": [
+    "Loan\nbalance",
+    "Current",
+    "Non-\ncurrent",
+    "Interest\nrate",
+    "Issue date",
+    "Maturity\ndate"
+  ],
+  "extracted_at": "2026-01-15T17:51:02.278185"
+}
