@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 75,
+  "table_number": 1,
+  "title": "conditions experienced during the year. Below chart shows the performance across KenGen’s four electricity",
+  "rows": 1,
+  "columns": [
+    "Source\nHydro\nGeothermal\nThermal\nWind",
+    "2023\n2,520\n5,090\n360\n57",
+    "2022\n3,307\n3,977\n580\n54",
+    "Change\n-24%\n28%\n-38%\n6%"
+  ],
+  "extracted_at": "2026-01-15T20:03:28.966685"
+}

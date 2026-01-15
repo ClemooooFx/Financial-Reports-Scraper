@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 80,
+  "table_number": 1,
+  "title": "Leverage ratio <2.3 0.66 Yes",
+  "rows": 4,
+  "columns": [
+    "Financial Covenant",
+    "Threshold",
+    "Current",
+    "Compliance"
+  ],
+  "extracted_at": "2026-01-15T19:56:41.086284"
+}

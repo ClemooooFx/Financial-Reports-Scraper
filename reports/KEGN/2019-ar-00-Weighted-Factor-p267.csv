@@ -1,0 +1,33 @@
+Column,2019,2019,Column,2018,Column,2017,Column,2016,Column,2015,Column
+Power plant,"Effective
+Capacity","Avail-
+ability","Load
+factor","Avail-
+ability","Load
+factor","Avail-
+ability","Load
+factor","Avail-
+ability","Load
+factor","Avail-
+ability","Load
+factor"
+GAS TURBINES,,,,,,,,,,,
+Gas Turbine,56.00,69.72,13.81,86.04,22.66,87.04,22.66,80.51,20.66,73.09,0.87
+"Total Effective
+Capacity",56.00,,,,,,,,,,
+Weighted Factors - GT,,69.72,13.81,86.04,22.66,87.04,22.66,80.51,20.66,73.09,0.87
+ISOLATED THERMALS,,,,,,,,,,,
+Garissa (KenGen),-,-,-,-,-,-,-,92.69,45.45,94.31,19.29
+Garissa (Aggreko),-,-,-,-,-,-,-,93.73,65.37,99.10,70.63
+Lamu,-,-,-,-,-,-,-,86.40,47.58,87.30,44.04
+"Total Effective
+Capacity",-,,,,,,,,,,
+"Weighted Factors -
+Isolated Thermals",,-,-,-,-,-,-,92.15,51.83,94.47,45.36
+WIND,,,,,,,,,,,
+Ngong I Phase I,5.10,78.12,32.84,55.19,29.01,71.83,29.01,82.03,29.70,74.90,19.36
+Ngong I Phase II,6.80,88.00,26.41,95.16,26.80,89.16,26.80,84.58,19.64,84.34,27.74
+Ngong II,13.60,80.58,31.15,73.82,21.73,76.11,29.11,81.23,26.47,89.50,32.97
+"Total Effective
+Capacity",25.50,,,,,,,,,,
+,,82.07,30.22,74.72,24.54,79.03,28.47,82.28,25.29,85.20,28.85

@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 127,
+  "table_number": 1,
+  "title": "RADNELAC",
+  "rows": 15,
+  "columns": [
+    "Name",
+    "Category",
+    "Salary",
+    "Directors\nFees",
+    "Allowances",
+    "Honorarium",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T20:00:30.623720"
+}

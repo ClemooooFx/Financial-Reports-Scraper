@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 121,
+  "table_number": 1,
+  "title": "Managing",
+  "rows": 17,
+  "columns": [
+    "Name",
+    "Category",
+    "Salary",
+    "Directors\nFees",
+    "Allowances",
+    "Honorarium",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:55:52.629537"
+}

@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 120,
+  "table_number": 3,
+  "title": "Name Category Salary Allowances Honorarium Total",
+  "rows": 17,
+  "columns": [
+    "Name",
+    "Category",
+    "Salary",
+    "Directors\nFees",
+    "Allowances",
+    "Honorarium",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:55:52.629206"
+}

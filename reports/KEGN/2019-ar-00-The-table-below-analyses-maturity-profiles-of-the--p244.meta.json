@@ -1,0 +1,11 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 244,
+  "table_number": 1,
+  "title": "The table below analyses maturity profiles of the financial liabilities of the Company based on the remaining period",
+  "rows": 1,
+  "columns": [
+    "Trade and other payables 6,053,568 - 3,219,566 - 9,273,134\nAmount due to Kenya Power 2,698 - - - 2,698\nBorrowings - 12,463,018 39,054,771 94,224,126 145,741,915\nOff balance sheet items\nLetters of credit - - 1,348,449 - 1,348,449\nLease commitments - 320,324 632,027 952,351\nCapital commitments - - 88,972,003 - 88,972,003"
+  ],
+  "extracted_at": "2026-01-15T19:56:41.111488"
+}
