@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 59,
+  "table_number": 2,
+  "title": "120 days",
+  "rows": 1,
+  "columns": [
+    "Column",
+    "Total\nShs’million",
+    "0-30\ndays\nShs’million",
+    "31-90\ndays\nShs’million",
+    "91-120\ndays\nShs’million",
+    "120 days\nand and\nabove\nShs’million"
+  ],
+  "extracted_at": "2026-01-15T05:04:46.108968"
+}

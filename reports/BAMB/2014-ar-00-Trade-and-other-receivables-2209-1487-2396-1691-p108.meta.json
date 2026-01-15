@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 108,
+  "table_number": 5,
+  "title": "Trade and other receivables 2,209 1,487 2,396 1,691",
+  "rows": 3,
+  "columns": [
+    "Carrying\nAmount\nShs’million",
+    "Neither past\ndue nor\nimpaired\nShs’million",
+    "< 30\ndays\nShs’million",
+    "30–60\ndays\nShs’million",
+    "Past due but not impaired",
+    "Column",
+    "Impaired\nShs’million"
+  ],
+  "extracted_at": "2026-01-15T05:05:32.909900"
+}

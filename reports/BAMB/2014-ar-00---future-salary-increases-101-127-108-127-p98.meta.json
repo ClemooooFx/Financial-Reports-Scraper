@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 98,
+  "table_number": 3,
+  "title": "- future salary increases 10.1% 12.7% 10.8% 12.7%",
+  "rows": 4,
+  "columns": [
+    "Company",
+    "Interest rate\n+1/2% -1/2%\nShs’million Shs’million",
+    "Column",
+    "Salary increases rate",
+    "Column",
+    "Award escalation rate",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T05:05:32.899950"
+}
