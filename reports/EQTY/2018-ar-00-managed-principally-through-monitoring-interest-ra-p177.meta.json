@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 177,
+  "table_number": 1,
+  "title": "managed principally through monitoring interest rate gaps and by having pre-approved limits for repricing bands.",
+  "rows": 11,
+  "columns": [
+    "Column",
+    "Carrying\namount",
+    "Non-\ninterest\nbearing",
+    "Less than\n3 Months",
+    "3-6\nMonths",
+    "6-12\nMonths",
+    "1-5\nYears",
+    "More than 5\nyears"
+  ],
+  "extracted_at": "2026-01-15T15:58:25.462912"
+}

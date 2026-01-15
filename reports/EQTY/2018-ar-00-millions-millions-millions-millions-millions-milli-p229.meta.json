@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 229,
+  "table_number": 2,
+  "title": "millions millions millions millions millions millions millions",
+  "rows": 6,
+  "columns": [
+    "Group",
+    "Notional\namount\nasset",
+    "Notional\namount\nliability",
+    "Fair\nvalue of\nasset",
+    "Fair\nvalue of\nliability",
+    "Notional\namount\nasset",
+    "Notional\namount\nliability",
+    "Fair\nvalue of\nasset",
+    "Fair\nvalue of\nliability"
+  ],
+  "extracted_at": "2026-01-15T15:58:25.502566"
+}

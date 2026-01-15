@@ -1,0 +1,25 @@
+Group,"IAS 39 carrying
+amount 31
+December 2017","Reclassifications /
+emeasurements)","IFRS 9 carrying
+amount 1
+January 2018"
+Financial assets,Shs’ millions,Shs’ millions,Shs’ millions
+Fair value through profit or loss (FVPL):,,,
+"Loan notes at FVTPL
+Balance as per IAS 39 and balance as per IFRS 9","5,170",-,"5,170"
+"Derivative financial asset
+Balance as per IAS 39 and balance as per IFRS 9",253,-,253
+Total financial assets at FVPL,"5,423",-,"5,423"
+"Fair value through other
+comprehensive income (FVOCI):",,,
+"Investment securities at FVOCI
+Opening balance as per IAS 39",-,,
+Additions: From available for sale (IAS 39),,"107,470",
+Remeasurement: ECL allowance,,(48),
+Closing balance as per IFRS 9,,,"107,422"
+"Available for sale investment securities
+Opening balance as per IAS 39","107,470",,
+Subtraction: To FVOCI,,"(107,470)",
+Closing balance as per IFRS 9,,,-
+Total financial assets at FVOCI,"107,570",-,"107,422"

@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2016-ar-00.pdf",
+  "page": 110,
+  "table_number": 1,
+  "title": "STNEMETATS",
+  "rows": 7,
+  "columns": [
+    "Column",
+    "Column",
+    "-",
+    "314,28",
+    "501,63",
+    "815,811",
+    "Column",
+    "7",
+    "195,4",
+    "895,4",
+    "029,311"
+  ],
+  "extracted_at": "2026-01-15T15:56:01.631244"
+}

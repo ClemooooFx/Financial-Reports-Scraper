@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 94,
+  "table_number": 1,
+  "title": "Accounting and financial Non-Executive",
+  "rows": 11,
+  "columns": [
+    "Name",
+    "Expertise",
+    "Executive/\nIndependent",
+    "Non-Executive\nIndependent",
+    "Gender",
+    "Meeting\nAttendance",
+    "Nationality"
+  ],
+  "extracted_at": "2026-01-15T15:58:25.445820"
+}

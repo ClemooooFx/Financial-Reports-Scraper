@@ -1,0 +1,20 @@
+Column,Group,Column
+,2018,2017
+,Shs’ millions,Shs’ millions
+Retail customers,,
+Term deposits,"23,114","38,011"
+Current deposits,"46,765","25,145"
+Transactional deposits,"126,584","121,798"
+Savings deposits,"28,786","23,843"
+,"225,249","208,797"
+Corporate customers,,
+Term deposits,"116,691","54,294"
+Current deposits,"58,011","94,637"
+Transactional deposits,"19,628","13,613"
+Savings deposits,"1,721",925
+Margin on guarantees,"1,458",877
+,"197,509","164,346"
+,"422,758","373,143"
+Current,"205,400","178,217"
+Non-current,"217,358","194,926"
+Total,"422,758","373,143"

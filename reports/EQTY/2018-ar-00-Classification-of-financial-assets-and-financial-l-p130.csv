@@ -1,0 +1,36 @@
+Group,"Original
+classification
+under IAS 39","New
+classification
+under IFRS 9","Original carrying
+amount under
+IAS 39","New carrying
+amount under
+IFRS 9"
+,,,Shs’ millions,Shs’ millions
+Financial assets,,,,
+"Cash and balances due to financial
+institutions","Loans and
+receivables",Amortised cost,"68,582","68,340"
+Restricted balances with central banks,"Loans and
+receivables",Amortised cost,"11,039","11,039"
+Derivative financial asset,FVTPL,FVTPL,253,253
+Investment securities:,,,,
+Available for sale investment securities,AFS,FVOCI,"107,470","107,422"
+Held-to-maturity investment securities,HTM,Amortised cost,"20,532","20,519"
+Due to related parties,"Loans and
+receivables",Amortised cost,449,449
+Loans and advances from customers,"Loans and
+receivables",Amortised cost,"273,922","261,788"
+Loan notes at FVTPL,FVTPL,FVPL,"5,170","5,170"
+Other assets,"Loans and
+receivables",Amortised cost,"10,631","10,192"
+Total financial assets,,,"498,048","485,172"
+Financial liabilities,,,,
+Customers deposits,"Other
+liabilities",Amortised cost,"373,143","373,143"
+Borrowed funds,"Other
+liabilities",Amortised cost,"47,873","47,873"
+Other liabilities,"Other
+liabilities",Amortised cost,"9,832","9,832"
+Total financial liabilities,,,"430,848","430,848"
