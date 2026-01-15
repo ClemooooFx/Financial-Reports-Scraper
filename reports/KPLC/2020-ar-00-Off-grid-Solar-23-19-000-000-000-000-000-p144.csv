@@ -1,0 +1,47 @@
+COMPANY,"Capacity (MW) as at
+30.06.2020",Column,Energy Purchased GWh,Column,Column,Column,Column
+,Installed,"Effective1 /
+Contracted2",2015/16,2016/17,2017/18,2018/19,2019/20
+KenGen Total,"1,818","1,708","7,725","7,513","7,989","8,276","8,237"
+Government of Kenya (Rural Electrification Programme),,,,,,,
+Off-grid Diesel,31.9,21.5,39.9,40.8,46.9,57.6,60.1
+Off-grid Solar,2.3,1.9,0.00,0.00,0.00,0.00,0.00
+Off-gridWind,0.6,0.0,0.79,0.54,0.12,0.06,0.33
+Total Offgrid,35,23,41,41,47,58,60
+"Independent Power Producers
+(IPP) - Thermal & Geothermal",,,,,,,
+Iberafrica Diesel,52.5,52.5,128,252,186,74,55
+Mumias - Cogeneration,,,0,0,4,0.0,0.0
+"OrPower 4 -Geothermal
+I,II&III",121.0,121.0,937,925,942,"1,038",873
+"OrPower 4 -Geothermal
+(the 4th plant)",29.0,29.0,129,247,244,247,202
+Tsavo,74.0,74.0,39,121,196,131,152
+Rabai Power,90.0,88.6,536,606,562,120,252
+"Imenti Tea Factory (Feed-
+in Plant)",0.283,0.283,0.7,0.3,0.6,0.3,1.0
+Thika Power,87.0,87.0,70,168,215,107,50
+Gikira small hydro,0.514,0.514,1.9,0.9,1.4,1.1,1.8
+Gulf Power,80.32,80.32,8,61,80,37,18
+Triumph Diesel,83.0,83.0,81.8,83,28,16,15
+Biojoule Kenya Limited,2.0,2.0,0,0.7,0.4,0.3,0.3
+Regen-Terem,5.00,5.00,0,1,18,20,32
+Gura,2.00,2.00,0,0,17,12,21
+Chania,0.50,0.50,0,0,0.8,0.3,1.1
+Strathmore,0.25,0.25,0,0,0.02,0.15,0.14
+Lake Turkana Wind Power,310.0,300.0,0,0,0,"1,124","1,237"
+IPP Total,937,926,"1,934","2,466","2,495","2,930","2,913"
+"Emergency Power
+Producers(EPP)",,,,,,,
+Aggreko Power,0,0.0,50,0,0,0,0
+EPP Total,0,0,50,0,0,0,0
+REA Garissa Solar Plant,,,,,,,
+REA Garissa,50,50,0,0,0,60,91
+REA Garissa Total,50,50,0,0,0,60,91
+Imports,,,,,,,
+UETCL,,,65,180,168,168,156
+TANESCO,,,0.0,0.0,0.0,0.0,0.0
+EEU (MOYALE),,,2.6,3.4,3.0,1.8,4.5
+Total Imports,,,67,184,171,170,161
+SYSTEM TOTAL,"2,840","2,708","9,817","10,204","10,702","11,493","11,462"
+SUMMARY OF KEY STATISTICS,,,,,,,

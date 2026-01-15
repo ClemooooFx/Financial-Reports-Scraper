@@ -1,0 +1,47 @@
+Category,Corporate KRI,Measure,Risk Tolerance Range,Column,Column,Status,"Out-
+Look"
+"Financial
+Risk","Working Capital
+Ratio/ Current Ratio",Range,1.2-2.0,0.74 -1.1,<0.74,0.44,
+,"Receivable Days
+Ratio",Days,30,30 - 60,> 60,76.49,
+,Debt to Equity Ratio,Ratio,1.1-1.4,1.4-1.5,>1.5,1.79,
+,"Interest Coverage
+ratio",Ratio,≥2,1-1.9,<1,2.7,
+,Inventory Ratios,%,0,0-10%,>10%,0.34,
+,Expected Credit Loss,,0,0- 6.5B,> 13B,15B,
+,"Aggregated System
+Losses",%,14%,15-19%,> 19%,22.43%,
+"Strategic
+Risk",Diversification Ratio,%,> 1,-,< 1,2.7%,
+,"Supply Average
+Interruption Duration
+Index (SAIDI)",Hours,63,91,> 91,132,
+"Operation-
+al Risk","Number of Employee
+Safety Incidences",No.,0,1-5,> 10,54**,
+,"Fleet availability
+index",%,>85%,60-85%,< 60%,89.05,
+,"Critical materials
+availability",%,100%,70-100%,< 70%,83.25,
+,"Employee turnover
+rate",%,8.8%,8.9-15%,> 15%,5.27%,
+,"Overdue High Risk
+System Audit Recom-
+mendations","%
+Imple-
+ment-
+ation",100%,"90%-
+100%",< 90%,65,
+,IT Service Availability,%,99.99%,"99.5-
+100%","<
+99.5%",98,
+"Technolog-
+ical Risk","Mean Time to
+Resolve (MTTR)",Hours,< 1hr,1-2hrs,> 2hrs,2,
+,"Number of Public
+Safety Incidences",Number,0,1-10,> 10,200,
+"Reputa-
+tional Risk","Customer Net Pro-
+moter Score(cNPS)","Scale of
+(+/-100)",> 10,0-9,< 0,-38,

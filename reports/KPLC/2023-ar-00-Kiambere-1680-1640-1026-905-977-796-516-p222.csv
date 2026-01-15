@@ -1,0 +1,36 @@
+Company,"Capacity (MW) as at
+30.06.2023",Column,Energy Purchased (GWh),Column,Column,Column,Column
+,Installed,"Effective1 /
+Contracted2",2018/19,2019/20,2020/21,2021/22,2022/23
+KenGen,,,,,,,
+Hydro:,,,,,,,
+Gitaru,225.0,216.0,869,879,884,709,456
+Kamburu,94.2,90.0,399,350,443,368,236
+Kiambere,168.0,164.0,"1,026",905,977,796,516
+Kindaruma,72.0,70.5,193,203,184,165,102
+Masinga,41.2,40.0,199,48,176,154,77
+Tana,25.7,20.0,96,133,123,87,82
+Turkwel,106.0,105.0,545,426,715,539,486
+Sondu Miriu,60.7,60.0,258,509,431,339,375
+Sang'oro,21.2,20.0,82,166,144,110,122
+Small Hydros,12.1,11.7,42,19,16,34,67
+Hydro Total,826,797,"3,707","3,636","4,091","3,300","2,520"
+Thermal:,,,,,,,
+Kipevu Diesel Power I,0.0,0.0,197,80,55,141,93
+Kipevu Diesel Power III,120.0,115.0,490,162,147,399,231
+Muhoroni GT,60.0,56.0,67,37,43,40,35
+Thermal Total,180,171,754,279,245,580,360
+Geothermal:,,,,,,,
+"Olkaria I (Units 1,2&3)",0.0,0.0,285,291,70,204,113
+Olkaria II,104.5,101.0,796,583,500,488,730
+Eburru Hill,2.4,2.1,10,7,8,4,8
+"OW37, OW 37 kwg 12, OW 37 kwg 13 and OW
+39 Olkaria Mobile Wellheads2",22.0,17.5,129,118,101,65,70
+OW43 Olkaria Mobile Wellheads,14.0,10.0,66,56,55,40,29
+"OW905,OW914 ,OW915 and OW 919 Olkaria
+Mobile Wellheads3",52.5,42.5,297,285,231,215,211
+Olkaria IV,149.9,140.0,"1,095","1,006",960,"1,007","1,013"
+Olkaria I AU (Units 4&5),150.5,140.0,"1,069",985,861,774,"1,042"
+Olkaria V,172.3,158.0,,945,"1,268","1,066","1,266"
+Olkaria I (Unit 6),86.9,80.0,,,,113,607
+Geothermal Total,755,691,"3,747","4,276","4,053","3,977","5,089"

@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 193,
+  "table_number": 1,
+  "title": "Producers",
+  "rows": 23,
+  "columns": [
+    "Units",
+    "Energy",
+    "Capacity",
+    "Forex",
+    "Steam",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T20:41:49.060561"
+}

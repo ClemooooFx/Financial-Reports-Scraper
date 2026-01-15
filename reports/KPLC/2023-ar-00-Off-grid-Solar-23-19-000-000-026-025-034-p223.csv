@@ -1,0 +1,32 @@
+Company,"Capacity (MW) as at
+30.06.2023",Column,Energy Purchased (GWh),Column,Column,Column,Column
+,Installed,"Effective1 /
+Contracted2",2018/19,2019/20,2020/21,2021/22,2022/23
+Wind,,,,,,,
+Ngong,25.5,25.5,67.4,46.6,53.6,53.6,57.3
+KenGen Total,"1,787","1,685","8,276","8,237","8,443","7,911","8,027"
+Government of Kenya (Rural Electrification Programme),,,,,,,
+Off-grid Diesel,35.6,23.0,57.6,60.1,64.8,71,74
+Off-grid Solar,2.3,1.9,0.00,0.00,0.26,0.25,0.34
+Off-grid Wind,0.6,0.0,0.06,0.33,0.00,0.00,0.00
+Offgrid Total,38,25,58,60,65,71,75
+Independent Power Producers (IPP),,,,,,,
+Thermal:,,,,,,,
+Iberafrica,52.5,52.5,74,55,45,86,116
+Rabai Power,90.0,88.6,120,252,266,502,446
+Tsavo,0.0,0.0,131,152,183,48,0
+Thika Power,87.0,87.0,107,50,93,211,194
+Gulf Power,80.3,80.3,37,18,21,81,170
+Triumph Power,83.0,83.0,16,15,22,70,35
+Thermal Total,393,391,486,543,630,997,961
+Geothermal:,,,,,,,
+OrPower 4 -Geothermal (1st plant),63.8,63.8,536,460,390,392,399
+OrPower 4 -Geothermal (2nd plant),39.6,39.6,337,277,269,265,245
+OrPower 4 -Geothermal (3rd plant),17.6,17.6,165,136,128,128,116
+OrPower 4 -Geothermal (4th plant),29.0,29.0,247,202,194,190,180
+Sossian Menengai Geothermal,35.0,35.0,,,,,6
+Geothermal Total,185,185,"1,285","1,076",981,976,946
+Wind,,,,,,,
+Lake Turkana Wind Power,310.0,300.0,"1,124","1,237","1,559","1,573","1,678"
+Kipeto Energy PLC,100.0,100.0,,,88,426,466
+Wind Total,410,400,"1,124","1,237","1,647","1,999","2,144"

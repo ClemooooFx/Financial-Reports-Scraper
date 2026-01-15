@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 125,
+  "table_number": 3,
+  "title": "Bank balances 5,585,691 - - 5,585,691",
+  "rows": 2,
+  "columns": [
+    "Expected credit loss rate at:",
+    "0-30 days",
+    "31-90 days",
+    ">90 days"
+  ],
+  "extracted_at": "2026-01-15T20:33:49.984939"
+}

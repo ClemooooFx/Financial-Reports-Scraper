@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 140,
+  "table_number": 1,
+  "title": "loan that was transferred to Ketraco in 2018 upon signing of the Novation agreement.",
+  "rows": 1,
+  "columns": [
+    "<30 days",
+    "30-90 days",
+    ">90 days",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T20:33:06.211412"
+}

@@ -1,0 +1,34 @@
+Company,"Capacity (MW) as at
+30.06.2023",Column,Energy Purchased (GWh),Column,Column,Column,Column
+,Installed,"Effective1 /
+Contracted2",2018/19,2019/20,2020/21,2021/22,2022/23
+Small Hydro:,,,,,,,
+Imenti Tea Factory,0.3,0.3,0.3,1.0,0.4,0.2,0.3
+Gikira small hydro,0.5,0.5,1.1,1.8,1.8,0.9,1.0
+Regen-Terem,5.0,5.0,20.1,31.6,21.6,15.4,20.3
+Chania KTDA,0.5,0.5,0.3,1.1,1.0,0.6,0.2
+Gura KTDA,2.8,2.8,11.7,21.2,11.3,19.6,11.1
+North Mathioya (Metumi) KTDA,3.6,3.6,,,13.8,9.9,14.5
+Kianthumbi Small hydro,0.5,0.5,,,0.36,2.0,1.5
+Small Hydro Total,13.2,13.2,33.6,56.6,50.3,48.5,48.9
+Cogeneration:,,,,,,,
+Biojoule Biogas,2.0,2.0,0.3,0.3,0.3,0.4,0.2
+Cogeneration Total,2.0,2.0,0.3,0.3,0.3,0.4,0.2
+Solar:,,,,,,,
+Strathmore Solar,0.3,0.3,0.15,0.14,0.09,0.05,0.08
+Selenkei Solar Farm,40.0,40.0,,,1.50,89,86
+Cedate Solar Farm,40.0,40.0,,,,88,94
+Malindi Solar Group,40.0,40.0,,,,54,99
+Alten solar,40.0,40.0,,,,,79
+Solar Total,160.3,160.3,0.2,0.1,1.6,230.4,357.8
+IPP Total,"1,163","1,152","2,930","2,913","3,310","4,251","4,458"
+REREC Garissa Solar Plant,,,,,,,
+Garissa Solar Plant,50.0,50.0,60,91,86,82,86
+REREC Garissa Total,50,50,60,91,86,82,86
+Imports,,,,,,,
+UETCL,,,168,156,192,332,275
+TANESCO,,,0,0,0,0,0
+EEU (MOYALE),,,2,5,5,6,6
+EEP (500kV HVDC),200,200,,,,,364
+Total Imports,200,200,170,161,197,338,644
+SYSTEM TOTAL,"3,238","3,112","11,493","11,462","12,101","12,653","13,290"
