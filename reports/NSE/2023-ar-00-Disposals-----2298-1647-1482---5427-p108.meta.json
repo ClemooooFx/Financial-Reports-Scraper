@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 108,
+  "table_number": 1,
+  "title": "Disposals - - (2,298) (1,647) (1,482) - (5,427)",
+  "rows": 29,
+  "columns": [
+    "Building",
+    "Motor\nvehicles",
+    "Furniture &\nfittings",
+    "Office\nequipment",
+    "Computer\nequipment",
+    "WIP",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T23:59:10.667591"
+}

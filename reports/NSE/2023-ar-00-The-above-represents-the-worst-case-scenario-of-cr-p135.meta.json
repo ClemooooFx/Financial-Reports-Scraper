@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 135,
+  "table_number": 1,
+  "title": "The above represents the worst-case scenario of credit exposure for both years.",
+  "rows": 21,
+  "columns": [
+    "12-month\nexpected\ncredit losses",
+    "Lifetime expected\ncredit losses",
+    "Column",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T23:59:10.684762"
+}

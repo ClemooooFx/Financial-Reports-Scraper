@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 60,
+  "table_number": 1,
+  "title": "Compliance Human Capital Oversight & Listing",
+  "rows": 12,
+  "columns": [
+    "Director",
+    "Classification",
+    "Designation",
+    "Column",
+    "Board",
+    "Finance &\nStrategy\nCommittee",
+    "Trading,\nTechnology\n&\nInnovation\nCommittee",
+    "Audit,\nRisk &\nCompliance\nCommittee",
+    "Listings &\nAdmissions\nCommittee",
+    "Self-\nRegulatory\nOrganization\n(SRO)\nCommittee",
+    "Remuneration,\nNominating &\nHuman Capital\nCommittee",
+    "Derivatives\nMarket\nOversight\nCommittee",
+    "Self-Regulatory\nOrganization\n& Listing\nCommittee"
+  ],
+  "extracted_at": "2026-01-15T23:58:22.346750"
+}

@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 111,
+  "table_number": 1,
+  "title": "At 1 January 2022 80,079 37,078 77,951 38,191 54,338 315 287,952",
+  "rows": 17,
+  "columns": [
+    "Automated\ntrading\nsystem\nsoftware",
+    "Other\nsoftware",
+    "Broker back\noffice\nsoftware",
+    "Bond\nsoftware\nlicense",
+    "Derivatives\nsoftware",
+    "WIP",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T23:59:10.669705"
+}
