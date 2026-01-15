@@ -1,0 +1,9 @@
+As at 31 December 2023 - Company,Column,Column,Column,Column
+Aging bucket,Loss rate,Carrying amount,Loss allowance,Credit impaired
+,,KShs’ 000,KShs’ 000,
+"Current (not past due, 0–3 days)",0.1%,-,-,No
+4–30 days past due,0.6%,-,-,No
+31–60 days past due,1.1%,-,-,No
+61–90 days past due,1.6%,-,-,No
+More than 90 days past due,100%,-,-,No
+,,-,-,

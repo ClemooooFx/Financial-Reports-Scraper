@@ -1,0 +1,9 @@
+"As at December 31, 2020 - Company",Column,Column,Column,Column
+Aging bucket,Loss rate,Carrying amount,Loss allowance,Credit impaired
+,,KSh’000,KSh’000,
+"Current (not past due, 0–3 days)",-,-,-,No
+4–30 days past due,2.01%,-,-,No
+31–60 days past due,3.91%,-,-,No
+61–90 days past due,5.82%,-,-,No
+More than 90 days past due,7.72%,-,-,No
+,,-,-,
