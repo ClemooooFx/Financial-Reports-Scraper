@@ -1,0 +1,19 @@
+Column,Group,Column,Company,Column
+,31 Dec 2023,31 Dec 2022,31 Dec 2023,31 Dec 2022
+,Carrying,Carrying,Carrying,Carrying
+,values,values,values,values
+Liabilities,Shs ‘000,Shs ‘000,Shs ‘000,Shs ‘000
+Borrowings:,,,,
+- Bank loan,"1,000,000","1,000,000","1,000,000","1,000,000"
+- Other borrowings,"1,523,728","1,500,304","510,554","510,554"
+Interest payable,"57,340","39,919","57,340","39,919"
+Lease liability,"632,186","672,066","38,400","175,703"
+Provisions and other payables,"6,109,655","5,020,481","1,922,618","1,382,648"
+Total financial liabilities,"9,322,909","8,232,770","3,528,912","3,108,824"
+Assets held for managing liquidity risk,,,,
+Cash and cash equivalents,"10,640,881","7,991,854","61,541","171,460"
+Financial assets at fair value,"58,957,328","53,458,023",-,"102,383"
+Financials assets at amortised cost,"68,541,507","57,105,719","1,046,945","990,100"
+Other receivables,"2,976,257","2,491,535","705,113","634,595"
+Total assets,"141,115,973","121,047,131","1,813,599","1,898,538"
+Liquidity surplus/(gap),"131,793,064","112,814,361","(1,715,313)","(1,210,286)"

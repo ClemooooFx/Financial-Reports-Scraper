@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 115,
+  "table_number": 1,
+  "title": "Financial asset Default event",
+  "rows": 4,
+  "columns": [
+    "Financial asset",
+    "Default event"
+  ],
+  "extracted_at": "2026-01-15T06:56:37.199977"
+}

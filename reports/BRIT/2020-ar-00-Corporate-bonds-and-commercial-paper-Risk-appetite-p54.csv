@@ -1,0 +1,24 @@
+LIQUIDITY RISK,Column,Column
+Risk Description,Source of Risk,Mitigation
+"The risk that the business cannot
+meet its obligations or liabilities as
+and when they fall due.","§ Mis-match of assets and liabilities,
+usually by duration.
+§ Low cash flow generation, e.g., due to
+reduced inflows and higher withdrawals.","§ Asset Liability Matching (ALM) policy that ensures that assets and
+liabilities are matched by amounts, currency, duration, and nature.
+§ Documented liquidity management & protection policy for the treasury
+and investment team that ensure liquidity is monitored daily."
+OPERATIONAL RISK,,
+Risk Description,Source of Risk,Mitigation
+"Operational risk is defined as the
+risk of loss resulting from inadequate
+or failed internal processes, people,
+systems, or external events.","§ People.
+§ Process.
+§ Systems.
+§ External events.","A comprehensive operational risk management framework has been deployed
+with the following key components:
+§ Risk and control self-assessments.
+§ Key Risk Indicators.
+§ Operational risk incidents management."

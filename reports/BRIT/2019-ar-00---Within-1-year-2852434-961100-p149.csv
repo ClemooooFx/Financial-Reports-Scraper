@@ -1,0 +1,19 @@
+Column,Group,Column
+,2019,2018
+,Shs’000,Shs’000
+Treasury bills and bonds maturing,,
+- Within 1 year,"2,852,434","961,100"
+- In 1 – 5 years,"5,186,123","5,948,731"
+- After 5 years,"7,019,467","8,310,932"
+Total,"15,058,024","15,220,763"
+At start of year,"15,220,763","16,200,057"
+Amortization,"20,742","(25,366)"
+Additions,"1,048,984","1,924,719"
+Maturities,"(1,232,465)","(2,878,647)"
+At end of year,"15,058,024","15,220,763"
+Less: Provision expected credit losses,(494),"(7,939)"
+Net amount at end of year,"15,057,530","15,212,824"
+Movement in provision for expected credit losses:,,
+At 1 January,"7,939","8,247"
+Decrease in the year,"(7,445)",(308)
+At 31 December,494,"7,939"

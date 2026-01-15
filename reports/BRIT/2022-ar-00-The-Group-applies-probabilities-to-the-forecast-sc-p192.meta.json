@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 192,
+  "table_number": 2,
+  "title": "The Group applies probabilities to the forecast scenarios identified. The base case scenario is the single most-",
+  "rows": 7,
+  "columns": [
+    "Asset Type (Shs ‘000)",
+    "+10% Change on PD&LGD",
+    "-10% Change on PD&LGD"
+  ],
+  "extracted_at": "2026-01-15T06:55:54.751883"
+}

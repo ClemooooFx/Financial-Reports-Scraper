@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 57,
+  "table_number": 2,
+  "title": "Members Status Eligible to Percentage",
+  "rows": 5,
+  "columns": [
+    "Members",
+    "Status",
+    "Attended/\nEligible to\nattend",
+    "Percentage"
+  ],
+  "extracted_at": "2026-01-15T06:54:00.732826"
+}

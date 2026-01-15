@@ -1,0 +1,13 @@
+Column,Group,Column,Company,Column
+,2019,2018,2019,2018
+,Shs’000,Shs’000,Shs’000,Shs’000
+Deposits with financial institutions,"6,810,651","3,216,913","1,416,466","437,804"
+Investment in liquid funds,"34,688","1,063,596","34,688","869,180"
+Cash and bank balances,"885,606","2,691,928","8,808","9,328"
+Cash and cash equivalents,"7,730,945","6,972,437","1,459,962","1,316,312"
+Less: Provision for expected credit losses,"(155,634)","(251,036)","(1,809)","(5,769)"
+Net amount at end of year,"7,575,311","6,721,401","1,458,153","1,310,543"
+Movement in provision for expected credit losses:,,,,
+At 1 January,"251,036","38,770","5,769","7,504"
+(Decrease)/increase,"(95,402)","212,266","(3,960)","(1,735)"
+At 31 December,"155,634","251,036","1,809","5,769"

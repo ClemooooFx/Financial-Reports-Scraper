@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 171,
+  "table_number": 1,
+  "title": "lifetime ECL",
+  "rows": 8,
+  "columns": [
+    "Assets",
+    "Notes",
+    "External\ncredit\nrating",
+    "Internal\nCredit\nrating",
+    "12-month or\nlifetime ECL",
+    "2020",
+    "2019"
+  ],
+  "extracted_at": "2026-01-15T06:54:32.932933"
+}

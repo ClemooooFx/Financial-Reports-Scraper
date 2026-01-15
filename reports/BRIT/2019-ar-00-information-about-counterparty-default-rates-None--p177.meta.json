@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 177,
+  "table_number": 1,
+  "title": "information about counterparty default rates. None of the Group’s credit risk counterparties are rated except the Government",
+  "rows": 15,
+  "columns": [
+    "Assets",
+    "Note",
+    "External\ncredit rating",
+    "Internal\nCredit rating",
+    "12-month or\nlifetime ECL",
+    "2019",
+    "2018"
+  ],
+  "extracted_at": "2026-01-15T06:54:00.798654"
+}

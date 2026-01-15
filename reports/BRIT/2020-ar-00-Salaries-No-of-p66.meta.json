@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 66,
+  "table_number": 2,
+  "title": "Salaries No. of",
+  "rows": 12,
+  "columns": [
+    "Name",
+    "Position",
+    "Annual\nretainer",
+    "Sitting\nallowances",
+    "Other\nallowances",
+    "Salaries\n& Other\nbenefits",
+    "Total",
+    "No. of\nmeetings\nattended"
+  ],
+  "extracted_at": "2026-01-15T06:54:32.871193"
+}

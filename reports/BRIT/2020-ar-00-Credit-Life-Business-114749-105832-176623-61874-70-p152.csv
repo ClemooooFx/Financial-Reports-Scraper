@@ -1,0 +1,18 @@
+Assumption,"Valuation Margins on Best Estimate
+Liabilities","Capital Charges on Best Estimate
+Liabilities"
+Mortality,10% increase in mortality for life assurances,6% increase of base mortality rates
+Longevity,"10% decrease in mortality for life assurances and
+annuities",7% decrease of base mortality rates
+Morbidity/Disability,"10% increase in inception rates
+5% decrease in recovery rates","40% increase in base inception rates in the first
+year
+15% increase in base inception rates in
+subsequent years
+10% decrease in morbidity/disability recovery
+rates"
+Lapses,"25% (increase or decrease in lapse rate depending on
+which alternative gives rise to an increase in the liability
+of the policy concerned)","15% increase in lapse rates for new business
+5% increase in lapse rates for in force business"
+Interest rate,20% decrease,18% decrease

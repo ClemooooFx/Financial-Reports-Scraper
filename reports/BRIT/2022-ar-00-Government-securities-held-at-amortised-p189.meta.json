@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 189,
+  "table_number": 1,
+  "title": "Government securities held at amortised",
+  "rows": 13,
+  "columns": [
+    "Note",
+    "External\ncredit\nrating",
+    "Internal\nCredit\nrating",
+    "12-month\nor lifetime\nECL",
+    "2022",
+    "2021"
+  ],
+  "extracted_at": "2026-01-15T06:55:54.750212"
+}

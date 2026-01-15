@@ -1,0 +1,19 @@
+Column,Group,Column,Company,Column
+,2019,2018,2019,2018
+,Shs’000,Shs’000,Shs’000,Shs’000
+Staff and agents loans,"100,459","121,508",-,"2,154"
+Car loans and premium financing loans,"216,493","467,707",-,-
+Accrued income,"21,748","53,972",-,-
+Dues from managed funds,"12,725","9,038",-,-
+Refundable deposits,"54,400","63,136",-,-
+Recoverable VAT on rental commercial properties,"207,515","156,033",-,-
+Due from Motor pool,"36,218","45,577",-,-
+Prepayments,"100,320","210,916","3,819","2,789"
+Other assets,"1,069,847","1,057,034","44,361","43,443"
+Total,"1,819,725","2,184,921","48,180","48,386"
+Less: Provision for expected credit losses,"(195,555)","(240,311)",-,(484)
+Net amount at end of year,"1,624,170","1,944,610","48,180","47,902"
+Movement in provision for expected credit losses:,,,,
+At 1 January,"240,311","121,125",484,-
+(Decrease)/increase,"(44,756)","119,186",(484),484
+At 31 December,"195,555","240,311",-,484

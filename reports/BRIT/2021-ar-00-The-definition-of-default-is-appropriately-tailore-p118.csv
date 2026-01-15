@@ -1,0 +1,23 @@
+Financial asset,Column,Default event
+Cash an Deposits with financial institutions,•,Contractual cash flows default
+,•,Debt restructure/Debt covenant breach
+,•,Bank closure
+,•,Bank Run
+,•,Filing of bankruptcy
+,•,Bank takeover by Regulator
+,•,Bank insolvency
+Corporate Debt,•,Contractual cash flows default
+,•,Debt covenant breach
+,•,Closure of institution
+,•,Filing of bankruptcy
+Government Securities,•,Significant fall in tax collection rates
+,•,Significant natural disaster events
+,•,Default warning from Brenton Woods Institutions
+,•,Junk rating of sovereign debt
+,•,Debt Restructure events
+"Receivables – Related parties, Premium Debtors and Reinsurance
+Debtors",•,Contractual cash flows default
+"Other Receivables including Outstanding Dividends, Advances to
+Agents and Staff.",•,Filing of bankruptcy
+,•,Significant natural disaster events
+,•,Loss of source of income

@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 220,
+  "table_number": 1,
+  "title": "amortised amortised receivables",
+  "rows": 14,
+  "columns": [
+    "Column",
+    "Cash\nand bank\nbalances",
+    "Deposits\nwith financial\ninstitutions",
+    "Government\nsecurities at\namortised\ncost",
+    "Corporate\nbonds at\namortised\ncost",
+    "Mortgage\nloans\nreceivable",
+    "Other\nreceivables",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T06:56:37.265622"
+}

@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 164,
+  "table_number": 2,
+  "title": "Life Risk 1,739,928 407,376 230,305 216,940 215,467 106,294 312,866 250,681",
+  "rows": 7,
+  "columns": [
+    "2022",
+    "Total",
+    "Less than\n1 year",
+    "1 to 2\nyears",
+    "2 to 3\nyears",
+    "3 to 4\nyears",
+    "4 to 5\nyears",
+    "5 to 10\nyears",
+    "More than\n10 years"
+  ],
+  "extracted_at": "2026-01-15T06:56:37.233437"
+}

@@ -1,0 +1,41 @@
+Column,"Cash
+and bank
+balances","Deposits
+with
+financial
+institutions","Government
+Securities","Corporate
+bonds at
+amortised
+cost","Loans and
+receivables
+from related
+parties","Other
+receivables",Total
+,Shs 000,Shs 000,Shs 000,Shs 000,Shs 000,Shs 000,Shs 000
+"Balance as at 1 January
+2022",2,7,"30,344",-,"367,091","113,432","510,876"
+Net staging transfers,,,,,,,
+"Changes in PDs/LGDs/
+EADs",(1),136,"(30,344)","30,380",(472),"2,072","1,771"
+"New financial assets
+originated or purchased",-,-,-,-,-,-,-
+"Net charge to profit or
+loss in the year",(1),136,"(30,344)","30,380",(472),"2,072","1,771"
+"Other movements with no
+profit or loss impact:",,,,,,,
+Write-offs,,,-,,,,
+"Balance as at 31
+December 2022",1,143,-,"30,380","366,619","115,504","512,647"
+Net staging transfers,,,,,,,
+"Changes in PDs/LGDs/
+EADs",2,(135),35,758,"(37,330)","5,210","(31,460)"
+"New financial assets
+originated or purchased",,,,,,,-
+"Net charge to profit or
+loss in the year",2,(135),35,758,"(37,330)","5,210","(31,460)"
+"Other movements with no
+profit or loss impact:",,,,,,,-
+Write-offs,,,,,,,
+"Balance as at 31
+December 2023",3,8,35,"31,138","329,289","120,714","481,187"

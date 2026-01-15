@@ -1,0 +1,30 @@
+Income Statement Line,KES,Column
+"Insurance Revenue from contracts measured under the
+PAA",X,"• Release in CSM
+• Change in risk adjustment
+• Expected claims in fulfilment CFs
+• Expected expenses in fulfilment
+CFs"
+"Insurance Revenue from contracts measured not
+measured under the PAA",X,
+Total Insurance Revenue,X,
+,,"• Actual claims paid
+• Movement in LIC
+• Actual Attributable expenses
+incurred
+• Loss component"
+Insurance Service Expense,(X),
+Net expenses from reinsurance contracts held,(X),
+Insurance Service Result,X,
+Investment Income,X,"• Amounts recovered from
+reinsurance
+• Reinsurance premium"
+Finance expenses from insurance contracts issued,(X),
+Finance income from re-insurance contracts held,X,"• Unwinding of discount rate/interest
+accretion"
+Finance Result,X,
+Other Profit and Loss,X,
+Corporate Tax,(X),
+Profit After Tax,X,
+Other Comprehensive Income,X,
+Total Comprehensive Income,X,

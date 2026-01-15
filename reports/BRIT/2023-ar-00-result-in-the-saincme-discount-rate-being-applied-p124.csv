@@ -1,0 +1,9 @@
+Country,Source
+Kenya,Derived spot curve from bond market
+South Sudan,Use Kenya derived spot curve
+Uganda,Risk free yield curve published in Uganda
+Tanzania,Risk free yield curve published in Tanzania
+Rwanda,Risk free yield curve published in Rwanda
+Malawi,"Use kenya derived spot rates and compare a 1-year bond return in
+Kenya to Malawi and adjust the curve."
+Mozambique,Use the Tanzania risk free yield curve
