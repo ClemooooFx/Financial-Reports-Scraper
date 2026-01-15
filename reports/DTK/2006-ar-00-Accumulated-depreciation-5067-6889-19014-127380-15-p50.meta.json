@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2006-ar-00.pdf",
+  "page": 50,
+  "table_number": 2,
+  "title": "Accumulated depreciation 5,067 6,889 19,014 127,380 158,350",
+  "rows": 6,
+  "columns": [
+    "19 Property and equipment\nLeasehold\nbuildings\nShs’000",
+    "Column",
+    "Leasehold\nimprovements\nShs’000",
+    "Motor\nvehicles\nShs’000",
+    "Furniture\nfittings &\nequipment\nShs’000",
+    "Total\nShs’000"
+  ],
+  "extracted_at": "2026-01-15T13:15:01.336007"
+}

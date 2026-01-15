@@ -1,0 +1,14 @@
+{
+  "source_pdf": "ke-icdc-2019-ar-00.pdf",
+  "page": 166,
+  "table_number": 1,
+  "title": "Type Nature Description Recognition",
+  "rows": 3,
+  "columns": [
+    "Type",
+    "Nature",
+    "Description",
+    "Recognition"
+  ],
+  "extracted_at": "2026-01-15T13:13:35.124029"
+}
