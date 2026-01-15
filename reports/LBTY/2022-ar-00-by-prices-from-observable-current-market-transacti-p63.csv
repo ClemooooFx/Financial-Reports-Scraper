@@ -1,0 +1,20 @@
+INSTRUMENT,VALUATION BASIS/TECHNIQUES,Column
+"Unlisted term deposits, illiquid listed term
+deposits and senior secured term facility",DCF,"Bond and interbank swap interest rate curves
+Issuer credit ratings
+Liquidity spreads"
+Investment policies,"Quoted put/surrender price provided by the
+issuer, adjusting for any applicable notice
+periods (DCF)","Price – not applicable
+Bond interest rate curves"
+"Policyholder investment contracts liabilities
+– unit-linked policies","Current unit price of underlying unitised
+financial asset that is linked to the liability,
+multiplied by the number of units held",Not applicable
+– fixed term annuities,DCF,"Bond and interbank swap interest rate curves
+Own credit/liquidity"
+Commercial paper,DCF,"Discount curve
+Credit spread"
+Cash equivalents - short term deposits,"Market to market
+Yield curves",Bonds and interbank swap interest curve
+Cash on hand,Face value,Not applicable

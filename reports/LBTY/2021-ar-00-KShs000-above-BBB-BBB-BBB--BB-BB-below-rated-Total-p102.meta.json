@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 102,
+  "table_number": 1,
+  "title": "KShs'000 above BBB+ BBB BBB- BB+ BB below rated Total",
+  "rows": 10,
+  "columns": [
+    "A- and\nabove",
+    "BBB+",
+    "BBB",
+    "BBB-",
+    "BB+",
+    "BB",
+    "BB- and\nbelow",
+    "Not\nrated",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T21:32:21.901698"
+}

@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 80,
+  "table_number": 1,
+  "title": "reinsurance",
+  "rows": 27,
+  "columns": [
+    "Excluding loss\ncomponent",
+    "Loss\ncomponent",
+    "Total ARC",
+    "ARIC",
+    "Total\nreinsurance\nlife risk\nmeasured\nunder GMM"
+  ],
+  "extracted_at": "2026-01-15T21:33:19.459637"
+}

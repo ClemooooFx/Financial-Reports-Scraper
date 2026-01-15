@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 145,
+  "table_number": 2,
+  "title": "Medical expense Cover for personal medical expenses.",
+  "rows": 7,
+  "columns": [
+    "Insurance\nrevenue",
+    "Net of\nreinsurance\ninsurance\nrevenue(1)",
+    "Claims\nratio net of\nreinsurance(2)",
+    "Combined\nratio net of\nreinsurance(3)"
+  ],
+  "extracted_at": "2026-01-15T21:33:19.490294"
+}

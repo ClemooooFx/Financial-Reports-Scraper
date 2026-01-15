@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 105,
+  "table_number": 2,
+  "title": "Issued share capital",
+  "rows": 11,
+  "columns": [
+    "Life risk\nmeasured\nunder\nGMM",
+    "Life risk\nmeasured\nunder PAA",
+    "Annuities",
+    "Partic-\nipating\ncontracts",
+    "Investment\ncontracts\nwith DPF",
+    "Non-life\nmeasured\nunder PAA",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T21:33:19.474037"
+}

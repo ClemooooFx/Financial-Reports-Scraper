@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 140,
+  "table_number": 1,
+  "title": "Insurance exposure by reportable group",
+  "rows": 9,
+  "columns": [
+    "Insurance\nrevenue",
+    "Net of\nreinsurance\ninsurance\nrevenue(1)",
+    "Claims\nratio net of\nreinsurance(2)",
+    "Combined\nratio net of\nreinsurance(3)"
+  ],
+  "extracted_at": "2026-01-15T21:33:19.489501"
+}

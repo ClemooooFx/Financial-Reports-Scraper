@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 88,
+  "table_number": 1,
+  "title": "Present adjustment reinsurance",
+  "rows": 11,
+  "columns": [
+    "Excluding\nloss\ncomponent",
+    "Loss\ncomponent",
+    "Total ARC",
+    "Present\nvalue of\nfuture cash\nflows",
+    "Risk\nadjustment\nfor non-\nfinancial\nrisk",
+    "Total ARIC",
+    "Total\nreinsurance\nnon-life risk\nmeasured\nunder PAA"
+  ],
+  "extracted_at": "2026-01-15T21:33:19.461669"
+}

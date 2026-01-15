@@ -1,0 +1,46 @@
+Approach,Detail
+GMM,"The GMM is the methodology prescribed by IFRS 17 for insurance contracts which are not substantially investment-
+related service contracts i.e. predominantly risk-type contracts and annuities. This methodology is also used to
+measure reinsurance contracts (unless for both cases, the group may apply the PAA measurement)."
+,"On initial recognition, applying the GMM, a group of insurance contracts are measured as the total of"
+,a. The FCF which comprises:
+,• Estimates of future cash flows;
+,"• An adjustment to reflect the time value of money and the financial risks related to the future cash flows, to the
+extent that the financial risks are not included in the estimates of the future cash flows; and"
+,• A RA for non-financial risk; and
+,b. The CSM.
+,"The group recognises a CSM (where appropriate) which is essentially a provision for unearned profit (where the
+contract is assessed as profitable) measured on contract inception, and which is released over the contract term in
+line with the level of service provided by the group. The discount rates determined at the date of initial recognition of
+a group of contracts is termed the ’locked-in’ rate as it is the rate that is locked-in for accreting the CSM for insurance
+contracts without participating features. In order to determine the discount rates at the date of initial recognition of a
+group of contracts, the group has used a weighted-average discount rate over the period that contracts in the group
+are issued. All other probability-weighted estimates of cash flows contained in the measurement of insurance assets
+or liabilities are measured at current discount rates. The discount rate applied in the future FCF reflects the time value
+of money, the characteristics of the cash flows and the liquidity characteristics of the insurance contracts, is consistent
+with observable current market price (if any) for financial instruments with cash flows whose characteristics are
+consistent with those of the insurance contracts, and excludes the effects of factors that influence such observable
+market prices but do not affect the future cash flows of the insurance contracts."
+,GMM contracts can also be described as those insurance contracts without any direct participation features.
+VFA,"The VFA applies only to insurance contracts with direct participating features and is not applicable for the measurement
+of reinsurance contracts. The approach is used for contracts that are substantially investment-related service
+contracts but are measured under IFRS 17 as they include an integral insurance benefit, for example a retirement
+annuity that may include a product benefit of a minimum return of contributions on death. Investment contracts
+with DPF are scoped into the IFRS 17 standard, and the group also applies the VFA measurement model to measure
+such contracts, should such contracts meet the criteria for VFA. An insurance contract is considered to be a direct
+participating contract when the contractual terms specify that the policyholder participates in a share of a clearly
+identified pool of underlying items; the entity expects to pay the policyholder an amount equal to a substantial share
+of the fair value returns on the underlying items; and the entity expects a substantial proportion of any change in the
+amounts to be paid to the policyholder to vary with the change in the fair value of the underlying items. These criteria
+are assessed on a contract-by-contract basis at contract inception. Underlying items are the items that determine
+some of the amounts payable to a policyholder, for example, a reference portfolio of assets."
+,"Insurance contracts with direct participation features create an obligation to pay policyholders an amount equal to
+the fair value of the underlying items, less a variable fee to the insurer for service. The variable fee is the amount of
+the group’s share of the fair value of the underlying items, less the future cash flows that do not vary based on the
+returns of the underlying items."
+,"The VFA approach also includes the total of FCF discounted to present the time value of time and financial risks,
+plus a risk adjustment for non-financial risk, plus a CSM. The main difference between the VFA and the GMM is how
+the CSM is impacted over time. The group’s share of the fair value returns on the underlying items is included in the
+CSM, and the CSM is updated using current estimates. The group is required to justify the classification into VFA
+through conditions demonstrating policyholder participation and an analysis of the investment benefits versus the
+total expected benefits."
