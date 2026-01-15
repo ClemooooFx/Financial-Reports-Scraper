@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2016-ab-00.pdf",
+  "page": 1,
+  "table_number": 1,
+  "title": "Gross earned premiums 11,745,036 12,638,444 Investment properties 6,051,288 5,420,742",
+  "rows": 1,
+  "columns": [
+    "OTHER COMPREHENSIVE INCOME\nSurplus on revaluation of buildings\nForex loss on translation\nFair value loss on available-for -sale investments\nTotal comprehensive income for the year",
+    "38,824\n(256,411)\n(11,968)\n(41,370)",
+    "80,075\n(282,179)\n(152,393)\n782,107"
+  ],
+  "extracted_at": "2026-01-15T08:31:41.279219"
+}

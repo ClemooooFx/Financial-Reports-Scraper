@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 99,
+  "table_number": 1,
+  "title": "Profit or Amortised Fair value",
+  "rows": 3,
+  "columns": [
+    "Ksh’000’\n1,240,619\n672,660\n392,728\n429,056\n249,650\n45,886\n1,412,690\n1,295,182\n4,836,107\n5,005,009\n20,449",
+    "Column",
+    "Amortised\ncost\nKsh’000’\n-\n515,347\n410,664\n429,056\n249,650\n45,886\n1,412,690\n1,294,578\n4,863,971\n-\n-"
+  ],
+  "extracted_at": "2026-01-15T08:33:13.339985"
+}
