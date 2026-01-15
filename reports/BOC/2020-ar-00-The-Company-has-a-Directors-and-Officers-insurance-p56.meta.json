@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 56,
+  "table_number": 2,
+  "title": "The Company has a Directors and Officers insurance covering all Directors and Officers for the aggregate sum of Kenya",
+  "rows": 3,
+  "columns": [
+    "Name",
+    "Basic salary",
+    "Column",
+    "Housing & Other\nallowances",
+    "Column",
+    "Retirement\nbenefits",
+    "Column",
+    "Bonus",
+    "Column",
+    "Grand total",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T06:30:53.906125"
+}
