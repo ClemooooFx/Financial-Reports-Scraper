@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2025-pr-q1.pdf",
+  "page": 43,
+  "table_number": 2,
+  "title": "(%growth) Q12025 Q12024",
+  "rows": 1,
+  "columns": [
+    "Q12025",
+    "EBTL",
+    "EBRL",
+    "EBUL",
+    "EBSS",
+    "Equity\nBCDC",
+    "RegionalSubsTotal\n(%Contribu on)",
+    "EBKL\n(%Contribu on)",
+    "BankingGroup\nTotal*\n(%growth)",
+    "OtherSubs\nContribu on\nQ12025",
+    "OtherSubs\nContribu on\nQ12024"
+  ],
+  "extracted_at": "2026-01-15T16:39:02.482977"
+}
