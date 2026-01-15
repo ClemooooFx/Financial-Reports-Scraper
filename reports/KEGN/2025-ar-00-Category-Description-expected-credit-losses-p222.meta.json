@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 222,
+  "table_number": 1,
+  "title": "Category Description expected credit losses",
+  "rows": 3,
+  "columns": [
+    "Performing",
+    "The counterparty has a low risk of default and\ndoes not have any past-due amounts.",
+    "12 months Expected\nCredit Loss (ECL)"
+  ],
+  "extracted_at": "2026-01-15T20:09:59.906085"
+}

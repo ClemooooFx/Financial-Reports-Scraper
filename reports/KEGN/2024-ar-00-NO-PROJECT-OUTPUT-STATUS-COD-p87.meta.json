@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 87,
+  "table_number": 1,
+  "title": "NO. PROJECT OUTPUT STATUS COD",
+  "rows": 11,
+  "columns": [
+    "PROJECT",
+    "OUTPUT\n(MW)",
+    "STATUS",
+    "COD"
+  ],
+  "extracted_at": "2026-01-15T20:09:21.908039"
+}
