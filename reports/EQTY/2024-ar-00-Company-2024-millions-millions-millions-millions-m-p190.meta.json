@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 190,
+  "table_number": 1,
+  "title": "Company 2024 millions millions millions millions millions millions",
+  "rows": 10,
+  "columns": [
+    "Less than\n3 months",
+    "3-6\nmonths",
+    "6-12\nmonths",
+    "1-5\nyears",
+    "More than\n5 years",
+    "Totals"
+  ],
+  "extracted_at": "2026-01-15T16:28:27.454552"
+}
