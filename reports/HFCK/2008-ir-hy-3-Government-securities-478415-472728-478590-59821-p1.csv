@@ -1,0 +1,42 @@
+Column,Column,GROUP,Column,Column,Column,COMPANY,Column,Column,Column
+,,30.06.2008,31.03.2008,31.12.2007,30.06.2007,30.06.2008,31.03.2008,31.12.2007,30.06.2007
+,DISCLOSURES,Unaudited,Unaudited,Audited,Unaudited,Unaudited,Unaudited,Audited,Unaudited
+III,,(Ksh’000),(Ksh’000),(Ksh’000),(Ksh’000),(Ksh’000),(Ksh’000),(Ksh’000),(Ksh’000)
+1,Non-Performing Loans and Advances,,,,,,,,
+a),Gross non-performing loans and advances,"2,301,855","2,457,886","2,624,886","3,162,099","2,301,855","2,457,886","2,624,886","3,162,099"
+b),Less: Interest in Suspense,"986,092","1,059,917","1,180,157","1,494,493","986,092","1,059,917","1,180,157","1,494,493"
+c),Total non-Performing loans and advances (a-b),"1,315,763","1,397,969","1,444,729","1,667,606","1,315,763","1,397,969","1,444,729","1,667,606"
+d),Less: Loan loss provisions,"359,044","401,620","408,903","432,535","359,044","401,620","408,903","432,535"
+e),Net non-performing loans and advances(c-d),"956,719","996,350","1,035,826","1,235,071","956,719","996,350","1,035,826","1,235,071"
+f),Discounted value of securities,"956,719","996,350","1,035,826","1,235,071","956,719","996,350","1,035,826","1,235,071"
+g),Net Exposure(e-f),-,-,-,-,-,-,-,-
+,,-,-,-,-,-,-,-,-
+2,Insider loans and advances,-,-,-,-,-,-,-,-
+a),"Directors, shareholders and associates",-,-,-,-,-,-,-,-
+b),Employees,"241,266","260,491","255,195","231,847","241,266","260,491","255,195","231,847"
+c),Total insider Loans and Advances,"241,266","260,491","255,195","231,847","241,266","260,491","255,195","231,847"
+,,-,-,-,-,-,-,-,-
+3,Off-Balance Sheet items,-,-,-,-,-,-,-,-
+a),"Letters of credit, guarantees and acceptances","5,710","5,710","6,686","6,746","5,710","5,710","6,686","6,746"
+b),Other contingent liabilities,-,-,-,-,-,-,-,-
+c),Total contingent liabilities,"5,710","5,710","6,686","6,746","5,710","5,710","6,686","6,746"
+4,Capital Strength,,,,,,,,
+a),Core capital,,,,,"759,072","768,016","739,543","691,071"
+b),Minimum Statutory Capital,,,,,"250,000","250,000","250,000","250,000"
+c),Excess/Deficiency,,,,,"509,072","518,016","489,543","441,071"
+d),Supplementary capital,,,,,"180,215","173,534","169,584","166,040"
+e),Total capital (a+d),,,,,"939,288","941,549","909,127","857,111"
+f),Total risk weighted assets,,,,,"6,488,856","5,954,323","5,638,324","5,354,876"
+g),Core capital /Total deposit liabilities,,,,,8.22%,8.12%,8.42%,8.62%
+h),Minimum Statutory Ratio,,,,,8.00%,8.00%,8.00%,8.00%
+i),Excess/Deficiency,,,,,0.22%,0.12%,0.42%,0.62%
+j),Core capital /Total risk weighted assets,,,,,11.70%,12.90%,13.12%,12.91%
+k),Minimum Statutory Ratio,,,,,8.00%,8.00%,8.00%,8.00%
+l),Excess/Deficiency (j-k),,,,,3.70%,4.90%,5.12%,4.91%
+m),Total capital /Total risk weighted assets,,,,,14.48%,15.81%,16.12%,16.01%
+n),Minimum Statutory Ratio,,,,,12.00%,12.00%,12.00%,12.00%
+o),Excess/Deficiency (m-n),,,,,2.48%,3.81%,4.12%,4.01%
+5,Liquidity,,,,,,,,
+a),Liquidity Ratio,,,,,31.41%,20.82%,20.00%,23.25%
+b),Minimum Statutory Ratio,,,,,20.00%,20.00%,20.00%,20.00%
+c),Excess(Deficiency) (a-b),,,,,11.41%,0.82%,0.00%,3.25%

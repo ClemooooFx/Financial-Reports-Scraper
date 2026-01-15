@@ -1,0 +1,25 @@
+{
+  "source_pdf": "2009-ar-00.pdf",
+  "page": 48,
+  "table_number": 1,
+  "title": "Interest income 1,015,528 753,876 358,423 234,821 182,911 96,909 247,260 233,671 - - - - 1,804,122 1,319,277",
+  "rows": 3,
+  "columns": [
+    "External revenues",
+    "Mortgage Lending",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Deposits Mobilisation",
+    "Column",
+    "Column",
+    "Column",
+    "Others",
+    "Column",
+    "Totals",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T17:26:55.022572"
+}

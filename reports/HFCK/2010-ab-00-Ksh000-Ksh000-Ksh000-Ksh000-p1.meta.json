@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2010-ab-00.pdf",
+  "page": 1,
+  "table_number": 1,
+  "title": "(Ksh’000) (Ksh’000) (Ksh’000) (Ksh’000)",
+  "rows": 3,
+  "columns": [
+    "GRO\n31.12.2009\nAudited\n(Ksh’000)",
+    "UP\n31.12.2010\nAudited\n(Ksh’000)",
+    "COMP\n31.12.2009\nAudited\n(Ksh’000)",
+    "ANY\n31.12.2010\nAudited\n(Ksh’000)"
+  ],
+  "extracted_at": "2026-01-15T17:26:56.776816"
+}
