@@ -1,0 +1,8 @@
+"IFRS 9 credit
+staging","CBK PG/04
+Guidelines",Days past due
+1,Normal,Up to date and in line with contractual agreements or within 30 days’ arrears
+2,Watch,31 to 90 days overdue
+3,Substandard,91 to 180 days overdue
+,Doubtful,181 – 365 days overdue
+,Loss,Over 365 overdue

@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2022-pr-hy.pdf",
+  "page": 16,
+  "table_number": 1,
+  "title": "Financial",
+  "rows": 13,
+  "columns": [
+    "Growth Portfolio Assets",
+    "Sector",
+    "% of company\nowned",
+    "Initial Cost of\ninvestment\n(KES Mn)",
+    "Investment\nDate",
+    "Cash Distribution\nsince inception\n(KES Mn)",
+    "Cash\nDistribution\nApr -Sep 2021\n(KES Mn)",
+    "Net Cost of\nInvestement\n(KES Mn)",
+    "Carrying Value\n(KES Mn)\nSep 2021",
+    "Multiple on\nNet Cost\n(MOC)"
+  ],
+  "extracted_at": "2026-01-15T11:46:26.250712"
+}

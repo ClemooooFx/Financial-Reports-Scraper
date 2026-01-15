@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 69,
+  "table_number": 1,
+  "title": "Company statement of cash flows",
+  "rows": 7,
+  "columns": [
+    "2024\nKsh’000\n2,793,168\n441,736\n(54,944)\n(2,829)",
+    "2023\nKsh’000\n1,520,291\n1,074,912\n(5,734)\n-"
+  ],
+  "extracted_at": "2026-01-15T11:47:39.938453"
+}

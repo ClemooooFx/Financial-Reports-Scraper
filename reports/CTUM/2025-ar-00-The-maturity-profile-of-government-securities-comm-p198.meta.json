@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 198,
+  "table_number": 2,
+  "title": "The maturity profile of government securities, commercial papers and corporate bonds is set out below:",
+  "rows": 3,
+  "columns": [
+    "0-180 days\nKsh’000\n-\n-",
+    "181 days-\n1 year\nKsh’000\n-\n1,119,950",
+    "1-5 years\nKsh’000\n51,930\n-",
+    "Over\n5 years\nKsh’000\n7,807\n-",
+    "Total\nKsh’000\n59,737\n1,119,950\n1,179,687\n54,065\n959,822\n1,013,887"
+  ],
+  "extracted_at": "2026-01-15T11:48:31.697199"
+}

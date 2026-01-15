@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 128,
+  "table_number": 1,
+  "title": "Project name project Location/ Node Developer Category Status date Ksh’000",
+  "rows": 16,
+  "columns": [
+    "Project name",
+    "Type of\nproject",
+    "Location/ Node",
+    "Developer",
+    "Category",
+    "Status",
+    "Expected\ncompletion\ndate",
+    "Cost\nKsh’000"
+  ],
+  "extracted_at": "2026-01-15T11:47:39.960893"
+}
