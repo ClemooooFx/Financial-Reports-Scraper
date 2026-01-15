@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 205,
+  "table_number": 2,
+  "title": "CURRENCY TYPE USD GBP EURO JPY CHF ZAR OTHERS TOTAL",
+  "rows": 19,
+  "columns": [
+    "CURRENCY TYPE",
+    "USD",
+    "GBP",
+    "EURO",
+    "JPY",
+    "CHF",
+    "ZAR",
+    "OTHERS",
+    "TOTAL"
+  ],
+  "extracted_at": "2026-01-15T10:34:54.800752"
+}

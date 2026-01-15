@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 67,
+  "table_number": 1,
+  "title": "(KShs.) ▶ Diversified funding sources",
+  "rows": 19,
+  "columns": [
+    "Risk Key Risk Indicators Our Risk Mitigation\nCategory Risk Description\nSubcategory (Metrics) Strategies\nLiquidity Risk Funding risk Risk of the bank being ▶ Liquidity Coverage Ratio ▶ Robust liquidity risk\nunable to meet its short- (LCR) (%) management framework &\nterm funding obligations ▶ Net Stable Funding Ratio contingency funding plans\ndue to asset-liability (NSFR) (%) ▶ Active monitoring of\nmismatches or market ▶ Deposit run-off rate (%) funding positions & stress\ndisruptions. ▶ Funding gap analysis testing\n(KShs.) ▶ Diversified funding sources\n▶ Short-term funding across different maturities\nreliance (%)\nMarket Risk of being unable to ▶ Market liquidity ratio (%) ▶ Portfolio limits to maintain\nliquidity risk quickly convert assets into ▶ Proportion of illiquid adequate liquid assets\ncash without significant assets to total assets (%) ▶ Active monitoring of\nprice discounts during ▶ Value-at-Risk (VaR) market liquidity conditions\nmarket stress. (KShs.) via ALCO\n▶ Bid-ask spread widening ▶ Stress testing for market\n(%) shocks\nContagion Risk Risk that liquidity stress in ▶ Interbank exposure ratio ▶ Continuous assessment of\none institution or sector (%) interbank relationships &\nspreads across financial ▶ Number of systemic exposure\nmarkets, impacting interconnected ▶ Strict interbank lending\nthe bank's funding and counterparties limits & counterparty risk\nsolvency. ▶ External credit rating controls\nmovements\n▶ Systemic risk indicators (%)\nMarket Risk Interest rate Risk of adverse impact ▶ Interest rate gap (KShs.) ▶ Comprehensive interest\nrisk on earnings and asset ▶ E arnings-at-Risk (EaR) rate risk management\nvaluations due to changes (KShs.) framework\nin interest rates. ▶ Duration analysis ▶ IRR limits, GAP & duration\n(months/%) analysis\n▶ Net Interest Margin ▶ Sensitivity analysis & stress\ntesting\n▶ Funds Transfer Pricing\n(FTP) mechanism\nCurrency risk Risk of financial loss due ▶ Net open FX position ▶ FX exposure limits &\nto fluctuations in foreign (KShs.) monitoring framework\nexchange rates affecting ▶ Currency VaR (KShs.) ▶ Separation of front/back-\nassets, liabilities, and ▶ FX profit/loss variance office tasks\nearnings (%) ▶ VaR calculation & back-\n▶ FX exposure limit breaches testing\n▶ Skilled staff & technology\nfor currency management\nEquity risk Fluctuations in equity ▶ Equity exposure (KShs.) ▶ Clear risk limits &\nprices—whether foreign ▶ Net open positions continuous monitoring\nor domestic—could erode ▶ Equity VaR (KShs.) ▶ Periodic valuation checks\nportfolio value. ▶ Portfolio volatility (%) on equity holdings\nOperational Cybersecurity Risk of financial and ▶ Number of cyber ▶ Advanced cybersecurity\nRisk risk reputational loss due incidents framework & threat\nto cyberattacks, data ▶ Data breach impact intelligence monitoring\nbreaches, or IT system (KShs.) ▶ Regular penetration testing\nfailures. ▶ System downtime (hours) & security training for",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T10:36:21.742382"
+}
