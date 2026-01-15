@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2008-ar-00.pdf",
+  "page": 42,
+  "table_number": 1,
+  "title": "equity plus net debt as shown below:",
+  "rows": 2,
+  "columns": [
+    "Column",
+    "2008\nShs m\n137.8\n(1,306.3)",
+    "Column",
+    "2008\nShs m\n-\n(1,216.1)",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T23:16:00.829778"
+}
