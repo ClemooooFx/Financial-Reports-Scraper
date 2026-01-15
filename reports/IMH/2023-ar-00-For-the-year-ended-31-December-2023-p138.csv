@@ -1,0 +1,7 @@
+Services,Weighting,Column,Column,Column
+,"Coefficient/
+sensitivity",Base,Upside,Downside
+,,%,%,%
+Weighting,,58.3%,29.7%,12.0%
+Interbank rate,170.852,7.26%,7.00%,7.52%
+Constant rate,(7.788),,,

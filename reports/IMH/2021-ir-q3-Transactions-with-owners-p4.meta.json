@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2021-ir-q3.pdf",
+  "page": 4,
+  "table_number": 1,
+  "title": "Transactions with owners:",
+  "rows": 34,
+  "columns": [
+    "9 months period to 30 September 2021",
+    "Share\ncapital\nKshs '000'\n8 26,811\n-\n-",
+    "Share\npremium\nKshs '000'\n1 8,390,507\n-\n-",
+    "Revaluation\nreserve\nKshs '000'\n9 29,217\n-\n-",
+    "Fair value\nReserve\nKshs '000'\n( 36,599)\n-\n( 545,622)",
+    "Statutory loans\nreserve\nKshs '000'\n5 ,867,908\n-\n1 ,715,750",
+    "Retirement\nreserve\nKshs '000'\n( 138,561)\n-\n2 6,991",
+    "Total\nreserve\nKshs '000'",
+    "Retained\nearnings\nKshs '000'\n3 9,610,553\n5 ,447,184\n( 1,716,487)",
+    "Translation\nreserve\nKshs '000'\n( 1,260,493)\n-\n( 225,290)",
+    "Total\nKshs '000'",
+    "Non controlling\ninterest\nKshs '000'\n3 ,873,796\n2 90,806\n1 5,786",
+    "Total\nKshs '000'"
+  ],
+  "extracted_at": "2026-01-15T18:03:44.530021"
+}

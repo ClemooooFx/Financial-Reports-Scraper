@@ -1,0 +1,23 @@
+Category,Classification,Financial statement caption,Class
+Financial assets,Fair value through profit or loss,Financial assets at fair value through profit or loss,"Debt securities
+Derivative assets"
+,Amortised cost,Loans and advances to banks,
+,,Due from group companies,
+,,Loans and advances to customers,
+,,Other assets,
+,,Cash and balances with Central Bank of Kenya,
+,"Fair value through other
+comprehensive income","Fiancial assets at fair value through other
+comprehensive income","Investment securities
+designated at FVOCI"
+Financial liabilities,"Financial Liabilities at amortised
+cost",Deposits from banks,
+,,Deposits from customers,
+,,Borrowings,
+,,Due to group companies,
+,,Other liabilities,
+,Fair value through profit or loss,Financial assets at fair value through profit or loss,Derivative liabilities
+"Off-balance sheet
+financial
+instruments","Loan commitments
+Guarantees, acceptances and other financial liabilities",,

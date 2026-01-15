@@ -1,0 +1,67 @@
+Expected credit losses on loans and advances at amortised cost in the consolidated financial statements,Column
+"The disclosure associated with credit risk is set out in the financial statements in the following notes:
+• Note 3 (f) (iii) – Material accounting policies, Impairment on financial assets
+• Note 4 (a) – Financial risk management, Credit risk
+• Note 20 (b) – Impairment loss on loans and advances and other financial assets at amortised costs",
+The key audit matter,How the matter was addressed in our audit
+"Subjective Estimate
+The estimation of expected credit losses (“ECL”) on loans and
+advances and off-balance sheet elements, involves significant
+judgement and estimates. The key areas where we identified
+greater levels of management judgement in the Group’s financial
+statements and therefore increased levels of audit focus in the
+estimation of ECLs are:
+• Forward looking Information – IFRS 9 Financial Instruments
+(IFRS 9) requires the Group to measure ECLs on a forward-
+looking basis reflecting a range of future economic conditions.
+Significant management judgement is applied in determining
+the macroeconomic information used and the probability
+weightings applied.
+• Significant increase in credit risk (“SICR”) – the criteria selected
+to identify a significant increase in credit risk is a key area of
+judgement within the Group’s ECL calculation as these criteria
+determine whether a 12 month or lifetime provision is recorded.
+• Model estimations – inherently judgemental modelling is used
+to estimate ECL which involves determining probabilities of
+default (“PD”), based on historical loan performance data and
+loss given default (“LGD”) estimated based on historical default
+experience and exposures at default (“EAD”). The PD and LGD
+models are a key driver of complexity in the Group’s and Bank’s
+ECL modelling approach.
+We determined that the impairment of loans and advances to
+customers to be a key audit matter due to the high degree of
+estimation uncertainty and significant judgement applied by
+management in determination of ECL.","Our procedures in this area included:
+• Performing process walk-throughs to identify the key systems, applications and controls
+used in the ECL processes. We tested the relevant general IT and applications controls
+over key systems used in the ECL process. This included testing the design and operating
+effectiveness of the key controls over the staging criteria and completeness and accuracy of
+the key inputs and assumptions into the IFRS 9 impairment models.
+• Evaluating key aspects of the ECL model by:
+҇ Selecting a sample of outstanding loans from the Group’s loan book and comparing these
+to the details in the customers’ credit files in order to establish whether facilities are
+correctly staged/classified and valued based on IFRS 9 as well as regulatory considerations;
+҇ For a sample of key data inputs and assumptions applied in the determination of ECL,
+assessing for accuracy of economic forecasts and challenging PD assumptions applied by
+involving our internal specialists in the reperformance of the economic forecasts and PD
+calculations;
+҇ Evaluating the appropriateness of the Group’s assessment of the SICR criteria used by
+assessing the qualitative factors such as increasing operating risks in some sectors by
+evaluating the increase in costs of raw materials, labour costs and regulatory compliance
+costs that squeeze profit margins and quantitative factors such as days past due by re-
+aging of the loans to assess accuracy of the classification of the loans into stage 1, 2 and 3;
+҇ Assessing the appropriateness of parameters used in the impairment models in regards to
+the probability PDs, LGDs, and EADs by considering the local economic conditions; and
+҇ Evaluating management’s basis for establishing Stage 3 impairment amounts. This includes
+challenging reasonability of management assumptions on cashflow projections and time
+to realization for a sample of facilities by assessing the valuations of related collateral and
+recomputing the discounted amounts given time to realise the collateral.
+• Involving our internal financial risk modelling specialists to:
+҇ Assess the Group’s methodology for determining the macro-economic scenarios used in
+the forward looking information by challenging the probability weightings applied to the
+scenarios.
+҇ Assess the key economic variables used, including agreeing samples of economic variables
+to external sources, as well as the overall reasonableness of the economic forecasts by
+comparing the Group’s forecasts to our own modelled forecasts.
+• Evaluating the adequacy of the financial statements disclosures, including disclosures of
+key assumptions and judgements in accordance with IFRS 9."
