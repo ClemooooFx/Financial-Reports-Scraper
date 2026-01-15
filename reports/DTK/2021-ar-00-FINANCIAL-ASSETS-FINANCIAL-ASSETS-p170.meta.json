@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 170,
+  "table_number": 1,
+  "title": "FINANCIAL ASSETS FINANCIAL ASSETS",
+  "rows": 21,
+  "columns": [
+    "USD",
+    "GBP",
+    "EURO",
+    "OTHERS",
+    "TOTAL"
+  ],
+  "extracted_at": "2026-01-15T13:40:45.560704"
+}

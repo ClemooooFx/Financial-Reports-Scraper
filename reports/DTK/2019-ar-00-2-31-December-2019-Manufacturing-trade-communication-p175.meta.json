@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2019-ar-00-2.pdf",
+  "page": 175,
+  "table_number": 2,
+  "title": "31 December 2019 Manufacturing trade communications services Agriculture & real estate housing hotels Individuals Others Total",
+  "rows": 14,
+  "columns": [
+    "Manufacturing",
+    "Wholesale\nand retail\ntrade",
+    "Transport and\ncommunications",
+    "Business &\nfinancial\nservices",
+    "Agriculture",
+    "Building,\nconstruction\n& real estate",
+    "Retail\nhousing",
+    "Tourism and\nhotels",
+    "Individuals",
+    "Others",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T13:35:55.214066"
+}

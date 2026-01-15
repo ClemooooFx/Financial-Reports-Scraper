@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 164,
+  "table_number": 1,
+  "title": "trade services and real estate",
+  "rows": 9,
+  "columns": [
+    "Manufacturing",
+    "Wholesale\nand retail\ntrade",
+    "Transport and\ncommunications",
+    "Business\nand financial\nservices",
+    "Agriculture",
+    "Building and\nconstruction\nand real estate",
+    "Retail\nhousing",
+    "Tourism and\nhotels",
+    "Individuals",
+    "Others",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T13:40:45.557258"
+}
