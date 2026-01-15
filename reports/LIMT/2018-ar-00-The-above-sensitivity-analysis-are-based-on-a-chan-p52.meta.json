@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 52,
+  "table_number": 1,
+  "title": "The above sensitivity analysis are based on a change in an assumption while holding all other assumptions constant. In",
+  "rows": 3,
+  "columns": [
+    "2017:",
+    "Base\nassumptions\nShs ‘millions’",
+    "Discount rate\n+ 0.5%\nShs ‘ millions’",
+    "Discount rate\n- 0.5%\nShs ‘ millions’",
+    "Salary increase\n+ 0.5%\nShs ‘ millions’",
+    "Salary increase\n- 0.5%\nShs ‘ millions’"
+  ],
+  "extracted_at": "2026-01-15T21:52:43.020961"
+}
