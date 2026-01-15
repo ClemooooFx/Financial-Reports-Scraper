@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 60,
+  "table_number": 3,
+  "title": "(cid:58)(cid:76)(cid:75)(cid:75)(cid:80)(cid:88)(cid:3)(cid:47)(cid:72)(cid:90)(cid:90)(cid:72)(cid:85)(cid:80)(cid:19)(cid:3)(cid:53)(cid:80)(cid:74)(cid:86)(cid:83)(cid:72)(cid:90)(cid:3)(cid:46)(cid:76)(cid:86)(cid:89)(cid:78)(cid:76)(cid:19)(cid:3)(cid:52)(cid:73)(cid:92)(cid:93)(cid:80)(cid:3)(cid:53)(cid:78)(cid:92)(cid:85)(cid:97)(cid:76)(cid:3)(cid:72)(cid:85)(cid:75)(cid:3)(cid:46)(cid:89)(cid:72)(cid:74)(cid:76)(cid:3)(cid:54)(cid:83)(cid:92)(cid:86)(cid:74)(cid:79)(cid:3)(cid:94)(cid:76)(cid:89)(cid:76)(cid:3)(cid:72)(cid:87)(cid:87)(cid:86)(cid:80)(cid:85)(cid:91)(cid:76)(cid:75)(cid:3)(cid:75)(cid:92)(cid:89)(cid:80)(cid:85)(cid:78)(cid:3)(cid:91)(cid:79)(cid:76)(cid:3)(cid:96)(cid:76)(cid:72)(cid:89)(cid:21)(cid:3)(cid:3)(cid:61)(cid:72)(cid:90)(cid:80)(cid:83)(cid:76)(cid:80)(cid:86)(cid:90)(cid:3)(cid:50)(cid:72)(cid:89)(cid:72)(cid:83)(cid:80)(cid:90)(cid:3)(cid:94)(cid:72)(cid:90)(cid:3)",
+  "rows": 4,
+  "columns": [
+    "Name",
+    "Date of Contract",
+    "Duration",
+    "Notice Period"
+  ],
+  "extracted_at": "2026-01-15T05:14:48.323763"
+}

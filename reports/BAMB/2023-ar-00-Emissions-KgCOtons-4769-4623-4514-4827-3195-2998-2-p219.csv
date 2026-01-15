@@ -1,0 +1,46 @@
+"CO and Energy
+2",Column,KENYA,Column,Column,Column,UGANDA,Column,Column,Column
+,Unit,2020,2021,2022,2023,2020,2021,2022,2023
+Scope 1: Material and Fuel,,,,,,,,,
+"Specific Gross CO
+2
+Emissions","KgCO/tons
+2",476.9,462.3,451.4,482.7,319.5,299.8,291.8,325.3
+"Specific Net CO
+2
+Emissions","KgCO/tons
+2",467.3,452.8,437.9,469.4,309,293.2,283.8,313.2
+"Recycled Waste in
+Cement",tons,"120,180","117,439","55,027","45,957","157,754","150,893","143,561","129, 942"
+Scope 2: Electricity,,,,,,,,,
+"Absolute CO Emissions
+2",tons ('000),42.4,43.7,34.1,,11,12.5,14.2,15
+"Specific CO Emissions
+2","KgCO/tons
+2",24.4,22.7,22.5,23.18,12.3,13.2,16.8,17
+Scope 3: Transportation (Downstream),,,,,,,,,
+"Absolute CO Emissions
+2",tons ('000),136,131,67.1,42.6,40,44,40.6,55.7
+"Specific CO Emissions
+2","Kg CO/ tons
+2
+transported",39,35.4,25.0,33.2,37.1,37.2,43.4,23.6
+"Nature (Biodiversity
+& Water)",,KENYA,,,,UGANDA,,,
+,Unit,2020,2021,2022,2023,2020,2021,2022,2023
+Active Quarries,# Sites,3,3,7,7,5,5,4,4
+"Quarries assessed using
+BIRS methodology",# Sites,5,5,5,5,0,0,0,0
+"Quarries with Rehabilita-
+tion Plans in place",# Sites,5,5,7,7,4,5,5,5
+Total Rehabilitated area,Ha,325,334,360,,64,70,70,79
+"Total Freshwater
+Withdrawal",m3,"166,179","160,406","118,144",,"39,000","243,000","163,045","143,818"
+Health and Safety,,KENYA,,,,UGANDA,,,
+,Unit,2020,2021,2022,2023,2020,2021,2022,2023
+"Total Injury Frequency
+Rate (TIFR)",#,1,1.72,0,0.37,0.62,0,5.19,0
+"Lost Time Injury Frequen-
+cy Rate (LTIFR)",#,0.36,0.69,0,1,0,0,2.89,0
+"Boots on the Ground
+(Time in Field)",Hours,N/A,"56,257","93,650","90,044",N/A,"4,493","37,341","50,836"

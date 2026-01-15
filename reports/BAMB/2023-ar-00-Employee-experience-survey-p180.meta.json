@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 180,
+  "table_number": 1,
+  "title": "Employee experience survey",
+  "rows": 5,
+  "columns": [
+    "Stakeholder Group",
+    "Engagement Platform"
+  ],
+  "extracted_at": "2026-01-15T05:17:28.070247"
+}

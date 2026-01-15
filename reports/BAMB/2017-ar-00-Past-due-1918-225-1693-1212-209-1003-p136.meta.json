@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2017-ar-00.pdf",
+  "page": 136,
+  "table_number": 5,
+  "title": "Past due 1,918 225 1,693 1,212 209 1,003",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Neither past",
+    "Past due but not impaired",
+    "Column",
+    "Column",
+    "Column",
+    "Impaired"
+  ],
+  "extracted_at": "2026-01-15T05:14:20.044049"
+}

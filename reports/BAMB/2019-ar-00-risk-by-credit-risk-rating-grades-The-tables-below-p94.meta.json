@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 94,
+  "table_number": 4,
+  "title": "risk by credit risk rating grades: The tables below detail the credit quality of the Company’s financial assets and the Company’s maximum exposure to",
+  "rows": 7,
+  "columns": [
+    "Note",
+    "External\ncredit\nrating",
+    "Internal\ncredit\nrating",
+    "12-month or\nlifetime ECL",
+    "Gross\ncarrying\namount",
+    "Loss\nallowance",
+    "Net\nCarrying\nAmount"
+  ],
+  "extracted_at": "2026-01-15T05:15:14.676968"
+}
