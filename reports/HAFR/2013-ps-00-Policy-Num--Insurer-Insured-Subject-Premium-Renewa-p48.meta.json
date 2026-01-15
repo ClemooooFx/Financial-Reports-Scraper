@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2013-ps-00.pdf",
+  "page": 48,
+  "table_number": 2,
+  "title": "Policy Num- Insurer Insured Subject Premium Renewal",
+  "rows": 4,
+  "columns": [
+    "Policy Num-\nber",
+    "Insurer",
+    "Insured",
+    "Subject",
+    "Premium",
+    "Renewal"
+  ],
+  "extracted_at": "2026-01-15T17:08:56.393560"
+}
