@@ -1,0 +1,12 @@
+Category,Description,"Basis for recognizing ex-
+pected credit losses"
+Performing,"The counterparty has a low risk of default and does not have any past-
+due amounts.",Lifetime ECL
+Doubtful,"Amount is past due or there has been a signifi cant increase in credit risk
+since initial recognition.","Lifetime ECL – not credit
+impaired"
+In default,"Amount is >360 days past due or there is evidence indicating the asset is
+credit-impaired.","Lifetime ECL – credit im-
+paired"
+Write off,"There is evidence indicating that the debtor is in severe fi nancial diffi cul-
+ty and the Group has no realistic prospect of recovery.",Amount is written off
