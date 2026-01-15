@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 70,
+  "table_number": 4,
+  "title": "24,301,721 48,603,442 (14,344,932)",
+  "rows": 19,
+  "columns": [
+    "Subsidiary\ncompanies",
+    "Bank Debt\nloans",
+    "< 1 year",
+    ">1 year <\n2 years",
+    ">2 years <\n3 years",
+    "> 3 years",
+    "Interco debt"
+  ],
+  "extracted_at": "2026-01-15T17:01:26.866827"
+}
