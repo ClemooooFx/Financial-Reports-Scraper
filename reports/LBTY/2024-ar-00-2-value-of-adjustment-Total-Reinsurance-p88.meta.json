@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00-2.pdf",
+  "page": 88,
+  "table_number": 1,
+  "title": "value of adjustment Total Reinsurance",
+  "rows": 15,
+  "columns": [
+    "Excluding\nloss\ncomponent",
+    "Loss\ncomponent",
+    "Total\nARC",
+    "Present\nvalue of\nfuture\ncash\nflows",
+    "Risk\nadjustment\nfor non-\nfinancial\nrisk",
+    "Total\nARIC",
+    "Total Reinsurance\nGeneral medical\nmeasured under\nPAA"
+  ],
+  "extracted_at": "2026-01-15T21:38:37.229350"
+}

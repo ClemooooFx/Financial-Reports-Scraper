@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 106,
+  "table_number": 2,
+  "title": "Issued share capital",
+  "rows": 11,
+  "columns": [
+    "Life\ninsurance\ncontracts\nmeasured\nunder\nGMM",
+    "Life\ninsurance\ncontracts\nmeasured\nunder PAA",
+    "Life\nparticipating\ncontracts\nmeasured\nunder VFA",
+    "Investment\ncontracts\nwith DPF",
+    "General\ninsurance\nnon-\nmedical\nmeasured\nunder PAA",
+    "General\ninsurance\nmedical\nmeasured\nunder PAA",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T21:39:01.178484"
+}

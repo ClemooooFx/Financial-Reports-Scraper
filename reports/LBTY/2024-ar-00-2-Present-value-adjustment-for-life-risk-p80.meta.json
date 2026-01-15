@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2024-ar-00-2.pdf",
+  "page": 80,
+  "table_number": 1,
+  "title": "Present value adjustment for life risk",
+  "rows": 28,
+  "columns": [
+    "Present value\nof future cash\nflows",
+    "Risk\nadjustment for\nnon-financial\nrisk",
+    "CSM",
+    "Total\nreinsurance\nlife risk\nmeasured\nunder GMM"
+  ],
+  "extracted_at": "2026-01-15T21:38:37.227200"
+}
