@@ -1,0 +1,6 @@
+class,minimum provisions required
+normal (between 31-60 days),0%
+watch list (between 61- 90 days),0%
+substandard (between 90-180 days),20%
+Doubtful (between 180-360 days),50%
+Loss (over 360 days),100%

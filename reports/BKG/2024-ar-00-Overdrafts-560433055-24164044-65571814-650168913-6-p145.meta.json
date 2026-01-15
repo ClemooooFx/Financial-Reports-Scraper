@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 145,
+  "table_number": 1,
+  "title": "Overdrafts 560,433,055 24,164,044 65,571,814 650,168,913 (65,141,537) 585,027,376 201,439,713 383,587,663",
+  "rows": 18,
+  "columns": [
+    "Corporate",
+    "Stage 1",
+    "Stage 2",
+    "Stage 3",
+    "Gross Loans",
+    "Impairment\nallowance",
+    "Maximum\nexposure to\ncredit risk",
+    "Fair value\nof collateral",
+    "Net exposure/\nsurplus\ncollateral"
+  ],
+  "extracted_at": "2026-01-15T05:55:51.170012"
+}

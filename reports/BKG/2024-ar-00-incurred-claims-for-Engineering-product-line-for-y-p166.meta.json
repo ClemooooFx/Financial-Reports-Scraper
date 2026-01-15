@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 166,
+  "table_number": 1,
+  "title": "incurred claims for Engineering product line for year end 2024, is disclosed in the table below:",
+  "rows": 21,
+  "columns": [
+    "Name",
+    "Lfic Ra",
+    "Lfic Be",
+    "Lfrc Excl Loss\nComponent",
+    "Loss\nComponent",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T05:55:51.177381"
+}

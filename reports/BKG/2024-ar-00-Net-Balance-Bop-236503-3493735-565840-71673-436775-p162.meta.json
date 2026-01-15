@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 162,
+  "table_number": 1,
+  "title": "Net Balance Bop 236,503 3,493,735 565,840 71,673 4,367,751",
+  "rows": 21,
+  "columns": [
+    "Name",
+    "Lfic Ra",
+    "Lfic Be",
+    "Lfrc Excl Loss\nComponent",
+    "Loss\nComponent",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T05:55:51.175037"
+}

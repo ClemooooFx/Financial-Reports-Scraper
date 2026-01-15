@@ -1,0 +1,41 @@
+Column,Column,31/03/2011,31/03/2010,31/12/2010
+,,rwf ‘000,rwf ‘000,rwf ‘000
+11,Interest and similar income,,,
+,Interest on ordinary accounts with banks,"3,733","7,008","12,019"
+,"Interest received from pension, borrowings and other debtors","191,441","251,308","920,027"
+,Income from transactions with other banks,"6,316","5,998","24,611"
+,Interest on overdrawn accounts,"687,051","342,722","1,966,020"
+,Interest on overdrafts,"743,562","638,209","2,878,594"
+,Interest on equipment loans,"519,297","308,352","891,336"
+,Interest on consumer loans,"466,018","334,713","1,392,333"
+,Interest on mortgage loans,"1,123,841","1,075,170","4,691,951"
+,Interest on other loans to customers,"879,960","567,641","2,880,673"
+,Interest on assets held to maturity,"155,327","291,037","735,787"
+,total,"4,776,546","3,822,158","16,393,351"
+12,Interest and similar expense,,,
+,Interest on transactions with other banks,"25,568","39,875","307,981"
+,Interest on current accounts,"39,030","22,496","132,834"
+,Interest on fixed deposits,"1,078,623","984,165","3,741,851"
+,total,"1,143,221","1,046,536","4,182,666"
+13,Loan loss provision,,,
+,specific provisions for doubtful debts,"1,157,651","1,538,230","6,074,342"
+,write back of provisions for doubtful debts,"(550,525)","(321,645)","(3,112,362)"
+,write back on irrecoverable loans,"(144,538)","(13,560)","(585,699)"
+,total,"462,588","1,203,025","2,376,281"
+14,Fees and commission income,,,
+,Commissions on operation of accounts,"102,902","65,486","315,431"
+,Commissions on payment facilities,"251,621","205,098","930,897"
+,Commissions on loan service,"184,479","139,470","781,235"
+,other fees from services,"88,793","49,710","247,693"
+,Commissions received from financing commitment,"187,015","167,367","181,554"
+,Commissions received from guarantees commitment,-,-,"540,610"
+,total,"814,810","627,131","2,997,420"
+15,Foreign exchange gains,,,
+,Gain of foreign exchange dealings,"1,706,987","1,045,519","5,247,543"
+16,other income,,,
+,other income from banking activities,"55,700","40,569","203,212"
+,Dividend received,-,-,"10,477"
+,Gain on disposal of fixed assets,-,-,271
+,Rental income,"83,865","55,674","212,556"
+,other non banking income,"80,295","50,599","264,865"
+,total,"219,860","146,842","691,381"

@@ -1,0 +1,29 @@
+Measure,Definitions
+Return on Average Assets (ROAA),"Calculated as net income for the period divided by average total assets over the same
+period."
+Return on Average Equity (ROAE),"Calculated as net income for the period divided by average total shareholders' equity
+over the same period"
+Average Interest-Earning Assets,"Computed quarterly and include cash and balances with banks, treasury instruments,
+and net loans to clients"
+Net Interest Margin (NIM),Net interest income for the period divided by average interest-earning assets
+Cost of Funds,Interest expense for the period divided by average interest-bearing liabilities
+Total Operating Income,Sum of net interest income and non-interest income for the period
+Operating Costs,Include total recurring operating expenses and bonuses (both paid and accrued)
+Cost-to-Income Ratio,"Total recurring operating costs plus bonuses (paid and accrued), divided by total
+operating income"
+Personnel Costs to Operating Costs,Staff costs and bonuses (paid and accrued) divided by total recurring operating costs
+Personnel Costs to Average Assets,Staff costs and bonuses (paid and accrued) divided by average total assets
+Client Deposits,"Comprise deposits from corporates, financial institutions, and retail clients"
+Liquid Assets,"Include cash, balances with the National Bank of Rwanda, balances with other banks,
+treasury instruments, and other fixed income securities"
+Total Deposits,The sum of interbank deposits and client deposits
+Shareholders’ Equity,Represents total shareholders’ equity at the reporting date
+Non-Performing Loans (NPLs),Loans classified as overdue by more than 90 days
+Large Exposures,"Loans or credit exposures that, in aggregate, exceed 10% of core capital"
+Cost of Risk,"Net provision for loan losses, plus provisions (or net recoveries) on other assets, divided
+by average gross loans to clients"
+Total Capital Adequacy Ratio (CAR),"Total qualifying capital at period end divided by total risk-weighted assets, in line with
+National Bank of Rwanda regulations"
+Y-o-Y,Year-on-year comparison based on values denominated in Rwandan Francs (RWF)
+Q-o-Q,Quarter-on-quarter comparison based on RWF values
+YE,Refers to year-end figures as at 31 December

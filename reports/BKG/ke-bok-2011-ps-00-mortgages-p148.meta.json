@@ -1,0 +1,17 @@
+{
+  "source_pdf": "ke-bok-2011-ps-00.pdf",
+  "page": 148,
+  "table_number": 2,
+  "title": "mortgages",
+  "rows": 5,
+  "columns": [
+    "Column",
+    "Column",
+    "Column",
+    "Amount owed by\nrelated parties",
+    "Amount owed to\nrelated parties",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T05:57:23.689474"
+}

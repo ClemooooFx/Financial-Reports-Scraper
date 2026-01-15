@@ -1,0 +1,37 @@
+Column,Column,2010,2009,2008
+,,RwF 000,RwF 000,RwF 000
+17.,Interest and similar income,,,
+,Interest on ordinary accounts with banks,"12,019","67,140","617,421"
+,Interest received from reverse repurchase agreements,"920,027","555,955","204,824"
+,Income from transactions with other banks,"24,611","26,775","19,797"
+,Interest on overdrawn accounts,"1,966,020","2,753,111","1,796,046"
+,Interest on overdrafts,"2,878,594","2,205,933","1,633,235"
+,Interest on equipment loans,"891,336","630,343","509,751"
+,Interest on consumer loans,"1,392,333","1,001,433","897,942"
+,Interest on mortgage loans,"4,691,951","3,360,263","2,443,230"
+,Interest on other loans to customers,"2,880,673","2,398,864","2,225,866"
+,Interest on assets held to maturity,"735,787","607,039","689,854"
+,total,"16,393,351","13,606,856","11,037,966"
+18.,Interest and similar expense,,,
+,Interest on transactions with other banks,"307,981","141,760","63,742"
+,Interest on current accounts,"132,834","97,982","252,596"
+,Interest on fixed term deposits,"3,741,851","3,169,732","1,543,593"
+,total,"4,182,666","3,409,474","1,859,931"
+19.,Fees and commissions income,,,
+,Commissions on operation of accounts,"315,431","216,827","194,017"
+,Commissions on payment facilities,"930,897","768,181","681,461"
+,Commissions on loan service,"781,235","134,891","104,272"
+,other fees from services,"247,693","217,723","205,658"
+,Commissions received from financing commitments,"181,554","193,919","404,731"
+,Commissions received from guarantees commitments,"540,610","337,592",-
+,total,"2,997,420","1,869,133","1,590,139"
+20.,Foreign exchange gains,,,
+,Gain on foreign exchange dealings,"5,247,543","3,335,299","2,584,758"
+21.,other income,,,
+,other income from banking activities,"203,212","225,284","224,626"
+,Reversal of loss provision on available-for-sale investments,-,-,"166,400"
+,Dividend received,"10,477",-,"48,576"
+,Gain on disposal of fixed assets,271,-,-
+,Rental income,"212,556","202,671","219,323"
+,other non banking income,"264,865","170,694","162,151"
+,total,"691,381","598,649","821,076"
