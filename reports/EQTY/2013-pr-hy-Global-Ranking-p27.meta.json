@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2013-pr-hy.pdf",
+  "page": 27,
+  "table_number": 1,
+  "title": "Global Ranking",
+  "rows": 1,
+  "columns": [
+    "Column",
+    "Tier 1 Capital",
+    "Asset Size",
+    "Soundness\n(Capital Asset\nRatio)",
+    "Capital\nDeployment\nEfficiency",
+    "Asset\nDeployment\nEfficiency"
+  ],
+  "extracted_at": "2026-01-15T14:51:05.264035"
+}

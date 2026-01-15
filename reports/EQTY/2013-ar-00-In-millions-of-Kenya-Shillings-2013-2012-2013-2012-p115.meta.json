@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2013-ar-00.pdf",
+  "page": 115,
+  "table_number": 2,
+  "title": "In millions of Kenya Shillings 2013 2012 2013 2012",
+  "rows": 21,
+  "columns": [
+    "UGX",
+    "USD",
+    "SSP",
+    "GBP",
+    "Euro",
+    "ZAR",
+    "JPY",
+    "Others",
+    "Tota"
+  ],
+  "extracted_at": "2026-01-15T14:50:53.899523"
+}

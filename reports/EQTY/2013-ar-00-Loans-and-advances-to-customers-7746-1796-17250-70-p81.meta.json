@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2013-ar-00.pdf",
+  "page": 81,
+  "table_number": 1,
+  "title": "Loans and advances to customers 7,746 1,796 17,250 70,644 80,030 177,466",
+  "rows": 11,
+  "columns": [
+    "Less than 3\nMonths",
+    "3-6\nMonths",
+    "6-12\nMonths",
+    "1-5 Years",
+    "More than\n5 years",
+    "Totals"
+  ],
+  "extracted_at": "2026-01-15T14:50:53.870472"
+}
