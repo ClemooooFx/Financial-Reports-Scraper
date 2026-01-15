@@ -1,0 +1,11 @@
+{
+  "source_pdf": "2019-pr-q1.pdf",
+  "page": 45,
+  "table_number": 1,
+  "title": "Liabilities & Capital",
+  "rows": 1,
+  "columns": [
+    "Balance Sheet\nKES (Billion) GROUP\nQ1 2018 Q1 2019 Growth\nAssets\nNet Loans 271.1 305.5 13%\nCash & Cash Equivalents 67.8 84.7 25%\nGovernment Securities 150.2 169.7 13%\nOther Assets 38.7 45.8 18%\nTotal Assets 527.8 605.7 15%\nLiabilities & Capital\nDeposits 382.4 428.5 12%\nBorrowed Funds 48.9 54.6 12%\nOther Liabilities 14.3 27.1 89%\nShareholder’s Funds 82.1 95.4 16%\nTotal Liabilities & Capital 527.8 605.7 15%"
+  ],
+  "extracted_at": "2026-01-15T16:06:30.188095"
+}

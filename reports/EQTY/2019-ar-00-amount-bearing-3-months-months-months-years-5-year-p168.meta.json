@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 168,
+  "table_number": 3,
+  "title": "amount bearing 3 months months months years 5 years",
+  "rows": 1,
+  "columns": [
+    "Column",
+    "Carrying\namount",
+    "Non-interest\nbearing",
+    "Less than\n3 months",
+    "3-6\nmonths",
+    "6-12\nmonths",
+    "1-5\nyears",
+    "More than\n5 years"
+  ],
+  "extracted_at": "2026-01-15T16:05:46.957557"
+}

@@ -1,0 +1,24 @@
+{
+  "source_pdf": "2020-pr-00.pdf",
+  "page": 27,
+  "table_number": 1,
+  "title": "YoY Growth 12% 24% 41% 9% 265% 40% 60% 53%",
+  "rows": 1,
+  "columns": [
+    "Dec 2020",
+    "EBTL",
+    "EBRL",
+    "EBUL",
+    "EBSS",
+    "Equity\nBCDC",
+    "EIA",
+    "EIB",
+    "Finserve",
+    "Other Subs Total\n(% Contribution)",
+    "EBKL\n(% Contribution)",
+    "Group\n(% growth)",
+    "Other Subs\nContribution\nDec 2020",
+    "Other Subs\nContribution\nDec 2019"
+  ],
+  "extracted_at": "2026-01-15T16:07:26.715640"
+}

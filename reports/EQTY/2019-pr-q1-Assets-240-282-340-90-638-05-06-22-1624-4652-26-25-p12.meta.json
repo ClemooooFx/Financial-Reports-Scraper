@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2019-pr-q1.pdf",
+  "page": 12,
+  "table_number": 2,
+  "title": "Assets 24.0 28.2 34.0 9.0 63.8 0.5 0.6 2.2 162.4 465.2 26% 25%",
+  "rows": 1,
+  "columns": [
+    "Column",
+    "TZ",
+    "RW",
+    "UG",
+    "SS",
+    "DRC",
+    "EIA",
+    "EIB",
+    "Finserve",
+    "Subsidiaries\nTotal/Growth",
+    "EBKL\nTotal/Growth",
+    "Regional\nContribution\nQ1 2019",
+    "Regional\nContribution\nQ1 2018"
+  ],
+  "extracted_at": "2026-01-15T16:06:30.159353"
+}

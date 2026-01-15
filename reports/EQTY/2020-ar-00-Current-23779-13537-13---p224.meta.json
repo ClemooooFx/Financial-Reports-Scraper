@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 224,
+  "table_number": 3,
+  "title": "Current 23,779 13,537 13 -",
+  "rows": 2,
+  "columns": [
+    "Lender",
+    "Type of loan",
+    "Loan\nbalance",
+    "Security",
+    "Currency",
+    "Interest rate",
+    "Maturity\ndate",
+    "Finance cost\nrecognised in\nthe year"
+  ],
+  "extracted_at": "2026-01-15T16:07:06.937871"
+}
