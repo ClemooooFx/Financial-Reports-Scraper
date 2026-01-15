@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2010-pr-q3.pdf",
+  "page": 4,
+  "table_number": 1,
+  "title": "Commissions",
+  "rows": 8,
+  "columns": [
+    "Income Statement\n(%)\nKES Billions Sept 30, 10 Sept 30, 09\nChange\nNet Interest\n6.37 4.90 30%\nIncome\nFees and\n5.17 3.33 55%\nCommissions\nTotal Income 11.54 8.23 40%\nLoan Loss\n0.60 0.57 7%\nProvisions\nOperating\n6.56 4.81 36%\nExpenses\nProfit Before Tax 4.38 2.85 54%\n3.73 2.13 75%\nProfit After Tax",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T09:02:01.048501"
+}
