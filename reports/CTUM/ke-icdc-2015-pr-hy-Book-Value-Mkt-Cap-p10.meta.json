@@ -1,0 +1,26 @@
+{
+  "source_pdf": "ke-icdc-2015-pr-hy.pdf",
+  "page": 10,
+  "table_number": 2,
+  "title": "Book Value Mkt Cap",
+  "rows": 8,
+  "columns": [
+    "Column",
+    "44.6\n45\nBook Value Mkt Cap\n40\n35\n30\n24.3\n25\n20\n13.2\n15 13.0\n27.3\n9.8\n8.6 22.9\n10\n5.6 16.1\n12.6 13.7\n5\n9.2\n5.9\n0\n2009 2010 2011 2012 2013 2014 Sep-14\np (Bn) 5.6 8.6 13.0 9.8 13.2 24.3 44.6",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T13:05:56.708742"
+}

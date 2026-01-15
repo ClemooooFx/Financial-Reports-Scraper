@@ -1,0 +1,16 @@
+{
+  "source_pdf": "ke-icdc-2018-pr-hy.pdf",
+  "page": 19,
+  "table_number": 3,
+  "title": "% Stake Assets",
+  "rows": 5,
+  "columns": [
+    "Real Estate Portfolio\nCompanies",
+    "% Stake",
+    "NAV Per\nShare\nContribution\n(KES)",
+    "NAV Per\nShare\nContribution\n(%)",
+    "Entity Total\nAssets\n(KES Mn)",
+    "Entity Debt\n(KES Mn)"
+  ],
+  "extracted_at": "2026-01-15T13:07:38.474282"
+}
