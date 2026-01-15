@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 183,
+  "table_number": 1,
+  "title": "Amounts due from related",
+  "rows": 10,
+  "columns": [
+    "Less than 3\nmonths",
+    "3-6\nmonths",
+    "6-12\nmonths",
+    "1-5\nyears",
+    "Over 5\nyears",
+    "To"
+  ],
+  "extracted_at": "2026-01-15T16:14:40.240689"
+}

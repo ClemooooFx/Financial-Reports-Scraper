@@ -1,0 +1,25 @@
+{
+  "source_pdf": "2022-pr-q1.pdf",
+  "page": 23,
+  "table_number": 1,
+  "title": "YoY Growth 45% 47% 39% 16% 13% 42% 58% 14%",
+  "rows": 1,
+  "columns": [
+    "Q1 2O22",
+    "EBTL",
+    "EBRL",
+    "EBUL",
+    "EBSS",
+    "Equity\nBCDC",
+    "EBIL",
+    "EIB",
+    "Finserve",
+    "ELAK",
+    "Other Subs\nTotal (%\nContribution)",
+    "EBKL\n(%\nContribution)",
+    "Group\n(% growth)",
+    "Other Subs\nContribution\nQ1 2O22",
+    "Other Subs\nContribution\nQ1 2021"
+  ],
+  "extracted_at": "2026-01-15T16:16:13.916206"
+}

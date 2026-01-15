@@ -1,0 +1,24 @@
+{
+  "source_pdf": "2021-pr-q1.pdf",
+  "page": 25,
+  "table_number": 1,
+  "title": "YoY Growth 14% 10% 49% 37% 272% 40% 60% 58%",
+  "rows": 1,
+  "columns": [
+    "Q1 2021",
+    "EBTL",
+    "EBRL",
+    "EBUL",
+    "EBSS",
+    "Equity\nBCDC",
+    "EIA",
+    "EIB",
+    "Finserve",
+    "Other Subs\nTotal\n(% Contribution)",
+    "EBKL\n(% Contribution)",
+    "Group\n(% growth)",
+    "Other Subs\nContribution\nQ1 2021",
+    "Other Subs\nContribution\nQ1 2020"
+  ],
+  "extracted_at": "2026-01-15T16:13:36.612742"
+}

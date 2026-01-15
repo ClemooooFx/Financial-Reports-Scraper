@@ -1,0 +1,24 @@
+{
+  "source_pdf": "2021-pr-hy.pdf",
+  "page": 25,
+  "table_number": 1,
+  "title": "YoY Growth 10% 20% 45% 22% 282% 40% 60% 51%",
+  "rows": 18,
+  "columns": [
+    "H1 2021",
+    "EBTL",
+    "EBRL",
+    "EBUL",
+    "EBSS",
+    "Equity\nBCDC",
+    "EIA",
+    "EIB",
+    "Finserve",
+    "Other Subs Total\n(% Contribution)",
+    "EBKL\n(% Contribution)",
+    "Group\n(% growth)",
+    "Other Subs\nContribution\nH1 2021",
+    "Other Subs\nContribution\nH1 2020"
+  ],
+  "extracted_at": "2026-01-15T16:13:30.561376"
+}
