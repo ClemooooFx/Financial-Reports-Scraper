@@ -1,0 +1,17 @@
+{
+  "source_pdf": "ke-berg-2012-ar-00.pdf",
+  "page": 18,
+  "table_number": 1,
+  "title": "reserve",
+  "rows": 4,
+  "columns": [
+    "Note",
+    "Share",
+    "Share premium",
+    "Revaluation",
+    "Foreign",
+    "Retained",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T10:49:11.059942"
+}

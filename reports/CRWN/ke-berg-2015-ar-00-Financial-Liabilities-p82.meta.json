@@ -1,0 +1,15 @@
+{
+  "source_pdf": "ke-berg-2015-ar-00.pdf",
+  "page": 82,
+  "table_number": 2,
+  "title": "Financial Liabilities",
+  "rows": 1,
+  "columns": [
+    "31-60\ndays\nKShs’000\n-\n(130,526)\n(149,068)\n(311,360)\n-\n-",
+    "Column",
+    "91-120\ndays\nKShs’000\n-\n(20,495)\n(106,735)\n-\n-\n-",
+    "Column",
+    ">365\ndays\nKShs’000\n-\n-\n-\n-\n-\n-"
+  ],
+  "extracted_at": "2026-01-15T10:50:21.680373"
+}
