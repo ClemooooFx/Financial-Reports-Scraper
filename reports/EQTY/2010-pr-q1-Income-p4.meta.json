@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2010-pr-q1.pdf",
+  "page": 4,
+  "table_number": 2,
+  "title": "Income",
+  "rows": 1,
+  "columns": [
+    "Bank",
+    "Column",
+    "Column",
+    "Group",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T14:43:26.808918"
+}
