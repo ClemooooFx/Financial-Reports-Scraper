@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 100,
+  "table_number": 2,
+  "title": "2021 Shs m Shs m Shs m Shs m Shs m Shs m",
+  "rows": 4,
+  "columns": [
+    "Current",
+    "30 Days",
+    "60 Days",
+    "90 days",
+    "120+ days",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T23:36:01.866647"
+}

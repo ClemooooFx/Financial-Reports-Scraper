@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 100,
+  "table_number": 4,
+  "title": "2020 Current 30 Days 60 Days 90 days 120+ days Total",
+  "rows": 6,
+  "columns": [
+    "Group",
+    "Column",
+    "Company"
+  ],
+  "extracted_at": "2026-01-15T23:31:36.616153"
+}
