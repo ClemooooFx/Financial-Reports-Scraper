@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 144,
+  "table_number": 2,
+  "title": "Interest rate is the risk that the future cash flows of financial instruments will fluctuate because of changes in the market interest rates. Interest",
+  "rows": 1,
+  "columns": [
+    "Column",
+    "Weighted\ninterest\nrates",
+    "Up to 1\nmonth",
+    "1 - 3 months",
+    "3 - 12\nmonths",
+    "1 - 5 years",
+    "Over 5 years",
+    "Non-interest\nbearing",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:22:45.615437"
+}

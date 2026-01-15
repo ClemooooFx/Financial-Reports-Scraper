@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 165,
+  "table_number": 2,
+  "title": "Group Company",
+  "rows": 5,
+  "columns": [
+    "GROUP",
+    "Column",
+    "COMPANY",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T19:24:02.135777"
+}

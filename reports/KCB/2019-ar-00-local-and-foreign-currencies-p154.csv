@@ -1,0 +1,17 @@
+Column,Corporate,Retail,Column,Column,Column,Column
+,banking,banking,Treasury,Mortgages,Other,Total
+For the year ended,KShs. million,KShs. million,KShs. million,KShs. million,KShs. million,KShs. million
+31-Dec-19,,,,,,
+Interest income,"22,407","27,854","14,379","7,063","2,647","74,350"
+Interest expense,"(10,689)","(1,253)","(1,359)","(3,903)","(1,016)","(18,220)"
+Net interest income,"11,718","26,601","13,020","3,160","1,631","56,130"
+Net fees and commission income,"7,254","14,307","4,045",177,"(5,932)","19,851"
+Other income,"3,040","3,584","1,696",-,-,"8,320"
+Depreciation and amortization,"(1,603)","(3,194)",(894),(7),"1,654","(4,044)"
+Impairment,"(3,248)","(5,315)",(120),(206),-,"(8,889)"
+Operating expenses,"(3,836)","(14,284)",(425),(217),"(15,873)","(34,635)"
+Profit before monetary items,"13,325","21,699","17,322","2,907","(18,520)","36,733"
+Loss on monetary items,-,-,-,-,164,164
+Profit before tax,"13,325","21,699","17,322","2,907","(18,356)","36,897"
+Tax expense,"(4,237)","(6,899)","(5,507)",(924),"5,835","(11,732)"
+Profit after tax,"9,088","14,800","11,815","1,983","(12,521)","25,165"

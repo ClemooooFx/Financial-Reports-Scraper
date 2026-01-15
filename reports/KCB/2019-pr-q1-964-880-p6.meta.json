@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2019-pr-q1.pdf",
+  "page": 6,
+  "table_number": 2,
+  "title": "9.64 8.80",
+  "rows": 1,
+  "columns": [
+    "AGRICULTURE",
+    "MANUFACTURING",
+    "REAL",
+    "TRADE",
+    "EDUCATION",
+    "TRANSPORT\n&",
+    "FINANCIAL&",
+    "CONSTRUCTION",
+    "ICT",
+    "HEALTH",
+    "MINING&"
+  ],
+  "extracted_at": "2026-01-15T19:23:09.582661"
+}

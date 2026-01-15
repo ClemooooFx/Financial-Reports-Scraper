@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 98,
+  "table_number": 2,
+  "title": "Director’s Name benefit (1)",
+  "rows": 2,
+  "columns": [
+    "Director’s Name",
+    "Salary\nKShs. Million",
+    "Bonus",
+    "Column",
+    "Allowances\nKShs. Million",
+    "Gratuity\nKShs. Million",
+    "Noncash\nbenefit (1)\nKShs. Million",
+    "Total\nKShs. Million"
+  ],
+  "extracted_at": "2026-01-15T19:24:02.113058"
+}

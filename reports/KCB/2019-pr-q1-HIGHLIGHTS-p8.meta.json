@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2019-pr-q1.pdf",
+  "page": 8,
+  "table_number": 3,
+  "title": "HIGHLIGHTS",
+  "rows": 2,
+  "columns": [
+    "13.65 13.49 13.22\n12.78\n12.61\n12.47\n10.00\n9.50\n9.00\n8.02 8.00 7.97 7.73\n7.67 7.64 7.63\n7.56 7.36 7.34 7.19 7.02 7.08",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T19:23:09.583585"
+}

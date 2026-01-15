@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 137,
+  "table_number": 3,
+  "title": "Risk Factor Description Weight",
+  "rows": 2,
+  "columns": [
+    "Staging",
+    "12-month weighted-average PD",
+    "12-month weighted-average PD"
+  ],
+  "extracted_at": "2026-01-15T19:24:02.122908"
+}

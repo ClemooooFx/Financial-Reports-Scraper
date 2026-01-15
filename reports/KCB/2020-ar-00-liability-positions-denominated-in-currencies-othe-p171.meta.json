@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 171,
+  "table_number": 2,
+  "title": "liability positions, denominated in currencies other than the functional currency of the respective entity.",
+  "rows": 1,
+  "columns": [
+    "31 December 2020",
+    "USD",
+    "GBP",
+    "Euro",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:24:02.138679"
+}

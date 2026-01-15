@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020-pr-hy.pdf",
+  "page": 9,
+  "table_number": 2,
+  "title": "6.2 6.1",
+  "rows": 1,
+  "columns": [
+    "AGRICULTURE",
+    "MANUFACTURING",
+    "REAL",
+    "TRADE",
+    "EDUCATION",
+    "TRANSPORT&",
+    "FINANCIAL&",
+    "CONSTRUCTION",
+    "ICT",
+    "HEALTH",
+    "MINING&"
+  ],
+  "extracted_at": "2026-01-15T19:24:14.215925"
+}
