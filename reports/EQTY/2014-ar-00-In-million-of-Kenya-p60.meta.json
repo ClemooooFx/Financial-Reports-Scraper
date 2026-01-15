@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 60,
+  "table_number": 1,
+  "title": "In million of Kenya",
+  "rows": 21,
+  "columns": [
+    "UGX",
+    "USD",
+    "SSP",
+    "GBP",
+    "Euro",
+    "ZAR",
+    "JPY",
+    "Others",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T15:49:04.158530"
+}

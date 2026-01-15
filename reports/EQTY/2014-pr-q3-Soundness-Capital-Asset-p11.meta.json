@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2014-pr-q3.pdf",
+  "page": 11,
+  "table_number": 2,
+  "title": "Soundness Capital Asset",
+  "rows": 1,
+  "columns": [
+    "EQUITY\nBANK",
+    "Tier 1\nCapital",
+    "Asset\nSize",
+    "Soundness\nCapital\nAsset Ratio",
+    "Capital\nDeployment\nEfficiency",
+    "Asset\nDeployment\nEfficiency"
+  ],
+  "extracted_at": "2026-01-15T15:49:27.061198"
+}

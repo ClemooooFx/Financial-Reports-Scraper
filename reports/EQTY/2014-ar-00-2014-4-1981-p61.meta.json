@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 61,
+  "table_number": 1,
+  "title": "2014 ±4% 1,981",
+  "rows": 12,
+  "columns": [
+    "USD",
+    "GBP",
+    "Euro",
+    "ZAR",
+    "JPY",
+    "Others",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T15:49:04.158924"
+}
