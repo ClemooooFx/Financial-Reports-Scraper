@@ -1,0 +1,53 @@
+No,Item,Details
+1,Exchange operations,1920s but formally from 1954
+2,Membership,"• Founding Member of the African Securities Exchanges Association
+• Founding Member of the East African Securities Exchanges Association
+• Associate Member of the Association of Futures Markets
+• Associate Member of World Federation of Exchanges"
+3,Time Zone,Greenwich Mean Time + 3 Nairobi
+4,Address,"The EXchange, 55 Westlands Road, PO Box 43633-00100, Tel: 254-20-2831000- Nairobi"
+5,Website,www.nse.co.ke
+6,Trading Days,"Monday, Tuesday, Wednesday, Thursday, Friday"
+7,Trading,Automated Trading System
+8,Trading Access,Wide Area Network and Local Area Network (Backup)
+9,Access Rights,Trading Participants
+10,"Trading Hours
+9:00 a.m. to 3:00 p.m.
+a) During ‘pre-open’ the system accepts orders (permitted orders). Orders may be amended or cancelled during pre-open.
+However, no executions take place at this stage.
+b) During ‘open-auction’, the system temporarily closes the order book and starts matching orders. It establishes the
+opening price and determines the orders to be executed according to the rules for the open-auction period.
+c) During ‘regular trading’ new orders are continually matched against existing orders in the order book according to the rules
+for the regular trading session. If an order cannot be executed it is stored in the order book depending on its attributes.
+d) During ‘close trading’ the system computes the closing price for each security. During closing the state of the market is
+displayed as “closing”. Once the closing process is complete, the status of the market is displayed as “closed”.",
+11,Trading Currency,Kenya Shilling
+12,Key Regulations,"a) The Capital Markets Act and the regulations and rules made thereunder;
+b) Companies Act and the regulations and rules made thereunder;
+c) Central Depository Act and the regulations and rules made thereunder;
+d) NSE Listing Manual; and
+e) NSE Trading Rules."
+13,Total No of Securities,129 as of 31 December 2013 – (Equities – 61); (GOK Treasury Bonds – 60); (Corporate Bonds – 9).
+14,No of Segments,4
+15,No of Indices,5
+16,Reports,"a) Daily Market Report
+b) Daily Equity Price List
+c) Daily Fixed Income Price List
+d) Monthly Bulletin
+e) Weekly Equity Statistics
+f) Weekly Bond Statistics
+g) NSE Monthly Bulletin
+h) Quarterly EASEA Exchange Magazine
+i) Annual Report"
+17,Data Vending,Yes – 13 authorised data vendors
+18,Settlement Procedure,Delivery vs Payment
+19,Delivery,Automated Delivery System
+20,Settlement,via Clearing House
+21,NSE Broker Back Office,Automated back office system that enables senior management to monitor and audit
+,,activities through suitable alerts and exception reports;
+22,Risk Mitigation,"a) Investor Compensation Fund
+b) Guarantee Fund
+c) Settlement Limits"
+23,Policy & Tax Incentives,"There are numerous policy and tax incentives that are available in the development of
+capital markets"
+Source: NSE,,

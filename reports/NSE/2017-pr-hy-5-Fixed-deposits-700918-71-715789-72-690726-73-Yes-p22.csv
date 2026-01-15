@@ -1,0 +1,13 @@
+Column,Investments held,"As at
+31.12.2016",Column,"As at
+31.3.2017",Column,"As at
+30.6.2017",Column,Liquid?
+,,Kshs'000,%age,Kshs'000,%age,Kshs'000,%age,
+1,Treasury bonds,"96,490",10%,"99,591",10%,"97,170",10%,No - held to maturity
+2,Treasury bills,"102,959",10%,"103,869",10%,"79,357",8%,No - held to maturity
+3,Corporate bonds,"15,281",2%,"15,595",2%,"15,276",2%,No - held to maturity
+4,Call deposits,"4,616",0%,"24,769",2%,"23,800",3%,Yes
+5,Fixed deposits,"700,918",71%,"715,789",72%,"690,726",73%,Yes
+,Total,"920,264",93%,"959,613",96%,"906,329",96%,
+6,Bank and cash balances,"65,145",7%,"37,337",4%,"39,931",4%,Yes
+,Total investments and cash balances,"985,409",1,"996,950",1,"946,260",1,
