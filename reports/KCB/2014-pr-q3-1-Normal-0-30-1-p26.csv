@@ -1,0 +1,8 @@
+Grade,"Classification
+Class",Overdue Days,"Provisioning
+required"
+1 Normal 0-30 1%,,,
+2 Watch 31-90 3%,,,
+3 Substandard 91-180 20%,,,
+4 Doubtful 181-365 100%,,,
+5 Loss Over 365 100%,,,

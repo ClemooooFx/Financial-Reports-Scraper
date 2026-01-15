@@ -1,0 +1,45 @@
+Category (as defined by IAS 39),Column,Class (as determined by the Group),Column,Subclasses
+"Financial
+assets","Financial
+assets at fair
+value through
+profit or loss","Financial assets held for
+trading","Debt Securities
+Equity Securities
+Derivatives – non hedging",
+,,"Financial assets
+designated at fair value
+through profit or loss","Debt Securities
+Equity Securities
+Loans and advances to banks
+Loans and advances to customers",
+,"Loans and
+receivables",Loans and advances to banks,,
+,,"Loans and advances to
+customers","Loans to individuals
+(retail)","Overdrafts
+Credit cards
+Term loans
+Mortgages"
+,,,"Loans to corporate
+entities","Large corporate
+customers
+SMEs
+Others"
+,,"Investment securities –
+debt instruments",,Listed
+,,,,Unlisted
+,"Held to
+maturity
+investments","Investment securities –
+debt securities",,Listed
+,,,,Unlisted
+,"Available for
+sale financial
+assets","Investment securities –
+debt securities",,Listed
+,,"Investment securities –
+equity securities",,Listed
+,,,,Unlisted
+,,Deposits from banks,,
+,,Customers deposits,Retail customers,

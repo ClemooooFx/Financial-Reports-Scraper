@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2015-ir-hy.pdf",
+  "page": 3,
+  "table_number": 1,
+  "title": "3OFF-BALANCE SHEET ITEMS",
+  "rows": 16,
+  "columns": [
+    "c)Total Non-Performing Loans and Advances (a-b)\nd) Less Loan Loss Provision\ne) Net Non-Performing Loans and Advances(c-d)\nf) Discounted Value of Securities\ng) Net NPLs Exposure (e-f)\n2INSIDER LOANS AND ADVANCES\na) Directors, Shareholders and Associates\nb) Employees\nc)Total Insider Loans and Advances and other facilities\n3OFF-BALANCE SHEET ITEMS\na)Letters of credit,guarantees, acceptances\nb) Forwards, swaps and options\nc) Other contingent liabilities\nd)Total Contingent Liabilities",
+    "1 4,293,612",
+    "11,557,982",
+    "14,812,016",
+    "16,352,384",
+    "1 9,084,302",
+    "1 5,815,858",
+    "18,528,419",
+    "20,863,370"
+  ],
+  "extracted_at": "2026-01-15T19:10:33.789484"
+}
