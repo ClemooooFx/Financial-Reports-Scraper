@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 75,
+  "table_number": 3,
+  "title": "US$ ‘000 KSh’000 KSh’000 KSh’000",
+  "rows": 1,
+  "columns": [
+    "Borrowings\nin\nUS$ ‘000\n24,913\n16,305\n10,000\n-",
+    "Kshs\nequivalent\nKSh’000\n2,117,572\n1,385,901\n850,000\n-",
+    "Borrowings in\nocal currency\nKSh’000\n588,637\n155,270\n-\n1,600,000",
+    "Total\nborrowings\nKSh’000\n2,706,209\n1,541,171\n850,000\n1,600,000\n6,697,380"
+  ],
+  "extracted_at": "2026-01-15T04:49:37.112385"
+}
