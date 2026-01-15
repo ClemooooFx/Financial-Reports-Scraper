@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 56,
+  "table_number": 4,
+  "title": "31-60 61-90 91-120 >120 >365",
+  "rows": 10,
+  "columns": [
+    "<30 days",
+    "Column",
+    "61-90\ndays",
+    "Column",
+    ">120\ndays",
+    "Column",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T10:43:57.326985"
+}

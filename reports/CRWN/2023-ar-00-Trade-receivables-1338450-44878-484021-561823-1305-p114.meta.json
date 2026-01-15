@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 114,
+  "table_number": 3,
+  "title": "Trade receivables 1,338,450 44,878 484,021 (561,823) 1,305,526",
+  "rows": 7,
+  "columns": [
+    "Less than 60\ndays",
+    "Column",
+    "Over 90 days",
+    "Column",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T10:43:37.345380"
+}
