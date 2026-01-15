@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2024-ab-00.pdf",
+  "page": 1,
+  "table_number": 5,
+  "title": "Insurance service result 343,983 788,227",
+  "rows": 1,
+  "columns": [
+    "Share\nCapital\nKShs’000\n2,615,578\n-\n-\n-\n2,615,578",
+    "Share\nPremium\nKShs’000\n162,179\n-\n-\n-\n162,179",
+    "Other\nReserves\nKShs’000\n4,834,421\n2,854,633\n892,024\n(345,000)\n8,236,078",
+    "Total\nEquity\nKShs’000\n7,612,178\n2,854,633\n892,024\n(345,000)\n11,013,835"
+  ],
+  "extracted_at": "2026-01-15T08:38:45.285389"
+}

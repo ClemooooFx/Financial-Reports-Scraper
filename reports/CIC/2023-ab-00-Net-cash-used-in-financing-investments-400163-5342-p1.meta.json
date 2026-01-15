@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ab-00.pdf",
+  "page": 1,
+  "table_number": 5,
+  "title": "Net cash used in financing investments (400,163) (53,429)",
+  "rows": 1,
+  "columns": [
+    "Share\nCapital\nKShs’000\n2,615,578\n-\n-\n-\n2,615,578",
+    "Share\nPremium\nKShs’000\n162,179\n-\n-\n-\n162,179",
+    "Other\nReserves\nKShs’000\n4,593,728\n1,441,815\n(856,122)\n(345,000)\n4,834,421",
+    "Total\nEquity\nKShs’000\n7,371,485\n1,441,815\n(856,122)\n(345,000)\n7,612,178"
+  ],
+  "extracted_at": "2026-01-15T08:38:43.267426"
+}
