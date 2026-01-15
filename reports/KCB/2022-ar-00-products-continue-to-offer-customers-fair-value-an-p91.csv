@@ -1,0 +1,11 @@
+"gnirucco
+tneve
+fo
+ytilibaborP",Expected - Above 60%,5,Medium,Medium,High,High,High
+,Highly Likely - 41% to 60%,4,Medium,Medium,Medium,High,High
+,Likely - 21% to 40%,3,Low,Medium,Medium,Medium,High
+,Not likely - 11% to 20%,2,Low,Low,Medium,Medium,High
+,Remote - 0 to 10%,1,Low,Low,Low,Medium,High
+,,,1,2,3,4,5
+,,,Impact of event occuring,,,,
+,,,Minor,Low,Moderate,High,Critical

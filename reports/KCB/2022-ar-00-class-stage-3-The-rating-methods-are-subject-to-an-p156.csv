@@ -1,0 +1,7 @@
+Staging,CBK grading,Days past due,Credit quality
+Stage 1,Normal,"Up to date within contractual terms or has less than
+30 days arrears",Performing
+,Watch,31 to 90 days,
+Stage 3,Substandard,91 to 180 days,In Default
+,Doubtful,181 to 360 days,
+,Loss,above 360 days,
