@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 57,
+  "table_number": 4,
+  "title": "tropeR",
+  "rows": 9,
+  "columns": [
+    "NO.",
+    "NAME",
+    "SALARY\nShs.",
+    "MEETING\nATTENDANCE FEE\nShs.",
+    "Total\nShs."
+  ],
+  "extracted_at": "2026-01-15T17:15:57.275498"
+}

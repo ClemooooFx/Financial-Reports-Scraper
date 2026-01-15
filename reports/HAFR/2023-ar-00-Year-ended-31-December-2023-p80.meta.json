@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 80,
+  "table_number": 2,
+  "title": "Year ended 31 December 2023",
+  "rows": 3,
+  "columns": [
+    "Column",
+    "Name",
+    "Salary\nKes.",
+    "Meeting attendance fees\nKes."
+  ],
+  "extracted_at": "2026-01-15T17:21:41.980701"
+}
