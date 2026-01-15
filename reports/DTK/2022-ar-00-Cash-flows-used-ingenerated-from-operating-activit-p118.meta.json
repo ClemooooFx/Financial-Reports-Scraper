@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 118,
+  "table_number": 2,
+  "title": "Cash flows (used in)/generated from operating activities",
+  "rows": 4,
+  "columns": [
+    "-\n-\n-\n-\n-\n-",
+    "-\n-\n-\n-\n-\n-",
+    "-\n669,973\n(184,771)\n87,121\n(30,408)\n1,520",
+    "2,963,147\n-\n-\n-\n30,408\n(1,520)",
+    "-\n-\n-\n-\n-\n-",
+    "2,963,147\n669,973\n(184,771)\n87,121\n-\n-"
+  ],
+  "extracted_at": "2026-01-15T13:47:43.608972"
+}

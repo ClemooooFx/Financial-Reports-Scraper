@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 27,
+  "table_number": 2,
+  "title": "Technology integration and interoperability",
+  "rows": 1,
+  "columns": [
+    "7. Data analytics and artificial intelligence:\nImplementation of data capabilities to foster advanced analytics\nand personalised customer interactions.",
+    "• We developed and implemented compliance data reporting\ntools for FATCA and CRS.\n• We developed credit scorecards for existing customer base for\nRetail and Business Banking.\n• We implemented a Master Data Management solution in Kenya\nto create a single, consistent view of critical business data like\ncustomers and products across different systems, providing a\n‘single source of truth’. Go-live for Uganda and Tanzania planned\nfor January 2025.\n• We aim to complete data remediation, technical readiness and\nonboarding onto the CBK Granular Data Integration platform in\nJanuary 2025.\n• We expanded the data analytics capabilities by providing the\nbusiness units with specific datasets and dashboards."
+  ],
+  "extracted_at": "2026-01-15T13:49:22.476218"
+}

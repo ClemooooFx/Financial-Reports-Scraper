@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 177,
+  "table_number": 2,
+  "title": "Interest rate risk is the risk that an investment's value will change due to a change in the absolute level of interest rates, i.e. the spread between two rates, in the shape of the yield curve, or in any other",
+  "rows": 15,
+  "columns": [
+    "Up to 1\nmonth",
+    "1-3\nmonths",
+    "3-12\nmonths",
+    "1-5\nyears",
+    "Over 5\nyears",
+    "Non-interest\nsensitive",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T13:47:43.626274"
+}

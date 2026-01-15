@@ -1,0 +1,22 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 182,
+  "table_number": 1,
+  "title": "Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000 Shs ‘000",
+  "rows": 1,
+  "columns": [
+    "Group",
+    "Manufacturing",
+    "Wholesale and\nretail trade",
+    "Transport and\ncommunications",
+    "Business\nand financial\nservices",
+    "Agriculture",
+    "Building and\nconstruction\nand real\nestate",
+    "Retail housing",
+    "Tourism and\nhotels",
+    "Individuals",
+    "Others",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T13:48:29.457604"
+}
