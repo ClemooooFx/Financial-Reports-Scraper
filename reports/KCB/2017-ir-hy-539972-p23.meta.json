@@ -1,0 +1,27 @@
+{
+  "source_pdf": "2017-ir-hy.pdf",
+  "page": 23,
+  "table_number": 1,
+  "title": "539,972",
+  "rows": 6,
+  "columns": [
+    "Total\nLiabilities\nand\nEquity",
+    "Shareholders’\nEquity",
+    "Total\nLiabilities",
+    "Long-term\ndebt",
+    "Other\nliabilities",
+    "Balances\ndue\nto\nother\nbanks",
+    "Customer\nDeposits",
+    "Total\nAssets",
+    "Other\nassets",
+    "Fixed\nassets",
+    "Net\nloans\nand\nadvances\n*",
+    "securities Investments\nin\nGovernment\n&\nOther",
+    "Balances\nwith\nother\ninstitutions",
+    "Balances\nwith\nCentral\nBank",
+    "Cash",
+    "KShs\nMillions",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T19:16:32.649637"
+}

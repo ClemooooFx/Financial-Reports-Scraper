@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2018-pr-00.pdf",
+  "page": 12,
+  "table_number": 2,
+  "title": "8.69 7.12 8.50",
+  "rows": 1,
+  "columns": [
+    "AGRICULTURE",
+    "MANUFACTURING",
+    "REAL",
+    "TRADE",
+    "EDUCATION",
+    "TRANSPORT\n&",
+    "FINANCIAL&",
+    "CONSTRUCTION",
+    "ICT",
+    "HEALTH",
+    "MINING&"
+  ],
+  "extracted_at": "2026-01-15T19:17:19.236802"
+}

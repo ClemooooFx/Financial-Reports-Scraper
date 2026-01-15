@@ -1,0 +1,26 @@
+{
+  "source_pdf": "2017-ir-hy.pdf",
+  "page": 24,
+  "table_number": 1,
+  "title": "10,261",
+  "rows": 6,
+  "columns": [
+    "Profit\nafter\ntax",
+    "Tax",
+    "Profit\nbefore\ntax",
+    "Loss\non\nMonetary\nPosition",
+    "Position Profit\nBefore\nLoss\non\nMonetary",
+    "Net\nprovisions\nfor\nbad\ndebts",
+    "Total\noperating\nexpenses",
+    "Total\noperating\nincome",
+    "Other\nincome",
+    "Net\nfees\nand\ncommissions",
+    "Foreign\nexchange\nincome",
+    "Net\ninterest\nincome",
+    "Interest\nExpense",
+    "Interest\nIncome",
+    "KShs\nMillions",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T19:16:32.650085"
+}

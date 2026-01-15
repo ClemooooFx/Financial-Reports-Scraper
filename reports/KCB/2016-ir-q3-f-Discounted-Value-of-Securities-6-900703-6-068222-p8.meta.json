@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2016-ir-q3.pdf",
+  "page": 8,
+  "table_number": 1,
+  "title": "f) Discounted Value of Securities 6 ,900,703 6 ,068,222 7 ,613,893 6 ,853,209 5 ,020,473 8 ,910,359 1 1,867,690 1 0,654,600 1 1,535,277 8 ,076,704",
+  "rows": 15,
+  "columns": [
+    "III OTHER DISCLOSURES\n1NON-PERFORMING LOANS AND ADVANCES\na) Gross Non-performing loans and advances\nb) Less Interest in Suspense\nc)Total Non-Performing Loans and Advances (a-b)\nd) Less Loan Loss Provision\ne) Net Non-Performing Loans and Advances(c-d)\nf) Discounted Value of Securities\ng) Net NPLs Exposure (e-f)\n2INSIDER LOANS AND ADVANCES\na) Directors, Shareholders and Associates\nb) Employees\nc)Total Insider Loans and Advances and other facilities\n3OFF-BALANCE SHEET ITEMS\na)Letters of credit,guarantees, acceptances\nb) Forwards, swaps and options\nc) Other contingent liabilities\nd)Total Contingent Liabilities\n4CAPITAL STRENGTH\na)Core capital\nb) Minimum Statutory Capital\nc)Excess (a-b)\nd) Supplementary Capital\ne) Total Capital (a+d)\nf)Total risk weighted assets\ng) Core Capital/Total deposits Liabilities\nh) Minimum statutory Ratio\nI) Excess\nj) Core Capital / total risk weighted assets\nk) Minimum Statutory Ratio\nl) Excess (j-k)\nm) Total Capital/total risk weighted assets\nn) Minimum statutory Ratio\no) Excess (m-n)\n5LIQUIDITY\na) Liquidity Ratio\nb) Minimum Statutory Ratio\nc) Excess (a-b)",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T19:15:51.970336"
+}

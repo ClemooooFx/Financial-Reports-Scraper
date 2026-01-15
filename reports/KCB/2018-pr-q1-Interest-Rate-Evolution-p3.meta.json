@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2018-pr-q1.pdf",
+  "page": 3,
+  "table_number": 1,
+  "title": "Interest Rate Evolution (%)",
+  "rows": 1,
+  "columns": [
+    "Inflation\n11.48%\n7.50% 8.04%\n7.47% 7.06%\n4.73%\n4.50% 4.18%\n4.10%\n3.60%\n3.50%\n3.00%\n2.50%\nInflation rate Target Upper Target Lower Non Food Non Fuel",
+    "USD/KES Exchange Rate\n103.9\n103.2 103.7 103.2 103.3 103.2\n101.3"
+  ],
+  "extracted_at": "2026-01-15T19:17:21.871797"
+}
