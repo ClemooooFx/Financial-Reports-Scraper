@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 197,
+  "table_number": 3,
+  "title": "Medium term note 11,000,000 11,000,000",
+  "rows": 8,
+  "columns": [
+    "Country",
+    "Nature",
+    "Currency",
+    "Amount ‘000",
+    "Column",
+    "Interest",
+    "Column",
+    "Column",
+    "Maturity"
+  ],
+  "extracted_at": "2026-01-15T14:28:41.847044"
+}
