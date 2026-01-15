@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 208,
+  "table_number": 1,
+  "title": "Assumptions:",
+  "rows": 1,
+  "columns": [
+    "Sidian Bank Limited",
+    "Method used to determine recoverable amount:\nFair value less cost to sell\nThe fair value of the entiy was determined using price-to-book multiples adjusted for\ncontrol premium as described in note 1.5.2\nAssumptions:\n1. Comparative multiples\n2. Control premium\nThe annual impairment review indicated that the carrying amount exceeded the\nrecoverable amount. Accordingly, the directors have recorded impairment relating to\nthe subsidiary's goodwill of Ksh 55,407,000.\nSignificant estimate: Impact of possible changes in key assumptions:\n1. Comparative multiples\nIf the comparative multiple applied in the valuation had been 5% lower than\nmanagement have estimated and all other assumptions in the table above remain\nunchanged, the headroom would be Ksh 126 million lower.\nIf the comparative multiple applied in the valuation had been 5% higher than\nmanagement have estimated and all other assumptions in the table above remain\nunchanged, the headroom would be Ksh 126 million higher.\n2. Control premium\nA control premium of 20% has been used for purposes of determining the fair value.\nIf the premium used was 1000 basis points lower, the headroom would have been\nKsh 42 million higher."
+  ],
+  "extracted_at": "2026-01-15T11:40:07.672293"
+}

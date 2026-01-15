@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 123,
+  "table_number": 1,
+  "title": "Investment portfolio carried at fair value:",
+  "rows": 11,
+  "columns": [
+    "2020\nKsh’000\n118,625\n23,786",
+    "2019\nKsh’000\n127,719\n-"
+  ],
+  "extracted_at": "2026-01-15T11:40:07.663697"
+}

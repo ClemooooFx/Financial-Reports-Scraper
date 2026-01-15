@@ -1,0 +1,16 @@
+{
+  "source_pdf": "ke-berg-2019-ab-00.pdf",
+  "page": 1,
+  "table_number": 4,
+  "title": "the audited results for the year ended",
+  "rows": 6,
+  "columns": [
+    "Share\nCapital\nKShs’000\n355,905\n-\n-\n355,905\n-\n-",
+    "Share\npremium\nKShs’000\n80,174\n-\n-\n80,174\n-\n-",
+    "valuation\nReserve\nKShs’000\n101,091\n-\n-\n101,091\n-\n-",
+    "Foreign\nCurrency\nTransalation\nReserve\nKShs’000\n95,968\n-\n-\n95,968\n-\n(9,293)",
+    "Retained\nearnings\nKShs’000\n1,124,478\n(947,876)\n79,350\n255,952\n183,813\n-",
+    "Total\nEquity\nKShs’000\n1,757,616\n(947,876)\n79,350\n889,090\n183,813\n(9,293)"
+  ],
+  "extracted_at": "2026-01-15T11:38:58.888763"
+}

@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 63,
+  "table_number": 2,
+  "title": "provisions, the Company",
+  "rows": 10,
+  "columns": [
+    "Industry",
+    "% of the\ncompany\nacquired",
+    "Cost of\ninvestment\n(Kes bn)",
+    "% of\ninvestment\nsold",
+    "Holding\nPeriod\n(months)",
+    "Dividends\nsince\ninception\n(KES bn)",
+    "Exit\nproceeds\n(KES bn)",
+    "Total\nrealized\nproceeds\n(KES bn)",
+    "Multiple\non Cost\n(MOC)",
+    "Gross\nKES\nIRR"
+  ],
+  "extracted_at": "2026-01-15T11:40:46.684204"
+}

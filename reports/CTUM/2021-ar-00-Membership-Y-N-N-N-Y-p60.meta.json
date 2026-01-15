@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 60,
+  "table_number": 1,
+  "title": "Membership Y N N N Y",
+  "rows": 20,
+  "columns": [
+    "NAME",
+    "Executive/\nNon-Executive",
+    "Role",
+    "Column",
+    "Board",
+    "Audit",
+    "Risk",
+    "Nomination\nand\nGovernance",
+    "Finance\nand\nInvestment"
+  ],
+  "extracted_at": "2026-01-15T11:40:46.682485"
+}

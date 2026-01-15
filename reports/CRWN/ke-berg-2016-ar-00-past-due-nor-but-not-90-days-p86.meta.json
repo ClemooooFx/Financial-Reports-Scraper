@@ -1,0 +1,15 @@
+{
+  "source_pdf": "ke-berg-2016-ar-00.pdf",
+  "page": 86,
+  "table_number": 2,
+  "title": "past due nor but not 90 days",
+  "rows": 1,
+  "columns": [
+    "Neither\npast due nor\nimpaired\nLess than\n60 days\nKShs’000\n671,713\n2,200\n52,885\n157,642",
+    "Column",
+    "Impaired\nKShs’000\n466,101\n21,265\n1,016,176\n-",
+    "Column",
+    "Total\nKShs’000\n945,518\n24,380\n784,373\n157,642"
+  ],
+  "extracted_at": "2026-01-15T11:38:25.694205"
+}

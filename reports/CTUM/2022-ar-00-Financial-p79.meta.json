@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 79,
+  "table_number": 1,
+  "title": "Financial",
+  "rows": 14,
+  "columns": [
+    "Portfolio Assets",
+    "Sector",
+    "Stake",
+    "Initial\nCost of\ninvestment\n(Ksh Mn)",
+    "Invest-\nment Date",
+    "Cash\nDistribution\nsince\ninception\n(Ksh Mn)",
+    "Net Cost of\nInvestment\n(Ksh Mn)",
+    "Percentage\nof Net Cost",
+    "Carrying\nValue\n(Ksh Mn)",
+    "Multiple on\nNet Cost\n(MOC)"
+  ],
+  "extracted_at": "2026-01-15T11:41:33.050629"
+}

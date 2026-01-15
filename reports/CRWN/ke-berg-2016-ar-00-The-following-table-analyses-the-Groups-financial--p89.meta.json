@@ -1,0 +1,17 @@
+{
+  "source_pdf": "ke-berg-2016-ar-00.pdf",
+  "page": 89,
+  "table_number": 2,
+  "title": "The following table analyses the Group’s financial liabilities that will be settled on a net basis into relevant maturity",
+  "rows": 1,
+  "columns": [
+    "<30 days\nKShs’000\n(160,840)\n(101,314)\n(179,191)\n(955,004)\n(35,480)\n-",
+    "Column",
+    "61-90\ndays\nKShs’000\n-\n(56,790)\n(284,240)\n(159,995)\n-\n(2,423)",
+    "Column",
+    ">120\ndays\nKShs’000\n-\n(30,759)\n(58,941)\n(174,824)\n(214,487)",
+    "Column",
+    "Total\nKShs’000\n(160,840)\n(714,094)\n(650,989)\n(1,353,128)\n(68,365)\n(216,910)"
+  ],
+  "extracted_at": "2026-01-15T11:38:25.696339"
+}
