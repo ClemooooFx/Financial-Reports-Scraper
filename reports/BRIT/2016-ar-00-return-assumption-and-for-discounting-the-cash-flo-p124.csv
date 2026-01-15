@@ -1,0 +1,39 @@
+As,sumption,"Valuation margins on best estimate
+liabilities","Prescribed margin loaded on best estimate
+liabilities",Column
+M,ortality,"10% increase in mortality for life
+assurances",6% increase of base mortality rates,
+Lo,ngevity,"10% decrease in mortality for life
+assurances and annuities",7% decrease of base mortality rates,
+M,orbidity/Disability,"10% increase in inception rates
+5% decrease in recovery rates","40% increase in base inception rates in the
+15% increase in base inception rates in su
+years 10% decrease in morbidity/disability
+rates","first year
+bsequent
+recovery"
+La,pses,"25% (increase or decrease in lapse rate
+depending
+on which alternative gives rise to an
+increase in the liability of the policy
+concerned)","15% increase in lapse rates for new business
+5% increase in lapse rates for in force business",
+In,terest rate,10% decrease,25% decrease,
+Surrenders,,"10% (increase or decrease in surrender
+rate depending
+on which alternative gives rise to an
+increase in the liability of the policy
+concerned)",N/A,
+"Expenses & Expense
+inflation",,"10% increase on base expenses
+10% increase of the base escalation rate","5% increase in best estimate assumption for expenses
+1% increase in best estimate assumption for inflation",
+Catastrophe,,N/A,"An absolute increase in the rate of policyholders
+dying over the following year of 1.5 per mille.",
+"Group/Umbrella
+Pension Savings Plans",,N/A,1.0% increase in fund value,
+Deposit Administration,,N/A,1.0% increase in fund value,
+Group Life,,N/A,"10% increase on premium reserves
+8% increase on claims reserves",
+Group Credit,,N/A,"12% increase on premium reserves
+10% increase on claims reserves",

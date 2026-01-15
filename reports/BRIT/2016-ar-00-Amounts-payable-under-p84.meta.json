@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2016-ar-00.pdf",
+  "page": 84,
+  "table_number": 3,
+  "title": "Amounts payable under",
+  "rows": 10,
+  "columns": [
+    "Column",
+    "Column",
+    "5,878,940\n997,602\n224,418\n6,007\n800,263\n-\n21,759\n368,161\n783,945",
+    "Column",
+    "1,225,804\n13,545,612\n4,232,387\n-\n-\n6,000,000\n-\n3,022,841\n-",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T06:46:21.845406"
+}
