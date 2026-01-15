@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 20,
+  "table_number": 1,
+  "title": "Attendance 4/4 2/2 1/1",
+  "rows": 16,
+  "columns": [
+    "Director",
+    "Classification",
+    "Designation",
+    "Column",
+    "Board",
+    "Audit &\nRisk",
+    "Nomination &\nRemuneration"
+  ],
+  "extracted_at": "2026-01-15T21:17:11.448155"
+}
