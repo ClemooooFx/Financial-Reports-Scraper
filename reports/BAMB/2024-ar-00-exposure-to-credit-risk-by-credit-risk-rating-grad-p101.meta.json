@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 101,
+  "table_number": 5,
+  "title": "exposure to credit risk by credit risk rating grades:",
+  "rows": 4,
+  "columns": [
+    "Financial asset\n31 December 2023",
+    "Note",
+    "External\nrating",
+    "Internal\nrating",
+    "lifetime ECL",
+    "Gross\ncarrying\namount\nSh’million",
+    "Loss\nallowance\nSh’million",
+    "Net\ncarrying\namount\nSh’million",
+    "Classification"
+  ],
+  "extracted_at": "2026-01-15T05:24:18.161281"
+}

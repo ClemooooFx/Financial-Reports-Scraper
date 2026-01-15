@@ -1,0 +1,37 @@
+"CO and Energy
+2",Column,KENYA,Column,Column,Column,Column
+,Unit,2020,2021,2022,2023,2024
+Scope 1: Material and Fuel,,,,,,
+"Specific Gross CO Emissions
+2","KgCO/tons
+2",476.9,462.3,451.4,482.7,523.26
+"Specific Net CO Emissions
+2","KgCO/tons
+2",467.3,452.8,437.9,469.4,513.3
+Recycled Waste in Cement,tons,"120,180","117,439","55,027","45,957","47,000"
+Scope 2: Electricity,,,,,,
+"Absolute CO Emissions
+2",tons ('000),42.4,43.7,34.1,40.353,33.72
+"Specific CO Emissions
+2","KgCO/tons
+2",24.4,22.7,22.5,23.18,24.13
+Scope 3: Transportation (Downstream),,,,,,
+"Absolute CO Emissions
+2",tons ('000),136,131,67.1,42.6,53.6
+"Specific CO Emissions
+2","Kg CO/ tons
+2
+transported",39,35.4,25.0,33.2,-
+Nature (Biodiversity & Water),,KENYA,,,,
+,Unit,2020,2021,2022,2023,2024
+Active Quarries,# Sites,3,3,7,7,9
+Quarries assessed using BIRS methodology,# Sites,5,5,5,5,8
+Quarries with Rehabilitation Plans in place,# Sites,5,5,7,7,8
+Total Rehabilitated area,Ha,325,334,365,374,402
+"Total Freshwater
+Withdrawal",m3,"166,179","160,406","118,144","99,000","78,000"
+Health and Safety,,KENYA,,,,
+,Unit,2020,2021,2022,2023,2024
+Total Injury Frequency Rate (TIFR),#,1,1.72,0,0.37,0.38
+Lost Time Injury Frequency Rate (LTIFR),#,0.36,0.69,0,1,1
+Boots on the Ground (Time in Field),Hours,N/A,"56,257","93,650","90,044","73,173"
