@@ -1,0 +1,56 @@
+Department,Description,Mandate
+"Business
+Intelligence &
+Analytics","Business Intelligence and Analytics includes the technologies and
+tools used to analyze and report on different business operations.
+Business Intelligence uses raw data stored in varying Data
+Warehouses, Data Marts, Data Lakes, and other storage platforms, and
+transforms it into actionable information assets and automated self-
+service solutions.","This team focuses on improving efficiency in
+the retrieval of data, reports and insights. The
+team is divided into two; Business Analytics
+which supports staff with data requests and
+use cases while Data Engineering develops
+automation and self-service tools to host
+business solutions."
+"Data
+Governance","Data Governance is a collection of practices and processes which
+ensure the formal management of data assets within the bank. It
+encompasses Data Stewardship, Data Quality, security and privacy,
+integrity, usability, integration, compliance, availability, roles and
+responsibilities, and overall management of the internal and external
+data flows within an organization.","Data Governance colleagues ensure that
+data used on a day to day basis is managed
+as per the group’s policies and procedures.
+They enforce ownership of data, Stewardship,
+Data Quality, Issues Remediation, Integrity,
+Integration and Architecture of data
+repositories within the bank."
+"Data Science
+& Artificial
+Intelligence","Data science unifies statistics, data analysis, machine learning,
+artificial intelligence and their related methods in order to understand
+and analyze actual phenomena with data. It employs techniques and
+theories drawn from many fields within the context of mathematics,
+statistics, computer science, and information science.","Data scientists make use of their statistical,
+math and computer science skills to explain
+customer behavior, identify leads, test
+hypothesis, predict data points and prescribe
+scientific solutions to business challenges.
+They also run frequent data studies to identify
+opportunities for growth and transformation
+in our key business areas."
+"Model
+Analytics","Model analytics is responsible for model risk management throughout
+a model’s lifecycle (9 stages governance stages), model development,
+risk reporting and ad-hoc consultancy. Model risk management and
+Model Analytics are emerging risk areas as BBK moves towards
+reliance of more data-driven and machine aided decision making
+frameworks, it’s imperative that the models used for these strategic
+functions are well governed and adjusted as the environment changes.","The Model analytics team manage all risks
+and business models through Absa’s model
+risk management framework. They also
+develop specialized local models, review
+model effectiveness, validate model output
+and streamline risk reporting as per the Data
+Aggregation and Risk Reporting guidelines."

@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 150,
+  "table_number": 2,
+  "title": "29.1 Financial guarantees, letters of credit and other undrawn commitments",
+  "rows": 8,
+  "columns": [
+    "Stage 1\n12 month ECL",
+    "Stage 2\nLifetime ECL",
+    "Stage 3\nLifetime ECL",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T04:15:19.694448"
+}

@@ -1,0 +1,22 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 91,
+  "table_number": 1,
+  "title": "to on SOFP and credit derivatives Physical collateral Cash collateral Other Unsecured derivatives collateral Cash collateral Other Unsecured Total",
+  "rows": 11,
+  "columns": [
+    "Exposure relating\nto on SOFP",
+    "Guarantees credit insurance\nand credit derivatives",
+    "Physical collateral",
+    "Cash collateral",
+    "Other",
+    "Unsecured",
+    "Guarantees credit\ninsurance and credit\nderivatives",
+    "Physical\ncollateral",
+    "Cash collateral",
+    "Other",
+    "Unsecured",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T04:13:47.867663"
+}

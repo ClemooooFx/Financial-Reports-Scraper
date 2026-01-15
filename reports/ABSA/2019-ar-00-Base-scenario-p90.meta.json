@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 90,
+  "table_number": 1,
+  "title": "Base scenario",
+  "rows": 12,
+  "columns": [
+    "Gross\nMaximum\nExposure",
+    "DG1-9",
+    "DG 10-19",
+    "DG 20-21",
+    "DG1-9",
+    "DG 10-19",
+    "DG 20-21",
+    "DG 20 – 22"
+  ],
+  "extracted_at": "2026-01-15T04:13:47.867209"
+}
