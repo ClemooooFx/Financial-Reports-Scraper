@@ -1,0 +1,52 @@
+Category (as defined by IAS 39),Column,Class (as determined by the Group),Column,Subclasses
+"Financial
+assets and
+liabilities","Financial assets
+at fair value
+through profit or
+loss","Financial assets held for
+trading",Debt securities (Government securities),
+,,"Financial assets
+designated at fair value
+through profit or loss",Derivative assets,
+,,,Quoted shares,
+,,,Unquoted equity investments,
+,"Loans and
+receivables",Cash and balances with Central Banks (excluding mandatory reserves),,
+,,Items in the course of collection,,
+,,Due from banking institutions,,
+,,"Loans and advances to
+customers",Loans to individuals (retail),Overdrafts
+,,,,Credit cards
+,,,,Term loans
+,,,,Mortgages
+,,,Loans to corporate entities,"Large corporate
+customers"
+,,,,SMEs
+,,,,Others
+,,Other assets,,
+,,Due from group companies,,
+,"Held-to-maturity
+investments","Investment securities -
+debt securities",Government securities,
+,"Available-
+for-sale financial
+assets","Investment securities -
+debt securities",Government securities,
+,"Financial
+liabilities at
+armortised cost",Due to banking institutions,,
+,,Due to group companies,,
+,,Other liabilities,,
+,,"Deposits from
+customers","Deposits from individuals
+(retail)",Retail customers
+,,,"Deposits from corporate
+entities","Large corporate
+customers"
+,,,,SMEs
+"Off-balance
+sheet
+financial
+instruments",Loan commitments,,,
+,"Guarantees, acceptances and other financial facilities",,,
