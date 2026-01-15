@@ -1,0 +1,6 @@
+Assumption,Base case,"Change
+considered","Impact on recoverable
+value","Headroom
+remaining"
+Discount rate,20%,+2%,"↓ KShs 6,598,000","KShs 2,364,000"
+Terminal growth rate,5%,-2%,"↓ KShs 5,182,000","KShs 3,779,000"

@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 94,
+  "table_number": 3,
+  "title": "LAUNNA",
+  "rows": 10,
+  "columns": [
+    "Group",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Company",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T22:25:10.503250"
+}
