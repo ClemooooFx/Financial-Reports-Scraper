@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 53,
+  "table_number": 1,
+  "title": "Information subject to audit",
+  "rows": 21,
+  "columns": [
+    "Salary",
+    "Fees",
+    "Gratuity",
+    "Bonuses",
+    "Expense\nallowances",
+    "Estimated\nvalue for non\ncash benefits",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T22:13:23.884148"
+}
