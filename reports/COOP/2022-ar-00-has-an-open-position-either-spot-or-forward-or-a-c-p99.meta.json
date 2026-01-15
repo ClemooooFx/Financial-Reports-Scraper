@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 99,
+  "table_number": 5,
+  "title": "has an open position, either spot or forward, or a combination of the two, in an individual foreign currency. Currently, the",
+  "rows": 15,
+  "columns": [
+    "USD",
+    "GBP",
+    "EURO",
+    "JPY",
+    "CHF",
+    "ZAR",
+    "OTHERS",
+    "TOTAL"
+  ],
+  "extracted_at": "2026-01-15T10:28:49.316187"
+}

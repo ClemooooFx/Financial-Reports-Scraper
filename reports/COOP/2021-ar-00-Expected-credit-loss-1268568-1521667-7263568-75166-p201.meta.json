@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 201,
+  "table_number": 2,
+  "title": "Expected credit loss (1,268,568) 1,521,667 7,263,568 7,516,667",
+  "rows": 7,
+  "columns": [
+    "Internal\nrisk rating\ncategory",
+    "12-month\nECL Stage 1",
+    "Lifetime ECL\nnot credit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Gross\nCarrying\nAmount",
+    "12-month\nECL stage 1",
+    "Lifetime ECL\nnot credit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Total ECL"
+  ],
+  "extracted_at": "2026-01-15T10:26:46.998701"
+}

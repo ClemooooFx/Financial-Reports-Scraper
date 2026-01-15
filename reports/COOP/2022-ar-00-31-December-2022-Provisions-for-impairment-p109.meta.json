@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 109,
+  "table_number": 8,
+  "title": "31 December 2022 Provisions for impairment",
+  "rows": 7,
+  "columns": [
+    "12-month ECL\nStage 1",
+    "Lifetime ECL\nnot credit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Gross\nCarrying\nAmount",
+    "12-month\nECL stage 1",
+    "Lifetime ECL\nnot credit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Total ECL"
+  ],
+  "extracted_at": "2026-01-15T10:28:49.325834"
+}

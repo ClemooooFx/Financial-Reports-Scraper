@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2020-pr-q1.pdf",
+  "page": 42,
+  "table_number": 2,
+  "title": "Total PBT before eliminations 5,239,319 5,092,588 146,731 3%",
+  "rows": 10,
+  "columns": [
+    "COMPANY",
+    "Profit Before Tax\nQ12020\nKShs’000",
+    "Profit Before Tax\nQ12019\nKShs’000",
+    "Variance",
+    "%"
+  ],
+  "extracted_at": "2026-01-15T10:25:57.463601"
+}

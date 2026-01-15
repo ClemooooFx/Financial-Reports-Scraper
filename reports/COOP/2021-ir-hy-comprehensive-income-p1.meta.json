@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2021-ir-hy.pdf",
+  "page": 1,
+  "table_number": 4,
+  "title": "comprehensive income",
+  "rows": 37,
+  "columns": [
+    "30-Jun-21",
+    "31-Mar-21 31-Dec-20 30-Jun-20\nKSHS.'000 KSHS.'000 KSHS.'000\n(Un-audited) Audited (Un-audited)\n9,246,799 33,500,169 15,017,218\n4,137,275 14,822,264 6,201,538\n41,489 518,211 592,363\n22,727 - -",
+    "30-Jun-21",
+    "31-Mar-21 31-Dec-20\nKSHS.'000 KSHS.'000\n(Un-audited) Audited\n588,260 514,314\n607,743 1,226,557\n2,554 39,905\n- -",
+    "30-Jun-21"
+  ],
+  "extracted_at": "2026-01-15T10:26:48.649035"
+}

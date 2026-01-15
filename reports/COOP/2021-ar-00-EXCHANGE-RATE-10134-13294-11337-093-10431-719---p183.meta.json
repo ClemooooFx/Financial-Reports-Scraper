@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 183,
+  "table_number": 1,
+  "title": "EXCHANGE RATE 101.34 132.94 113.37 0.93 104.31 7.19 -",
+  "rows": 15,
+  "columns": [
+    "USD",
+    "GBP",
+    "EURO",
+    "JPY",
+    "CHF",
+    "ZAR",
+    "OTHERS",
+    "TOTAL"
+  ],
+  "extracted_at": "2026-01-15T10:26:46.989315"
+}

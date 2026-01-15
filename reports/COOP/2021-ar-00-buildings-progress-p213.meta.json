@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 213,
+  "table_number": 1,
+  "title": "buildings progress",
+  "rows": 17,
+  "columns": [
+    "Freehold\nland &\nbuildings",
+    "Capital\nwork-in\nprogress",
+    "Fixtures",
+    "Office\nmachinery,\nfurniture &\nequipment",
+    "Motor\nvehicles",
+    "Computers",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T10:26:47.035100"
+}

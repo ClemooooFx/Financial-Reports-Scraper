@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 95,
+  "table_number": 5,
+  "title": "Management of liquidity risk",
+  "rows": 14,
+  "columns": [
+    "Available\nimmediately\nand up to\n1 month",
+    "1-3 months",
+    "3-12 months",
+    "1-5 years",
+    "Over 5 years",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T10:28:49.312606"
+}

@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 140,
+  "table_number": 2,
+  "title": "6_Months Libor 88 4,081,713",
+  "rows": 1,
+  "columns": [
+    "Exposure (USD)",
+    "Carrying amount\nKShs’000",
+    "Interest Rate",
+    "Tenor of facility",
+    "Expiry of facility"
+  ],
+  "extracted_at": "2026-01-15T10:26:46.982154"
+}
