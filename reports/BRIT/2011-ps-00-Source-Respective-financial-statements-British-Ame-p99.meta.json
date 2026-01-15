@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2011-ps-00.pdf",
+  "page": 99,
+  "table_number": 2,
+  "title": "Source: Respective financial statements & British-American schedules",
+  "rows": 11,
+  "columns": [
+    "Name",
+    "Nationality",
+    "Date of\nBirth:",
+    "Address:",
+    "The\nCompany",
+    "Insurance\nCompany",
+    "Asset\nManagement\nCompany",
+    "Britam"
+  ],
+  "extracted_at": "2026-01-15T06:39:20.306165"
+}

@@ -1,0 +1,10 @@
+Column,Loan 1,Loan 2
+Facility (Kshs 000),"400,000","350,000"
+Principal amount advance (Kshs 000),"371,000","350,000"
+Unused facility (Kshs 000),"29,000",-
+Rate (%) per annum,"Banks base rate: currently 13%
+minus a margin of 2.5% =10.5%","Banks base rate: currently 13%
+minus a margin of 2.5% =10.5%"
+Tenure from initial draw down date,48 months,24 months
+Repayment term,Bullet repayment,Bullet repayment
+Due date,31 October 2011,31 July 2012
