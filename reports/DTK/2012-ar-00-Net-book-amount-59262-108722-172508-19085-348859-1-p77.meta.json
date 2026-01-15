@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 77,
+  "table_number": 1,
+  "title": "Net book amount 59,262 108,722 172,508 19,085 348,859 14,038 722,474",
+  "rows": 7,
+  "columns": [
+    "Column",
+    "Leasehold\nland\nShs’000\n64,331\n(5,069)",
+    "Leasehold\nbuildings\nShs’000\n115,000\n(6,278)",
+    "Leasehold\nimprovements\nShs’000\n282,271\n(109,763)",
+    "Motor\nVehicles\nShs’000\n34,962\n(15,877)",
+    "Furniture\nfittings &\nequipment\nShs’000\n806,398\n(457,539)",
+    "Work in\nProgress\nShs’000\n14,038\n-",
+    "Total\nShs’000\n1,317,000\n(594,526)"
+  ],
+  "extracted_at": "2026-01-15T13:21:06.738058"
+}

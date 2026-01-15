@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 87,
+  "table_number": 3,
+  "title": "At 31 December 2011",
+  "rows": 6,
+  "columns": [
+    "Kenya\nShs’000\n10,360,449\n2,062,918\n244,575",
+    "Tanzania\nShs’000\n1,467,341\n20,588\n190,756",
+    "Uganda\nShs’000\n1,783,671\n223,651\n28,599",
+    "Burundi\nShs’000\n171,808\n12,599\n12,059",
+    "Total\nShs’000\n13,783,269\n2,319,756\n475,989"
+  ],
+  "extracted_at": "2026-01-15T13:21:06.744782"
+}

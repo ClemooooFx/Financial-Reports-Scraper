@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 75,
+  "table_number": 1,
+  "title": "Accumulated depreciation (5,283) (15,817) (203,528) (31,247) (768,497) - (1,024,372)",
+  "rows": 7,
+  "columns": [
+    "Column",
+    "Leasehold\nland\nShs’000\n67,849\n(5,283)",
+    "Leasehold\nbuildings\nShs’000\n212,578\n(15,817)",
+    "Leasehold\nimprovements\nShs’000\n739,397\n(203,528)",
+    "Motor\nvehicles\nShs’000\n56,995\n(31,247)",
+    "Furniture\nfittings &\nequipment\nShs’000\n1,429,671\n(768,497)",
+    "Work in\nprogress\nShs’000\n28,698\n-",
+    "Total\nShs’000\n2,535,188\n(1,024,372)\n1,510,816\n1,510,816\n(14,460)\n534,082\n-\n353,309\n(35,690)\n31,803\n(365,917)\n2,013,943\n3,350,217\n(1,336,274)\n2,013,943"
+  ],
+  "extracted_at": "2026-01-15T13:21:06.737223"
+}
