@@ -1,0 +1,8 @@
+"National Bank of Rwanda
+Guidelines",Days past due,Stage allocation
+Normal,0-29,1
+Watch,30-89,2
+Sub-standard,90-179,3
+Doubtful,180-364,3
+Loss,"Over 364 or considered
+uncollectible",3
