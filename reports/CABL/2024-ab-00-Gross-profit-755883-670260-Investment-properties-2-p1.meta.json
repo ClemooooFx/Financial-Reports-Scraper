@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2024-ab-00.pdf",
+  "page": 1,
+  "table_number": 4,
+  "title": "Gross profit 755,883 670,260 Investment properties 219,357 259,216",
+  "rows": 8,
+  "columns": [
+    "CONSOLIDATED STATEMENT OF CASH FLOWS\nFOR THE YEAR ENDED 31 DECEMBER 2024\n2024 2023\nKShs‘000 KShs‘000\nCash generated from operations 552,402 231,133\nIncome taxes paid (1,318) (3,649)\nCash flows generated from operating activities 551,084 227,484\nCash flows from investing activities\nPurchase of property, plant and equipment (2,580) (3,913)\nNet cash used in investing activities (2,580) (3,913)\nCash flows from financing activities\nRepayment of bank loans and borrowings (57,296) (77,019)\nInterest accrued (428,457) (170,262)\nDividends paid (849) (252)\nNet cash used in financing activities (486,602) (247,533)\nNet decrease in cash and cash equivalents (61,902) (23,962)\nCash and cash equivalents at 1 January 105,259 129,221\nCash and cash equivalents at 31 December 43,357 105,259",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T07:16:35.299413"
+}
