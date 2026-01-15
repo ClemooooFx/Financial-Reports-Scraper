@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2025-pr-q1.pdf",
+  "page": 16,
+  "table_number": 1,
+  "title": "OP Loss (KES Bns) 15",
+  "rows": 4,
+  "columns": [
+    "OP Profit (KES Bns) Branches Broken Even\n2\nOP Loss (KES Bns) 15\n10\n100\n6\n23\n1\n0\nQ3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q\n21 21 22 22 22 22 23 23 23 23 24 24 24 24 2\n-22\n-33\n-44",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "0\n3"
+  ],
+  "extracted_at": "2026-01-15T23:00:18.230832"
+}
