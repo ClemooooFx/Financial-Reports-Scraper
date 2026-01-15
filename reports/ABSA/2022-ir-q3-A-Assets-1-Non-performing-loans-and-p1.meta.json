@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2022-ir-q3.pdf",
+  "page": 1,
+  "table_number": 2,
+  "title": "A Assets 1) Non-performing loans and",
+  "rows": 6,
+  "columns": [
+    "Bank\nSeptember December March June\n2021 2021 2022 2022\nShs '000 Shs '000 Shs '000 Shs '000\nUnaudited Audited Unaudited Unaudited\nIII Other disclosures\n1) Non-performing loans and\nadvances\na) Gross non-performing loans\nand advances 19,635,091 19,817,024 19,498,844 19,792,505\nb) Less: Interest in suspense 2,425,597 2,495,443 2,364,684 2,433,135\nc) Total non performing loans\nand advances 17,209,494 17,321,581 17,134,160 17,359,370\nd) Less: loan loss provisions 12,194,354 12,908,863 12,489,879 13,112,358\ne) Net non performing loans(c-d) 5,015,140 4,412,718 4,644,281 4,247,012\nf) Discounted value of securities 3,318,814 3,326,376 3,538,558 3,158,189",
+    "Bank",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T04:22:20.368606"
+}

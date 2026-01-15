@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 210,
+  "table_number": 1,
+  "title": "The carrying amount of assets and liabilities held at amortised costs is considered to approximate the fair value of the assets and liabilities.",
+  "rows": 11,
+  "columns": [
+    "Carrying amount",
+    "Fair value",
+    "Level 1",
+    "Level 2",
+    "Level 3"
+  ],
+  "extracted_at": "2026-01-15T04:22:18.324427"
+}
