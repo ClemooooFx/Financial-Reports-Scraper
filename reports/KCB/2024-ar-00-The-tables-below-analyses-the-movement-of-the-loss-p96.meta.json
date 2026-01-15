@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 96,
+  "table_number": 5,
+  "title": "The tables below analyses the movement of the loss allowance during the year.",
+  "rows": 9,
+  "columns": [
+    "CORPORATE-MORTGAGE",
+    "Stage 1\n12-month ECL",
+    "Stage 2\nLifetime ECL",
+    "Stage 3\nLifetime ECL",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:40:37.794511"
+}

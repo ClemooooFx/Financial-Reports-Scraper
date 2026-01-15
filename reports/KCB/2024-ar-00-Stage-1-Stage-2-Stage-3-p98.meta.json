@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 98,
+  "table_number": 5,
+  "title": "Stage 1 Stage 2 Stage 3",
+  "rows": 9,
+  "columns": [
+    "Column",
+    "Cash & Central\nBank Balances",
+    "Loans to\nBanks",
+    "Financial\nassets at\nFVTOCI",
+    "Financial\nassets at\nFVTPL",
+    "Financial\nassets at\narmotised cost",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:40:37.798998"
+}

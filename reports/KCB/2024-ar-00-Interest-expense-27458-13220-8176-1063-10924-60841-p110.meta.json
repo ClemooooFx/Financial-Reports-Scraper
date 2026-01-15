@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 110,
+  "table_number": 3,
+  "title": "Interest expense (27,458) (13,220) (8,176) (1,063) (10,924) (60,841)",
+  "rows": 1,
+  "columns": [
+    "Financial position",
+    "Corporate\nbanking",
+    "Retail\nbanking",
+    "Treasury",
+    "Mortgages",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:40:37.814020"
+}
