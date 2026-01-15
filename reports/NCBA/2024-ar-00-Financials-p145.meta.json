@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 145,
+  "table_number": 1,
+  "title": "Financials",
+  "rows": 4,
+  "columns": [
+    "Name",
+    "Title",
+    "Change",
+    "Date"
+  ],
+  "extracted_at": "2026-01-15T22:55:09.106203"
+}

@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 261,
+  "table_number": 1,
+  "title": "Financials",
+  "rows": 6,
+  "columns": [
+    "Category of asset/\nliability",
+    "Valuation\ntechnique",
+    "Significant unobservable\ninputs",
+    "Sensitivity"
+  ],
+  "extracted_at": "2026-01-15T22:55:09.128206"
+}
