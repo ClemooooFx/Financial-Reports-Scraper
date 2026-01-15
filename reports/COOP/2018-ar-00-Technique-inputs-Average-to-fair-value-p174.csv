@@ -1,0 +1,14 @@
+Column,"Valuation
+Technique","Significant unobservable
+inputs","Range (Weighted
+Average)","Sensitivity of the input
+to fair value"
+"Free hold land
+and building",DCF method,"Estimated rental value
+per s.q.m. per month",,
+,,Rent growth p.a.,,
+,,Long-term vacancy rate,,
+,,Discount rate,,
+"Unquoted-equity
+instruments",DCF method,Long term growth rate,,
+,,Discount rate (WACC),,
