@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 142,
+  "table_number": 1,
+  "title": "GDP Growth (YoY%) 6.9% 9.3% 9.8% 7.5% 10.3% 10.8% 6.2% 8.4% 8.8%",
+  "rows": 8,
+  "columns": [
+    "Column",
+    "Base Forecast",
+    "Column",
+    "Column",
+    "Best Case",
+    "Column",
+    "Column",
+    "Worst Case",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T22:45:52.545061"
+}

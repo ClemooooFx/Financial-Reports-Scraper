@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 67,
+  "table_number": 1,
+  "title": "Attendance 5/5 2/4 2/2",
+  "rows": 32,
+  "columns": [
+    "Director",
+    "Designation",
+    "Column",
+    "Board",
+    "Executive",
+    "Audit\n&Risk",
+    "Governance &\nNominations",
+    "ICT",
+    "Training &\nStrategy"
+  ],
+  "extracted_at": "2026-01-15T22:45:14.277396"
+}

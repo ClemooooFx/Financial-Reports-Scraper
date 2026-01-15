@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 50,
+  "table_number": 2,
+  "title": "business unit.",
+  "rows": 7,
+  "columns": [
+    "Product",
+    "Partner",
+    "2020\nEnhancements",
+    "Customer\nNumber",
+    "Loans Disbursed\n(Inception to\nDate – Count)",
+    "Loans Disbursed\n(Inception to\nDate – Value)"
+  ],
+  "extracted_at": "2026-01-15T22:45:14.275166"
+}
