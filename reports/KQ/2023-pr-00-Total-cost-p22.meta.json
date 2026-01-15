@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-pr-00.pdf",
+  "page": 22,
+  "table_number": 1,
+  "title": "Total cost",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Column",
+    "Total Cost KShs Mil\n250 000\n200 000\n150 000\n100 000\n50 000\n0\n2018 2019 2020 2021 2022 2023",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T21:10:44.639623"
+}
