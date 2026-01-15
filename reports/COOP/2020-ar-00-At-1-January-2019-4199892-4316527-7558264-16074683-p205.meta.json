@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 205,
+  "table_number": 2,
+  "title": "At 1 January 2019 4,199,892 4,316,527 7,558,264 16,074,683",
+  "rows": 7,
+  "columns": [
+    "12-month\nECL\nStage 1",
+    "Lifetime\nECL not\ncredit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Gross\nCarrying\nAmount",
+    "12-month\nECL\nStage 1",
+    "Lifetime\nECL not\ncredit\nimpaired\nStage 2",
+    "Lifetime\nECL credit\nImpaired\nStage 3",
+    "Total ECL"
+  ],
+  "extracted_at": "2026-01-15T10:20:53.274524"
+}

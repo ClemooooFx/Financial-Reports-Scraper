@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 230,
+  "table_number": 1,
+  "title": "Transaction accounts 116,265,927 104,488,507 116,475,450 104,488,654",
+  "rows": 18,
+  "columns": [
+    "Group",
+    "Column",
+    "Bank",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T10:20:53.288777"
+}
