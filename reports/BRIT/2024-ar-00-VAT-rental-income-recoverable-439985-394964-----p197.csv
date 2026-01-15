@@ -1,0 +1,17 @@
+Column,Group,Column,Company,Column
+,2024,2023,2024,2023
+,Shs’000,Shs’000,Shs’000,Shs’000
+"Deposits with financial institutions
+Cash and bank balances","5,395,553","9,564,878","194,690","39,360"
+,"1,683,771","1,201,909","98,696","22,191"
+Cash and cash equivalents,"7,079,324","10,766,787","293,386","61,551"
+Less: Provision for expected credit losses,"(123,077)","(125,906)",(290),(10)
+Net amount at end of year,"6,956,247","10,640,881","293,096","61,541"
+"Movement in provision for expected credit losses:
+At start of the year
+Increase
+Write off",,,,
+,"125,906","137,727",10,143
+,"(2,829)","(11,821)",280,-
+,-,-,-,(133)
+At end of the year,"123,077","125,906",290,10

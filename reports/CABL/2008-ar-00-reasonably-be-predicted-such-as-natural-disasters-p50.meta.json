@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2008-ar-00.pdf",
+  "page": 50,
+  "table_number": 2,
+  "title": "reasonably be predicted, such as natural disasters.",
+  "rows": 3,
+  "columns": [
+    "31 December 2008:\nFinancial assets and liabilities\nCash and bank balances\nBank overdraft\nReceivables\nLoans and borrowings\nPayables and accruals\nAt 31 December 2008\n31 December 2007:\nFinancial assets and liabilities\nCash and bank balances\nBank overdraft\nReceivables\nLoans and borrowings\nPayables and Accruals\nDue to related company\nAt 31 December 2007",
+    "Due within 3\nmonths\nKShs’000\n165,750\n(4,277)\n1,121,382\n(404,817)\n(348,549)",
+    "Due between\n3-12 months\nKShs’000\n-\n-\n-\n(256,659)\n-",
+    "Due between\n1-5 years\nKShs’000\n-\n-\n-\n(368,246)\n-",
+    "Due after\n5 years\nKShs’000\n-\n-\n-\n-\n-",
+    "Total\nKShs’000\n165,750\n(4,277)\n1,121,382\n(1,029,722)\n(348,549)"
+  ],
+  "extracted_at": "2026-01-15T07:02:41.902825"
+}

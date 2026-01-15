@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2009-ar-00.pdf",
+  "page": 54,
+  "table_number": 2,
+  "title": "60 days, including the servicing of financial obligations; this excludes the potential impact of extreme circumstances",
+  "rows": 15,
+  "columns": [
+    "31 December 2009:\nFinancial assets and\nliabilities\nCash and bank bal-\nances\nBank overdraft\nReceivables\nLoans and borrowings\nPayables and accruals\nAt 31 December 2009\n31 December 2008:\nFinancial assets and\nliabilities\nCash and bank bal-\nances\nBank overdraft\nReceivables\nLoans and borrowings\nPayables and accruals\nAt 31 December 2008",
+    "Due within 3\nmonths\nKShs ‘000\n11,132\n(74,491)\n976,960\n(341,130)\n(361,779)",
+    "Due between\n3-12 months\nKShs ‘000",
+    "Due between\n1-5 years\nKShs ‘000\n-\n-\n-\n(347,444)\n-",
+    "Due after\n5 years\nKShs ‘000",
+    "Total\nKShs ‘000\n11,132\n(74,491)\n976,960\n(1,089,176)\n(361,779)"
+  ],
+  "extracted_at": "2026-01-15T07:02:50.650747"
+}

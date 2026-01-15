@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 216,
+  "table_number": 1,
+  "title": "Balance as at 1 January 1 143 - 30,380 366,619 115,504 512,647",
+  "rows": 16,
+  "columns": [
+    "Column",
+    "Cash and\nbank\nbalances",
+    "Deposits\nwith financial\ninstitutions",
+    "Government\nsecurities at\namortised\ncost",
+    "Corporate\nbonds at\namortised\ncost",
+    "Mortgage\nloans\nreceivable",
+    "Other\nreceivables",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T07:02:23.051983"
+}
