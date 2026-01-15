@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 20,
+  "table_number": 2,
+  "title": "Shareholding",
+  "rows": 15,
+  "columns": [
+    "Column",
+    "Column",
+    "NAME",
+    "NO. OF\nSHARES",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T07:39:18.183246"
+}

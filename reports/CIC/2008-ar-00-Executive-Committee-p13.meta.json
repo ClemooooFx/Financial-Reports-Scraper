@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2008-ar-00.pdf",
+  "page": 13,
+  "table_number": 1,
+  "title": "Executive Committee",
+  "rows": 12,
+  "columns": [
+    "Column",
+    "Board Meeting",
+    "Column",
+    "Executive\nCommittee",
+    "Column",
+    "Finance and\nInvestment Committee",
+    "Column",
+    "Audit Committee",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T07:38:25.574500"
+}
