@@ -1,0 +1,16 @@
+Column,"Class as defined by IFRS 9 and as
+determined by the group",Subclasses
+Financial assets,"Financial assets at fair value through profit
+and loss (FVTPL)",Government securities held for trading
+,"Investments designated as at fair value through
+other comprehensive income (FVTOCI)",Equity investments
+,Financial assets at amortised cost,Loans and advances to customers
+,,Deposits and balances due from banking institutions
+,,Government securities held to maturity
+Financial liabilities,Financial liabilities at armortised cost,Customer deposits
+,,Deposits and balances due to banking institutions
+,,Other liabilities
+,,Borrowings
+"Off balance
+sheet financial
+instruments",Offbalance sheet financial instruments,"Guarantees, acceptances and other financial facilities"
