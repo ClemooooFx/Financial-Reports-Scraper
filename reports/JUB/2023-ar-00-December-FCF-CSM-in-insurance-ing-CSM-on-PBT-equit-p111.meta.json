@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 111,
+  "table_number": 1,
+  "title": "December FCF CSM in insurance ing CSM on PBT equity",
+  "rows": 1,
+  "columns": [
+    "2023",
+    "FCF as at 31\nDecember",
+    "CSM as at\n31 Decem-\nber",
+    "Total",
+    "Impact on\nFCF",
+    "Impact on\nCSM",
+    "Total\nincrease\n(decrease)\nin insurance\ncontract\nliabilities",
+    "Remain-\ning CSM",
+    "Impact\non PBT",
+    "Impact on\nequity"
+  ],
+  "extracted_at": "2026-01-15T18:43:18.173437"
+}

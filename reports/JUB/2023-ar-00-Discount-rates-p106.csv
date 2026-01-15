@@ -1,0 +1,10 @@
+2022,Change in assumption,"Insurance contract lia-
+bilities","Insurance contract as-
+sets"
+,,Kes '000,Kes '000
+Expenses,10%,"30,456,144","(195,239)"
+Mortality,10%,"30,410,740","(202,522)"
+Withdrawal Up,25%,"30,424,058","(205,661)"
+Withdrawal Down,-25%,"30,544,204","(190,867)"
+Longevity,-10%,"24,776,809","(35,833)"
+Adopted,All,"30,667,056","(185,336)"

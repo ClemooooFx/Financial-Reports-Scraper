@@ -1,0 +1,11 @@
+Column,Group,Column,Company,Column
+,2023,2022,2023,2022
+,Kes '000,Kes '000,Kes '000,Kes '000
+At start of year,"370,436","373,481","(26,180)","(72,954)"
+Recognised in profit or loss,"413,979","186,326","(36,273)","(260,513)"
+Deferred Tax on derecognised subsidiaries,"(191,986)","(296,906)","35,913","324,859"
+Recognised in OCI,"(200,158)","107,535","(13,785)","(17,572)"
+At end of year,"392,271","370,436","(40,325)","(26,180)"
+Deferred tax asset,"(973,682)","(697,059)","40,325","26,180"
+Deferred tax liability,"1,365,953","1,067,495",-,-
+Net deferred income tax liability/(asset),"392,271","370,436","40,325","26,180"

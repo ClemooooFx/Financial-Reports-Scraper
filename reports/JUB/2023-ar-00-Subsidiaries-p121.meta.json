@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 121,
+  "table_number": 3,
+  "title": "Subsidiaries",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Insurance contracts issued",
+    "Column",
+    "Reinsurance contracts held",
+    "Column"
+  ],
+  "extracted_at": "2026-01-15T18:43:18.181092"
+}

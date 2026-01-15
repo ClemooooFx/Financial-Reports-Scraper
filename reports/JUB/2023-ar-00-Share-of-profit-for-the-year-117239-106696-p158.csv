@@ -1,0 +1,14 @@
+TAX MOVEMENT,Group,Column,Company,Column
+,2023,2022,2023,2022
+,Kes '000,Kes '000,Kes '000,Kes '000
+At start of year,"(826,901)","(546,554)","(93,001)","580,879"
+Taxation charge,"636,936","618,866","92,842","378,422"
+Prior year (over)/under provision,"(192,459)","(114,858)",-,-
+Taxation paid,"(436,766)","(784,355)","(77,237)","(1,052,302)"
+At end of year,"(819,190)","(826,901)","(77,396)","(93,001)"
+,Group,,Company,
+,2023,2022,2023,2022
+,Kes '000,Kes '000,Kes '000,Kes '000
+Current income tax asset,"(898,140)","(933,526)","(77,396)","(93,001)"
+Current income tax liability/other liability (Company),"78,950","106,625",-,-
+Total,"(819,190)","(826,901)","(77,396)","(93,001)"

@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 150,
+  "table_number": 1,
+  "title": "electricity generating company in Uganda.",
+  "rows": 11,
+  "columns": [
+    "Group",
+    "Opening\nBalance",
+    "Net additions/\n(redemptions)",
+    "Dividends\nreceived",
+    "Share of\nprofit",
+    "Share of\nOCI",
+    "Translation\ngain/(loss)",
+    "Closing\nBalance"
+  ],
+  "extracted_at": "2026-01-15T18:43:18.209416"
+}

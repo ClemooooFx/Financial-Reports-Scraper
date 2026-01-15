@@ -1,0 +1,33 @@
+Column,Column,COMPANY,Column
+,,2023,2022
+,Note,Kes '000,Kes '000
+Cash flow from operating activities,,,
+Profit before income tax,,"1,087,373","3,936,714"
+Adjustments for: -,,,
+Depreciation and amortisation,15 & 37 (i),"26,903","22,628"
+Investment income,,"(1,492,927)","(4,088,389)"
+Interest expense on Lease liabilities,37 (ii),"7,573","9,105"
+"Operating cash (outflow) before changes to receivables and
+payables",,"(371,078)","(119,942)"
+Change in receivables,,"371,070","(420,238)"
+Change in payables,,"(275,716)","(713,132)"
+Cash (used in) operations,,"(275,724)","(1,253,312)"
+Income tax paid,18,"(77,237)","(429,083)"
+Net cash (outflow) from operating activities,,"(352,961)","(1,682,395)"
+Cash flow from investing activities,,,
+"Rent, interest and other income received",,"160,359","801,871"
+Dividends received from Subsidiaries and associates,10,"558,536","927,560"
+Sales Proceeds from sale of subsidiaries,39,"991,968","1,747,992"
+Purchase of property and equipment and intangible assets,15,"(53,245)","(8,228)"
+Additional investments in Associate,17,-,"(331,918)"
+Net increase/(decrease) of government securities,20 (i),"566,298","(1,083,810)"
+Purchase of quoted equities,23,"(302,384)",-
+Net cash inflow from investing activities,,"1,921,532","2,053,467"
+Cash flow from financing activities,,,
+Repayments under lease liabilities,37 (ii),"(25,153)","(21,873)"
+Dividends paid,,"(932,497)","(966,587)"
+Net cash (outflow) from financing activities,,"(957,650)","(988,460)"
+Cash and cash equivalents at start of year,25 (ii),"630,763","1,248,467"
+(Decrease)/ Increase in cash and cash equivalents,,"610,921","(617,388)"
+Exchange (loss) on translation of cash and cash equivalents,,"(2,937)",(316)
+Cash and cash equivalents at end of year,,"1,238,747","630,763"

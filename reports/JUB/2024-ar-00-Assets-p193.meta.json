@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 193,
+  "table_number": 2,
+  "title": "Assets",
+  "rows": 12,
+  "columns": [
+    "Movement",
+    "FV Through P&L",
+    "Column",
+    "Amortized cost",
+    "Total",
+    "FV Through P&L",
+    "Amortized cost",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T18:43:54.301871"
+}

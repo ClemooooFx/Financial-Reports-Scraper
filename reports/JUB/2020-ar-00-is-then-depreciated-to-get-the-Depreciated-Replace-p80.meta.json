@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 80,
+  "table_number": 1,
+  "title": "is then depreciated to get the Depreciated Replacement Cost which is equivalent to the Market Value.",
+  "rows": 7,
+  "columns": [
+    "Opening\nBalance",
+    "Net additions/\n(redemptions)",
+    "Dividends\nreceived",
+    "Share of\nprofit",
+    "Share of\nOCI",
+    "Translation\ngain/(loss)\nthrough\nP&L",
+    "Translation\ngain/(loss)\nthrough\nOCI",
+    "Closing\nBalance"
+  ],
+  "extracted_at": "2026-01-15T18:41:46.267497"
+}
