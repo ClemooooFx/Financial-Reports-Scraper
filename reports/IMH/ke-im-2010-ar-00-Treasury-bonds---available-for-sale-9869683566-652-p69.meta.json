@@ -1,0 +1,17 @@
+{
+  "source_pdf": "ke-im-2010-ar-00.pdf",
+  "page": 69,
+  "table_number": 2,
+  "title": "Treasury bonds - available-for-sale 9,869,683,566 6,521,180,450",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Treasury\nbonds\nand bills",
+    "Corporate\nbond",
+    "Commercial\npaper",
+    "Short\nterm floating\nnotes",
+    "Medium\nterm floating\nnotes",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T18:18:32.159083"
+}
