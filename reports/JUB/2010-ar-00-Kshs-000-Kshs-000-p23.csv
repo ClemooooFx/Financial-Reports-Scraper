@@ -1,0 +1,13 @@
+Column,Group,Column,Company,Column
+,2010,2009,2010,2009
+,Kshs ‘000,Kshs ‘000,Kshs ‘000,Kshs ‘000
+Profit before income tax,"2,053,287","1,115,776","331,976","129,337"
+Tax calculated at 30% (2009: 30%),"619,354","334,733","99,593","38,801"
+Effect of :,,,,
+Income not subject to income tax,"(417,488)","(197,417)","(90,960)","(31,616)"
+Expenses not deductible for tax purposes,"4,792","61,823",-,-
+Others,"7,505","2,964",-,-
+Income tax charge,"214,163","202,103","8,633","7,185"
+Current income tax,"268,036","204,806","8,633","7,185"
+Deferred income tax (25),"(53,873)","(2,703)","(64,149)",-
+,"214,163","202,103","(55,516)","7,185"

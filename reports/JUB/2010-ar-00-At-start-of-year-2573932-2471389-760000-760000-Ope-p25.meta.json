@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2010-ar-00.pdf",
+  "page": 25,
+  "table_number": 5,
+  "title": "At start of year 2,573,932 2,471,389 760,000 760,000 Opening Additions/ Dividends Share of result Translation Closing Balance",
+  "rows": 10,
+  "columns": [
+    "Column",
+    "Country of\nIncorporation",
+    "Assets",
+    "Liabilities",
+    "Revenues",
+    "Profit/(loss)",
+    "Interest Held"
+  ],
+  "extracted_at": "2026-01-15T18:33:09.449077"
+}
