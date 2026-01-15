@@ -1,0 +1,20 @@
+{
+  "source_pdf": "2011-ar-00.pdf",
+  "page": 53,
+  "table_number": 1,
+  "title": "The aggregate amount of emoluments paid to Directors for",
+  "rows": 12,
+  "columns": [
+    "Column",
+    "MAIN\nBOARD",
+    "AUDIT",
+    "CREDIT",
+    "RISK\nMANAGEMENT",
+    "HUMAN\nRESOURCES",
+    "pROCUREMENT",
+    "NEW\nMARKETS",
+    "TRANSFORMATION",
+    "KCB\nFOUNDATION"
+  ],
+  "extracted_at": "2026-01-15T19:03:17.595742"
+}

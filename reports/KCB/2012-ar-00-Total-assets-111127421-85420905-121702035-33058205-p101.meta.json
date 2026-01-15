@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 101,
+  "table_number": 1,
+  "title": "Total assets 111,127,421 85,420,905 121,702,035 33,058,205 16,070,719 367,379,285",
+  "rows": 9,
+  "columns": [
+    "Corporate\nbanking",
+    "Retail\nbanking",
+    "Treasury",
+    "Mortgages",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T19:03:44.291950"
+}
