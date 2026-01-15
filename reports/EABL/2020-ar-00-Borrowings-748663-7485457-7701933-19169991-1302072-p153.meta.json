@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 153,
+  "table_number": 3,
+  "title": "Borrowings 748,663 7,485,457 7,701,933 19,169,991 13,020,722 48,126,766",
+  "rows": 5,
+  "columns": [
+    "Current",
+    "Less than 1\nyear",
+    "Between 1\nand 2 years",
+    "Between 2\nand 5 years",
+    "Over 5\nyears",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T14:19:32.860149"
+}

@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 151,
+  "table_number": 2,
+  "title": "Borrowings 855,831 2,673,747 9,915,825 20,355,875 12,350,000 46,151,278",
+  "rows": 7,
+  "columns": [
+    "Current",
+    "Less than 1\nyear",
+    "Between 1\nand 2 years",
+    "Between 2\nand 5 years",
+    "Over 5\nyears",
+    "Total"
+  ],
+  "extracted_at": "2026-01-15T14:20:15.884771"
+}
