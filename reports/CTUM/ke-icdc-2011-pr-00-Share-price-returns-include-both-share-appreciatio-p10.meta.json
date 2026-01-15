@@ -1,0 +1,15 @@
+{
+  "source_pdf": "ke-icdc-2011-pr-00.pdf",
+  "page": 10,
+  "table_number": 1,
+  "title": "Share price returns include both share appreciation and dividend 1100",
+  "rows": 2,
+  "columns": [
+    "Year",
+    "Centum Share\nprice return",
+    "Centum NAV\nReturn",
+    "NSE 20 Return",
+    "USE Index\nReturn"
+  ],
+  "extracted_at": "2026-01-15T11:54:51.095900"
+}

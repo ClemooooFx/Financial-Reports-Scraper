@@ -1,0 +1,9 @@
+Column,Kes. m,Debt Covenants,Column,Status
+,,Description,Ratio,
+1,Debt Service coverage,"Internally generated funds will
+always be at least 1.5 times greater
+that the finance costs",1.5 : 1,10.9 : 1
+2,Net debt to Equity ratio,"Net debt(total group debt less freely
+available cash) should always be less
+than half the fair valued shareholder
+funds",1 : 2,0.12 : 2
