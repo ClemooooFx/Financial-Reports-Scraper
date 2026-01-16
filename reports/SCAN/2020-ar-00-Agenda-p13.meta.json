@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 13,
+  "table_number": 1,
+  "title": "Agenda",
+  "rows": 8,
+  "columns": [
+    "Column",
+    "Agenda",
+    "Resolution",
+    "Column",
+    "For",
+    "Column",
+    "% in favour",
+    "Against",
+    "% Against",
+    "Abstained",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T01:27:59.773476"
+}
