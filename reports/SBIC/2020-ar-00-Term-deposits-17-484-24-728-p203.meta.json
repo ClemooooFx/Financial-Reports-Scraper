@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 203,
+  "table_number": 3,
+  "title": "Term deposits 17 484 24 728",
+  "rows": 3,
+  "columns": [
+    "Notional\nvalue\nKShs million",
+    "Carrying\namounts\nKShs million",
+    "Interest rate\n%",
+    "Date of Issue",
+    "Maturity date"
+  ],
+  "extracted_at": "2026-01-16T00:48:12.898553"
+}

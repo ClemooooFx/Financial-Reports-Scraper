@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 178,
+  "table_number": 1,
+  "title": "Assets",
+  "rows": 30,
+  "columns": [
+    "Total\n2020\nKShs million",
+    "Total\n2019\nKShs million",
+    "CIB\n2020\nKShs million",
+    "CIB\n2019\nKShs million",
+    "PBB\n2020\nKShs million"
+  ],
+  "extracted_at": "2026-01-16T00:48:12.879626"
+}

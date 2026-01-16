@@ -1,0 +1,21 @@
+Column,Valuation basis/technique,Main assumptions1
+Derivative instruments,"Discounted cash flow model
+Black-Scholes model
+Multiple valuation technique","Discount rate
+Risk-free rate, volatility rate
+Valuation multiples"
+Trading assets,"Discounted cash flow model
+Black-Scholes model","Discount rate, liquidity discount rate
+Risk-free rate, volatility rate"
+Financial assets,"Discounted cash flow model
+Multiple valuation technique
+Quoted exit price adjusted for notice period","Discount rate, liquidity discount rate
+Valuation multiples
+Discount rate"
+Loans and advances to customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Financial liabilities,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from banks,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Other financial liabilities,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Cash with Central Bank of Kenya,Prevailing exchange rate,Exchange rate
+Investment in equities,Sale price,Discount rate

@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 217,
+  "table_number": 1,
+  "title": "acquisition assets – credit risk reserve on payment translation",
+  "rows": 9,
+  "columns": [
+    "Pre-\nacquisition\nreserve\nKShs\nmillion",
+    "Revaluation\nof financial\nassets –\nat FVOCI\nKShs\nmillion",
+    "Regulatory\ncredit risk\nreserve\nKShs\nmillion",
+    "Revaluation\nreserve on\nbuildings\nKShs\nmillion",
+    "Share-\nbased\npayment\nreserve\nKShs\nmillion",
+    "Foreign\ncurrency\ntranslation\nreserve\nKShs\nmillion",
+    "Total\nKShs\nmillion"
+  ],
+  "extracted_at": "2026-01-16T00:48:12.908775"
+}

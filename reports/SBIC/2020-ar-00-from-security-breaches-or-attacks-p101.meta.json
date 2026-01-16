@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 101,
+  "table_number": 1,
+  "title": "from security breaches or attacks",
+  "rows": 6,
+  "columns": [
+    "Rank",
+    "2019/2020",
+    "Description",
+    "Trend",
+    "2018/2019",
+    "Relevant mitigants"
+  ],
+  "extracted_at": "2026-01-16T00:48:12.863558"
+}
