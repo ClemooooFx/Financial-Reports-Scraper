@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2013-ar-00.pdf",
+  "page": 4,
+  "table_number": 1,
+  "title": "Profit / (loss) before tax 1,419,478 (1,032,914) (119,059) (338,571) 1,881,678",
+  "rows": 7,
+  "columns": [
+    "9,211,462\n340,931\n594,113\n1,419,478\n355,905\n713,451\n1,775,383",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T00:18:19.518966"
+}
