@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 56,
+  "table_number": 1,
+  "title": "Ushs million Ushs million Ushs million Ushs million Ushs million",
+  "rows": 4,
+  "columns": [
+    "Year",
+    "Total",
+    "<30 days",
+    "30-60 days",
+    "60 – 90 days",
+    ">90 days\n(default)"
+  ],
+  "extracted_at": "2026-01-16T05:41:29.691986"
+}

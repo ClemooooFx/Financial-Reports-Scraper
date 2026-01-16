@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 133,
+  "table_number": 3,
+  "title": "Letters of credit - - -",
+  "rows": 4,
+  "columns": [
+    "Year",
+    "Total",
+    "<30 days",
+    "30-60 days",
+    "60 – 90 days",
+    ">90(default)"
+  ],
+  "extracted_at": "2026-01-16T05:42:51.730042"
+}

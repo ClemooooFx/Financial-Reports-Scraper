@@ -1,0 +1,50 @@
+"Customer
+segment",Description,Based on usage,Column,Column,Fixed monthly charge,Column
+,,Usage,Ushs/kWh,,Ushs,
+,,,2022,2021,2022,2021
+"Domestic
+consumers","Low voltage supply at 240
+volts to residential houses,
+small shops and kiosks","Lifeline charge applicable for
+the first 15 units consumed in a
+month",250,250,"3,360","3,360"
+,,"Energy above 15 units (Ushs/
+kWh)",747.5,750.9,,
+,,"Energy units between 81 – 150
+(Ush/kWh)",412.0,,,
+,,"Energy Units above 150 (Ush/
+kWh)",747.5,,,
+Commercial,"Low voltage supply to three
+phase low voltage with load
+not exceeding 100 Amperes
+and supplied at 415 volts e.g.,
+small scale industries like maize
+mills","Peak, shoulder and off peak",597.2,642.4,"3,360","3,360"
+"Medium
+industrial","Low voltage supply to medium
+scale industries, taking power
+at low voltage (415 V), with
+maximum demand of up to
+500kVA","Peak, shoulder and off peak",472.9,560.2,"22,400","22,400"
+"Large
+industrial","High voltage supply to large
+scale industrial users, taking
+power at high voltage (11,000
+or 33,000 V), with maximum
+demand exceeding 500kVA
+but up to 1,500kVA","Peak, shoulder and off peak",355.0,361.0,"70,000","70,000"
+,,"Additional maximum demand
+charge",,,,
+"Extra-large
+industrial
+consumers","High voltage 11,000V or
+33,000V, with maximum
+demand exceeding 1,500kVA
+and dealing in manufacturing","Peak, shoulder and off peak",300.2,301.7,"70,000","70,000"
+,,"Additional maximum demand
+charge",,,,
+"Street
+lighting","Supply for street lighting in
+cities, municipalities, towns,
+trading centres and community
+centres",Average,370,370,-,-

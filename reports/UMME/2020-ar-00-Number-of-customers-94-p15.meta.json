@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 15,
+  "table_number": 3,
+  "title": "Number of customers 94%",
+  "rows": 7,
+  "columns": [
+    "Customer Category",
+    "2020",
+    "2019",
+    "Growth",
+    "% Share"
+  ],
+  "extracted_at": "2026-01-16T05:41:16.825135"
+}

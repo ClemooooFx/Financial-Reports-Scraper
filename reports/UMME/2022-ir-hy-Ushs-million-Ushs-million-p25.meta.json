@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ir-hy.pdf",
+  "page": 25,
+  "table_number": 1,
+  "title": "Ushs million Ushs million",
+  "rows": 3,
+  "columns": [
+    "Period/year-end",
+    "Total",
+    "<30 days",
+    "30-60 days",
+    ">60 days",
+    ">90 days\n(default)"
+  ],
+  "extracted_at": "2026-01-16T05:42:54.682051"
+}

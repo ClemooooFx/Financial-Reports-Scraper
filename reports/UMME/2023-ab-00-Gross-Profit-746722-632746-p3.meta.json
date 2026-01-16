@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2023-ab-00.pdf",
+  "page": 3,
+  "table_number": 5,
+  "title": "Gross Profit 746,722 632,746",
+  "rows": 12,
+  "columns": [
+    "Column",
+    "ISSUED\nCAPITAL\n(Ushs million)",
+    "SHARE\nPREMIUM\n(Ushs million)",
+    "RETAINED\nEARNINGS\n(Ushs million)",
+    "TRANSLATION\nRESERVE\n(Ushs million)",
+    "TOTAL\nEQUITY\n(Ushs million)"
+  ],
+  "extracted_at": "2026-01-16T05:43:01.736348"
+}
