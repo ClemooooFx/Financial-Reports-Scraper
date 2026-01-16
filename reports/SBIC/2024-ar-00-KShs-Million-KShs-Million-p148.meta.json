@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 148,
+  "table_number": 2,
+  "title": "KShs Million KShs Million",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Notional value\nKShs Million",
+    "Carrying\namounts\nKShs Million",
+    "Interest Rate",
+    "Date of Issue",
+    "Maturity date"
+  ],
+  "extracted_at": "2026-01-16T00:55:50.208794"
+}

@@ -1,0 +1,7 @@
+Column,SVAR (KShs ‘million’),Column,Column,Column
+,Maximum,Minimum,Average,Closing
+FX trading,167,20,90,34
+Money market trading,97,30,69,84
+Fixed income trading,108,25,54,50
+Money market banking,131,60,96,102
+Bankwide,175,66,124,106

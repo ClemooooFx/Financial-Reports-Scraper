@@ -1,0 +1,99 @@
+"Expected credit losses on loans and advances at amortised cost in the consolidated
+financial statements",Column
+"The disclosure associated with credit risk is set out in the financial statements in the following notes:
+— Note 2.6 – Material accounting policies, Impairment of financial assets
+— Note 3.10 – Expected credit loss (ECL) on financial assets – IFRS 9 drivers
+— Note 4.3 – Financial risk management, Credit risk
+— Note 23 (c) – Allowances for impairment",
+The key audit matter,How the matter was addressed in our audit
+"Subjective estimateThe estimation of expected
+credit losses (“ECL”) on loans and advances and
+off-balance sheet elements, involves significant
+judgement and estimates. The key areas where we
+identified greater levels of management judgement in
+the Group’s financial statements and therefore
+increased levels of audit focus in the estimation of
+ECLs are:
+- Forward looking Information – IFRS 9 Financial
+Instruments requires the Group to measure ECLs
+on a forward-looking basis reflecting a range of
+future economic conditions. Significant
+management judgement is applied in determining
+the macroeconomic information used and the
+probability weightings applied especially when
+considering the current uncertain economic
+environment.
+- Significant increase in credit risk (“SICR”) – the
+criteria selected to identify a significant increase in
+credit risk is a key area of judgement within the
+Group’s ECL calculation as these criteria determine
+whether a 12 month or lifetime provision is
+recorded. The Group determines SICR if a loan’s
+current rating migrates three notches worse into
+the medium risk and low risk categories of the
+Standard Bank Rating Scale compared to the best
+rating in the nine years prior, the facility is 30-days
+past due, and deterioration of forward-looking
+outlook of the customer’s industry.
+- Model estimations – inherently judgemental
+modelling is used to estimate ECL which involves
+determining probabilities of default (“PD”) based on
+historical loan performance data, loss given default
+(“LGD”) estimated based on historical default
+experience and the loss experience given default,
+and exposures at default (“EAD”). The PD model is
+a key driver of complexity in the Group’s and Bank’s
+ECL modelling approach.
+- The effect of these matters is that, as part of our
+risk assessment, we determined that the
+impairment of loans and advances to customers to
+be a key audit matter due to the high degree of
+estimation uncertainty and significant judgement
+applied by management in determination of ECL.","Our procedures in this area included:
+- Performing process walk-throughs to identify the
+key systems, and evaluate the design an operating
+effectiveness of applications and controls used in
+the ECL processes.
+- Evaluating key aspects of the ECL model by:
+• Evaluating the appropriateness of the modelling
+principles implemented in the framework,
+including the definition of significant increase in
+credit risk, the use of contractual/ behavioural
+lifetime, use of a contractual/ effective interest
+rate and allowances for forward-looking
+macroeconomic information in the estimation of
+risk parameters used in the expected credit loss
+calculation;
+• Assessing the various probability of default (“PD”)
+and loss given default (“LGD”) models
+performance based on work performed by Group’s
+internal validation unit and performance of
+additional substantive testing on some of these
+models through reperformance. With the
+assistance of our internal experts, we also
+assessed the input assumptions applied within the
+PD and LGD models for compliance with the
+requirements of IFRS 9 Financial Instruments;
+• Assessing the Group’s approach to incorporating
+the economic strain induced by rising inflation
+and geopolitical events through the use of an
+indicative independent impact assessment
+thereof;
+• Assessing the IFRS 9 exposure at default (“EAD”)
+calculation, including the use of term structures
+and the inclusion of off-balance sheet
+exposures through a Credit Conversion Factor
+(“CCF”);
+• Evaluating management’s basis for establishing
+Stage 3 impairment amounts. This includes
+challenging reasonability of management
+assumptions on cashflow projections and time to
+realization for a sample of facilities; and
+• Assessing the inclusion of the approved
+macroeconomic scenarios and their probabilities
+in the counterparty rating during the rating
+process.
+• Evaluating the adequacy of the financial
+statements’ disclosures, including disclosures
+key assumptions and judgements in accordance
+with IFRS 9 Financial Instruments"

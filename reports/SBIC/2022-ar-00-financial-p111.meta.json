@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 111,
+  "table_number": 2,
+  "title": "financial.",
+  "rows": 19,
+  "columns": [
+    "Fair value\nthrough\nprofit\nor loss -\ndefault\nKShs\nMillion",
+    "Fair value\nthrough\nprofit\nor loss -\ndesignated\nKShs\nMillion",
+    "Amortised\ncost\nKShs\nMillion",
+    "Fair value\nthrough\nOCI\nKShs\nMillion",
+    "Other\nnon-\nfinancial\nassets/\nliabilities",
+    "Total\ncarrying\namount\nKShs\nMillion",
+    "Fair value\nKShs\nMillion"
+  ],
+  "extracted_at": "2026-01-16T00:54:12.124131"
+}

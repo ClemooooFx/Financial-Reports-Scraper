@@ -1,0 +1,26 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 78,
+  "table_number": 1,
+  "title": "Securities Balance",
+  "rows": 14,
+  "columns": [
+    "Year ended 31 December\n2021",
+    "Gross Carrying\namount\nKShs Million",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Total gross\ncarrying\namount of\ndefault\nexposures\nKShs Million",
+    "Securities\nand\nexpected\nrecoveries\non default\nexposures\nKShs\nMillion",
+    "Interest in\nsuspense\non default\nexposures\nKShs\nMillion",
+    "Balance\nsheet\nexpected\ncredit loss\non default\nexposures\nKShs Million",
+    "Gross\ndefault\ncoverage\n%",
+    "Non-\nperforming\nexposures\n%"
+  ],
+  "extracted_at": "2026-01-16T00:53:27.919685"
+}

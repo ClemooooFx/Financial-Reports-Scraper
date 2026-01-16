@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 109,
+  "table_number": 3,
+  "title": "16 Income tax expense",
+  "rows": 3,
+  "columns": [
+    "Column",
+    "Tax at statutory tax rate of 30%\n(2020: 25%)\nTax effect of:\nIncome not subjected to tax\nExpenses not deductible for tax\npurposes\nPrevious year’s current tax over\nprovision\nEffect of tax paid in other\njurisdictions\nEffect of different tax rate in\nSouth Sudan\nIncome tax expense",
+    "2,927\n(481)\n138\n-\n(25)\n(11)",
+    "1,557\n(1,054)\n402\n160\n(7)\n(23)",
+    "653\n(671)\n25\n-\n-\n-",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T00:53:27.932972"
+}

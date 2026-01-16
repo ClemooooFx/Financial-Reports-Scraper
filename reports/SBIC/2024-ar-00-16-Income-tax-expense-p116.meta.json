@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 116,
+  "table_number": 3,
+  "title": "16 Income tax expense",
+  "rows": 3,
+  "columns": [
+    "Column",
+    "Tax at statutory tax rate of 30% (2023: 30%)\nTax effect of:\nIncome not subjected to tax\nExpenses not deductible for tax\npurposes\nPrevious year’s current tax over\nprovision\nEffect of tax paid in other jurisdictions\nIncome tax expense",
+    "5,630\n(699)\n(146)\n544\n(74)",
+    "5,133\n(298)\n501\n(327)\n(73)",
+    "1,855\n(1,907)\n64\n-\n-",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T00:55:50.192126"
+}

@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 115,
+  "table_number": 2,
+  "title": "Subsequent Change in ECL due raised/ accounts other",
+  "rows": 6,
+  "columns": [
+    "Column",
+    "Opening ECL 1 Jan\n2020",
+    "Total\ntransfers\nbetween\nstages",
+    "Income statement movements",
+    "Column",
+    "Column",
+    "Column",
+    "Net ECL\nraised/\n(released)1",
+    "Impairment\naccounts\nwritten-off",
+    "Exchange and\nother\nmovements",
+    "Closing ECL\n31 Dec 2020"
+  ],
+  "extracted_at": "2026-01-16T00:53:27.936544"
+}
