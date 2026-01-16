@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 83,
+  "table_number": 1,
+  "title": "using: inputs",
+  "rows": 6,
+  "columns": [
+    "Column",
+    "Level 1",
+    "Column",
+    "Column",
+    "Level 2",
+    "Level 3"
+  ],
+  "extracted_at": "2026-01-16T03:11:10.201737"
+}

@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 38,
+  "table_number": 1,
+  "title": "Number Exercise date",
+  "rows": 2,
+  "columns": [
+    "Number\nexercised",
+    "Exercise\ndate",
+    "Share\nprice at\nexercise\ndate\nKShs"
+  ],
+  "extracted_at": "2026-01-16T02:56:06.156143"
+}
