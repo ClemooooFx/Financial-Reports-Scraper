@@ -1,0 +1,7 @@
+Credit quality description,"Corporate, Commercial & Institutional Banking","Consumer, Private & Business Banking"
+,Internal grade mapping,Number of days past due
+Strong,1A to 5B,Current loans (no past dues nor impaired)
+Satisfactory,6A to 11C,Loans past due till 29 days
+Higher risk,Grade 12,"Past due loans 30 days and over till 90
+days"
+Higher risk,Grade 13 and 14,Past due loans over 90 days

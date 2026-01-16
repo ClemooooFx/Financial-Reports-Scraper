@@ -1,0 +1,58 @@
+II PROFIT AND LOSS ACCOUNT,Column,CONSOLIDATED,Column,COMPANY,Column
+,,"31.12.2022
+KShs '000
+Audited","31.12.2023
+KShs '000
+Audited","31.12.2022
+KShs '000
+Audited","31.12.2023
+KShs '000
+Audited"
+1,INTEREST INCOME,,,,
+,1.1 Loans and advances,"12,731,113","18,128,727","12,731,113","18,128,727"
+,1.2 Government securities,"10,298,361","8,267,420","10,298,361","8,267,420"
+,1.3 Deposits and placements with banking institutions,"2,422,813","5,956,023","2,422,813","5,956,023"
+,1.4 Other Interest Income,"20,757",-,"20,757",-
+,1.5 Total Interest Income,"25,473,044","32,352,170","25,473,044","32,352,170"
+2,INTEREST EXPENSES,,,,
+,2.1 Customer deposits,"2,594,501","2,610,769","2,611,514","2,612,431"
+,2.2 Deposits and placements from banking institutions,"279,267","154,325","279,267","154,325"
+,2.3 Other Interest Expenses,"376,211","261,989","376,211","261,989"
+,2.4 Total Interest Expenses,"3,249,979","3,027,083","3,266,992","3,028,745"
+3,NET INTEREST INCOME/(LOSS),"22,223,065","29,325,087","22,206,052","29,323,425"
+"4
+5",NON-INTEREST INCOME,,,,
+,4.1 Fees and commissions on loans and advances,"221,886","307,099","221,886","307,099"
+,4.2 Other fees and commissions,"4,251,977","5,646,877","2,641,955","3,963,259"
+,4.3 Foreign Exchange trading income/(loss),"5,973,243","8,444,511","5,973,243","8,444,511"
+,4.4 Dividend Income,-,-,"1,160,323","894,102"
+,4.5 Other income,"1,306,877","(1,994,988)","1,306,877","(1,994,988)"
+,4.6 Total Non-Interest Income,"11,753,983","12,403,499","11,304,284","11,613,983"
+,TOTAL OPERATING INCOME,"33,977,048","41,728,586","33,510,336","40,937,408"
+6,OTHER OPERATING EXPENSES,,,,
+,6.1 Loan loss provision,"1,328,458","3,379,996","1,328,458","3,379,996"
+,6.2 Staff costs,"6,788,892","7,879,546","6,689,167","7,776,473"
+,6.3 Directors' emoluments,"252,155","265,485","251,595","264,605"
+,6.4 Rental charges,"257,877","292,892","257,877","292,892"
+,6.5 Depreciation charge on property and equipment,"435,961","378,642","435,961","378,642"
+,6.6 Amortisation charges,"820,529","983,286","820,529","983,286"
+,6.7 Other operating expenses,"6,989,977","8,880,257","6,588,335","8,494,626"
+,6.8 Total Other Operating Expenses,"16,873,849","22,060,104","16,371,922","21,570,520"
+7,Profit/(loss) before tax and exceptional items,"17,103,199","19,668,482","17,138,414","19,366,888"
+8,Exceptional items,-,-,-,-
+9,Profit/(loss) after exceptional items,"17,103,199","19,668,482","17,138,414","19,366,888"
+10,Current tax,"(6,067,273)","(5,377,590)","(5,695,664)","(5,043,810)"
+11,Deferred tax,"1,022,009","(455,425)","9 94,174","(405,848)"
+12,Profit/(loss) after tax and exceptional items,"12,057,935","13,835,467","12,436,924","13,917,230"
+13,Minority Interest,-,-,-,-
+14,"Profit/(loss) after tax,exceptional items and minority interest","12,057,935","13,835,467","12,436,924","13,917,230"
+15,Other Comprehensive Income,,,,
+,15.1 Gains/(Losses) from translating the financial statements of foreign operations,-,-,-,-
+,15.2 Fair value changes in financial assets at FVOCI,"(2,054,052)","168,980","(2,054,052)","168,980"
+,"15.3 Revaluation surplus on Property,plant and equipment",-,"(192,177)",-,"(192,177)"
+,15.4 Share of other comprehensive income of associates,-,-,-,-
+,15.5 Income tax relating to components of other comprehensive income,"6 16,215","2 ,460","6 16,215","2 ,460"
+16,Other comprehensive loss for the period net of tax,"(1,437,837)","( 20,737)","(1,437,837)","( 20,737)"
+17,Total comprehensive income for the period,"10,620,098","13,814,730","10,999,087","13,896,493"
+18,EARNINGS PER SHARE- BASIC & DILUTED,3 1.47,3 6.17,3 2.47,3 6.39
+19,DIVIDEND PER SHARE -DECLARED (KShs),2 2.00,2 9.00,2 2.00,2 9.00
