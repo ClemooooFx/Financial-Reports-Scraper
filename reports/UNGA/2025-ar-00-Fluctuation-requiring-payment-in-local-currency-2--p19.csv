@@ -1,0 +1,32 @@
+Risk Category,Likelihood,Impact,Mitigation Strategies
+"Foreign Exchange
+Fluctuation",High,High,"Hedging, local sourcing of raw materials, contracts
+requiring payment in local currency"
+"Supply Chain
+Disruption",High,High,"Alternative sourcing, supplier development, raw
+material aggregation"
+"Fluctuating Commodity
+Prices",High,High,"Strategic raw material sourcing, financial hedging"
+"Competition (Small
+Millers)",High,Medium,"Price competitiveness, product quality leadership,
+market diversification"
+Climate Change,Medium,High,"Sustainability assessments, climate risk integration
+into strategy"
+"Economic Factors
+(Inflation, Interest
+Rates)",Medium,High,"Cost optimisation initiatives, negotiation for favorable
+credit terms, foreign currency liability conversions"
+"Technological
+Advancements",Medium,Medium,"Investment in technology, phased adoption of tech
+solutions"
+Regulatory Changes,Medium,Medium,"Proactive compliance with new laws, regulatory
+scanning"
+Cybersecurity Risks,Medium,Medium,"Cybersecurity staff training, penetration testing, AI-
+driven solutions, robust IT infrastructure"
+Product Safety Issues,Low,High,"Quality leadership project, supplier audits, stringent
+safety protocols"
+Product Recalls,Low,Medium,"No incidents in 2025, continuous monitoring of
+product safety"
+"Legal & Compliance
+Issues",Low,Medium,"Quarterly risk audits, follow-up actions on audit
+recommendations, staff legal training"
