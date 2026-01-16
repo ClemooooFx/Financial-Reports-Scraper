@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 204,
+  "table_number": 1,
+  "title": "capital premium Retained Other Proposed controlling Total",
+  "rows": 12,
+  "columns": [
+    "Share\ncapital\nNote 14\nKShs’m",
+    "Share\npremium\nNote 14\nKShs’m",
+    "Retained\nearnings\nKShs’m",
+    "Other\nreserves**\nKShs’m",
+    "Proposed\ndividend\nKShs’m",
+    "Total\nKShs’m",
+    "Non-\ncontrolling\ninterests\nKShs’m",
+    "Total\nequity\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:34:34.229628"
+}
