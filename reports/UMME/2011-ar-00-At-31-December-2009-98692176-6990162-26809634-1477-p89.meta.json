@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2011-ar-00.pdf",
+  "page": 89,
+  "table_number": 1,
+  "title": "At 31 December 2009 98,692,176 6,990,162 26,809,634 14,773,880 2,044,299 153,601,370",
+  "rows": 19,
+  "columns": [
+    "Substations,\nLow Volt-\nage Lines &\nServices",
+    "Land &\nBuildings",
+    "Furniture\n& Fittings,\nTools & Office\nEquip",
+    "Computers,\nComm. Equip’t\n& MIS",
+    "Motor\nVehicles",
+    "CWIP",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T05:24:03.951561"
+}

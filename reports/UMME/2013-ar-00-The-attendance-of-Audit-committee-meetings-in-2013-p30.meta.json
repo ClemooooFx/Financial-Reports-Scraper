@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2013-ar-00.pdf",
+  "page": 30,
+  "table_number": 2,
+  "title": "The attendance of Audit committee meetings in 2013 was as follows:",
+  "rows": 5,
+  "columns": [
+    "Director",
+    "21 March",
+    "18 June",
+    "14 August",
+    "11 November"
+  ],
+  "extracted_at": "2026-01-16T05:24:49.446624"
+}

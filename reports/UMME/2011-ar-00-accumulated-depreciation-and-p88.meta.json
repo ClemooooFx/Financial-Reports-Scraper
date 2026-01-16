@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2011-ar-00.pdf",
+  "page": 88,
+  "table_number": 1,
+  "title": "accumulated depreciation and",
+  "rows": 14,
+  "columns": [
+    "As at 31st December 2010",
+    "Substations,\nLow Voltage\nLines &\nServices",
+    "Land &\nBuildings",
+    "Furniture\n& Fittings,\nTools &\nOffice Equip",
+    "Computers,\nComm.\nEquip’t &\nMIS",
+    "Motor\nVehicles",
+    "CWIP",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T05:24:03.951108"
+}

@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 85,
+  "table_number": 1,
+  "title": "after sales entails connection of new customers, meter reading, billing customers, revenue collection, addressing",
+  "rows": 7,
+  "columns": [
+    "Customer\nsegment",
+    "Description",
+    "Based on usage",
+    "Column",
+    "Column",
+    "Column",
+    "Fixed monthly\ncharge",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T05:24:32.745626"
+}
