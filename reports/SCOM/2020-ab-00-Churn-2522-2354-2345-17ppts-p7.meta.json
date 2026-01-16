@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2020-ab-00.pdf",
+  "page": 7,
+  "table_number": 1,
+  "title": "Churn (%) 25.22% 23.54% 23.45% (1.7ppts)",
+  "rows": 18,
+  "columns": [
+    "FY20\nIFRS 15 Reported",
+    "FY19\nIFRS 15 Restated",
+    "FY19\nIFRS 15 Reported",
+    "% Change\nIFRS15/IAS17"
+  ],
+  "extracted_at": "2026-01-16T02:20:20.940514"
+}

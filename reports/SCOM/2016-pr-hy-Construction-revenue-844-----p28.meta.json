@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2016-pr-hy.pdf",
+  "page": 28,
+  "table_number": 1,
+  "title": "Construction revenue 8.44 - -",
+  "rows": 12,
+  "columns": [
+    "Voice revenue\nM-Pesa revenue\nSMS revenue\nMobile data revenue\nFixed service revenue\nOther Service Revenue",
+    "4 5.19\n1 9.35\n7.98\n9.16\n1.86\n1.37",
+    "4 3.67\n1 5.59\n7.17\n6.50\n1.49\n1.18",
+    "3.5%\n24.1%\n11.3%\n40.9%\n24.8%\n16.1%"
+  ],
+  "extracted_at": "2026-01-16T02:18:55.142549"
+}
