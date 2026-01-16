@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 79,
+  "table_number": 2,
+  "title": "Information subject to audit (auditable part)",
+  "rows": 8,
+  "columns": [
+    "Name",
+    "Retainer",
+    "Sitting\nallowance",
+    "Total",
+    "Paid",
+    "Payable"
+  ],
+  "extracted_at": "2026-01-16T04:31:54.268933"
+}
