@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2010-ar-00.pdf",
+  "page": 43,
+  "table_number": 1,
+  "title": "ASSETS",
+  "rows": 5,
+  "columns": [
+    "As at 31 December 2010:",
+    "Effective\ninterest\nrate\n%",
+    "On\ndemand\nKShs‘000",
+    "Due within\n3 months\nKShs‘000",
+    "Due within 3\nand 12 months\nKShs‘000",
+    "Due between\n1 and 5 years\nKShs‘000",
+    "Over 5\nyears\nKShs‘000",
+    "Non-interest\nbearing\nKShs‘000",
+    "Total\nKShs‘000"
+  ],
+  "extracted_at": "2026-01-16T06:23:33.399408"
+}

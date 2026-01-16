@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2013-ab-00.pdf",
+  "page": 1,
+  "table_number": 2,
+  "title": "Operating profi t 6,318 16,517",
+  "rows": 9,
+  "columns": [
+    "Group\n2013 2012\nShs ‘000 Shs ‘000\nASSETS\nNon-current assets 377,327 431,624\nCurrent assets 103,198 63,985\nTOTAL ASSETS 480,525 495,609\nEQUITY AND LIABILITIES\nShare capital 177,019 177,019\nShare premium 10,502 10,502\nReserves 10,995 10,766\nShareholders’ funds 198,516 198,287\nNon-current liabilities 120,823 135,831\nCurrent liabilities 161,186 161,491\nTotal liabilities 282,009 297,322\nTOTAL EQUITY AND LIABILITIES 480,525 495,609",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T06:23:58.016732"
+}
