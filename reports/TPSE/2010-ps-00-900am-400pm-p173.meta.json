@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2010-ps-00.pdf",
+  "page": 173,
+  "table_number": 1,
+  "title": "9.00a.m.-4.00p.m.",
+  "rows": 11,
+  "columns": [
+    "Bank Name/\nBranch",
+    "Sort\nCode",
+    "Physical Address",
+    "Postal\nAddress",
+    "Tel. No.",
+    "Business Hours\nFrom-To"
+  ],
+  "extracted_at": "2026-01-16T05:01:24.568838"
+}
