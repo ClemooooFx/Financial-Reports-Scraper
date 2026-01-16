@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 221,
+  "table_number": 1,
+  "title": "Cash flow forecasting is performed in the operating entities of the Group and aggregated by Group Finance. Group Finance monitors rolling",
+  "rows": 13,
+  "columns": [
+    "Column",
+    "Maturing\nwithin\n1 month\nKShs’m",
+    "Maturing\nafter\n1 month\nbut within\n6 months\nKShs’m",
+    "Maturing\nafter\n6 months\nbut within\n12 months\nKShs’m",
+    "Maturing\nafter\n12 months\nbut within\n5 years\nKShs’m",
+    "Maturing\nafter\n5 years\nKShs’m",
+    "Total\nKShs'm"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.267946"
+}

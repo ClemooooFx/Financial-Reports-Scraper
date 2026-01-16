@@ -1,0 +1,41 @@
+Item,Description
+"Transfers/
+P2P/W2W","This represents customer deposits in the M-PESA e-wallet that can be funded by direct cash deposits at
+agent level or through person to person (P2P) transfers."
+M-PESA Agents,"M-PESA Agents include Safaricom authorized dealers, operating one or more outlets around Kenya,
+retailers with a substantial distribution network like petrol stations, distributors, supermarkets, registered
+SMEs and selected Banks and Micro-Finance Institutions. Their key tasks include; registering M-PESA
+customers, depositing cash into registered customers’ M-PESA wallets, processing cash withdrawals for
+registered and non-registered M-PESA customers and compliance with Safaricom AML & KYC Policy and
+business practices."
+"Withdrawals/
+Cash out",Withdrawal is the removal of e-money from M-PESA e-wallet to cash through M-PESA agents.
+"Deposits/Cash
+in","Customers fund their M-PESA e-wallet through M-PESA agents or directly from their bank accounts
+through a short code."
+Payments,
+"C2B/W2B,
+B2C/B2W and
+B2B","Customer to Business (C2B) or Business to Customer (B2C) are mainly customer to bank or business
+transfers while Business to Business (B2B) is for business transactions. These together with LNM and
+revenue from betting transactions form the payments channels in the M-PESA ecosystem."
+"Lipa Na
+M-PESA
+(LNM)","LNM is a platform that enables merchants to transact using a till number to collect payments from
+customers. LNM has two major use cases;
+• Buy Goods - mainly used for one-off payments to merchants, this is done ‘on the go’, mainly face to
+face but can also be done remotely.
+• Billers - This is the paybill option/C2B of LNM which mostly happens remotely/online and is mainly
+used for repetitive transactions done on utility payments to government agencies, SACCOs, electricity &
+water providers and hospitals."
+"Savings and
+Lending",
+M-Shwari,"M-Shwari is a micro-lending/savings product in partnership with NCBA (a tier 1 Kenyan Bank).
+The M-Shwari Loan Account is a micro-credit product which allows customers to borrow money or to
+complement their savings towards an investment or enterprise.
+The M-Shwari Deposit Account is a micro-savings product which allows customers to securely store their
+money for a specific purpose or for unexpected events."
+KCB-M-PESA,"KCB M-PESA is a savings and loan service in partnership with KCB Bank (a tier 1 Kenyan bank) that
+enables M-PESA customers to save as little as KShs 1, and access credit from KShs 1,000.
+The KCB M-PESA loan account is a micro-credit product which gives customers access to loans for an
+emergency or to fund a project or an enterprise."

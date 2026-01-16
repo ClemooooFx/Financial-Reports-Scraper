@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 220,
+  "table_number": 1,
+  "title": "Gross Expected Net",
+  "rows": 8,
+  "columns": [
+    "Column",
+    "Gross\ncarrying\namount\nKShs’m",
+    "Expected\ncredit\nloss\nKShs'm",
+    "Net\ncarrying\namount\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.267565"
+}

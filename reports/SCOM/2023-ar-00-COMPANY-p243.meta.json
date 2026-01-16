@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 243,
+  "table_number": 2,
+  "title": "COMPANY",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Site\nKShs’m",
+    "Co-location\nKShs’m",
+    "Shops\nKShs’m",
+    "Facilities\nKShs’m",
+    "Secondees\nhouses\nKShs’m",
+    "Equipment\nKShs’m",
+    "Total\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.283374"
+}

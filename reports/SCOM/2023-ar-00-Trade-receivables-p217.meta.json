@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 217,
+  "table_number": 1,
+  "title": "Trade receivables",
+  "rows": 7,
+  "columns": [
+    "Column",
+    "0–30 days\nKShs’m",
+    "31–90 days\nKShs’m",
+    "Over 91 days\nKShs’m",
+    "Total\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.265868"
+}

@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 244,
+  "table_number": 1,
+  "title": "Current Non-current Total",
+  "rows": 11,
+  "columns": [
+    "Column",
+    "Current\nKShs’m",
+    "Non-current\nKShs’m",
+    "Total\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.283708"
+}

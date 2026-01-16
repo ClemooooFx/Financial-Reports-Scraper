@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 183,
+  "table_number": 1,
+  "title": "Directors’ Non-cash",
+  "rows": 5,
+  "columns": [
+    "Column",
+    "Salary\nKShs’m",
+    "Directors’\nfees\nKShs’m",
+    "Bonus\nKShs’m",
+    "Non-cash\nbenefits\nKShs’m",
+    "Total\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.261798"
+}

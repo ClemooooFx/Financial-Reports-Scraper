@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 260,
+  "table_number": 1,
+  "title": "Borrowings liabilities total equivalents Net debt",
+  "rows": 11,
+  "columns": [
+    "Column",
+    "Borrowings\nKShs’m",
+    "Lease\nliabilities\nKShs’m",
+    "Sub\ntotal\nKShs’m",
+    "Cash and\ncash\nequivalents\nKShs’m",
+    "Net debt\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.294115"
+}

@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 238,
+  "table_number": 1,
+  "title": "structure (CWIP)* spares improvements equipment Fibre Property Total",
+  "rows": 4,
+  "columns": [
+    "Column",
+    "Network\ninfra-\nstructure\nKShs’m",
+    "Capital work\nin progress\n(CWIP)*\nKShs’m",
+    "Network\nmaintenance\nspares\nKShs’m",
+    "Leasehold\nimprovements\nKShs’m",
+    "Vehicles and\nequipment\nKShs’m",
+    "Fibre\nKShs’m",
+    "Freehold\nProperty\nKShs’m",
+    "Total\nKShs’m"
+  ],
+  "extracted_at": "2026-01-16T02:27:51.279879"
+}

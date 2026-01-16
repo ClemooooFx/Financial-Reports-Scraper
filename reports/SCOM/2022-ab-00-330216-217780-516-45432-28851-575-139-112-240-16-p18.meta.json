@@ -1,0 +1,21 @@
+{
+  "source_pdf": "2022-ab-00.pdf",
+  "page": 18,
+  "table_number": 1,
+  "title": "3,302.16 2,177.80 51.6% 454.32 288.51 57.5% 1.39 1.12 24.0% 1.6%",
+  "rows": 7,
+  "columns": [
+    "Payments\nB2C\nC2B\nB2B\nLNM\nBetting\nTotals",
+    "Value (KShs Bn)",
+    "Column",
+    "Column",
+    "Volume (Mn)",
+    "Column",
+    "Column",
+    "Revenue (KShs Bn)",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T02:26:10.841643"
+}
