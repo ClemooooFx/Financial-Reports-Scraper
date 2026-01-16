@@ -1,0 +1,16 @@
+Column,"Notional
+value","Carrying
+value",Column,Column,Column
+,,,Interest Rate,Date of Issue,Maturity date
+,Kshs’000,Kshs’000,,,
+CfC Stanbic Bond,"2,402,093","2,389,205",12.50%,07 July 2009,07 July 2016
+,,,182 day Treasury,,
+CfC Stanbic Bond,"97,907","96,388",Bill + 175bps,07 July 2009,07 July 2016
+CfC Stanbic Bond,"2,500,000","2,500,497",7.25%,27 December 2010,22 December 2014
+,,,91 day Treasury,,
+CfC Bond,"400,000","400,000",Bill + 175bps,31 October 2005,31 October 2012
+,,,6 month libor +,,
+IFC Loan*,"850,000","850,112",400bps,15 June 2009,30 June 2019
+,,,3 Month libor +,,
+Shareholders' loan,"850,000","850,083",300bps,30 June 2008,30 June 2018
+Total,"7,100,000","7,086,285",,,

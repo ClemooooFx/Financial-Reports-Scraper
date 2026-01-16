@@ -1,0 +1,16 @@
+{
+  "source_pdf": "ke-cfc-2012-ar-00.pdf",
+  "page": 123,
+  "table_number": 1,
+  "title": "Assets",
+  "rows": 26,
+  "columns": [
+    "Column",
+    "Column",
+    "Level 1",
+    "Level 2",
+    "Level 3",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:02:42.528096"
+}

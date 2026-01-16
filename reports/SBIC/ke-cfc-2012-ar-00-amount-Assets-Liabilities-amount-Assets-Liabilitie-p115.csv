@@ -1,0 +1,23 @@
+Column,2012,Column,Column,2011,Column,Column
+,Fair values,,,Fair values,,
+,Notional,,,Notional,,
+,contract,,,contract,,
+,amount,Assets,Liabilities,amount,Assets,Liabilities
+Foreign exchange,,,,,,
+derivatives,"5,556,219","14,341","1,660","3,063,775","5,869","12,785"
+Currency forwards,"30,566,418","320,045","1,253,115","44,597,367","3,377,345","3,083,015"
+Currency swaps,"35,173,788","994,634","612,062","34,113,520","663,060","1,002,324"
+Currency options,"531,277,862","136,835","136,835","4,420,647,162","1,465,496","1,465,496"
+Commodity options,-,-,-,"170,000","763,638","763,638"
+Commodity swaps,-,-,-,"8,500","102,002","102,002"
+Total OTC,,,,,,
+derivatives,"602,574,287","1,465,855","2,003,672","4,502,600,324","6,377,410","6,429,260"
+Interest rate,,,,,,
+derivatives,,,,,,
+Cross currency,,,,,,
+interest rate swaps,"6,787,218","465,976","465,976",,,
+Total derivative,,,,,,
+assets held for,,,,,,
+trading,"609,361,505","1,931,831","2,469,648","4,502,600,324","6,377,410","6,429,260"
+Current,"607,473,738","1,926,351","2,442,315","3,957,921,660","4,447,993","5,041,947"
+Non current,"1,887,767","5,480","27,333","544,678,664","1,929,417","1,387,313"
