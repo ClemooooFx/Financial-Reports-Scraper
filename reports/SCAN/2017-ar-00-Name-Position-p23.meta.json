@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2017-ar-00.pdf",
+  "page": 23,
+  "table_number": 1,
+  "title": "Name Position",
+  "rows": 9,
+  "columns": [
+    "Name",
+    "Position",
+    "1st date of\nappointment",
+    "Last\nre-election"
+  ],
+  "extracted_at": "2026-01-16T01:21:51.739878"
+}
