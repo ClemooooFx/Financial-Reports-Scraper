@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 100,
+  "table_number": 1,
+  "title": "Buildings 3 Depreciated Estimated Increase/ (decrease) in estimated economic lifespan by 1",
+  "rows": 5,
+  "columns": [
+    "Instrument",
+    "level",
+    "Valuation\nbasis",
+    "Significant\nunobservable\nInputs",
+    "Sensitivity of input to the fair value"
+  ],
+  "extracted_at": "2026-01-16T00:26:31.558429"
+}

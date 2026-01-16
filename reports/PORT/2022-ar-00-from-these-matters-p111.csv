@@ -1,0 +1,33 @@
+Column,Group,Column,Company,Column
+,2022,2021,2022,2021
+,Kes’000,Kes’000,Kes’000,Kes’000
+Profit before taxation,"529,199","1,735,936","529,199","1,736,202"
+Adjustments for:,,,,
+Depreciation of PP&E (Note 16),"406,632","538,151","406,632","538,151"
+Depreciation of right-of-use assets (Note 33),"17,883","22,975","17,883","22,975"
+Amortisation on prepaid operating leases (Note 17),61,45,61,45
+Amortisation on intangible assets (Note 20),"1,456",-,"1,456",-
+Loss on disposal of investment property (Note 11),-,"572,844",-,"572,844"
+Fair value gain on investment property (Note 18),"(2,469,988)","(5,783,847)","(2,469,988)","(5,783,847)"
+Interest expense on borrowings (Note 26),"65,667","809,900","65,667","809,900"
+Interest income (Note12),-,(149),-,(149)
+Post-employment benefits service cost,"153,858","196,398","153,854","196,398"
+Interest on lease liabilities (Note 33),"5,641","7,307","5,641","7,307"
+Net cash before working capital changes,"(1,289,591)
+__________","(1,900,440)
+__________","(1,289,595)
+__________","(1,900,174)
+____________"
+Changes in working capital;,,,,
+Inventories,"160,230","27,853","157,743","27,853"
+Trade and other receivables,"251,108","(1,106,689)","238,898","(1,108,172)"
+Trade and other payables,"432,401
+__________","1,120,405
+__________","432,312
+__________","1,121,075
+____________"
+Cash used in operations,"(445,852)
+__________","(1,858,871)
+__________","(460,642)
+__________","(1,859,418)
+____________"

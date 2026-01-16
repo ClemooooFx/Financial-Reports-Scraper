@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2022-ar-00.pdf",
+  "page": 86,
+  "table_number": 2,
+  "title": "disclosed in the table below are the contractual undiscounted cash flows.",
+  "rows": 10,
+  "columns": [
+    "Column",
+    "<3 months",
+    "3 - 6 months",
+    "6 – 12 months",
+    "1 - 5 years",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T00:26:20.007271"
+}
