@@ -1,0 +1,8 @@
+Column,Valuation basis/technique,Main assumptions
+Loans and advances to banks,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Loans and advances to customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from banks,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Subordinated debt,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Other financial assets,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Other financial liabilities,Discounted cash flow model,"Discount rate, liquidity discount rate"
