@@ -1,0 +1,32 @@
+10. Income tax expense,Column,Column,Column,Column
+,Group,,Company,
+,2017,2016,2017,2016
+,KShs.’000,KShs.’000,KShs.’000,KShs.’000
+Statement of profit or loss,,,,
+Current year tax charge,"60,874","69,943",-,816
+Deferred income tax charge /(credit) (Note 29),"133,039","188,983","(23,985)","(6,727)"
+Over provision in deferred tax in prior years,-,"(12,496)",-,(920)
+Current year tax charge,"193,913","246,430","(23,985)","(6,831)"
+Reconciliation of income tax expense to tax based on accounting profit: -,,,,
+Profit before income tax,"246,958","317,053","(94,625)","263,268"
+Tax calculated at a statutory rate of 30%,"74,087","95,116","(28,388)","78,980"
+Tax effect of:,,,,
+Income not subject to tax,"(43,557)","(97,997)","(6,397)","(99,000)"
+Expenses not deductible for tax,"163,383","249,311","10,800","13,189"
+Income tax expense/(credit),"193,913","246,430","(23,985)","6,831"
+Statement of financial position:,,,,
+At start of the year:,"56,916","22,891","15,423","(1,428)"
+Instalment tax paid,"33,477","103,968",-,"16,238"
+Under/(over)provision from prior years,-,-,-,"(6,218)"
+Current income tax charge,"(60,874)","(69,943)",-,"6,831"
+Transfer from deferred tax on life fund surplus,"(240,109)",-,-,-
+,"(210,590)","56,916","15,423","15,423"
+At the end of the year:,,,,
+Assets,,,,
+Current income tax,"20,094","65,583","15,423","15,423"
+Deferred income tax (Note 29),"192,843","182,721","48,868","24,883"
+,"212,937","248,304","64,291","40,306"
+Liabilities,,,,
+Current income tax,"(230,684)","(8,668)",-,-
+Deferred income tax (Note 29),"(747,449)","(844,396)",-,-
+,"(978,133)","(853,064)",-,-
