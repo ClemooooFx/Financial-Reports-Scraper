@@ -1,0 +1,13 @@
+{
+  "source_pdf": "2013-ar-00.pdf",
+  "page": 64,
+  "table_number": 2,
+  "title": "Item Yes No",
+  "rows": 13,
+  "columns": [
+    "Item",
+    "Yes",
+    "No"
+  ],
+  "extracted_at": "2026-01-16T05:48:45.092230"
+}
