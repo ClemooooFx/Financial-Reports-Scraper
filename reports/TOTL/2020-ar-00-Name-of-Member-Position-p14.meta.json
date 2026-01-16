@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 14,
+  "table_number": 2,
+  "title": "Name of Member Position",
+  "rows": 5,
+  "columns": [
+    "Name of\nMember",
+    "Eligible No.\nof Meetings",
+    "No. of\nMeetings\nattended",
+    "Overall %\nattendance"
+  ],
+  "extracted_at": "2026-01-16T04:53:16.360551"
+}

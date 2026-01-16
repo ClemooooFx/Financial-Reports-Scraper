@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 33,
+  "table_number": 2,
+  "title": "mean rate as at transaction date for local payroll processing, tax declaration and payments.",
+  "rows": 18,
+  "columns": [
+    "Director",
+    "Role",
+    "Category",
+    "Gross\nearnings\nincluding\npension\ncontribution",
+    "Annual\nBonus",
+    "Directors\nfees",
+    "Sitting\nallowances",
+    "Benefits*",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T04:52:16.465112"
+}

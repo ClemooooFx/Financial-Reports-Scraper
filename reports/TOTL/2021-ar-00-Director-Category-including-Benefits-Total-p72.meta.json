@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 72,
+  "table_number": 1,
+  "title": "Director Category including Benefits* Total",
+  "rows": 17,
+  "columns": [
+    "Director",
+    "Role/appointment or retirement\ndate",
+    "Category",
+    "Gross\nearnings\nincluding\npension\ncontribution",
+    "Annual\nbonus",
+    "Directors\nfees",
+    "Sitting\nallowances",
+    "Benefits*",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T04:53:35.326982"
+}

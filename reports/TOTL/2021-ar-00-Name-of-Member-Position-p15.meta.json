@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 15,
+  "table_number": 2,
+  "title": "Name of Member Position",
+  "rows": 6,
+  "columns": [
+    "Name of Member",
+    "Eligible No.\nof meetings",
+    "No. of\nmeetings\nattended",
+    "Overall %\nattendance"
+  ],
+  "extracted_at": "2026-01-16T04:53:35.311947"
+}
