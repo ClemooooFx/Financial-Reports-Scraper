@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2015-ar-00.pdf",
+  "page": 103,
+  "table_number": 1,
+  "title": "due nor Past due but",
+  "rows": 7,
+  "columns": [
+    "Neither past\ndue nor\nimpaired\nShs’000",
+    "Past due but\nnot impaired\nShs’000\n138,827\n198,556\n83,829\n13,436\n293,953\n-",
+    "Impaired\nShs’000",
+    "Total\nShs’000\n1,079,588\n1,213,630\n1,055,698\n1,769,241\n1,864,558\n707,906"
+  ],
+  "extracted_at": "2026-01-16T02:13:16.644970"
+}

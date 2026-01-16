@@ -1,0 +1,11 @@
+VOICE TESTS RESULTS (MOBILE 2 ISDN),Column,Column,Column,Column
+Operator,"Call Setup
+Success
+Ratio [%]","Dropped
+call
+Ratio[%]","Call Setup
+Time[s]","Speech
+Quality"
+Safaricom,97.3,0.3,4.3,2.7
+Competitor x,96.8,0.4,4.4,2.8
+Competitor y,96.5,0.9,4.6,2.6
