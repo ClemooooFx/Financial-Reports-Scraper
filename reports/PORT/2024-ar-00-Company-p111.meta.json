@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 111,
+  "table_number": 2,
+  "title": "Company.",
+  "rows": 8,
+  "columns": [
+    "Freehold\nland",
+    "Buildings",
+    "Plant and\nmachinery",
+    "Motor\nVehicles",
+    "Computers,\noffice\nequipment\nand Fittings",
+    "Work in\nprogress",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T00:31:40.633340"
+}

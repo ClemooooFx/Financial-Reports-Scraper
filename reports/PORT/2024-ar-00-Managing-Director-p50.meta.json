@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 50,
+  "table_number": 1,
+  "title": "Managing Director",
+  "rows": 9,
+  "columns": [
+    "Column",
+    "Audit\ncommittee",
+    "Finance &\nStrategy\nCommittee",
+    "Technical\nCommittee",
+    "HR &\nRemuneration\nCommittee"
+  ],
+  "extracted_at": "2026-01-16T00:31:40.615334"
+}

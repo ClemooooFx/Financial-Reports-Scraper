@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2012-ar-00.pdf",
+  "page": 26,
+  "table_number": 2,
+  "title": "interest rate 3 months and 12 months 1 and 5 years bearing Total",
+  "rows": 5,
+  "columns": [
+    "As at 30 September 2011",
+    "Effective\ninterest rate\n%",
+    "Due within\n3 months\nKShs‘000",
+    "Due within 3\nand 12 months\nKShs‘000",
+    "Due between\n1 and 5 years\nKShs‘000",
+    "Non-interest\nbearing\nKShs‘000",
+    "Total\nKShs‘000"
+  ],
+  "extracted_at": "2026-01-16T00:33:00.868485"
+}

@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 99,
+  "table_number": 3,
+  "title": "prepayments (Note 23)",
+  "rows": 8,
+  "columns": [
+    "<3\nmonths",
+    "3 - 6\nmonths",
+    "6 – 12\nmonths",
+    "1 - 5\nyears",
+    "Column",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T00:31:40.626132"
+}
