@@ -1,0 +1,26 @@
+{
+  "source_pdf": "2023-ar-00.pdf",
+  "page": 126,
+  "table_number": 1,
+  "title": "KShs.‘000’ KShs.‘000’ KShs.‘000’ KShs.‘000’ KShs.‘000’ KShs.‘000’ KShs.‘000’",
+  "rows": 9,
+  "columns": [
+    "Life Insurance",
+    "Column",
+    "1 year or less",
+    "Column",
+    "1–2 years",
+    "Column",
+    "2–3 years",
+    "Column",
+    "3–4 years",
+    "Column",
+    "4–5 years",
+    "Column",
+    "5–10 years",
+    "Column",
+    "Column",
+    "than 10"
+  ],
+  "extracted_at": "2026-01-16T04:03:50.894595"
+}

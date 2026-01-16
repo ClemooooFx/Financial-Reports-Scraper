@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 202,
+  "table_number": 1,
+  "title": "assumptions",
+  "rows": 1,
+  "columns": [
+    "Sensitivities",
+    "% change\nin base",
+    "Life risk",
+    "Life savings",
+    "Non-Life"
+  ],
+  "extracted_at": "2026-01-16T04:04:27.589636"
+}

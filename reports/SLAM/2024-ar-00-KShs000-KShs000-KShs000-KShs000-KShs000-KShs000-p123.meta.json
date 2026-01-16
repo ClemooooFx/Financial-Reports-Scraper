@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2024-ar-00.pdf",
+  "page": 123,
+  "table_number": 2,
+  "title": "KShs.'000' KShs.'000' KShs.'000' KShs.'000' KShs.'000' KShs.'000'",
+  "rows": 4,
+  "columns": [
+    "Life risk",
+    "Life savings",
+    "Non-life",
+    "Investment",
+    "*Consolidation\nAdjust",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T04:04:27.544352"
+}

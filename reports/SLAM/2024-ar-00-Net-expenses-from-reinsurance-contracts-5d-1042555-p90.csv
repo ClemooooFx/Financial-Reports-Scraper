@@ -1,0 +1,20 @@
+Column,Column,Group,Column,Company,Column
+,,2024,2023,2024,2023
+,Note,KShs.'000,KShs.'000,KShs.'000,KShs.'000
+Insurance revenue,4,"7,359,029","6,936,282",-,-
+Insurance service expenses,5,"(5,672,959)","(5,048,193)",-,-
+Net expenses from reinsurance contracts,5(d),"(1,042,555)","(1,201,990)",-,-
+Insurance service result,,"643,515","686,099",-,-
+Interest revenue calculated using the effective interest method,6,"413,872","244,768",-,-
+Other interest income,6,"2,551,436","2,757,142",-,-
+Other investment revenue,6,"2,307,477","(1,940,684)",-,-
+Net investment income,,"5,272,785","1,061,226",-,-
+Net finance expenses from insurance contracts,6,"(3,789,450)","( 682,425)",-,-
+Net finance income/(expenses) from reinsurance contracts,6,"42,322","9,477",-,-
+Net financial result,,"1,525,657","388,278",-,-
+Other operating expenses,5(c),"( 128,478)","(220,937)","(109,358)","(111,680)"
+Other incomes,7,"355,250","(6,043)","998,431","154,123"
+Finance costs,22,"(734,812)","(604,610)","(700,510)","(577,301)"
+Profit/loss before tax,,"1,661,132","242,787","188,563","(534,858)"
+Income tax expense,8(a),"(606,245)","(369,355)",(462),"(1,254)"
+Profit/(loss) for the year after tax,,"1,054,887","(126,568)","188,101","(536,112)"
