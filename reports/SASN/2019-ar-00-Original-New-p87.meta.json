@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 87,
+  "table_number": 2,
+  "title": "Original New",
+  "rows": 5,
+  "columns": [
+    "Column",
+    "Note",
+    "Original\nclassification\nunder\nIAS 39",
+    "New\nclassification\nunder\nIFRS 9",
+    "Original\ncarrying\namount\nunder\nIAS 39",
+    "IFRS 9\nadjustment",
+    "New\ncarrying\namount\nunder\nIFRS 9"
+  ],
+  "extracted_at": "2026-01-16T00:40:01.876594"
+}
