@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2010-ar-00.pdf",
+  "page": 33,
+  "table_number": 3,
+  "title": "Financial",
+  "rows": 13,
+  "columns": [
+    "Company",
+    "Column",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T00:04:30.174581"
+}
