@@ -1,0 +1,47 @@
+"Customer
+segment",Description,Based on usage,Column,"Fixed monthly
+charge"
+,,Usage,Ushs/kWh,Ushs
+"Domestic
+Consumers -
+Code 10.1","Low voltage supply at 240 volts to
+residential houses, small shops and
+kiosks","Lifeline charge
+applicable for the first
+15 Units in a month",250,
+,,"Energy above 15 units
+(Shs/kWh)",769.5,
+Commercial,"Low voltage supply to three phase low
+voltage with load not exceeding 100
+Amperes and supplied at 415 volts e.g.
+small scale industries like maize mills","Peak, Shoulder and Off
+Peak",686.1,3360
+Medium industrial,"Low voltage supply to medium scale
+industries, taking power at low voltage
+(415 V), with maximum demand of up
+to 500kVA","Peak, Shoulder and Off
+Peak",614.4,"22,400"
+Large industrial,"High voltage supply to large scale
+industrial users, taking power at high
+voltage (11,000 or 33,000 V), with
+maximum demand exceeding 500kVA
+but up to 1500 kVA","Peak, Shoulder and Off
+Peak",382.0,
+,,"Additional maximum
+demand charge",,
+,,"Additional maximum
+demand charge",,
+"Extra Large
+Industrial
+Consumers -
+Code 40","High Voltage 11,000V or 33,000V, with
+maximum demand exceeding 1,500kVA
+and dealing in Manufacturing","Peak, Shoulder and Off
+Peak",312.5,
+,,"Additional maximum
+demand charge",,
+,,"Additional maximum
+demand charge",,
+Street lighting,"Supply for street lighting in cities,
+municipalities, towns, trading centres
+and community centres",Average,752.2,-

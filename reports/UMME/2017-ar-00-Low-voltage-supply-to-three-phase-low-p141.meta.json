@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2017-ar-00.pdf",
+  "page": 141,
+  "table_number": 1,
+  "title": "Low voltage supply to three phase low",
+  "rows": 6,
+  "columns": [
+    "Customer\nsegment",
+    "Description",
+    "Based on usage",
+    "Column",
+    "Fixed monthly\ncharge"
+  ],
+  "extracted_at": "2026-01-16T05:34:36.113479"
+}

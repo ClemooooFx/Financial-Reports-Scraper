@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 55,
+  "table_number": 1,
+  "title": "2019 199,425 110,862 14,497 32,626 41,440",
+  "rows": 3,
+  "columns": [
+    "Year",
+    "Total",
+    "<30 days",
+    "30-60 days",
+    "60 – 90 days",
+    ">90 days\n(default)"
+  ],
+  "extracted_at": "2026-01-16T05:35:34.863084"
+}

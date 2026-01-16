@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 110,
+  "table_number": 3,
+  "title": "OBA receivable 22,040 11,481",
+  "rows": 3,
+  "columns": [
+    "Year",
+    "Total",
+    "Neither past due\nnor impaired",
+    "Past due but not impaired",
+    "Column",
+    "Impaired"
+  ],
+  "extracted_at": "2026-01-16T05:35:08.253807"
+}

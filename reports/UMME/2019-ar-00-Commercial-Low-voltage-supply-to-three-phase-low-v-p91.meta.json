@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 91,
+  "table_number": 1,
+  "title": "Commercial Low voltage supply to three phase low voltage Peak, shoulder and off peak 684.8 686.1 3,360 3,360",
+  "rows": 11,
+  "columns": [
+    "Customer\nsegment",
+    "Description",
+    "Based on usage",
+    "Column",
+    "Column",
+    "Fixed monthly charge",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T05:35:34.864829"
+}
