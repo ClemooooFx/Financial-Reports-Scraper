@@ -1,0 +1,32 @@
+Risk Sub-type,Column,Definition
+"ytilibapaC
+evitucexE",Transaction processing,"Potential for loss due to failures in the design or
+execution of client facing transactions."
+,Product management,"Potential for loss due to the failure to design and/or
+meet product management standards and product-
+related regulatory requirements."
+,People management,"Potential for loss due to the failure to meet standards
+for people management including relevant
+regulations (e.g. employment, remuneration and
+benefits)."
+"ecneiliseR
+lanoitarepO",Client service resilience,"Potential for loss or adverse impact due to failures to
+maintain or manage processes supporting client
+service."
+,System availability,"Potential for loss or adverse impact due to failures to
+maintain systems (including the design and setup of
+software and architecture)."
+,Data quality,"Potential for loss due to the failure to define and/or
+meet data quality standards including resilience
+requirements."
+,Vendor service,"Potential for loss or adverse impact due to failures to
+maintain vendor service (including resilience
+requirements)."
+,Change management,"Potential for loss or adverse impact due to failures to
+manage project related change."
+duarF,Internal fraud,"Potential for loss due to action by staff which is
+intended to defraud, or to circumvent the law or
+company policy (including Rogue Trading)."
+,External fraud,"Potential for loss due to criminal acts by external
+parties such as the misappropriation or theft of
+financial assets."

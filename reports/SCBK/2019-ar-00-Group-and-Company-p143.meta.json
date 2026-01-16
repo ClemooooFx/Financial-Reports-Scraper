@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2019-ar-00.pdf",
+  "page": 143,
+  "table_number": 2,
+  "title": "Group and Company",
+  "rows": 5,
+  "columns": [
+    "ASSETS",
+    "USD",
+    "Euro",
+    "GBP",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:47:41.187991"
+}

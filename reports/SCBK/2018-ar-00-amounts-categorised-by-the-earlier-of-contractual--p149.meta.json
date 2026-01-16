@@ -1,0 +1,23 @@
+{
+  "source_pdf": "2018-ar-00.pdf",
+  "page": 149,
+  "table_number": 1,
+  "title": "amounts, categorised by the earlier of contractual re-pricing or maturity dates.",
+  "rows": 20,
+  "columns": [
+    "Column",
+    "Weighted\naverage\neffective\ninterest\nrate %",
+    "Up to 1\nmonth",
+    "Column",
+    "1 –3\nmonths",
+    "Column",
+    "3 –12\nmonths",
+    "1 –5\nyears",
+    "Column",
+    "Over\n5 years",
+    "Non-\ninterest\nbearing",
+    "Total",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T01:46:36.787750"
+}

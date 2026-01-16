@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 76,
+  "table_number": 3,
+  "title": "Company 2021 2020",
+  "rows": 16,
+  "columns": [
+    "One\nmonth\nor less",
+    "Between\none\nmonth\nand\nthree\nmonths",
+    "Between\nthree\nmonths\nand\nsix\nmonths",
+    "Between\nsix\nmonths\nand\nnine\nmonths",
+    "Between\nnine\nmonths\nand\none year",
+    "Between\none year\nand\ntwo years",
+    "Between\ntwo years\nand\nfive years",
+    "More\nthan\nfive years\nand\nundated",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:49:02.348805"
+}

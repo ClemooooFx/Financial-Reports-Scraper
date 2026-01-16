@@ -1,0 +1,19 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 77,
+  "table_number": 1,
+  "title": "Between",
+  "rows": 16,
+  "columns": [
+    "One\nmonth\nor less",
+    "Between\none month\nand\nthree\nmonths",
+    "Between\nthree\nmonths\nand\nsix months",
+    "Between\nsix\nmonths\nand\nnine\nmonths",
+    "Between\nnine\nmonths\nand\none year",
+    "Between\none year\nand\ntwo years",
+    "Between\ntwo years\nand\nfive years",
+    "More than\nfive years\nand\nundated",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:49:02.349244"
+}

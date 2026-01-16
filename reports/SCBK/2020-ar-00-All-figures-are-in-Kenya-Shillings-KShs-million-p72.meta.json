@@ -1,0 +1,18 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 72,
+  "table_number": 1,
+  "title": "All figures are in Kenya Shillings (KShs million)",
+  "rows": 16,
+  "columns": [
+    "Weighted\naverage\neffective\ninterest\nrate (%)",
+    "Up to 1\nmonth",
+    "1 – 3\nmonths",
+    "3 - 12\nmonths",
+    "1 – 5\nyears",
+    "Over\n5 years",
+    "Non-interest\nbearing",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:48:23.968878"
+}

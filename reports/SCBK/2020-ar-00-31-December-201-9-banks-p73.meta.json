@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 73,
+  "table_number": 1,
+  "title": "31 December 201 9 banks.",
+  "rows": 11,
+  "columns": [
+    "USD",
+    "Euro",
+    "GBP",
+    "Other",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:48:23.969265"
+}
