@@ -1,0 +1,16 @@
+Relationship between the bank master rating and external ratings
+"Core Banking system Moody's Investor
+Standard & Poor's Fitch Grading Credit Quality
+rating scale Services
+1 -4 Aaa, Aa1, Aa2, Aa3 AAA, AA+, AA, AA- AAA, AA+, AA, AA-
+Investmentgrade
+5-7 A1, A2, A3 A+, A, A- A+, A, A-
+Normal monitoring
+8 -12 Baa1, Baa2, Baa3 BBB+, BBB, BBB- BBB+, BBB, BBB-
+Ba1, Ba2, Ba3, BB+, BB, BB-, BB+, BB, BB-,
+13 -21
+B1, B2, B3 B+, B, B- B+, B, B-
+Sub-investment
+grade
+22 -25 Caa1,Caa2, Caa3, Ca CCC+, CCC, CCC- CCC+, CCC, CCC- Closemonitoring
+Default C D D D D"

@@ -1,0 +1,13 @@
+Desk Name,Column,LCY*,Column,EUR,Column,GBP,Column,USD,Column,ZAR,Column,Column,Other,Column,Total,31 December,Column,31 December,Column
+,Desk Name,,LCY*,,EUR,,GBP,,USD,,ZAR,,FCY**,,FCY,,31 December,,31 December
+,,,,,,,,,,,,,,,,,2015,,2014
+,Money Markets Trading,,"2,502",,"(1,111)",,(349),,"(4,642)",,-,,-,,"(6,102)",,"(3,600)",,"(11,985)"
+,Fixed Income Trading,,12,,-,,-,,9,,-,,-,,9,,21,,"(22,794)"
+,Credit Trading,,(310),,-,,-,,3,,-,,-,,3,,(307),,(615)
+,Derivatives,,0,,-,,-,,-,,-,,-,,-,,0,,-
+,FX Trading,,298,,(127),,8,,(107),-,,-,,,(226),,72,,75
+,Total Trading,,"2,502",,"(1,238)",,(341),,"(4,737)",,-,,-,,"(6,316)",,"(3,814)",,"(35,319)"
+,Money Markets Banking,,"(17,033)",,-,,-,,-,,-,,-,,-,,"(17,033)",,"(26,981)"
+,Treasury Capital Management,,3,,-,,-,,-,,-,,-,,-,,3,,(168)
+,Total Banking,,"(17,030)",-,,-,,-,,-,,-,,-,,,"(17,030)",,"(27,149)"
+,All Desks (Combined),,"(14,528)",,"(1,238)",,(341),,"(4,737)",,-,,-,,"(6,316)",,"(20,844)",,"(62,468)"

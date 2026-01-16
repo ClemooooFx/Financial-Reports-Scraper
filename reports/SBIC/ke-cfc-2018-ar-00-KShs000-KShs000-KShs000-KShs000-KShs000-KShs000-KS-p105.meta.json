@@ -1,0 +1,19 @@
+{
+  "source_pdf": "ke-cfc-2018-ar-00.pdf",
+  "page": 105,
+  "table_number": 1,
+  "title": "KShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000",
+  "rows": 7,
+  "columns": [
+    "Opening Total Income statement movements Net ECL Impairment Closing\nECL transfers ECL on new Subsequent Change in raised/ accounts ECL\n1 January between exposure raised changes ECL due to (released)1 written-off 31 December\n2018 stages in ECL derecognition 2018\nKShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000 KShs'000\nFinancial investments\nPledged assets at FVOCI - - (317) - - ( 317) - (317)\nSovereign\nStage 1 - - (317) - - ( 317) - (317)\nFinancial investments at FVOCI\nSovereign (2,859) - (1,344) 189 2,568 1,413 - (1,446)\nStage 1 (2,859) - (1,344) 189 2,568 1,413 - (1,446)\nTotal (2,859) - (1,661) 189 2,568 1,096 - (1,763)",
+    "Opening\nECL\n1 January\n2018",
+    "Total\ntransfers\nbetween\nstages",
+    "Income statement movements",
+    "Column",
+    "Column",
+    "Net ECL\nraised/\n(released)1",
+    "Impairment\naccounts\nwritten-off",
+    "Closing\nECL\n31 December\n2018"
+  ],
+  "extracted_at": "2026-01-16T01:10:56.881300"
+}

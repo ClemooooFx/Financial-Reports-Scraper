@@ -1,0 +1,17 @@
+{
+  "source_pdf": "ke-cfc-2015-ar-00.pdf",
+  "page": 52,
+  "table_number": 1,
+  "title": "Secured",
+  "rows": 10,
+  "columns": [
+    "Total\nexposure",
+    "Unsecured\nexposure",
+    "Secured\nexposure",
+    "Secured\nNetting exposure\nagreements after netting",
+    "Greater than\n0% to 50%",
+    "Greater than\n50% to 100%",
+    "Column"
+  ],
+  "extracted_at": "2026-01-16T01:09:15.470324"
+}

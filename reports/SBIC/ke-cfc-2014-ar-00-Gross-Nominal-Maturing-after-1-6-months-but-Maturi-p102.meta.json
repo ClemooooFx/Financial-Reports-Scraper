@@ -1,0 +1,18 @@
+{
+  "source_pdf": "ke-cfc-2014-ar-00.pdf",
+  "page": 102,
+  "table_number": 2,
+  "title": "Gross Nominal Maturing after 1 6 months but Maturing after",
+  "rows": 27,
+  "columns": [
+    "Carrying Value",
+    "Gross Nominal\ninflow/(out-\nflow)",
+    "Redeemable on\ndemand",
+    "Maturing\nwithin 1 month",
+    "Maturing after 1\nmonth but with-\nin 6 months",
+    "Maturing after\n6 months but\nwithin 12\nmonths",
+    "Maturing after\n12 months but\nwithin 5 years",
+    "Maturing\nAfter 5 years"
+  ],
+  "extracted_at": "2026-01-16T01:08:41.071273"
+}

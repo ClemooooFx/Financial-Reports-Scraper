@@ -1,0 +1,42 @@
+Maturity analysis for financial assets and financial liabilities,Column,Column,Column,Column,Column,Column,Column,Column,Column,Column,Column,Column,Column,Column
+,,"Carrying
+value",,"Gross nominal
+inflow/(outflow)",,"Redeemable
+on demand",,"Maturing
+within 1
+month",,Maturing,Maturing,Maturing,"Maturing
+After 5
+years",
+,,,,,,,,,,after 1,after 6,after 12,,
+,,,,,,,,,Maturing,month but,months but,months but,,Maturing
+,,,Carrying,,Gross nominal,,Redeemable,,within 1,within 6,within 12,within 5,,After 5
+,,,value,,inflow/(outflow),,on demand,,month,months,months,years,,years
+,,,2016,,2016,,2016,,2016,2016,2016,2016,,2016
+,,,KShs'000,,KShs'000,,KShs'000,,KShs'000,KShs'000,KShs'000,KShs'000,,KShs'000
+,Non- derivative financial assets,,,,,,,,,,,,,
+,Cash and balances to banks,,"8,621,228",,"8,621,228",,"8,082,137",,"539,091",-,-,-,,-
+,Financial assets held for trading,,"15,995,195",,"16,272,449",,-,,"2,500,000","13,588,724","8,724","174,042",,959
+,Pledged assets – available –for-sale,,"2,894,456",,"3,269,088",,-,,-,"1,583,330","338,818","1,346,940",,-
+,Financial assets- available-for-sale,,"34,037,537",,"40,919,356",,-,,"500,000","23,534,302","5,699,289","2,992,491",,"8,193,275"
+,Loans and advances to banks,,"16,884,257",,"17,383,148",,"6,929,429",,"10,453,720",,,,,
+,Loans and advances to customers,,"115,587,723",,"149,678,289",,"18,010,452",,"2,492,451","12,895,566","14,954,705","86,822,797",,"14,502,319"
+,Other assets and prepayments,,"3,811,770",,"3,811,770",,"3,811,770",,-,-,-,-,,-
+,,,"197,832,166",,"239,955,328",,"36,833,788",,"16,485,262","51,601,922","21,001,536","91,336,270",,"22,696,553"
+,Derivative assets:,,"2,472,190",,-,,-,,-,-,-,-,,-
+,- Inflows,,-,,"15,483,070",,-,,"4,075,216","4,612,182","5,778,592","1,015,748",,"1,333"
+,- Outflows,,-,,"(223,489)",,-,,"(27,998)","(16,197)","(48,625)","(130,619)",,(50)
+,,,"2,472,190",,"15,259,581",,-,,"4,047,218","4,595,985","5,729,967","885,129",,"1,283"
+,Non- derivative financial liabilities,,,,,,,,,,,,,
+,Deposits from banks,,"(36,506,824)",,"(37,551,425)",,"(545,947)",,"(1,912,698)","(906,905)","(10,974,540)","(21,995,087)",,"(1,216,248)"
+,Deposits from customers,,"(119,903,557)",,"(119,707,937)",,"(100,743,959)",,"(7,692,769)","(7,539,296)","(3,548,683)","(183,231)",,-
+,Trading liabilities,,"(3,867,718)",,"(3,804,511)",,-,,"(1,762,520)","(2,041,991)",-,-,,-
+,Borrowings,,"(3,986,138)",,"(6,590,000)",,-,,-,"(259,000)","(259,000)","(6,072,000)",,-
+,Other liabilities and accrued expenses,,"(5,939,718)",,"(5,939,718)",,"(5,939,718)",,-,-,-,-,,-
+,Contingent liabilities,,-,,-,,-,,-,-,-,-,,-
+,Capital commitments,,-,,-,,-,,-,-,-,-,,-
+,Operating leases,,-,,-,,-,,-,-,-,-,,-
+,,,"(170,203,955)",,"(173,593,591)",,"(107,229,624)",,"(11,367,987)","(10,747,192)","(14,782,223)","(28,250,318)",,"(1,216,248)"
+,Derivative liabilities:,,"3,061,063",,-,,-,,-,-,-,-,,-
+,- Inflows,,-,,"66,765",,-,,"15,010","47,022",565,"2,834",,"1,333"
+,- Outflows,,-,,"(2,728,363)",,-,,"(670,052)","(1,502,552)","(405,428)","(150,281)",,(50)
+,,,"3,061,063",,"(2,661,598)",,-,,"(655,042)","(1,455,530)","(404,863)","(147,447)",,"1,283"

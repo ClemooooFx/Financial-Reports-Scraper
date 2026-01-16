@@ -1,0 +1,19 @@
+Column,Column,Column,Level 1,Level 2,Total
+,,Note,KShs’000,KShs’000,KShs’000
+A,t 31 December 2015,,,,
+A,ssets,,,,
+F,inancial assets – held for trading,20,-,"16,250,195","16,250,195"
+F,inancial assets – available-for-sale,20,-,"28,947,969","28,947,969"
+P,ledged assets - available-for-sale,19,-,"3,439,383","3,439,383"
+D,erivative assets,30,-,"4,377,196","4,377,196"
+,,,-,"53,014,743","53,014,743"
+C,omprising:,,,,
+H,eld-for-trading,,-,"20,627,391","20,627,391"
+A,vailable-for-sale,,-,"32,387,352","32,387,352"
+,,,-,"53,014,743","53,014,743"
+L,iabilities,,,,
+T,rading liabilities,,-,"521,973","521,973"
+D,erivative liabilities,30,-,"3,361,440","3,361,440"
+,,,-,"3,883,413","3,883,413"
+C,omprising:,,,,
+H,eld-for-trading,,-,"3,883,413","3,883,413"

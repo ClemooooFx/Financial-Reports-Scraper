@@ -1,0 +1,26 @@
+{
+  "source_pdf": "ke-cfc-2018-ar-00.pdf",
+  "page": 67,
+  "table_number": 1,
+  "title": "The table below shows the credit quality by class of loans and advances, based on the Bank’s credit rating system:",
+  "rows": 12,
+  "columns": [
+    "Year ended 31 December\n2018",
+    "Gross\nCarrying\namount\nKShs'000",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Column",
+    "Total gross\ncarrying\namount of\ndefault\nexposures\nKShs'000",
+    "Securities\nand\nexpected\nrecoveries\non default\nexposures\nKShs'000",
+    "Interest in\nsuspense\non default\nexposures\nKShs'000",
+    "Balance\nsheet\nexpected\ncredit loss\non default\nexposures\nKShs'000",
+    "Gross\ndefault\ncoverage\n%",
+    "Non-\nperforming\nexposures\n%"
+  ],
+  "extracted_at": "2026-01-16T01:10:56.861402"
+}

@@ -1,0 +1,22 @@
+{
+  "source_pdf": "ke-cfc-2018-ar-00.pdf",
+  "page": 113,
+  "table_number": 1,
+  "title": "Opening Total",
+  "rows": 23,
+  "columns": [
+    "Column",
+    "Opening\nECL\n1 January\n2018",
+    "Total\ntransfers\nbetween\nstages",
+    "Income statement movements",
+    "Column",
+    "Column",
+    "Net ECL\nraised/\n(released)1",
+    "Impairment\naccounts\nwritten-off",
+    "Exchange\nand other\nmovements",
+    "Closing\nECL\n31\nDecember\n2018",
+    "Interest in\nsuspense\nmovement",
+    "Total"
+  ],
+  "extracted_at": "2026-01-16T01:10:56.886758"
+}

@@ -1,0 +1,24 @@
+Column,"2014
+Fair values",Column,Column,"2013
+Fair values",Column,Column
+,"Notional
+contract
+amount",Assets,Liabilities,"Notional
+contract
+amount",Assets,Liabilities
+,KShs’000,KShs’000,KShs’000,KShs’000,KShs’000,KShs’000
+"Foreign exchange
+derivatives",,,,,,
+Currency forwards,"19,528,134","157,321","495,278","20,861,932","463,063","288,600"
+Currency swaps,"17,184,268","92,088","25,980","30,522,449","937,776","885,102"
+Currency options,"6,468,325","301,544","301,544","3,648,349","57,501","57,501"
+"Total over-the-counter
+derivatives","43,180,727","550,953","822,802","55,032,730","1,458,340","1,231,203"
+Interest rate derivatives,,,,,,
+"Cross currency interest rate
+swaps",-,"462,596","462,596","45,843,386","1,545,182","1,545,980"
+Interest rate swaps,"36,138,477","946,866","946,866",-,-,-
+"Total derivative assets
+held for trading","79,319,204","1,960,415","2,232,264","100,876,116","3,003,522","2,777,183"
+Current,"38,319,237","300,216","579,637","55,143,261","1,073,457","849,004"
+Non-current,"40,999,967","1,660,199","1,652,627","45,732,855","1,930,065","1,928,179"

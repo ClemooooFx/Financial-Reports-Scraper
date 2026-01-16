@@ -1,0 +1,21 @@
+N,et loans and advances,Group,Column
+,,2015,2014
+,,KShs ‘000,KShs ‘000
+M,ortgage lending,"12,926,721","12,445,155"
+I,nstalment sale (Note 22(h)),"11,947,118","11,247,487"
+O,verdraft and other demand lending,"23,167,699","24,572,345"
+T,erm lending,"59,084,210","41,783,137"
+C,ard lending,"286,220","291,292"
+G,ross loans and advances to customers,"107,411,968","90,339,416"
+A,llowances for impairments,,
+I,mpairment for non-performing loans,"(1,271,153)","(1,103,066)"
+I,mpairment for performing loans,"(1,159,249)","(888,912)"
+C,redit impairment allowances,"(2,430,402)","(1,991,978)"
+N,et loans and advances,"104,981,566","88,347,438"
+R,edeemable on demand,"21,383,716","23,480,591"
+M,aturing within 1 month,"3,343,504","893,743"
+M,aturing after 1 month but within 6 months,"13,577,063","9,691,238"
+M,aturing after 6 months but within 12 months,"5,460,166","1,857,566"
+M,aturing after 12 months but within 5 years,"32,577,385","21,309,288"
+M,aturing after 5 years,"28,639,732","31,115,012"
+N,et loans and advances,"104,981,566","88,347,438"

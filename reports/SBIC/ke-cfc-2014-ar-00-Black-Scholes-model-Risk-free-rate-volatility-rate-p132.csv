@@ -1,0 +1,15 @@
+2014,Valuation basis/technique,Main assumptions1
+Derivative instruments,Discounted cash flow model,Discount rate
+,Black-Scholes model,"Risk-free rate, volatility rate"
+,Multiple valuation technique,Valuation multiples
+Trading assets,Discounted cash flow model,"Discount rate, liquidity discount rate"
+,Black-Scholes model,"Risk-free rate, volatility rate"
+Pledged assets,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Financial investments,Discounted cash flow model,"Discount rate, liquidity discount rate"
+,Multiple valuation technique,Valuation multiples
+,Quoted exit price adjusted for notice period,Discount rate
+Loans and advances to customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Trading liabilities,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from banks,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Deposits from customers,Discounted cash flow model,"Discount rate, liquidity discount rate"
+Other financial liabilities,Discounted cash flow model,"Discount rate, liquidity discount rate"

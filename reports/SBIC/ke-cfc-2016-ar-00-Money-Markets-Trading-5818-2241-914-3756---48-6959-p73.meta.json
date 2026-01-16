@@ -1,0 +1,26 @@
+{
+  "source_pdf": "ke-cfc-2016-ar-00.pdf",
+  "page": 73,
+  "table_number": 1,
+  "title": "Money Markets Trading 5,818 (2,241) (914) (3,756) - (48) (6,959) (1,141) (3,600)",
+  "rows": 11,
+  "columns": [
+    "Desk Name",
+    "LCY*",
+    "Column",
+    "EUR",
+    "Column",
+    "GBP",
+    "Column",
+    "USD",
+    "Column",
+    "ZAR",
+    "Column",
+    "Other FCY**",
+    "Column",
+    "Total FCY",
+    "31 December",
+    "31 December"
+  ],
+  "extracted_at": "2026-01-16T01:09:49.122388"
+}

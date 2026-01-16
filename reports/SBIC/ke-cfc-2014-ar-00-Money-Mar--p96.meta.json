@@ -1,0 +1,22 @@
+{
+  "source_pdf": "ke-cfc-2014-ar-00.pdf",
+  "page": 96,
+  "table_number": 2,
+  "title": "Money Mar-",
+  "rows": 10,
+  "columns": [
+    "Desk Name",
+    "LCY",
+    "EUR",
+    "GBP",
+    "USD",
+    "ZAR",
+    "Other\nFCY",
+    "Total\nFCY",
+    "31\nDecember\n2014",
+    "31\nDecember\n2013",
+    "LCY Limit",
+    "FCY\nLimit"
+  ],
+  "extracted_at": "2026-01-16T01:08:41.068496"
+}

@@ -1,0 +1,12 @@
+Desk Name,LCY*,Column,EUR,Column,GBP,Column,USD,Column,ZAR,Column,Other FCY**,Column,Total FCY,31 December,31 December
+Amounts in thousands,,,,,,,,,,,,,,2016,2015
+Money Markets Trading,"5,818",,"(2,241)",,(914),,"(3,756)",,-,,(48),,"(6,959)","(1,141)","(3,600)"
+Fixed Income Trading,14,,-,,-,,(2),,-,,-,,(2),12,21
+Credit Trading,(184),,-,,-,,2,,-,,-,,2,(182),(307)
+Derivatives,-,,-,,-,,-,,-,,-,,-,-,-
+FX Trading,130,,(69),,(16),,1,(5),,(2),,,(90),40,72
+Total Trading,"5,778",,"(2,310)",,(930),,"(3,755)",,(5),,(50),,"(7,049)","(1,271)","(3,814)"
+Money Markets Banking,"(16,857)",,-,,-,,-,,-,,-,,-,"(16,857)","(17,033)"
+Treasury Capital Management,"(19,332)",,-,,-,,-,,-,,-,,-,"(19,332)",3
+Total Banking,"(36,189)",-,,-,,-,,-,,-,,-,,"(36,189)","(17,030)"
+All Desks (Combined),"(30,411)",,"(2,310)",,(930),,"(3,755)",,(5),,(50),,"(7,049)","(37,460)","(20,844)"
