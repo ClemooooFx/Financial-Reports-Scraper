@@ -1,9 +1,9 @@
 {
-  "scrape_date": "2025-12-07T17:50:32.665692",
-  "duration_seconds": 4589.864037,
+  "scrape_date": "2026-02-15T05:18:10.991958",
+  "duration_seconds": 109.386318,
   "tickers_processed": 10,
   "total_tickers": 10,
-  "files_downloaded": 467,
+  "files_downloaded": 6,
   "test_mode": false,
   "batch_number": 5,
   "batch_size": 10
