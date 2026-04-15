@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 170,
+  "table_number": 1,
+  "title": "< 1 year 1-5 years >5 years >10 years open ended Total",
+  "rows": 17,
+  "columns": [
+    "Column",
+    "< 1 year",
+    "1-5 years",
+    ">5 years",
+    ">10 years",
+    "open ended",
+    "Total"
+  ],
+  "extracted_at": "2026-04-15T11:36:14.294728"
+}

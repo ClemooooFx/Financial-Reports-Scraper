@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 198,
+  "table_number": 1,
+  "title": "Interest rate risk +(-)3% +(-) 112,872 +(-) 445,231 +(-)1,468",
+  "rows": 7,
+  "columns": [
+    "Sensitivities",
+    "% change in base",
+    "Insurance Participating",
+    "Insurance non-\nparticipating",
+    "Shareholders’ funds"
+  ],
+  "extracted_at": "2026-04-15T11:36:14.309655"
+}

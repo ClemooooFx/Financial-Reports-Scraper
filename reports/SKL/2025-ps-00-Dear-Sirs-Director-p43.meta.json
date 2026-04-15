@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2025-ps-00.pdf",
+  "page": 43,
+  "table_number": 1,
+  "title": "Dear Sirs, Director",
+  "rows": 7,
+  "columns": [
+    "Column",
+    "Director",
+    "Column",
+    "Capacity",
+    "Column",
+    "Nationality"
+  ],
+  "extracted_at": "2026-04-15T11:34:59.847958"
+}

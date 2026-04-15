@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2020-ar-00.pdf",
+  "page": 180,
+  "table_number": 2,
+  "title": "7,020 – 35,102 12,609 7,673 170,111,969 94,867,785 81,516,675 32,590,112",
+  "rows": 9,
+  "columns": [
+    "Sum assured",
+    "Number of lives",
+    "Column",
+    "Before Reinsurance",
+    "Column",
+    "After reinsurance",
+    "Column"
+  ],
+  "extracted_at": "2026-04-15T11:35:26.957668"
+}

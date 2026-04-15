@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 219,
+  "table_number": 2,
+  "title": "Kshs’000",
+  "rows": 9,
+  "columns": [
+    "Sum assured",
+    "Number of lives",
+    "Column",
+    "Before Reinsurance",
+    "Column",
+    "After reinsurance",
+    "Column"
+  ],
+  "extracted_at": "2026-04-15T11:36:14.319179"
+}
