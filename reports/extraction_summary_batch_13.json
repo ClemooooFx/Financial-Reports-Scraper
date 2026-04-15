@@ -1,12 +1,12 @@
 {
-  "extraction_date": "2026-01-15T05:50:23.393286",
-  "duration_seconds": 144.122407,
+  "extraction_date": "2026-04-15T05:32:55.052251",
+  "duration_seconds": 492.970487,
   "batch_number": 13,
   "batch_size": 20,
   "force_reprocess": false,
   "total_pdfs": 20,
-  "successful": 14,
-  "skipped": 6,
+  "successful": 0,
+  "skipped": 20,
   "failed": 0,
-  "total_tables_extracted": 832
+  "total_tables_extracted": 0
 }
