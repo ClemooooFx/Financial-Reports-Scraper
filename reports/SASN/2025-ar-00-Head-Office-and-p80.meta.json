@@ -1,0 +1,17 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 80,
+  "table_number": 1,
+  "title": "Head Office and",
+  "rows": 2,
+  "columns": [
+    "Section",
+    "Total\nTraining\nHrs",
+    "Male –\nTotal Hrs",
+    "Female –\nTotal Hrs",
+    "Male –\nAvg Hrs",
+    "Female –\nAvg Hrs",
+    "Total –\nAvg Hrs"
+  ],
+  "extracted_at": "2026-04-15T09:24:56.091018"
+}
