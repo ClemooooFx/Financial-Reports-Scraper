@@ -1,0 +1,16 @@
+Column,Product classification,Measurement model
+Insurance contracts issued,,
+Ordinary life group:,,
+Ordinary life contracts,Insurance contracts,General Measurement Model (GMM)
+Annuity contracts,Insurance contracts,General Measurement Model (GMM)
+Group life group:,,
+Group life contracts,Insurance contracts,Premium Allocation Approach (PAA)
+Group credit annual premiums contracts,Insurance contracts,Premium Allocation Approach (PAA)
+Group credit single premiums contracts,Insurance contracts,General Measurement Model (GMM)
+Deposit administration group:,,
+Direct participating contracts,Investment contracts,Premium Allocation Approach (PAA)
+General business contracts,Insurance contracts,Premium Allocation Approach (PAA)
+Microinsurance business contracts,Insurance contracts,Premium Allocation Approach (PAA)
+Reinsurance contracts held,,
+Life reinsurance contracts,Reinsurance contract held,Premium Allocation Approach (PAA)
+General business contracts,Reinsurance contract held,Premium Allocation Approach (PAA)

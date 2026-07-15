@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2025-ab-00.pdf",
+  "page": 1,
+  "table_number": 5,
+  "title": "Investment return 6,156,857 8,835,654 (145,219) (380,368)",
+  "rows": 1,
+  "columns": [
+    "Share\nCapital\nKSh 000\n2,615,578\n-\n-\n-\n261,500\n2,877,078",
+    "Share\nPremium\nKSh 000\n162,179\n-\n-\n-\n-\n162,179",
+    "Other\nReserves\nKSh 000\n8,236,078\n513,821\n662,670\n(345,000)\n(261,500)\n8,806,069",
+    "Total\nEquity\nKSh 000\n11,013,835\n513,821\n662,670\n(345,000)\n-\n11,845,326"
+  ],
+  "extracted_at": "2026-07-15T05:38:14.826125"
+}
