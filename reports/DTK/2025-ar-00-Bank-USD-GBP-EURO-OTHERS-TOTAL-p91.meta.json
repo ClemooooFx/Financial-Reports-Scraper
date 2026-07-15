@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 91,
+  "table_number": 2,
+  "title": "Bank USD GBP EURO OTHERS TOTAL",
+  "rows": 10,
+  "columns": [
+    "Column",
+    "USD",
+    "GBP",
+    "EURO",
+    "OTHERS",
+    "TOTAL"
+  ],
+  "extracted_at": "2026-07-15T06:30:17.872782"
+}
