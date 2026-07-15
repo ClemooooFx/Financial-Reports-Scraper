@@ -1,0 +1,38 @@
+#,Acronym,Column,#,Acronym,Column,#,Acronym,Column
+1,ABSA,Absa Group Limited,36,EBUL,Equity Bank Uganda Limited,72,PAT,Profit After Tax
+2,AFDB,African Development Bank,37,EGHL/EGH,Equity Group Holdings Plc,73,PBT,Profit Before Tax
+3,AGOA,African Growth and Opportunity Act,38,EGIK,Equity Group Insurance Kenya,74,PBZ,People's Bank of Zanzibar
+4,AOA,Angolan Kwanza,39,EIB,European Investment Bank,75,PLC,Public Limited Company
+5,APA,APA Insurance,40,ELAK,Equity Life Assurance Kenya,76,PSI,Public Sector Institutions
+6,API,Application Programming Interface,41,ESOP,Employee Share Ownership Plan,77,PWE,Pay With Equity
+7,ASEAN,Association of Southeast Asian Nations,42,EXIM,Export-Import Bank,78,ROAA,Return on Average Assets
+8,ATM,Automated Teller Machine,43,FDI,Foreign Direct Investment,79,ROAE,Return on Average Equity
+9,BCC,Banque Commerciale du Congo,44,FX,Foreign Exchange,80,ROI,Return on Investment
+10,BK,Bank of Kigali,45,FY,Financial Year,81,RWF,Rwandese Franc
+11,BOA,Bank of Africa,46,GA,GA Insurance Limited,82,SCB,Standard Chartered Bank
+12,BOU,Bank of Uganda,47,GDP,Gross Domestic Product,83,SGR,Standard Guage Railway
+13,BOT,Bank of Tanzania,48,GSM,Global System for Mobile Communication,84,SME,Small and Medium Enterprises
+14,BPS,Basis Points,49,HF,Housing Finance Group,85,SMS,Short Message Service
+15,BRITAM,British-American Investments Company,50,HY,High Yields,86,SS,South Sudan
+16,CBK,Central Bank of Kenya,51,ICEA,Insurance Company of East Africa,87,SSA,Sub-Saharan Africa
+17,CBR,Central Bank Rate,52,IFRS,International Financial Reporting Standards,88,SSP,South Sudanese Pound
+18,CDF,Congolese Franc,53,ILO,International Labour Organization,89,STANBIC,Stanbic Bank
+19,CEO,Chief Executive Officer,54,IMF,International Monetary Fund,90,TCB,Tanzania Commercial Bank
+20,CIC,CIC Insurance Group,55,IRA,Insurance Regulatory Authority,91,TELCO,Telecommunications Company
+21,CIR,Cost-to-Income Ratio,56,IPO,Initial Public Offerings,92,TISEZA,"Tanzania Investment and Special Economic Zones
+Authority"
+22,COOP,Cooperative Bank of Kenya,57,JUBILEE,Jubilee Insurance,,,
+23,CPI,Consumer Price Index,58,KCB,Kenya Commercial Bank,93,TMB,Trust Merchant Bank
+24,CRDB,CRDB Bank Tanzania,59,KENINDIA,Kenindia Assurance,94,TVET,Technical and Vocational Education and Training
+25,DA,Deposits Administration,60,KES,Kenya Shilling,95,TZS,Tanzanian Shilling
+26,DFCU,Development Finance Company of Uganda,61,KESONIA,Kenya Overnight Interbank Average Rate,96,UGANDA,Republic of Uganda
+27,DRC,Democratic Republic of the Congo,62,KNBS,Kenya National Bureau of Statistics,97,UGX,Ugandan Shilling
+28,DTB,Diamond Trust Bank,63,MSME,"Micro, Small & Medium Enterprises",98,UK,United Kingdom
+29,EAC,East African Community,64,OLD MUTUAL,Old Mutual Holdings Plc,99,UNHCR,United Nations High Commissioner for Refugees
+30,EBCDC,Equity BCDC,65,NBC,National Bank of Commerce (Tanzania),100,US/USA,United States of America
+31,EBIL,Equity Bank Insurance Limited,66,NCBA,NCBA Group PLC,101,USAID,United States Agency for International Development
+32,EBKL,Equity Bank (Kenya) Limited,67,NIM,Net Interest Margin,102,USD,United States Dollar
+33,EBRL,Equity Bank (Rwanda) Plc,68,NMB,National Microfinance Bank (Tanzania),103,USSD,Unstructured Supplementary Service Data
+34,EBSS,Equity Bank South Sudan,69,NPL,Non-Performing Loans,104,WEO,World Economic Outlook
+35,EBSSL,Equity Bank (South Sudan) Limited,70,MOM,Month on Month,105,WFP,World Food Programme
+36,EBTL,Equity Bank (Tanzania) Limited,71,PAR,Portfolio At Risk,106,YOY,Year on Year
