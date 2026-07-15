@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 72,
+  "table_number": 1,
+  "title": "interest income and other components of equity",
+  "rows": 3,
+  "columns": [
+    "Year",
+    "Market Value",
+    "Current MTM",
+    "Stressed\nMTM\n(+100bps)",
+    "MTM Shock\nLoss",
+    "Effective\nDuration after\nStress Test\n(Years)"
+  ],
+  "extracted_at": "2026-07-15T07:28:11.239701"
+}
