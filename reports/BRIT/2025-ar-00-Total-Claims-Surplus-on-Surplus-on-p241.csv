@@ -1,0 +1,26 @@
+Assumption,"Valuation Margins on Best Estimate
+Liabilities",Capital Charges on Best Estimate Liabilities
+Mortality,10% increase in mortality for life assurances,10% increase in mortality for life assurances
+Longevity,"10% decrease in mortality for life assurances
+and annuities","10% decrease in mortality for life assurances
+and annuities"
+Morbidity/Disability,10% increase in inception rates,10% increase in inception rates
+Lapses,"7.5% (increase or decrease in lapse rate
+depending on which alternative gives rise
+to an increase in the liability of the policy
+concerned)","7.5% (increase or decrease in lapse rate
+depending on which alternative gives rise
+to an increase in the liability of the policy
+concerned)"
+Interest rate,N/A,N/A
+"Expenses & Expense
+inflation",10% increase on base expenses,10% increase on base expenses
+Catastrophe,N/A,N/A
+"Group/Umbrella Pension
+Savings Plans",N/A,1.0% increase in fund value
+Deposit Administration,N/A,1.0% increase in fund value
+Group Life,N/A,"10% increase on premium reserves
+8% increase on claims reserves"
+Group Credit,N/A,"12% increase on premium reserves
+10% increase on claims reserves"
+Unit Linked,N/A,N/A

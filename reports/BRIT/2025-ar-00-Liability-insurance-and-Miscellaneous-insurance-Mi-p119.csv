@@ -1,0 +1,11 @@
+Contract issued,Product classification,Adopted approach
+Ordinary Life,Insurance contracts,"General Measurement Model (GMM),"
+Annuity,Insurance contracts,"General Measurement Model (GMM),"
+Credit Life,Insurance contracts,"General Measurement Model (GMM),"
+Group Life,Insurance contracts,Premium Allocation Approach (PAA)
+Deposit Administration,Investment contracts with DPF,Variable Fee Approach (VFA)
+Unit Linked,Investment contracts with DPF,Variable Fee Approach (VFA)
+"Non-Life (motor, medical, fire, liability
+and engineering)",Insurance contracts,Premium Allocation Approach (PAA)
+"Reinsurance contract held (Quota
+share, Treaty and Excess of loss)",Reinsurance contracts,Premium Allocation Approach (PAA)
