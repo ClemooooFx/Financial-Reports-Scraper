@@ -1,0 +1,15 @@
+Instrument,Valuation basis/techniques
+Listed government bonds,Market prices
+"Cash equivalents - short term
+deposits",Market to market (DCF)
+Cash on hand,Face value
+"Financial liabilities under
+investment contracts","Current unit price of underlying
+unitised financial asset that is linked
+to the liability, multiplied by the
+number of units held"
+"- investment-linked policies
+- fixed term annuities",
+,DCF
+"Financial liabilities designated at
+fair value through profit or loss",DCF

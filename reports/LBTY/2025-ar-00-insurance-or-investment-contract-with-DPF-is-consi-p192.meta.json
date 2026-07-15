@@ -1,0 +1,12 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 192,
+  "table_number": 1,
+  "title": "insurance or investment contract with DPF is considered to be a direct participating contract",
+  "rows": 1,
+  "columns": [
+    "VFA",
+    "The VFA applies only to insurance contracts with direct participating features and investment\ncontracts with DPF and is not applicable for the measurement of reinsurance contracts. The\napproach is used for contracts that are substantially investment-related service contracts but are\nmeasured under IFRS 17 as they include an integral insurance benefit. For example, a retirement\nannuity that may include a product benefit payable on death, before contract maturity, of the\nhigher of the investment value or the aggregate contributions (premiums) paid to date. An\ninsurance or investment contract with DPF is considered to be a direct participating contract\nwhen the contractual terms specify that the policyholder participates in a share of a clearly\nidentified pool of underlying investments and the entity expects to pay the policyholder an\namount equal to a substantial share of the fair value returns of these pooled investments.\nInsurance and investment with DPF contracts with direct participation features normally include a\nvariable fee which compensates the insurer for investment services provided. The variable fee is\nnormally referenced to pooled investment values and consequently the effective amount of the\ngroup’s share of the fair value of the underlying items can be determined.\nThe VFA approach also includes the total fulfilment cash flows (FCF), plus a CSM. The main\ndifference between the VFA and the GMM is how the CSM is impacted over time. The group’s\nshare of the fair value returns on the underlying items is included in the CSM, and the CSM is\nupdated using current estimates (in other words, the ‘locked in’ discount rates used under the\nGMM are not applicable). The group is required to justify the classification into VFA through\ndemonstrating a substantial portion of the insurer revenue is based on the policyholder\nparticipation in the investment returns benefits versus the total expected benefits included in the\nrelevant contracts."
+  ],
+  "extracted_at": "2026-07-15T09:29:49.136397"
+}

@@ -1,0 +1,38 @@
+"Aggregate opening CSM (all applicable subgroups)
+b/f bal* b/f bal*
+Release of CSM to insurance revenue based on services provided,
+⬇ ⬇ Insurance revenue
+referenced to utilisation of coverage units
+Profitable new business recognised (creation of new subgroups) ⬆ ⬆ No impact
+Non-financial assumption changes to future cash flows and RA ⬇⬆ ⬇⬆ No impact
+Any investment component variances (GMM only) ⬇⬆ N/A No impact
+Any consequential changes to the entities share of the fair value of
+the underlying investment portfolios from actual experience being N/A ⬇⬆ No impact
+different to previously assumed
+Insurance finance
+Unwind of opening locked in discount rates (interest accretion) ⬆ N/A
+expenses
+Insurance finance
+Unwind of opening discount rates (interest accretion) N/A ⬆
+expenses
+Insurance finance
+Changes in current rate curves used for discounting N/A ⬇⬆
+expenses",Column,Column,Column
+,"b/f bal* b/f bal*
+⬇ ⬇ Insurance revenue
+⬆ ⬆ No impact
+⬇⬆ ⬇⬆ No impact",,
+,⬇⬆,N/A,No impact
+,N/A,⬇⬆,No impact
+,⬆,N/A,"Insurance finance
+expenses"
+,"N/A
+N/A","Insurance finance
+⬆
+expenses
+Insurance finance
+⬇⬆
+expenses",
+"Closing aggregate CSM - must be a credit balance or nil for each
+subgroup - any net debit balances immediately taken to profit or
+loss as an onerous subgroup loss",c/f bal*,c/f bal*,No impact

@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 197,
+  "table_number": 1,
+  "title": "⬇ ⬇ Insurance revenue",
+  "rows": 6,
+  "columns": [
+    "Aggregate opening CSM (all applicable subgroups)\nb/f bal* b/f bal*\nRelease of CSM to insurance revenue based on services provided,\n⬇ ⬇ Insurance revenue\nreferenced to utilisation of coverage units\nProfitable new business recognised (creation of new subgroups) ⬆ ⬆ No impact\nNon-financial assumption changes to future cash flows and RA ⬇⬆ ⬇⬆ No impact\nAny investment component variances (GMM only) ⬇⬆ N/A No impact\nAny consequential changes to the entities share of the fair value of\nthe underlying investment portfolios from actual experience being N/A ⬇⬆ No impact\ndifferent to previously assumed\nInsurance finance\nUnwind of opening locked in discount rates (interest accretion) ⬆ N/A\nexpenses\nInsurance finance\nUnwind of opening discount rates (interest accretion) N/A ⬆\nexpenses\nInsurance finance\nChanges in current rate curves used for discounting N/A ⬇⬆\nexpenses",
+    "Column",
+    "Column",
+    "Column"
+  ],
+  "extracted_at": "2026-07-15T09:29:49.137445"
+}
