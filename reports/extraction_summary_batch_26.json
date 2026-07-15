@@ -1,6 +1,6 @@
 {
-  "extraction_date": "2026-04-15T06:54:02.791252",
-  "duration_seconds": 72.565859,
+  "extraction_date": "2026-07-15T07:20:53.066163",
+  "duration_seconds": 7.21144,
   "batch_number": 26,
   "batch_size": 20,
   "force_reprocess": false,
@@ -8,5 +8,5 @@
   "successful": 1,
   "skipped": 19,
   "failed": 0,
-  "total_tables_extracted": 19
+  "total_tables_extracted": 3
 }
