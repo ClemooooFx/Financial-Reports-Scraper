@@ -1,0 +1,15 @@
+{
+  "source_pdf": "2025-ab-00.pdf",
+  "page": 98,
+  "table_number": 3,
+  "title": "Gross loans",
+  "rows": 10,
+  "columns": [
+    "Total Group",
+    "Stage 1 12-month\nECL",
+    "Stage 2 Lifetime\nECL",
+    "Stage 3 Lifetime\nECL",
+    "Total"
+  ],
+  "extracted_at": "2026-07-15T07:50:57.785800"
+}
