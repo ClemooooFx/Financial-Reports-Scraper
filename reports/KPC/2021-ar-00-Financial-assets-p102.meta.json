@@ -1,0 +1,14 @@
+{
+  "source_pdf": "2021-ar-00.pdf",
+  "page": 102,
+  "table_number": 1,
+  "title": "Financial assets",
+  "rows": 7,
+  "columns": [
+    "GBP\nGBP\nKshs\nKshs\n-\n-\n-\n-\n-\n-",
+    "EUR\nEUR\nKshs\nKshs\n-\n-\n-\n-\n-\n-",
+    "USD\nUSD\nKshs\nKshs\n1,726,455,130\n1,726,455,130\n3,607,649,942\n3,607,649,942\n6,852,352,122\n6,852,352,122",
+    "ZAR\nZAR\nKshs\nKshs\n-\n-\n-\n-\n-\n-"
+  ],
+  "extracted_at": "2026-07-15T08:31:11.275517"
+}

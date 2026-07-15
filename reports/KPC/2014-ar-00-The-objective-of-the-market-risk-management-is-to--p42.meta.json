@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2014-ar-00.pdf",
+  "page": 42,
+  "table_number": 1,
+  "title": "The objective of the market risk management is to manage and control, market risk exposures within ac-",
+  "rows": 8,
+  "columns": [
+    "Column",
+    "GBP",
+    "EUR",
+    "USD",
+    "JPY",
+    "HKD"
+  ],
+  "extracted_at": "2026-07-15T08:28:35.427255"
+}

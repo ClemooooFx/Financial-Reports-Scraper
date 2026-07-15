@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2016-ar-00.pdf",
+  "page": 50,
+  "table_number": 2,
+  "title": "The company’s treasury function, headed by the chief accountant - finance and reporting to the Finance Manager,",
+  "rows": 9,
+  "columns": [
+    "Column",
+    "GBP",
+    "EUR",
+    "USD",
+    "CAD",
+    "ZAR"
+  ],
+  "extracted_at": "2026-07-15T08:29:37.731538"
+}
