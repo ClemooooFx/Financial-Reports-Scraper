@@ -1,0 +1,16 @@
+{
+  "source_pdf": "2025-ar-00.pdf",
+  "page": 250,
+  "table_number": 1,
+  "title": "2025 amount Fair value Level 1 Level 2 Level 3",
+  "rows": 14,
+  "columns": [
+    "Column",
+    "Carrying\namount",
+    "Fair value",
+    "Level 1",
+    "Level 2",
+    "Level 3"
+  ],
+  "extracted_at": "2026-07-15T04:12:59.013705"
+}
