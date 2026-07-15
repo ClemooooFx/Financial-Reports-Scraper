@@ -1,0 +1,37 @@
+Column,"Class as defined by IFRS 9 and as
+determined by the Group",Subclasses
+"On Balance sheet
+Financial assets","Financial assets at fair value through
+profit and loss (FVPL)","• Government securities held for
+trading
+• Investment Securities
+• Derivative assets
+• Loans"
+,"Investments as at fair value through
+other comprehensive income (FVOCI)","• Government securities acquired for
+both holding and selling
+• Property and Equipment
+(Building)"
+,Financial assets at amortised cost,"• Loans and advances to customers
+• Deposits and balances due from
+banking Institutions
+• Government securities held to
+collect contractual cashflows
+• Investment securities
+• Cash and balances with Central
+Banks
+• Other assets*"
+"On balance sheet
+Financial
+liabilities",Financial liabilities at armortised cost,"• Deposits from customers
+• Deposits and balances due to
+banking institutions
+• Other liabilities**
+• Borrowings"
+,Financial liabilities at FVPL,None
+"Off-balance sheet
+financial
+instruments",Off-balance sheet financial instruments,"Guarantees, acceptances, letter of
+credit and other commitments."
+"*This includes funding for mobile initiated transactions
+** This majorly includes funding for mobile initiated transactions",,
